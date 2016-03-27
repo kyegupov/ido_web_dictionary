@@ -1,63 +1,81 @@
 /// <reference path="jquery.d.ts" />
-var ARTICLES_PER_CHUNK = 100;
-var DictionaryData = (function () {
-    function DictionaryData() {
-    }
-    return DictionaryData;
-}());
-var IdoDictionaryUi = (function () {
-    function IdoDictionaryUi() {
-        this.oldQuery = ""; // precious query
-    }
-    IdoDictionaryUi.prototype.main = function () {
-        var _this = this;
+
+const ARTICLES_PER_CHUNK = 100;
+
+type IndexSegment = { [word: string]: Array<number>}
+
+class DictionaryData {
+    index: { [letter: string]: IndexSegment }
+    articles: { [id: number]: string }
+}
+
+interface Match {
+    key: string;
+    articleIds: Array<string>;
+}
+
+class IdoDictionaryUi {
+    oldQuery: string = ""; // precious query
+    e: DictionaryData; // english -> ido
+    i: DictionaryData; // ido -> english
+    articlesToDisplay: Array<number>; // list of ids
+    dir: string; // direction of translation, either "i" or "e"
+
+    main() {
         this.oldQuery = "";
-        this.e = { index: {}, articles: {} };
-        this.i = { index: {}, articles: {} };
+        this.e = {index: {}, articles: {}}
+        this.i = {index: {}, articles: {}}
         this.articlesToDisplay = [];
-        $("input:radio[name=direction]").click(function (event) {
-            _this.dir = $(event.target).val()[0];
-            _this.oldQuery = "";
-            _this.refresh_wordlist();
+
+        $("input:radio[name=direction]").click((event) => {
+            this.dir = $(event.target).val()[0];
+            this.oldQuery = "";
+            this.refresh_wordlist();
         });
-        $("#searchbox").on("input", function () { return _this.refresh_wordlist(); });
+        $("#searchbox").on("input", () => this.refresh_wordlist());
         $("input:radio[name=direction][value=ido-eng]").click();
-    };
-    IdoDictionaryUi.prototype.refresh_wordlist = function () {
-        var _this = this;
+    }
+
+    refresh_wordlist() {
         var query = $("#searchbox").val().toLowerCase().trim();
-        if (query != this.oldQuery && query != "") {
-            var exactMatches = [];
-            var partialMatches = [];
+        if (query != this.oldQuery && query!="") {
+            var exactMatches: Array<Match> = [];
+            var partialMatches: Array<Match> = [];
+
             var firstLetter = query.charAt(0);
             if (!/[a-z]/.test(firstLetter)) {
                 return;
             }
+
             var dictionary = this[this.dir];
+
             if (!dictionary[firstLetter]) {
-                $.get(this.dir + "/index_" + firstLetter + ".json", function (data) {
-                    _this[_this.dir][firstLetter] = data;
-                    _this.refresh_wordlist();
+                $.get(this.dir + "/index_" + firstLetter + ".json", (data) => {
+                    this[this.dir][firstLetter] = data;
+                    this.refresh_wordlist();
                 });
                 this[this.dir][firstLetter] = {}; // Block subsequent requests
                 return;
             }
             var subIndex = dictionary[firstLetter];
+
             var qlen = query.length;
+
             for (var key in subIndex) {
                 if (subIndex.hasOwnProperty(key)) {
                     if (key == query) {
-                        exactMatches.push({ "key": key, "articleIds": subIndex[key] });
-                    }
-                    else if (key.substr(0, qlen) == query) {
-                        partialMatches.push({ "key": key, "articleIds": subIndex[key] });
+                        exactMatches.push({"key": key, "articleIds": subIndex[key]})
+                    } else if (key.substr(0, qlen) == query) {
+                        partialMatches.push({"key": key, "articleIds": subIndex[key]})
                     }
                 }
-                if (partialMatches.length >= 100) {
+                if (partialMatches.length>=100) {
                     break;
                 }
             }
-            var res = ""; // HTML result
+
+            var res: string = ""; // HTML result
+
             if (exactMatches.length) {
                 var entry = exactMatches[0];
                 res += "<b>" + IdoDictionaryUi.make_link(entry.key, entry.articleIds) + "</b>";
@@ -66,17 +84,16 @@ var IdoDictionaryUi = (function () {
                 if (partialMatches.length) {
                     res += " · ";
                 }
-            }
-            else {
+            } else {
                 IdoDictionaryUi.fade_articles();
             }
-            if (partialMatches.length >= 100) {
-                var len = partialMatches.length >= 100 ? "100+" : partialMatches.length;
+
+            if (partialMatches.length>=100) {
+                var len = partialMatches.length>=100 ? "100+" : partialMatches.length;
                 res += len + " matching words found";
-            }
-            else {
-                var linksHtml = [];
-                for (var i = 0; i < partialMatches.length; i++) {
+            } else {
+                var linksHtml: Array<string> = [];
+                for (var i=0; i<partialMatches.length; i++) {
                     var entry = partialMatches[i];
                     linksHtml.push(IdoDictionaryUi.make_link(entry.key, entry.articleIds));
                 }
@@ -89,17 +106,18 @@ var IdoDictionaryUi = (function () {
             console.log("load don");
             this.oldQuery = query;
         }
-    };
-    IdoDictionaryUi.prototype.load_articles = function (idsByComma) {
+    }
+
+
+    load_articles(idsByComma) {
         var ids = idsByComma.split(",");
         this.articlesToDisplay = ids;
         var somethingLoaded = false;
-        for (var i = 0; i < ids.length; i++) {
+        for (var i=0; i<ids.length; i++) {
             var id = ids[i];
             if (!this[this.dir].articles[id]) {
                 this.load_chunk_for_id(id);
-            }
-            else {
+            } else {
                 somethingLoaded = true;
             }
         }
@@ -107,25 +125,28 @@ var IdoDictionaryUi = (function () {
         if (somethingLoaded) {
             this.display_articles();
         }
-    };
-    IdoDictionaryUi.prototype.load_chunk_for_id = function (id) {
-        var _this = this;
-        var base = Math.floor(id / ARTICLES_PER_CHUNK) * ARTICLES_PER_CHUNK;
-        $.get(this.dir + "/articles_" + base + ".json", function (data) {
+    }
+
+    load_chunk_for_id(id) {
+        var base = Math.floor(id/ARTICLES_PER_CHUNK) * ARTICLES_PER_CHUNK;
+        $.get(this.dir + "/articles_" + base + ".json", (data) => {
             for (var i = 0; i < data.length; i++) {
-                _this[_this.dir].articles[base + i] = data[i];
+                this[this.dir].articles[base + i] = data[i];
             }
-            _this.display_articles();
+            this.display_articles();
         });
-    };
-    IdoDictionaryUi.fade_articles = function () {
+    }
+
+    static fade_articles() {
         $("#content").addClass("fade");
-    };
-    IdoDictionaryUi.make_link = function (keyword, articleIds) {
+    }
+
+    static make_link(keyword, articleIds) {
         return "<a href=\"javascript:load_articles('" + articleIds.join(",") + "')\">" + keyword + "</a>";
-    };
-    IdoDictionaryUi.prototype.display_articles = function () {
-        console.log("displaying");
+    }
+
+    display_articles() {
+        console.log("displaying")
         var ids = this.articlesToDisplay;
         var res = [];
         var missingArticles = false;
@@ -134,8 +155,7 @@ var IdoDictionaryUi = (function () {
             var entry = this[this.dir].articles[id];
             if (entry) {
                 res.push(entry);
-            }
-            else {
+            } else {
                 missingArticles = true;
             }
         }
@@ -143,9 +163,11 @@ var IdoDictionaryUi = (function () {
         if (!missingArticles) {
             $("#content").removeClass("fade");
         }
-    };
-    return IdoDictionaryUi;
-}());
+    }
+
+}
+
+
 var app = new IdoDictionaryUi();
-$(document).ready(function () { return app.main(); });
-//# sourceMappingURL=ido_web_dict.js.map
+
+$(document).ready(() => app.main());
