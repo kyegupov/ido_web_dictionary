@@ -15,21 +15,21 @@ interface Match {
 }
 
 class IdoDictionaryUi {
-    oldQuery: string = ""; // precious query
+    queryAsAlreadyProcessed: string = ""; // previous query
     e: DictionaryData; // english -> ido
     i: DictionaryData; // ido -> english
     articlesToDisplay: Array<number>; // list of ids
     dir: string; // direction of translation, either "i" or "e"
 
     main() {
-        this.oldQuery = "";
+        this.queryAsAlreadyProcessed = "";
         this.e = {index: {}, articles: {}}
         this.i = {index: {}, articles: {}}
         this.articlesToDisplay = [];
 
         $("input:radio[name=direction]").click((event) => {
             this.dir = $(event.target).val()[0];
-            this.oldQuery = "";
+            this.queryAsAlreadyProcessed = "";
             this.refresh_wordlist();
         });
         $("#searchbox").on("input", () => this.refresh_wordlist());
@@ -38,7 +38,9 @@ class IdoDictionaryUi {
 
     refresh_wordlist() {
         var query = $("#searchbox").val().toLowerCase().trim();
-        if (query != this.oldQuery && query!="") {
+        if (query != this.queryAsAlreadyProcessed && query!="") {
+            this.queryAsAlreadyProcessed = query;
+            $("b").removeClass("red");
             var exactMatches: Array<Match> = [];
             var partialMatches: Array<Match> = [];
 
@@ -103,8 +105,8 @@ class IdoDictionaryUi {
                 res = "No matching words found";
             }
             $("#words")[0].innerHTML = res;
-            console.log("load don");
-            this.oldQuery = query;
+            $("a.load_articles").click((event) => this.load_articles(event.target.getAttribute("articles")));
+            this.queryAsAlreadyProcessed = query;
         }
     }
 
@@ -142,11 +144,10 @@ class IdoDictionaryUi {
     }
 
     static make_link(keyword, articleIds) {
-        return "<a href=\"javascript:load_articles('" + articleIds.join(",") + "')\">" + keyword + "</a>";
+        return '<a href="#" class="load_articles" articles="' + articleIds.join(",") + '">' + keyword + "</a>";
     }
 
     display_articles() {
-        console.log("displaying")
         var ids = this.articlesToDisplay;
         var res = [];
         var missingArticles = false;
@@ -162,6 +163,7 @@ class IdoDictionaryUi {
         $("#content")[0].innerHTML = res.join("<hr>");
         if (!missingArticles) {
             $("#content").removeClass("fade");
+            $("b[fullkey~='" + this.queryAsAlreadyProcessed +"']").addClass("red");
         }
     }
 

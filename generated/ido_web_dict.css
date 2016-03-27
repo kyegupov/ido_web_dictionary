@@ -38,3 +38,7 @@ input[type=radio] {
 .fade {
     opacity: 0.6;
 }
+
+.red {
+    color: red;
+}

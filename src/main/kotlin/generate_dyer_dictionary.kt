@@ -10,6 +10,8 @@ import org.yaml.snakeyaml.Yaml
 import org.yaml.snakeyaml.constructor.SafeConstructor
 import org.yaml.snakeyaml.representer.Representer
 import java.io.FileWriter
+import java.nio.charset.Charset
+import java.nio.charset.StandardCharsets
 import java.nio.file.FileSystems
 import java.nio.file.Files
 import java.nio.file.Paths
@@ -42,7 +44,8 @@ data class Entry(val nodes : MutableList<EntryNode>) {
         return nodes.map { node ->
             when (node) {
                 is TextEntryNode -> StringEscapeUtils.escapeHtml4(node.text)
-                is KeyNode -> "<b>" + StringEscapeUtils.escapeHtml4(node.text) + "</b>"
+                is KeyNode -> ("""<b fullkey="${StringEscapeUtils.escapeHtml4(node.fullKeywords.joinToString(" "))}">"""
+                    + "${StringEscapeUtils.escapeHtml4(node.text)}</b>")
                 is ItalicNode -> "<i>" + StringEscapeUtils.escapeHtml4(node.text) + "</i>"
                 else -> { throw IllegalArgumentException("Node : $node") }
             }
@@ -177,7 +180,7 @@ class HtmlParser (val language : Language) {
                 if (foundPureword == null) {
                     println("Ignoring bad key word: \"$fullWord\" in text: \"$text\"")
                 } else {
-                    fullWords.add(foundPureword!!.value)
+                    fullWords.add(foundPureword.value)
                 }
             }
             if (fullWords.isNotEmpty()) {
@@ -202,8 +205,8 @@ fun processFiles(language: Language) {
 
     for (f in sourceFiles) {
 
-        val rawHtml = String(Files.readAllBytes(f), "Windows-1252")
-        var correctedHtml = rawHtml.replace(RE_ENTITY, {var byte = it.groups[1]!!.value.toInt().toByte(); String(ByteArray(1, {byte}), "Windows-1252")})
+        val rawHtml = String(Files.readAllBytes(f), Charset.forName("Windows-1252"))
+        var correctedHtml = rawHtml.replace(RE_ENTITY, {var byte = it.groups[1]!!.value.toInt().toByte(); String(ByteArray(1, {byte}), Charset.forName("Windows-1252"))})
 
         require(!correctedHtml.contains("&#"), {"entity in $f"})
 

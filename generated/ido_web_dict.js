@@ -7,17 +7,17 @@ var DictionaryData = (function () {
 }());
 var IdoDictionaryUi = (function () {
     function IdoDictionaryUi() {
-        this.oldQuery = ""; // precious query
+        this.queryAsAlreadyProcessed = ""; // previous query
     }
     IdoDictionaryUi.prototype.main = function () {
         var _this = this;
-        this.oldQuery = "";
+        this.queryAsAlreadyProcessed = "";
         this.e = { index: {}, articles: {} };
         this.i = { index: {}, articles: {} };
         this.articlesToDisplay = [];
         $("input:radio[name=direction]").click(function (event) {
             _this.dir = $(event.target).val()[0];
-            _this.oldQuery = "";
+            _this.queryAsAlreadyProcessed = "";
             _this.refresh_wordlist();
         });
         $("#searchbox").on("input", function () { return _this.refresh_wordlist(); });
@@ -26,7 +26,9 @@ var IdoDictionaryUi = (function () {
     IdoDictionaryUi.prototype.refresh_wordlist = function () {
         var _this = this;
         var query = $("#searchbox").val().toLowerCase().trim();
-        if (query != this.oldQuery && query != "") {
+        if (query != this.queryAsAlreadyProcessed && query != "") {
+            this.queryAsAlreadyProcessed = query;
+            $("b").removeClass("red");
             var exactMatches = [];
             var partialMatches = [];
             var firstLetter = query.charAt(0);
@@ -86,8 +88,8 @@ var IdoDictionaryUi = (function () {
                 res = "No matching words found";
             }
             $("#words")[0].innerHTML = res;
-            console.log("load don");
-            this.oldQuery = query;
+            $("a.load_articles").click(function (event) { return _this.load_articles(event.target.getAttribute("articles")); });
+            this.queryAsAlreadyProcessed = query;
         }
     };
     IdoDictionaryUi.prototype.load_articles = function (idsByComma) {
@@ -122,10 +124,9 @@ var IdoDictionaryUi = (function () {
         $("#content").addClass("fade");
     };
     IdoDictionaryUi.make_link = function (keyword, articleIds) {
-        return "<a href=\"javascript:load_articles('" + articleIds.join(",") + "')\">" + keyword + "</a>";
+        return '<a href="#" class="load_articles" articles="' + articleIds.join(",") + '">' + keyword + "</a>";
     };
     IdoDictionaryUi.prototype.display_articles = function () {
-        console.log("displaying");
         var ids = this.articlesToDisplay;
         var res = [];
         var missingArticles = false;
@@ -142,6 +143,7 @@ var IdoDictionaryUi = (function () {
         $("#content")[0].innerHTML = res.join("<hr>");
         if (!missingArticles) {
             $("#content").removeClass("fade");
+            $("b[fullkey~='" + this.queryAsAlreadyProcessed + "']").addClass("red");
         }
     };
     return IdoDictionaryUi;
