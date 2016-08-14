@@ -197,7 +197,7 @@ fun processFiles(language: Language) {
 
     Files.createDirectories(Paths.get("generated/$langLetter"))
 
-    val pathMatcher = FileSystems.getDefault().getPathMatcher("glob:**/${language.toString().toLowerCase()[0]}?.htm")
+    val pathMatcher = FileSystems.getDefault().getPathMatcher("glob:**/${language.toString().toLowerCase()[0]}?.html")
     val sourceFiles = Files.list(Paths.get("src/main/resources/dyer_source")).filter { pathMatcher.matches(it) }.sorted()
 
     val allEntries = arrayListOf<Entry>()
@@ -205,8 +205,9 @@ fun processFiles(language: Language) {
 
     for (f in sourceFiles) {
 
-        val rawHtml = String(Files.readAllBytes(f), Charset.forName("Windows-1252"))
-        var correctedHtml = rawHtml.replace(RE_ENTITY, {var byte = it.groups[1]!!.value.toInt().toByte(); String(ByteArray(1, {byte}), Charset.forName("Windows-1252"))})
+        val rawHtml = String(Files.readAllBytes(f), Charset.forName("UTF-8"))
+//        var correctedHtml = rawHtml.replace(RE_ENTITY, {var byte = it.groups[1]!!.value.toInt().toByte(); String(ByteArray(1, {byte}), Charset.forName("Windows-1252"))})
+        var correctedHtml = rawHtml
 
         require(!correctedHtml.contains("&#"), {"entity in $f"})
 
