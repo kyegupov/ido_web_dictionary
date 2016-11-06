@@ -2,6 +2,7 @@ package org.kyegupov.dictionary.server
 
 import org.jetbrains.ktor.application.*
 import org.jetbrains.ktor.content.TextContent
+import org.jetbrains.ktor.content.resolveClasspathWithPath
 import org.jetbrains.ktor.content.serveClasspathResources
 import org.jetbrains.ktor.features.http.DefaultHeaders
 import org.jetbrains.ktor.features.install
@@ -14,6 +15,7 @@ import org.jetbrains.ktor.routing.route
 import org.jetbrains.ktor.routing.routing
 import org.kyegupov.dictionary.tools.GSON
 import org.kyegupov.dictionary.tools.Language
+import java.io.File
 import java.io.FileReader
 import java.util.*
 
@@ -70,8 +72,16 @@ class JsonApplication(environment: ApplicationEnvironment) : Application(environ
                         totalSuggestions = suggestedWords.size,
                         articlesHtml = preciseArticleIds.map { dic.entries[it] }))
             }
+
             route("/static/") {
                 serveClasspathResources("static_site/client_server")
+            }
+            route("/") {
+                handle {
+                    call.resolveClasspathWithPath("static_site/client_server", "index.html")?.let {
+                        call.respond(it)
+                    }
+                }
             }
         }
     }
