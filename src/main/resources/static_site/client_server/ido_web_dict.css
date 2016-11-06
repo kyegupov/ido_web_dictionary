@@ -1,0 +1,45 @@
+@media only screen and (min-device-width: 801px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-device-width: 800px) {
+    body {
+        font-size: 30pt;
+    }
+    #input-controls #searchbox {
+        width: 100%;
+    }
+}
+
+table#description {
+  margin:auto;
+}
+
+table#description td {
+  margin: 0.5em 3em;
+}
+
+#input-controls {
+    text-align: center;
+}
+
+#input-controls #searchbox {
+    font-size: 200%;
+    max-width: 40em;
+    width: auto;
+    margin: auto;
+}
+
+#content {
+    padding-top: 2em;
+}
+
+.fade {
+    opacity: 0.6;
+}
+
+.red {
+    color: red;
+}
