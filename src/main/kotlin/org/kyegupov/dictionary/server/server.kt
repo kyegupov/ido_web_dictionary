@@ -15,8 +15,10 @@ import org.jetbrains.ktor.routing.route
 import org.jetbrains.ktor.routing.routing
 import org.kyegupov.dictionary.tools.GSON
 import org.kyegupov.dictionary.tools.Language
+import java.io.BufferedReader
 import java.io.File
 import java.io.FileReader
+import java.io.InputStreamReader
 import java.util.*
 
 data class DictionaryOfStringArticles(
@@ -47,8 +49,9 @@ class JsonApplication(environment: ApplicationEnvironment) : Application(environ
 
         for ((langCode, lang) in languageCodes)
         {
-            FileReader("src/main/resources/dyer_bundle/$langCode/combined.json").use {
-                val dataAsJson = GSON.fromJson(it, Map::class.java)
+            this.javaClass.classLoader.getResourceAsStream("dyer_bundle/$langCode/combined.json").use {
+                val reader = InputStreamReader(it);
+                val dataAsJson = GSON.fromJson(reader, Map::class.java)
                 val gsonMap = dataAsJson["index"] as Map<String, List<Int>>
                 data[lang] = DictionaryOfStringArticles(
                         entries = dataAsJson["articles"] as List<String>,
