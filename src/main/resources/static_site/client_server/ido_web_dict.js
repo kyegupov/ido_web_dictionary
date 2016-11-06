@@ -33,7 +33,7 @@ var IdoDictionaryUi = (function () {
             }
             this.delayedRequestHandle = setTimeout(function () {
                 var timestampRequestStarted = Date.now();
-                $.get("/api/search?lang=" + _this.dir + "&query=" + query, function (jsonResponse) {
+                $.get("api/search?lang=" + _this.dir + "&query=" + query, function (jsonResponse) {
                     if (_this.timestampOfLastCompletedRequest == null
                         || _this.timestampOfLastCompletedRequest < timestampRequestStarted) {
                         _this.display_results(jsonResponse);

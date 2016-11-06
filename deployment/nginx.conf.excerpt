@@ -1,0 +1,5 @@
+
+        location /ido/dyer_dictionary_web/ {
+                proxy_pass http://127.0.0.1:3000/;
+        }
+

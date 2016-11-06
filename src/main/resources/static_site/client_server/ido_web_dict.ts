@@ -40,7 +40,7 @@ class IdoDictionaryUi {
             }
             this.delayedRequestHandle = setTimeout(() => {
                 let timestampRequestStarted = Date.now();
-                $.get(`/api/search?lang=${this.dir}&query=${query}`,
+                $.get(`api/search?lang=${this.dir}&query=${query}`,
                     jsonResponse => {
                         if (this.timestampOfLastCompletedRequest == null
                             || this.timestampOfLastCompletedRequest < timestampRequestStarted) {
