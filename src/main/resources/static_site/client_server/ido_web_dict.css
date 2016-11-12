@@ -1,18 +1,3 @@
-@media only screen and (min-device-width: 801px) {
-    body {
-        font-size: 18px;
-    }
-}
-
-@media only screen and (max-device-width: 800px) {
-    body {
-        font-size: 30pt;
-    }
-    #input-controls #searchbox {
-        width: 100%;
-    }
-}
-
 body {
     background-color: #a0b0c0;
 }
@@ -43,13 +28,6 @@ table#description td {
 
 #direction {
     margin-bottom: 1em;
-}
-
-#input-controls #searchbox {
-    font-size: 200%;
-    max-width: 40em;
-    width: auto;
-    margin: auto;
 }
 
 #content-e, #content-i {
