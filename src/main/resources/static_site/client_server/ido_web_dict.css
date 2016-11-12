@@ -13,6 +13,18 @@
     }
 }
 
+body {
+    background-color: #a0b0c0;
+}
+
+div#main-wrapper {
+    max-width: 60em;
+    min-height: 100%;
+    margin: auto;
+    background-color: white;
+    padding: 1em 2em;
+}
+
 table#description {
   margin:auto;
 }
@@ -23,6 +35,10 @@ table#description td {
 
 #input-controls {
     text-align: center;
+}
+
+#direction {
+    margin-bottom: 1em;
 }
 
 #input-controls #searchbox {

@@ -66,7 +66,9 @@ class JsonApplication(environment: ApplicationEnvironment) : Application(environ
                 val dic = data[lang]!!
                 val query = call.request.queryParameters["query"]
                 val suggestedWords: Map<String, List<Int>> = dic.compactIndex.subMap(query, query + "\uFFFF")
-                val preciseArticleIds = dic.compactIndex[query] ?: listOf()
+                val preciseArticleIds = dic.compactIndex[query] ?:
+                        if (suggestedWords.size == 1) dic.compactIndex[suggestedWords.entries.first().key]!!
+                        else listOf()
 
                 call.respondJson(SearchResponse(
                         suggestions = if (suggestedWords.entries.size < 50)
