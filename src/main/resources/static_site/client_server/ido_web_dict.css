@@ -6,9 +6,13 @@ h2 {
     text-align: center;
 }
 
+div#main-navigation {
+    font-size: 0.8em;
+}
+
 div#main-wrapper {
     max-width: 60em;
-    min-height: 100%;
+    min-height: 100vh;
     margin: auto;
     background-color: white;
     padding: 1em 2em;
@@ -26,12 +30,23 @@ table#description td {
     text-align: center;
 }
 
+#searchbox {
+    max-width: 20em;
+    margin: auto;
+}
+
 #direction {
     margin-bottom: 1em;
 }
 
 #content-e, #content-i {
     margin-top: 2em;
+    font-size: 1.3em;
+}
+
+
+#words-e, #words-i {
+    font-size: 1.3em;
 }
 
 #heading-e, #heading-i {
