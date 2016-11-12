@@ -17,6 +17,10 @@ body {
     background-color: #a0b0c0;
 }
 
+h2 {
+    text-align: center;
+}
+
 div#main-wrapper {
     max-width: 60em;
     min-height: 100%;
@@ -48,8 +52,18 @@ table#description td {
     margin: auto;
 }
 
-#content {
-    padding-top: 2em;
+#content-e, #content-i {
+    margin-top: 2em;
+}
+
+#heading-e, #heading-i {
+    display: none;
+    font-weight: bold;
+    padding-bottom: 1em;
+}
+
+#separator {
+    padding-bottom: 1em;
 }
 
 .fade {

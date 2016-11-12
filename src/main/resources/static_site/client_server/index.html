@@ -8,7 +8,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
     <link rel="stylesheet" href="static/ido_web_dict.css" />
-    <title>Ido &lt;-&gt; English dictionary by Dyer</title>
+    <title>Ido ↔ English dictionary by Dyer</title>
 
 </head>
 <body>
@@ -18,20 +18,24 @@
         </div>
 
         <div id="input-controls">
+            <!--
             <div id="direction">
                 <div class="btn-group" data-toggle="buttons">
                     <label class="btn btn-primary"><input type="radio" name="direction" value="ido-eng" />Ido-Eng</label>
                     <label class="btn btn-primary"><input type="radio" name="direction" value="eng-ido" />Eng-Ido</label>
                 </div>
             </div>
+            -->
             <input class="form-control" id="searchbox">
         </div>
 
         <hr/>
 
-        <div id="words"></div>
+        <div id="heading-e">English-Ido results:</div>
 
-        <div id="content">
+        <div id="words-e"></div>
+
+        <div id="content-e">
             <div align="center">
                     <h2>English-Ido and Ido-English dictionary by Dyer</h2>
                     with search<br>
@@ -57,6 +61,15 @@
                 Formatting, corrections and search by <a href="mailto:kyegupov4@gmail.com">kyegupov4@gmail.com</a>
             </div>
         </div>
+
+        <hr id="separator" />
+
+        <div id="heading-i">
+            Ido-English results:
+        </div>
+        <div id="words-i"></div>
+
+        <div id="content-i"></div>
     </div>
 
 </body></html>

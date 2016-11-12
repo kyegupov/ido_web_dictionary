@@ -15,9 +15,6 @@ import org.jetbrains.ktor.routing.route
 import org.jetbrains.ktor.routing.routing
 import org.kyegupov.dictionary.tools.GSON
 import org.kyegupov.dictionary.tools.Language
-import java.io.BufferedReader
-import java.io.File
-import java.io.FileReader
 import java.io.InputStreamReader
 import java.util.*
 
@@ -26,11 +23,12 @@ data class DictionaryOfStringArticles(
         val compactIndex: TreeMap<String, List<Int>>
 )
 
-data class SearchResponse(
+data class PerLanguageSearchResponse(
         val suggestions: List<String>,
         val totalSuggestions: Int,
         val articlesHtml: List<String>
 )
+
 
 fun ApplicationCall.respondJson(value: Any): Nothing {
     respond(TextContent(ContentType.Application.Json, GSON.toJson(value)))
@@ -62,20 +60,25 @@ class JsonApplication(environment: ApplicationEnvironment) : Application(environ
         routing {
 
             get("api/search") {
-                val lang = languageCodes[call.request.queryParameters["lang"]]
-                val dic = data[lang]!!
-                val query = call.request.queryParameters["query"]
-                val suggestedWords: Map<String, List<Int>> = dic.compactIndex.subMap(query, query + "\uFFFF")
-                val preciseArticleIds = dic.compactIndex[query] ?:
-                        if (suggestedWords.size == 1) dic.compactIndex[suggestedWords.entries.first().key]!!
-                        else listOf()
-
-                call.respondJson(SearchResponse(
-                        suggestions = if (suggestedWords.entries.size < 50)
+                // TODO: support multiple non-Ido languages, get language from client
+                val result = mutableMapOf<String, PerLanguageSearchResponse>()
+                for ((langCode, lang) in languageCodes) {
+                    val dic = data[lang]!!
+                    val query = call.request.queryParameters["query"]
+                    val suggestedWords: Map<String, List<Int>> = dic.compactIndex.subMap(query, query + "\uFFFF")
+                    val preciseArticleIds = dic.compactIndex[query] ?:
+                            if (suggestedWords.size == 1) dic.compactIndex[suggestedWords.entries.first().key]!!
+                            else listOf()
+                    val langResult = PerLanguageSearchResponse(
+                            suggestions = if (suggestedWords.entries.size < 50)
                             { suggestedWords.entries.map { it.key } }
                             else listOf<String>(),
-                        totalSuggestions = suggestedWords.size,
-                        articlesHtml = preciseArticleIds.map { dic.entries[it] }))
+                            totalSuggestions = suggestedWords.size,
+                            articlesHtml = preciseArticleIds.map { dic.entries[it] })
+                    result[langCode] = langResult
+                }
+
+                call.respondJson(result)
             }
 
             route("/static/") {

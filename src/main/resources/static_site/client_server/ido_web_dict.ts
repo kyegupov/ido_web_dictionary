@@ -1,10 +1,15 @@
 /// <reference path="jquery.d.ts" />
 
 
-class SearchResponse {
-  suggestions: string[]
-  totalSuggestions: number
-  articlesHtml: string[]
+interface SearchResponse {
+    e: PerLanguageSearchResponse
+    i: PerLanguageSearchResponse
+}
+
+interface PerLanguageSearchResponse {
+    suggestions: string[]
+    totalSuggestions: number
+    articlesHtml: string[]
 }
 
 const DELAY_REQUEST_MS = 300;
@@ -40,11 +45,11 @@ class IdoDictionaryUi {
             }
             this.delayedRequestHandle = setTimeout(() => {
                 let timestampRequestStarted = Date.now();
-                $.get(`api/search?lang=${this.dir}&query=${query}`,
+                $.get(`api/search?&query=${query}`,
                     jsonResponse => {
                         if (this.timestampOfLastCompletedRequest == null
                             || this.timestampOfLastCompletedRequest < timestampRequestStarted) {
-                            this.display_results(jsonResponse as SearchResponse)
+                            this.displayResults(jsonResponse as SearchResponse)
                             this.timestampOfLastCompletedRequest = timestampRequestStarted;
                         }
                     });
@@ -65,28 +70,20 @@ class IdoDictionaryUi {
         $("#content").removeClass("fade");
     }
 
-    display_results(searchResponse: SearchResponse) {
+    displayResults(searchResponse: SearchResponse) {
 
-        let linksHtml : string[] = [];
-        if (searchResponse.suggestions) {
-            for (let word of searchResponse.suggestions) {
-                linksHtml.push("<b>" + IdoDictionaryUi.make_link(word) + "</b>");
-            }
+        let r1 = this.displayLanguageResults(searchResponse.e, "e");
+        let r2 = this.displayLanguageResults(searchResponse.i, "i");
+
+        if (!r1 && !r2) {
+            $("#content-e")[0].innerHTML = "No matching words found";
+        }
+
+        if (r1 && r2) {
+            $("#separator").show();
         } else {
-            IdoDictionaryUi.fade_articles();
+            $("#separator").hide();
         }
-        let wordsHtml = linksHtml.join(" · ");
-
-        if (searchResponse.totalSuggestions > searchResponse.suggestions.length) {
-            wordsHtml += "... " + searchResponse.totalSuggestions + " matching words found";
-        }
-
-        if (!wordsHtml) {
-            wordsHtml = "No matching words found";
-        }
-        $("#words")[0].innerHTML = wordsHtml;
-
-        $("#content")[0].innerHTML = searchResponse.articlesHtml.join("<hr>");
 
         $("a.suggested_word").click(event => {
             $("#searchbox").val(event.target.textContent!);
@@ -95,6 +92,35 @@ class IdoDictionaryUi {
 
         IdoDictionaryUi.unfade_articles();
         $("b[fullkey~='" + this.queryAsAlreadyProcessed +"']").addClass("red");
+    }
+
+    displayLanguageResults(langSearchResponse: PerLanguageSearchResponse, langCode: string): boolean{
+
+        let linksHtml : string[] = [];
+
+        if (langSearchResponse.suggestions) {
+            for (let word of langSearchResponse.suggestions) {
+                linksHtml.push("<b>" + IdoDictionaryUi.make_link(word) + "</b>");
+            }
+        } else {
+            IdoDictionaryUi.fade_articles();
+        }
+        let wordsHtml = linksHtml.join(" · ");
+
+        if (langSearchResponse.totalSuggestions > langSearchResponse.suggestions.length) {
+            wordsHtml += "... " + langSearchResponse.totalSuggestions + " matching words found";
+        }
+
+        $("#words-" + langCode)[0].innerHTML = wordsHtml;
+
+        $("#content-" + langCode)[0].innerHTML = langSearchResponse.articlesHtml.join("<hr>");
+
+        if (langSearchResponse.totalSuggestions > 0) {
+            $("#heading-" + langCode).show();
+            return true;
+        } else {
+            $("#heading-" + langCode).hide();
+        }
     }
 
 }
