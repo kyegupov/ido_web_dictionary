@@ -19,10 +19,14 @@ var IdoDictionaryUi = (function () {
         var _this = this;
         if (immediately === void 0) { immediately = false; }
         var query = $("#searchbox").val().toLowerCase().trim();
+        if (query.trim() == "") {
+            $("#banner").show();
+            $(".results").hide();
+        }
         if (query != this.queryAsAlreadyProcessed && query != "") {
             this.queryAsAlreadyProcessed = query;
             $("b").removeClass("red");
-            IdoDictionaryUi.fade_articles();
+            IdoDictionaryUi.fadeResults();
             if (this.delayedRequestHandle) {
                 clearTimeout(this.delayedRequestHandle);
             }
@@ -35,62 +39,72 @@ var IdoDictionaryUi = (function () {
                         _this.timestampOfLastCompletedRequest = timestampRequestStarted;
                     }
                 });
+                IdoDictionaryUi.fadeResults();
             }, immediately ? 0 : DELAY_REQUEST_MS);
             this.queryAsAlreadyProcessed = query;
         }
     };
-    IdoDictionaryUi.make_link = function (keyword) {
+    IdoDictionaryUi.makeLink = function (keyword) {
         return '<a href="#" class="suggested_word">' + keyword + "</a>";
     };
-    IdoDictionaryUi.fade_articles = function () {
-        $("#content").addClass("fade");
+    IdoDictionaryUi.fadeResults = function () {
+        $(".results").addClass("fade");
     };
-    IdoDictionaryUi.unfade_articles = function () {
-        $("#content").removeClass("fade");
+    IdoDictionaryUi.unfadeResults = function () {
+        $("#banner").hide();
+        $(".results").show();
+        $(".results").removeClass("fade");
     };
     IdoDictionaryUi.prototype.displayResults = function (searchResponse) {
         var _this = this;
-        var r1 = this.displayLanguageResults(searchResponse.e, "e");
-        var r2 = this.displayLanguageResults(searchResponse.i, "i");
+        var r1 = IdoDictionaryUi.displayLanguageResults(searchResponse.e, "en-io");
+        var r2 = IdoDictionaryUi.displayLanguageResults(searchResponse.i, "io-en");
         if (!r1 && !r2) {
-            $("#content-e")[0].innerHTML = "No matching words found";
-        }
-        if (r1 && r2) {
-            $("#separator").show();
+            $(".nope")[0].innerHTML = "No matching words found";
+            $(".nope").show();
         }
         else {
-            $("#separator").hide();
+            $(".nope").hide();
+        }
+        if (r1 && r2) {
+            $(".separator").show();
+        }
+        else {
+            $(".separator").hide();
         }
         $("a.suggested_word").click(function (event) {
             $("#searchbox").val(event.target.textContent);
             _this.refresh_wordlist(true);
         });
-        IdoDictionaryUi.unfade_articles();
+        IdoDictionaryUi.unfadeResults();
         $("b[fullkey~='" + this.queryAsAlreadyProcessed + "']").addClass("red");
     };
-    IdoDictionaryUi.prototype.displayLanguageResults = function (langSearchResponse, langCode) {
+    IdoDictionaryUi.displayLanguageResults = function (langSearchResponse, langCode) {
         var linksHtml = [];
         if (langSearchResponse.suggestions) {
             for (var _i = 0, _a = langSearchResponse.suggestions; _i < _a.length; _i++) {
                 var word = _a[_i];
-                linksHtml.push("<b>" + IdoDictionaryUi.make_link(word) + "</b>");
+                linksHtml.push("<b>" + IdoDictionaryUi.makeLink(word) + "</b>");
             }
         }
         else {
-            IdoDictionaryUi.fade_articles();
         }
         var wordsHtml = linksHtml.join(" · ");
         if (langSearchResponse.totalSuggestions > langSearchResponse.suggestions.length) {
-            wordsHtml += "... " + langSearchResponse.totalSuggestions + " matching words found";
+            if (wordsHtml) {
+                wordsHtml += "... ";
+            }
+            wordsHtml += langSearchResponse.totalSuggestions + " matching words found";
         }
-        $("#words-" + langCode)[0].innerHTML = wordsHtml;
-        $("#content-" + langCode)[0].innerHTML = langSearchResponse.articlesHtml.join("<hr>");
+        $("." + langCode + " .words")[0].innerHTML = wordsHtml;
+        $("." + langCode + " .articles")[0].innerHTML = langSearchResponse.articlesHtml.join("<hr>");
         if (langSearchResponse.totalSuggestions > 0) {
-            $("#heading-" + langCode).show();
+            $("." + langCode + " .heading").show();
             return true;
         }
         else {
-            $("#heading-" + langCode).hide();
+            $("." + langCode + " .heading").hide();
+            return false;
         }
     };
     return IdoDictionaryUi;

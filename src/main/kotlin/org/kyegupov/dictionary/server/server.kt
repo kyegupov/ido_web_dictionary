@@ -70,8 +70,8 @@ class JsonApplication(environment: ApplicationEnvironment) : Application(environ
                             if (suggestedWords.size == 1) dic.compactIndex[suggestedWords.entries.first().key]!!
                             else listOf()
                     val langResult = PerLanguageSearchResponse(
-                            suggestions = if (suggestedWords.entries.size < 50)
-                            { suggestedWords.entries.map { it.key } }
+                            suggestions = if (suggestedWords.entries.size < 100)
+                            { suggestedWords.entries.take(30).map { it.key } }
                             else listOf<String>(),
                             totalSuggestions = suggestedWords.size,
                             articlesHtml = preciseArticleIds.map { dic.entries[it] })
