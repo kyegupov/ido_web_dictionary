@@ -29,11 +29,22 @@ data class PerLanguageSearchResponse(
         val articlesHtml: List<String>
 )
 
+// Translatable word or untranslatable segment of a phase
+data class PhraseWord(
+        val originalWord: String,
+        val normalizedWord: String? // empty if non-translatable
+)
 
 fun ApplicationCall.respondJson(value: Any): Nothing {
     respond(TextContent(ContentType.Application.Json, GSON.toJson(value)))
 }
 
+val NON_WORD_CHARS = Regex("\\b")
+
+val ENDING_NORMALIZATION = listOf<Pair<List<String>, String>>(
+        Pair(listOf("i", "on", "in"), "o"),
+        Pair(listOf("as", "is", "os", "us"), "ar")
+)
 
 class JsonApplication(environment: ApplicationEnvironment) : Application(environment) {
 
@@ -41,11 +52,11 @@ class JsonApplication(environment: ApplicationEnvironment) : Application(environ
         install(DefaultHeaders)
         install(CallLogging)
 
-        val languageCodes = mapOf(Pair("i", Language.IDO), Pair("e", Language.ENGLISH))
+        val allLanguageCodes = mapOf(Pair("i", Language.IDO), Pair("e", Language.ENGLISH))
 
         val data = mutableMapOf<Language, DictionaryOfStringArticles>()
 
-        for ((langCode, lang) in languageCodes)
+        for ((langCode, lang) in allLanguageCodes)
         {
             this.javaClass.classLoader.getResourceAsStream("dyer_bundle/$langCode/combined.json").use {
                 val reader = InputStreamReader(it);
@@ -61,24 +72,42 @@ class JsonApplication(environment: ApplicationEnvironment) : Application(environ
 
             get("api/search") {
                 // TODO: support multiple non-Ido languages, get language from client
+                val query = call.request.queryParameters["query"]!!
                 val result = mutableMapOf<String, PerLanguageSearchResponse>()
-                for ((langCode, lang) in languageCodes) {
+                val queryLang = call.request.queryParameters["lang"]
+                val languages = if (queryLang == null) allLanguageCodes.keys else listOf(queryLang)
+                for (langCode in languages) {
+                    val lang = allLanguageCodes[langCode]
                     val dic = data[lang]!!
-                    val query = call.request.queryParameters["query"]
                     val suggestedWords: Map<String, List<Int>> = dic.compactIndex.subMap(query, query + "\uFFFF")
                     val preciseArticleIds = dic.compactIndex[query] ?:
                             if (suggestedWords.size == 1) dic.compactIndex[suggestedWords.entries.first().key]!!
                             else listOf()
                     val langResult = PerLanguageSearchResponse(
-                            suggestions = if (suggestedWords.entries.size < 100)
-                            { suggestedWords.entries.take(30).map { it.key } }
-                            else listOf<String>(),
+                            suggestions = if (suggestedWords.entries.size < 100) {
+                                suggestedWords.entries.take(30).map { it.key }
+                            } else listOf<String>(),
                             totalSuggestions = suggestedWords.size,
                             articlesHtml = preciseArticleIds.map { dic.entries[it] })
                     result[langCode] = langResult
                 }
-
                 call.respondJson(result)
+            }
+
+            get("api/phrase") {
+                // TODO: support multiple non-Ido languages, get language from client
+                val query = call.request.queryParameters["query"]!!
+                val phraseResult = mutableListOf<PhraseWord>()
+                val dic = data[Language.IDO]!!
+                for (word0 in query.split(NON_WORD_CHARS)) {
+                    val word = normalizeIdoWord(word0.toLowerCase())
+                    if (dic.compactIndex.containsKey(word)) {
+                        phraseResult.add(PhraseWord(word0, word))
+                    } else {
+                        phraseResult.add(PhraseWord(word0, null))
+                    }
+                }
+                call.respondJson(phraseResult)
             }
 
             route("/static/") {
@@ -92,6 +121,18 @@ class JsonApplication(environment: ApplicationEnvironment) : Application(environ
                 }
             }
         }
+    }
+
+    // TODO: handle adjectives without -a
+    private fun normalizeIdoWord(word: String): String? {
+        for (pair in ENDING_NORMALIZATION) {
+            for (endingInflected in pair.first) {
+                if (word.endsWith(endingInflected)) {
+                    return word.removeSuffix(endingInflected) + pair.second
+                }
+            }
+        }
+        return word
     }
 }
 

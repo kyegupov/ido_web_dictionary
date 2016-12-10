@@ -19,14 +19,18 @@
         </div>
 
         <div id="input-controls">
-            <!--
-            <div id="direction">
+            <div id="search-type">
                 <div class="btn-group" data-toggle="buttons">
-                    <label class="btn btn-primary"><input type="radio" name="direction" value="ido-eng" />Ido-Eng</label>
-                    <label class="btn btn-primary"><input type="radio" name="direction" value="eng-ido" />Eng-Ido</label>
+                    <label class="btn btn-primary">
+                        <input type="radio" name="search-type" value="single_word" />
+                        English or Ido Word
+                    </label>
+                    <label class="btn btn-primary">
+                        <input type="radio" name="search-type" value="ido_phrase" />
+                        Ido Phrase
+                    </label>
                 </div>
             </div>
-            -->
             <input class="form-control input-lg" id="searchbox">
         </div>
 
@@ -61,6 +65,8 @@
 
         <div class="results">
             <div class="nope">
+            </div>
+            <div class="phrase">
             </div>
             <div class="en-io">
                 <div class="heading">English-Ido results</div>

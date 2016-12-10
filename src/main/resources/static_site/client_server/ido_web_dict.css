@@ -31,7 +31,7 @@ table#description td {
 }
 
 #searchbox {
-    max-width: 20em;
+    max-width: 35em;
     margin: auto;
 }
 
@@ -54,7 +54,6 @@ table#description td {
 }
 
 .results .heading {
-    display: none;
     font-weight: bold;
     margin-bottom: 1em;
     padding: 0.25em;
@@ -73,6 +72,10 @@ table#description td {
     color: red;
 }
 
-#results {
+.results {
     display: none;
+}
+
+.phrase {
+    margin-bottom: 2em;
 }

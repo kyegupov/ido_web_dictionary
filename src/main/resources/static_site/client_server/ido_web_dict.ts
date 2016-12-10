@@ -12,64 +12,105 @@ interface PerLanguageSearchResponse {
     articlesHtml: string[]
 }
 
+interface PhraseWord {
+    originalWord: string
+    normalizedWord: string | null // empty if there are no results for this word
+}
+
 const DELAY_REQUEST_MS = 300;
 
 
 class IdoDictionaryUi {
     queryAsAlreadyProcessed: string = ""; // previous query
-    dir: string; // direction of translation, either "i" or "e"
+    mode: "single_word" | "ido_phrase";
     delayedRequestHandle: number;
     timestampOfLastCompletedRequest: number | null;
 
     main() {
         this.queryAsAlreadyProcessed = "";
 
-        $("input:radio[name=direction]").change((event) => {
-            this.dir = $(event.target).val()[0];
-            this.queryAsAlreadyProcessed = "";
-            this.refresh_wordlist();
+        $("input:radio[name=search-type]").change((event) => {
+            this.mode = $(event.target).val();
+            if (this.mode == "single_word") {
+                $(".phrase").hide();
+            } else {
+                $(".phrase").show();
+            }
+            this.handleSearchBoxChange();
         });
-        $("#searchbox").on("input", () => this.refresh_wordlist());
-        $("input:radio[name=direction][value=ido-eng]").click();
+        $("#searchbox").on("input", () => {
+            this.handleSearchBoxChange();
+        });
+        $("input:radio[name=search-type][value=single_word]").click();
+        this.mode = "single_word";
     }
 
-    refresh_wordlist(immediately: boolean = false) {
-        let query = $("#searchbox").val().toLowerCase().trim();
-
+    handleSearchBoxChange() {
+        let query = $("#searchbox").val().trim();
         if (query.trim() == "") {
             $("#banner").show();
             $(".results").hide();
         }
-
         if (query != this.queryAsAlreadyProcessed && query!="") {
-            this.queryAsAlreadyProcessed = query;
-            $("b").removeClass("red");
-
-            IdoDictionaryUi.fadeResults();
-            if (this.delayedRequestHandle) {
-                clearTimeout(this.delayedRequestHandle);
+            if (this.mode == "single_word") {
+                this.searchWord(query.toLowerCase(), false, null);
+            } else {
+                this.searchPhrase(query, false);
             }
-            this.delayedRequestHandle = setTimeout(() => {
-                let timestampRequestStarted = Date.now();
-                $.get(`api/search?&query=${query}`,
-                    jsonResponse => {
-                        if (this.timestampOfLastCompletedRequest == null
-                            || this.timestampOfLastCompletedRequest < timestampRequestStarted) {
-                            this.displayResults(jsonResponse as SearchResponse)
-                            this.timestampOfLastCompletedRequest = timestampRequestStarted;
-                        }
-                    });
-                IdoDictionaryUi.fadeResults();
-            }, immediately ? 0 : DELAY_REQUEST_MS);
             this.queryAsAlreadyProcessed = query;
         }
     }
 
-    static makeLink(keyword) {
+    setupServerRequest(url: string, callback: (jsonResponse: any) => void, immediately: boolean) {
+        IdoDictionaryUi.fadeResults();
+        if (this.delayedRequestHandle) {
+            clearTimeout(this.delayedRequestHandle);
+        }
+        this.delayedRequestHandle = setTimeout(() => {
+            let timestampRequestStarted = Date.now();
+            $.get(url,
+                jsonResponse => {
+                    if (this.timestampOfLastCompletedRequest == null
+                        || this.timestampOfLastCompletedRequest < timestampRequestStarted) {
+                        callback(jsonResponse);
+                        this.timestampOfLastCompletedRequest = timestampRequestStarted;
+                    }
+                });
+            IdoDictionaryUi.fadeResults();
+        }, immediately ? 0 : DELAY_REQUEST_MS);
+    }
+
+    searchWord(query: string, immediately: boolean, language: string | null) {
+
+        let url = `api/search?query=${query}`;
+        if (language != null) {
+            url += `&lang=${language}`;
+        }
+
+        this.setupServerRequest(url,
+            jsonResponse => this.displayResults(jsonResponse as SearchResponse),
+            immediately);
+    }
+
+    searchPhrase(query: string, immediately: boolean) {
+
+        this.setupServerRequest(`api/phrase?query=${query}`,
+            jsonResponse => this.displayPhraseResults(jsonResponse as PhraseWord[]),
+            immediately);
+    }
+
+    // TODO: HTML sanitizing
+
+    static makeSearchLink(keyword) {
         return '<a href="#" class="suggested_word">' + keyword + "</a>";
     }
 
+    private static makeQuickSearchLink(word: PhraseWord) {
+        return `<a href="#" class="suggested_phrase_word" keyword="${word.normalizedWord}">` + word.originalWord + "</a>";
+    }
+
     static fadeResults() {
+        $("b").removeClass("red");
         $(".results").addClass("fade");
     }
 
@@ -92,14 +133,14 @@ class IdoDictionaryUi {
         }
 
         if (r1 && r2) {
-            $(".separator").show();
+            $("#separator").show();
         } else {
-            $(".separator").hide();
+            $("#separator").hide();
         }
 
         $("a.suggested_word").click(event => {
             $("#searchbox").val(event.target.textContent!);
-            this.refresh_wordlist(true);
+            this.handleSearchBoxChange();
         });
 
         IdoDictionaryUi.unfadeResults();
@@ -110,9 +151,14 @@ class IdoDictionaryUi {
 
         let linksHtml : string[] = [];
 
+        if (!langSearchResponse || langSearchResponse.totalSuggestions == 0) {
+            $(`.${langCode}`).hide();
+            return false;
+        }
+
         if (langSearchResponse.suggestions) {
             for (let word of langSearchResponse.suggestions) {
-                linksHtml.push("<b>" + IdoDictionaryUi.makeLink(word) + "</b>");
+                linksHtml.push("<b>" + IdoDictionaryUi.makeSearchLink(word) + "</b>");
             }
         } else {
         }
@@ -129,15 +175,34 @@ class IdoDictionaryUi {
 
         $(`.${langCode} .articles`)[0].innerHTML = langSearchResponse.articlesHtml.join("<hr>");
 
-        if (langSearchResponse.totalSuggestions > 0) {
-            $(`.${langCode} .heading`).show();
-            return true;
-        } else {
-            $(`.${langCode} .heading`).hide();
-            return false;
-        }
+        $(`.${langCode}`).show();
+        return true;
     }
 
+    private displayPhraseResults(words: PhraseWord[]) {
+        if (!words) {
+            $(".nope")[0].innerHTML = "No matching words found";
+            $(".nope").show();
+        } else {
+            $(".nope").hide();
+            IdoDictionaryUi.unfadeResults();
+        }
+
+        let linksHtml : string[] = [];
+
+        for (let word of words) {
+            if (word.normalizedWord) {
+                linksHtml.push("<b>" + IdoDictionaryUi.makeQuickSearchLink(word) + "</b>");
+            } else {
+                linksHtml.push(word.originalWord);
+            }
+        }
+        $(".phrase").html(linksHtml.join(""));
+
+        $("a.suggested_phrase_word").click(event => {
+            this.searchWord(event.target.getAttribute("keyword")!, true, "i");
+        });
+    }
 }
 
 
