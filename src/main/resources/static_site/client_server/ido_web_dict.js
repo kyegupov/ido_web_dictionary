@@ -3,6 +3,7 @@ var DELAY_REQUEST_MS = 300;
 var IdoDictionaryUi = (function () {
     function IdoDictionaryUi() {
         this.queryAsAlreadyProcessed = ""; // previous query
+        this.wordToHighlight = "";
     }
     IdoDictionaryUi.prototype.main = function () {
         var _this = this;
@@ -63,7 +64,8 @@ var IdoDictionaryUi = (function () {
         if (language != null) {
             url += "&lang=" + language;
         }
-        this.setupServerRequest(url, function (jsonResponse) { return _this.displayResults(jsonResponse); }, immediately);
+        var wordQuery = query;
+        this.setupServerRequest(url, function (jsonResponse) { return _this.displayResults(wordQuery, jsonResponse); }, immediately);
     };
     IdoDictionaryUi.prototype.searchPhrase = function (query, immediately) {
         var _this = this;
@@ -85,7 +87,7 @@ var IdoDictionaryUi = (function () {
         $(".results").show();
         $(".results").removeClass("fade");
     };
-    IdoDictionaryUi.prototype.displayResults = function (searchResponse) {
+    IdoDictionaryUi.prototype.displayResults = function (wordQuery, searchResponse) {
         var _this = this;
         var r1 = IdoDictionaryUi.displayLanguageResults(searchResponse.e, "en-io");
         var r2 = IdoDictionaryUi.displayLanguageResults(searchResponse.i, "io-en");
@@ -107,7 +109,7 @@ var IdoDictionaryUi = (function () {
             _this.handleSearchBoxChange();
         });
         IdoDictionaryUi.unfadeResults();
-        $("b[fullkey~='" + this.queryAsAlreadyProcessed + "']").addClass("red");
+        $("b[fullkey~='" + wordQuery + "']").addClass("red");
     };
     IdoDictionaryUi.displayLanguageResults = function (langSearchResponse, langCode) {
         var linksHtml = [];

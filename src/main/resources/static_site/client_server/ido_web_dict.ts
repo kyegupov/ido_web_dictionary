@@ -22,6 +22,7 @@ const DELAY_REQUEST_MS = 300;
 
 class IdoDictionaryUi {
     queryAsAlreadyProcessed: string = ""; // previous query
+    wordToHighlight: string = "";
     mode: "single_word" | "ido_phrase";
     delayedRequestHandle: number;
     timestampOfLastCompletedRequest: number | null;
@@ -81,14 +82,14 @@ class IdoDictionaryUi {
     }
 
     searchWord(query: string, immediately: boolean, language: string | null) {
-
         let url = `api/search?query=${query}`;
         if (language != null) {
             url += `&lang=${language}`;
         }
+        let wordQuery = query;
 
         this.setupServerRequest(url,
-            jsonResponse => this.displayResults(jsonResponse as SearchResponse),
+            jsonResponse => this.displayResults(wordQuery, jsonResponse as SearchResponse),
             immediately);
     }
 
@@ -120,7 +121,7 @@ class IdoDictionaryUi {
         $(".results").removeClass("fade");
     }
 
-    displayResults(searchResponse: SearchResponse) {
+    displayResults(wordQuery: string, searchResponse: SearchResponse) {
 
         let r1 = IdoDictionaryUi.displayLanguageResults(searchResponse.e, "en-io");
         let r2 = IdoDictionaryUi.displayLanguageResults(searchResponse.i, "io-en");
@@ -144,7 +145,8 @@ class IdoDictionaryUi {
         });
 
         IdoDictionaryUi.unfadeResults();
-        $("b[fullkey~='" + this.queryAsAlreadyProcessed +"']").addClass("red");
+
+        $("b[fullkey~='" + wordQuery +"']").addClass("red");
     }
 
     static displayLanguageResults(langSearchResponse: PerLanguageSearchResponse, langCode: string): boolean{
