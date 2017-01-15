@@ -66,8 +66,14 @@ fun main(args: Array<String>) {
 
     Spark.port(3000)
 
-    // TODO: serve from fs when not in a jar
-    Spark.staticFiles.location("static_site/client_server")
+    val staticPath = "static_site/client_server";
+
+    if (CLASS_LOADER.getResource("static_site").protocol == "file") {
+        // developer mode, serve from source
+        Spark.staticFiles.externalLocation("src/main/resources/" + staticPath)
+    } else {
+        Spark.staticFiles.location(staticPath);
+    }
 
     Spark.get("api/search", { request: Request, response: Response ->
         // TODO: support multiple non-Ido languages, get language from client
