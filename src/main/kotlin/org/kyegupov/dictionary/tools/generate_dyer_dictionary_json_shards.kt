@@ -3,6 +3,7 @@ package org.kyegupov.dictionary.tools
 import java.io.FileWriter
 import java.nio.file.Files
 import java.nio.file.Paths
+import java.util.*
 
 fun main(args : Array<String>) {
 
@@ -12,8 +13,15 @@ fun main(args : Array<String>) {
 
 fun writeJsonShards(language: Language, parsingResults: ParsingResults) {
 
-    val compactIndex = parsingResults.compactIndex
-    val allEntries = parsingResults.entries
+    val allEntries = parsingResults.articles.map { it.text }
+    val index = TreeMap<String, MutableMap<Int, Double>>()
+    parsingResults.articles.forEachIndexed { i, entry ->
+        entry.keywords.forEach { key ->
+            index.getOrPut(key.value, {hashMapOf()}).put(i, key.weight)
+        }
+    }
+    val compactIndex = TreeMap<String, List<Int>>()
+    index.forEach { key, weightedEntryIndices -> compactIndex.put(key.toLowerCase(), weightedEntryIndices.entries.sortedBy { -it.value }.map{it.key})}
 
     val langLetter = language.toString().toLowerCase()[0]
 

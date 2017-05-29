@@ -55,7 +55,7 @@ fun main(args: Array<String>) {
     for ((langCode, lang) in allLanguageCodes)
     {
         CLASS_LOADER.getResourceAsStream("dyer_bundle/$langCode/combined.json").use {
-            val reader = InputStreamReader(it);
+            val reader = InputStreamReader(it)
             val dataAsJson = GSON.fromJson(reader, Map::class.java)
             val gsonMap = dataAsJson["index"] as Map<String, List<Int>>
             data[lang] = DictionaryOfStringArticles(

@@ -5,29 +5,24 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 import org.jsoup.nodes.Node
 import org.jsoup.nodes.TextNode
-import org.yaml.snakeyaml.DumperOptions
-import org.yaml.snakeyaml.Yaml
-import org.yaml.snakeyaml.constructor.SafeConstructor
-import org.yaml.snakeyaml.representer.Representer
 import java.nio.charset.Charset
 import java.nio.file.FileSystems
 import java.nio.file.Files
 import java.nio.file.Paths
-import java.util.*
 
 // Keys are in decreasing order of importance
-data class Weighted<T>(val value: T, val weight: Double) : Comparable<Weighted<T>> {
-    override fun compareTo(other: Weighted<T>): Int {
-        // By descending weight
-        return other.weight.compareTo(this.weight)
-    }
-}
+data class Weighted<out T>(val value: T, val weight: Double)
 
-data class Entry(val nodes : MutableList<EntryNode>) {
+data class Article(
+        val text: ArticleText,
+        val keywords: List<Weighted<String>>
+)
+
+data class ArticleText(val nodes : MutableList<RichTextNode>) {
     fun extractWeitghtedKeys(): List<Weighted<String>> {
         return nodes
                 .mapIndexed { i, node ->
-                    if (node is KeyNode) {
+                    if (node is KeywordNode) {
                         node.fullKeywords.map { Weighted(it, positionToWeight(i, nodes.size)) }
                     } else listOf<Weighted<String>>()
                 }
@@ -41,8 +36,8 @@ data class Entry(val nodes : MutableList<EntryNode>) {
     fun renderToHtml(): String {
         return nodes.map { node ->
             when (node) {
-                is TextEntryNode -> StringEscapeUtils.escapeHtml4(node.text)
-                is KeyNode -> ("""<b fullkey="${StringEscapeUtils.escapeHtml4(node.fullKeywords.joinToString(" "))}">"""
+                is org.kyegupov.dictionary.tools.TextNode -> StringEscapeUtils.escapeHtml4(node.text)
+                is KeywordNode -> ("""<b fullkey="${StringEscapeUtils.escapeHtml4(node.fullKeywords.joinToString(" "))}">"""
                     + "${StringEscapeUtils.escapeHtml4(node.text)}</b>")
                 is ItalicNode -> "<i>" + StringEscapeUtils.escapeHtml4(node.text) + "</i>"
                 else -> { throw IllegalArgumentException("Node : $node") }
@@ -51,21 +46,19 @@ data class Entry(val nodes : MutableList<EntryNode>) {
     }
 }
 
-interface EntryNode
+interface RichTextNode
 
-data class TextEntryNode(val text : String) : EntryNode
-data class KeyNode(val text : String, val fullKeywords : List<String>) : EntryNode
-data class ItalicNode(val text : String) : EntryNode
+data class TextNode(val text : String) : RichTextNode
+data class KeywordNode(
+        val text : String, // Original text
+        val fullKeywords : List<String> // Expanded abbreviations, multiple versions
+) : RichTextNode
+data class ItalicNode(val text : String) : RichTextNode
 
+// Html tags
 val BOLD = setOf("b", "strong")
 val ITALIC = setOf("i", "em")
 val TAGS_TO_COPY_AS_IS = setOf("font", "sub", "sup")
-
-val YAML = {
-    val dumperOptions = DumperOptions()
-    dumperOptions.isAllowReadOnlyProperties = true
-    Yaml(SafeConstructor(), Representer(), dumperOptions)
-}()
 
 enum class ParserMode {
     IN_TEXT,
@@ -79,13 +72,12 @@ enum class Language {
 }
 
 val RE_PUREWORD = Regex("[A-Za-z]+")
-val RE_ENTITY = Regex("&#([0-9]+);")
 
-val GSON = GsonBuilder().disableHtmlEscaping().setPrettyPrinting().create()
+val GSON = GsonBuilder().disableHtmlEscaping().setPrettyPrinting().create()!!
 
 class HtmlParser (val language : Language) {
-    val entries: MutableList<Entry> = arrayListOf()
-    private var currentEntryBuilder: Entry = Entry(arrayListOf())
+    val articleTexts: MutableList<ArticleText> = arrayListOf()
+    private var currentArticleTextBuilder: ArticleText = ArticleText(arrayListOf())
     private var currentMode: ParserMode = ParserMode.IN_TEXT
     private var baseword: String? = null
 
@@ -94,7 +86,7 @@ class HtmlParser (val language : Language) {
             if (node is Element) {
                 if (node.tagName() in BOLD) {
                     if (currentMode != ParserMode.IN_TEXT) {
-                        println("Current mode is $currentMode when encountering ${node.tagName()} after entry ${entries.lastOrNull()}")
+                        println("Current mode is $currentMode when encountering ${node.tagName()} after entry ${articleTexts.lastOrNull()}")
                     }
                     currentMode = ParserMode.IN_KEY // Key mode has priority
                     // TODO: store and restore mode
@@ -102,7 +94,7 @@ class HtmlParser (val language : Language) {
                     currentMode = ParserMode.IN_TEXT
                 } else if (node.tagName() in ITALIC) {
                     if (currentMode != ParserMode.IN_TEXT) {
-                        println("Current mode is $currentMode when encountering ${node.tagName()} after entry ${entries.lastOrNull()}")
+                        println("Current mode is $currentMode when encountering ${node.tagName()} after entry ${articleTexts.lastOrNull()}")
                         // Key mode has priority
                     } else {
                         currentMode = ParserMode.IN_ITALIC
@@ -114,7 +106,7 @@ class HtmlParser (val language : Language) {
                 } else if (node.tagName() in TAGS_TO_COPY_AS_IS) {
                     handleText(node.outerHtml())
                 } else {
-                    throw Exception("Unknown tag ${node.tagName()} after entry ${entries.lastOrNull()}")
+                    throw Exception("Unknown tag ${node.tagName()} after entry ${articleTexts.lastOrNull()}")
                 }
             } else if (node is TextNode) {
                 handleText(node.text())
@@ -124,22 +116,22 @@ class HtmlParser (val language : Language) {
 
     private fun handleText(text: String) {
         when (currentMode) {
-            ParserMode.IN_TEXT -> currentEntryBuilder.nodes.add(TextEntryNode(text))
+            ParserMode.IN_TEXT -> currentArticleTextBuilder.nodes.add(TextNode(text))
             ParserMode.IN_KEY -> addKey(text)
-            ParserMode.IN_ITALIC -> currentEntryBuilder.nodes.add(ItalicNode(text))
+            ParserMode.IN_ITALIC -> currentArticleTextBuilder.nodes.add(ItalicNode(text))
         }
     }
 
     private fun addKey(text: String) {
         val fullKeywords = inferFullKeyword(text)
-        currentEntryBuilder.nodes.add(KeyNode(text, fullKeywords))
+        currentArticleTextBuilder.nodes.add(KeywordNode(text, fullKeywords))
     }
 
     fun nextEntry() {
-        if (currentEntryBuilder.nodes.size > 0) {
-            entries.add(currentEntryBuilder)
+        if (currentArticleTextBuilder.nodes.size > 0) {
+            articleTexts.add(currentArticleTextBuilder)
         }
-        currentEntryBuilder = Entry(arrayListOf())
+        currentArticleTextBuilder = ArticleText(arrayListOf())
         baseword = null
     }
 
@@ -184,8 +176,7 @@ class HtmlParser (val language : Language) {
 }
 
 data class ParsingResults(
-        val entries: List<Entry>,
-        val compactIndex: TreeMap<String, List<Int>>
+        val articles: List<Article>
 )
 
 fun parseFiles(language: Language): ParsingResults {
@@ -193,39 +184,32 @@ fun parseFiles(language: Language): ParsingResults {
     val pathMatcher = FileSystems.getDefault().getPathMatcher("glob:**/${language.toString().toLowerCase()[0]}?.html")
     val sourceFiles = Files.list(Paths.get("src/main/resources/dyer_source")).filter { pathMatcher.matches(it) }.sorted()
 
-    val allEntries = arrayListOf<Entry>()
-    val index = TreeMap<String, MutableMap<Int, Double>>()
+    val articles = arrayListOf<Article>()
 
     for (f in sourceFiles) {
 
         val rawHtml = String(Files.readAllBytes(f), Charset.forName("UTF-8"))
 
-        // Legacy code to correct bad HTML entities
-//        var correctedHtml = rawHtml.replace(org.yk4ever.dictionary.getRE_ENTITY, {var byte = it.groups[1]!!.value.toInt().toByte(); String(ByteArray(1, {byte}), Charset.forName("Windows-1252"))})
-        var correctedHtml = rawHtml
+        val correctedHtml = rawHtml
         require(!correctedHtml.contains("&#"), {"entity in $f"})
 
         val doc = Jsoup.parse(correctedHtml)
-        var paragraphs = doc.body().getElementsByTag("p")
-        var entriesHtml = paragraphs[1]
+        val paragraphs = doc.body().getElementsByTag("p")
+        val entriesHtml = paragraphs[1]
 
         val parser = HtmlParser(language)
 
         parser.parseNode(entriesHtml)
         parser.nextEntry()
-        allEntries.addAll(parser.entries)
+        articles.addAll(parser.articleTexts.map {
+            Article(
+                it,
+                it.extractWeitghtedKeys().sortedBy { -it.weight }
+            )
+        })
     }
 
-    allEntries.forEachIndexed { i, entry ->
-        entry.extractWeitghtedKeys().sortedBy { it.weight }.forEach { key ->
-            index.getOrPut(key.value, {hashMapOf()}).put(i, key.weight)
-        }
-    }
 
-    val compactIndex = TreeMap<String, List<Int>>()
-
-    index.forEach { key, weightedEntryIndices -> compactIndex.put(key.toLowerCase(), weightedEntryIndices.entries.sortedBy { -it.value }.map{it.key})}
-
-    return ParsingResults(allEntries, compactIndex)
+    return ParsingResults(articles)
 }
 
