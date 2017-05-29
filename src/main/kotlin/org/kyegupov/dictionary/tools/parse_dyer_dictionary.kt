@@ -81,7 +81,7 @@ enum class Language {
 val RE_PUREWORD = Regex("[A-Za-z]+")
 val RE_ENTITY = Regex("&#([0-9]+);")
 
-val GSON = GsonBuilder().disableHtmlEscaping().create()
+val GSON = GsonBuilder().disableHtmlEscaping().setPrettyPrinting().create()
 
 class HtmlParser (val language : Language) {
     val entries: MutableList<Entry> = arrayListOf()
