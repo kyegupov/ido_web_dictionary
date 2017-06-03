@@ -12,6 +12,11 @@
         <kotlin.version>1.1.2</kotlin.version>
     </properties>
 
+    <scm>
+        <!-- Replace the connection below with your project connection -->
+        <connection>scm:git:git@github.com:kyegupov/ido_web_dictionary.git</connection>
+    </scm>
+
     <dependencies>
         <dependency>
             <groupId>ch.qos.logback</groupId>
@@ -65,6 +70,7 @@
                 <directory>
                     src/main/resources
                 </directory>
+                <filtering>true</filtering>
                 <excludes>
                     <exclude>static_site/serverless_sharded_json/**</exclude>
                 </excludes>
@@ -119,6 +125,23 @@
                         </goals>
                     </execution>
                 </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>buildnumber-maven-plugin</artifactId>
+                <version>1.4</version>
+                <executions>
+                    <execution>
+                        <phase>validate</phase>
+                        <goals>
+                            <goal>create</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <doCheck>true</doCheck>
+                    <doUpdate>true</doUpdate>
+                </configuration>
             </plugin>
         </plugins>
     </build>

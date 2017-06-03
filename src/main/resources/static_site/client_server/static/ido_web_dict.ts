@@ -161,7 +161,7 @@ class IdoDictionaryUi {
 
         IdoDictionaryUi.unfadeResults();
 
-        $("b[fullkey~='" + wordQuery +"']").addClass("red");
+        $("b[dict-key~='" + wordQuery +"']").addClass("red");
     }
 
     static displayLanguageResults(langSearchResponse: PerLanguageSearchResponse, langCode: string): boolean{

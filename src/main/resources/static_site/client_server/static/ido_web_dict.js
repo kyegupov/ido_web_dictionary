@@ -94,7 +94,7 @@ var IdoDictionaryUi = (function () {
         return "<a href=\"#?word=" + encodeURIComponent(keyword) + "\" class=\"suggested_word\">" + keyword + "</a>";
     };
     IdoDictionaryUi.prototype.makeQuickSearchLink = function (word) {
-        return ("<a href=\"#?phrase=" + encodeURIComponent(this.phrase) + "\" class=\"suggested_phrase_word\" ")
+        return "<a href=\"#?phrase=" + encodeURIComponent(this.phrase) + "\" class=\"suggested_phrase_word\" "
             + ("keyword=\"" + word.normalizedWord + "\">") + word.originalWord + "</a>";
     };
     IdoDictionaryUi.fadeResults = function () {
@@ -209,4 +209,3 @@ function getUrlFragmentParameterByName(name) {
 }
 var app = new IdoDictionaryUi();
 $(document).ready(function () { return app.main(); });
-//# sourceMappingURL=ido_web_dict.js.map

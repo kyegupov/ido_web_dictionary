@@ -1,15 +1,9 @@
 package org.kyegupov.dictionary.tools
 
-import org.yaml.snakeyaml.DumperOptions
-import org.yaml.snakeyaml.Yaml
-import org.yaml.snakeyaml.constructor.SafeConstructor
-import org.yaml.snakeyaml.nodes.Tag
-import org.yaml.snakeyaml.representer.Representer
+import org.kyegupov.dictionary.server.YAML
 import java.io.File
 import java.io.FileWriter
-import java.io.IOException
 import java.nio.file.*
-import java.nio.file.attribute.BasicFileAttributes
 
 fun main(args : Array<String>) {
 
@@ -21,22 +15,10 @@ fun String.safePrefix(count: Int): String {
     return this.substring(0, Math.min(count, this.length));
 }
 
-//data class CompactArticle(
-//        val text: String,
-//        val keywords: Map<String, Double>
-//)
-
 fun compactize(article: Article) : String {
     return article.text.renderToHtml()
 }
 
-val YAML = {
-    val dumperOptions = DumperOptions()
-    val representer = Representer()
-//    representer.addClassTag(CompactArticle::class.java, Tag.MAP)
-    dumperOptions.isAllowReadOnlyProperties = true
-    Yaml(SafeConstructor(), representer, dumperOptions)
-}()
 
 fun writeJsonByLetters(language: Language, parsingResults: ParsingResults) {
 

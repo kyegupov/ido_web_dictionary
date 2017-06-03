@@ -150,4 +150,3 @@ var IdoDictionaryUi = (function () {
 }());
 var app = new IdoDictionaryUi();
 $(document).ready(function () { return app.main(); });
-//# sourceMappingURL=ido_web_dict.js.map

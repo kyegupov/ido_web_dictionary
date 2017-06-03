@@ -1,12 +1,22 @@
 package org.kyegupov.dictionary.server
 
+import org.jsoup.Jsoup
 import org.kyegupov.dictionary.tools.GSON
 import org.kyegupov.dictionary.tools.Language
-import java.io.InputStreamReader
-import java.util.*
+import org.kyegupov.dictionary.tools.Weighted
+import org.slf4j.LoggerFactory
+import org.yaml.snakeyaml.DumperOptions
+import org.yaml.snakeyaml.Yaml
+import org.yaml.snakeyaml.constructor.SafeConstructor
+import org.yaml.snakeyaml.representer.Representer
 import spark.Request
 import spark.Response
 import spark.Spark
+import java.io.InputStreamReader
+import java.nio.file.Files
+import java.nio.file.Paths
+import java.util.*
+
 
 data class DictionaryOfStringArticles(
         val entries: List<String>,
@@ -32,6 +42,13 @@ val ENDING_NORMALIZATION = listOf<Pair<List<String>, String>>(
         Pair(listOf("as", "is", "os", "us"), "ar")
 )
 
+val YAML = {
+    val dumperOptions = DumperOptions()
+    val representer = Representer()
+    dumperOptions.isAllowReadOnlyProperties = true
+    Yaml(SafeConstructor(), representer, dumperOptions)
+}()
+
 // TODO: handle adjectives without -a
 private fun normalizeIdoWord(word: String): String? {
     for (pair in ENDING_NORMALIZATION) {
@@ -44,24 +61,61 @@ private fun normalizeIdoWord(word: String): String? {
     return word
 }
 
-class Dummy {}
-val CLASS_LOADER = Dummy::class.java.classLoader
+val CLASS_LOADER = Thread.currentThread().contextClassLoader
+
+val log = LoggerFactory.getLogger("ido-web-dictionary")
+
+fun loadDataFromAlphabetizedShards(path: String) : DictionaryOfStringArticles {
+    val fileList = mutableListOf<String>()
+    CLASS_LOADER.getResourceAsStream(path).use {
+        fileList.addAll(InputStreamReader(it).readLines().filter {it.endsWith(".yaml")}.map { Paths.get(path, it).toString() })
+    }
+    val allArticles = mutableListOf<String>()
+    for (fileName in fileList) {
+        log.info("Reading shard $fileName")
+        CLASS_LOADER.getResourceAsStream(fileName).use {
+            val text = InputStreamReader(it).readText()
+            var articles = (YAML.load(text) as List<Any>).map { it as String }
+            allArticles.addAll(articles)
+        }
+    }
+    log.info("Building index")
+    return DictionaryOfStringArticles(
+            entries = allArticles,
+            compactIndex = buildIndex(allArticles))
+}
+
+private fun positionToWeight(index: Int, size: Int): Double {
+    return 1.0 - (1.0 * index / size)
+}
+
+fun buildIndex(articles: MutableList<String>): TreeMap<String, List<Int>> {
+
+    val index = TreeMap<String, MutableMap<Int, Double>>()
+
+    articles.forEachIndexed { i, entry ->
+        val html = Jsoup.parse(entry)
+        val keywords = html.select("[dict-key]").map {it.attr("dict-key")}
+        val weightedKeywords = keywords.mapIndexed{ki, kw -> Weighted(kw, positionToWeight(ki, keywords.size))}
+
+        weightedKeywords.forEach { key ->
+            index.getOrPut(key.value, {hashMapOf()}).put(i, key.weight)
+        }
+    }
+    val compactIndex = TreeMap<String, List<Int>>()
+    index.forEach { key, weightedEntryIndices ->
+        compactIndex.put(key.toLowerCase(), weightedEntryIndices.entries.sortedBy { -it.value }.map{it.key})}
+
+    return compactIndex
+}
 
 fun main(args: Array<String>) {
     val allLanguageCodes = mapOf(Pair("i", Language.IDO), Pair("e", Language.ENGLISH))
 
     val data = mutableMapOf<Language, DictionaryOfStringArticles>()
 
-    for ((langCode, lang) in allLanguageCodes)
-    {
-        CLASS_LOADER.getResourceAsStream("dyer_bundle/$langCode/combined.json").use {
-            val reader = InputStreamReader(it)
-            val dataAsJson = GSON.fromJson(reader, Map::class.java)
-            val gsonMap = dataAsJson["index"] as Map<String, List<Int>>
-            data[lang] = DictionaryOfStringArticles(
-                    entries = dataAsJson["articles"] as List<String>,
-                    compactIndex = TreeMap(gsonMap))
-        }
+    for ((langCode, lang) in allLanguageCodes) {
+        data[lang] = loadDataFromAlphabetizedShards("dyer_by_letter/$langCode")
     }
 
     Spark.port(3000)
