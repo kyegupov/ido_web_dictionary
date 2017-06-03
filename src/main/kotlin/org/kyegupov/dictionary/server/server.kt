@@ -84,7 +84,7 @@ fun listResources(path: String): List<Path> {
 
 fun loadDataFromAlphabetizedShards(path: String) : DictionaryOfStringArticles {
     val allArticles = mutableListOf<String>()
-    for (resource in listResources(path)) {
+    for (resource in listResources(path).sorted()) {
         LOG.info("Reading shard $resource")
         Files.newInputStream(resource).use {
             val text = InputStreamReader(it).readText()
@@ -112,7 +112,7 @@ fun buildIndex(articles: MutableList<String>): TreeMap<String, List<Int>> {
         val weightedKeywords = keywords.mapIndexed{ki, kw -> Weighted(kw, positionToWeight(ki, keywords.size))}
 
         weightedKeywords.forEach { (value, weight) ->
-            index.getOrPut(value, {hashMapOf()}).put(i, weight)
+            index.getOrPut(value, {hashMapOf()}).getOrPut(i, {weight})
         }
     }
     val compactIndex = TreeMap<String, List<Int>>()
