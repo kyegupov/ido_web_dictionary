@@ -39,7 +39,7 @@ val NON_WORD_CHARS = Regex("\\b")
 
 val ENDING_NORMALIZATION = listOf(
         Pair(listOf("i", "on", "in"), "o"),
-        Pair(listOf("as", "is", "os", "us"), "ar")
+        Pair(listOf("as", "is", "os", "us", "ez", "ir", "or"), "ar")
 )
 
 val YAML = {
@@ -151,7 +151,11 @@ fun main(args: Array<String>) {
         for (langCode in languages) {
             val lang = allLanguageCodes[langCode]
             val dic = data[lang]!!
-            val suggestedWords: Map<String, List<Int>> = dic.compactIndex.subMap(query, query + "\uFFFF")
+            val suggestedWords = mutableMapOf<String, List<Int>>()
+            suggestedWords.putAll(dic.compactIndex.subMap(query, query + "\uFFFF"))
+            if (lang == Language.IDO) {
+                suggestedWords.putAll(dic.compactIndex.subMap(normalizeIdoWord(query), normalizeIdoWord(query)+ "\uFFFF"))
+            }
             val preciseArticleIds = dic.compactIndex[query] ?:
                     if (suggestedWords.size == 1) dic.compactIndex[suggestedWords.entries.first().key]!!
                     else listOf()
