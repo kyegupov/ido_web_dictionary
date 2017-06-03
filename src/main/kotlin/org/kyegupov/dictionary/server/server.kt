@@ -13,9 +13,9 @@ import spark.Request
 import spark.Response
 import spark.Spark
 import java.io.InputStreamReader
-import java.nio.file.Files
-import java.nio.file.Paths
+import java.nio.file.*
 import java.util.*
+import java.util.stream.Collectors
 
 
 data class DictionaryOfStringArticles(
@@ -37,7 +37,7 @@ data class PhraseWord(
 
 val NON_WORD_CHARS = Regex("\\b")
 
-val ENDING_NORMALIZATION = listOf<Pair<List<String>, String>>(
+val ENDING_NORMALIZATION = listOf(
         Pair(listOf("i", "on", "in"), "o"),
         Pair(listOf("as", "is", "os", "us"), "ar")
 )
@@ -61,25 +61,38 @@ private fun normalizeIdoWord(word: String): String? {
     return word
 }
 
-val CLASS_LOADER = Thread.currentThread().contextClassLoader
+val CLASS_LOADER = Thread.currentThread().contextClassLoader!!
 
-val log = LoggerFactory.getLogger("ido-web-dictionary")
+var JAR_FS: FileSystem? = null
+
+val LOG = LoggerFactory.getLogger("ido-web-dictionary")!!
+
+// https://stackoverflow.com/a/28057735
+fun listResources(path: String): List<Path> {
+    val uri = CLASS_LOADER.getResource(path).toURI()
+    val myPath: Path
+    if (uri.scheme == "jar") {
+        if (JAR_FS == null) {
+            JAR_FS = FileSystems.newFileSystem(uri, Collections.emptyMap<String, Any>())
+        }
+        myPath = JAR_FS!!.getPath(path)
+    } else {
+        myPath = Paths.get(uri)
+    }
+    return Files.walk(myPath, 1).skip(1).collect(Collectors.toList())
+}
 
 fun loadDataFromAlphabetizedShards(path: String) : DictionaryOfStringArticles {
-    val fileList = mutableListOf<String>()
-    CLASS_LOADER.getResourceAsStream(path).use {
-        fileList.addAll(InputStreamReader(it).readLines().filter {it.endsWith(".yaml")}.map { Paths.get(path, it).toString() })
-    }
     val allArticles = mutableListOf<String>()
-    for (fileName in fileList) {
-        log.info("Reading shard $fileName")
-        CLASS_LOADER.getResourceAsStream(fileName).use {
+    for (resource in listResources(path)) {
+        LOG.info("Reading shard $resource")
+        Files.newInputStream(resource).use {
             val text = InputStreamReader(it).readText()
-            var articles = (YAML.load(text) as List<Any>).map { it as String }
+            val articles = (YAML.load(text) as List<*>).map { it as String }
             allArticles.addAll(articles)
         }
     }
-    log.info("Building index")
+    LOG.info("Building index")
     return DictionaryOfStringArticles(
             entries = allArticles,
             compactIndex = buildIndex(allArticles))
@@ -98,8 +111,8 @@ fun buildIndex(articles: MutableList<String>): TreeMap<String, List<Int>> {
         val keywords = html.select("[dict-key]").map {it.attr("dict-key")}
         val weightedKeywords = keywords.mapIndexed{ki, kw -> Weighted(kw, positionToWeight(ki, keywords.size))}
 
-        weightedKeywords.forEach { key ->
-            index.getOrPut(key.value, {hashMapOf()}).put(i, key.weight)
+        weightedKeywords.forEach { (value, weight) ->
+            index.getOrPut(value, {hashMapOf()}).put(i, weight)
         }
     }
     val compactIndex = TreeMap<String, List<Int>>()
@@ -120,13 +133,13 @@ fun main(args: Array<String>) {
 
     Spark.port(3000)
 
-    val staticPath = "static_site/client_server";
+    val staticPath = "static_site/client_server"
 
     if (CLASS_LOADER.getResource("static_site").protocol == "file") {
         // developer mode, serve from source
         Spark.staticFiles.externalLocation("src/main/resources/" + staticPath)
     } else {
-        Spark.staticFiles.location(staticPath);
+        Spark.staticFiles.location(staticPath)
     }
 
     Spark.get("api/search", { request: Request, response: Response ->

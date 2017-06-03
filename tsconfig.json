@@ -1,0 +1,9 @@
+{
+    "include": [
+        "src/main/resources/static_site/client_server/static/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.spec.ts"
+    ]
+}
