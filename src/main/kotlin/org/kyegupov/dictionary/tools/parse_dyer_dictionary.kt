@@ -37,7 +37,7 @@ data class ArticleText(val nodes : MutableList<RichTextNode>) {
         return nodes.map { node ->
             when (node) {
                 is org.kyegupov.dictionary.tools.TextNode -> StringEscapeUtils.escapeHtml4(node.text)
-                is KeywordNode -> ("""<b fullkey="${StringEscapeUtils.escapeHtml4(node.fullKeywords.joinToString(" "))}">"""
+                is KeywordNode -> ("""<b dict-key="${StringEscapeUtils.escapeHtml4(node.fullKeywords.joinToString(" "))}">"""
                     + "${StringEscapeUtils.escapeHtml4(node.text)}</b>")
                 is ItalicNode -> "<i>" + StringEscapeUtils.escapeHtml4(node.text) + "</i>"
                 else -> { throw IllegalArgumentException("Node : $node") }
@@ -46,14 +46,16 @@ data class ArticleText(val nodes : MutableList<RichTextNode>) {
     }
 }
 
-interface RichTextNode
+interface RichTextNode {
+    val text: String
+}
 
-data class TextNode(val text : String) : RichTextNode
+data class TextNode(override val text : String) : RichTextNode
 data class KeywordNode(
-        val text : String, // Original text
+        override val text : String, // Original text
         val fullKeywords : List<String> // Expanded abbreviations, multiple versions
 ) : RichTextNode
-data class ItalicNode(val text : String) : RichTextNode
+data class ItalicNode(override val text : String) : RichTextNode
 
 // Html tags
 val BOLD = setOf("b", "strong")
@@ -128,6 +130,12 @@ class HtmlParser (val language : Language) {
     }
 
     fun nextEntry() {
+        while (currentArticleTextBuilder.nodes.isNotEmpty() && currentArticleTextBuilder.nodes.first().text.trim().isEmpty()) {
+            currentArticleTextBuilder.nodes.removeAt(0)
+        }
+        while (currentArticleTextBuilder.nodes.isNotEmpty() && currentArticleTextBuilder.nodes.last().text.trim().isEmpty()) {
+            currentArticleTextBuilder.nodes.removeAt(currentArticleTextBuilder.nodes.size - 1)
+        }
         if (currentArticleTextBuilder.nodes.size > 0) {
             articleTexts.add(currentArticleTextBuilder)
         }
@@ -145,18 +153,23 @@ class HtmlParser (val language : Language) {
             val fullWords = arrayListOf<String>()
             for (word in words.filter { it.isNotEmpty() }) {
                 var fullWord = word
-                if (language == Language.IDO) {
-                    if (word.startsWith("-") && baseword != null) {
-                        fullWord = baseword + word.substring(1)
-                    }
-                    fullWord = fullWord.replace("-", "")
-                } else if (language == Language.ENGLISH) {
-                    if (!baseword.isNullOrEmpty()) {
+                if (!baseword.isNullOrEmpty()) {
+                    if (language == Language.IDO) {
+                        if (word.startsWith("-")) {
+                            fullWord = baseword + word.substring(1)
+                        }
+                        fullWord = fullWord.replace("-", "")
+                    } else if (language == Language.ENGLISH) {
+                        baseword = baseword!!.removeSuffix(":")
                         if (word.startsWith(baseword!![0] + ".-")) {
                             fullWord = baseword + word.substring(3)
                         }
                         if (word.startsWith(baseword!![0] + ".")) {
                             fullWord = baseword + word.substring(2)
+                        }
+                        if (word.startsWith("-") && word.length > 1) {
+                            var trimmedBaseword :String = baseword!!.replace(Regex("[aeiouy]$"), "").removeSuffix(word[1].toString())
+                            fullWord = trimmedBaseword + word.removeSuffix(":").removePrefix("-")
                         }
                     }
                 }
@@ -191,6 +204,10 @@ fun parseFiles(language: Language): ParsingResults {
         val rawHtml = String(Files.readAllBytes(f), Charset.forName("UTF-8"))
 
         val correctedHtml = rawHtml
+                .replace("\r", "")
+                .replace(Regex("<b><br><br>\n"), "<br><br>\n<b>")
+                .replace(Regex("<b><i>\\s*</i></b>"), " ")
+
         require(!correctedHtml.contains("&#"), {"entity in $f"})
 
         val doc = Jsoup.parse(correctedHtml)
@@ -201,12 +218,21 @@ fun parseFiles(language: Language): ParsingResults {
 
         parser.parseNode(entriesHtml)
         parser.nextEntry()
-        articles.addAll(parser.articleTexts.map {
+
+        val newArticles = parser.articleTexts.map {
             Article(
-                it,
-                it.extractWeitghtedKeys().sortedBy { -it.weight }
+                    it,
+                    it.extractWeitghtedKeys().sortedBy { -it.weight }
             )
-        })
+        }.filter {
+            if (it.keywords.isEmpty()) {
+                require(it.text.renderToHtml().trim().isEmpty(), {it.text});
+                println("Ignoring article with no keywords: " + it.text)
+                false
+            } else true
+        }
+
+        articles.addAll(newArticles)
     }
 
 
