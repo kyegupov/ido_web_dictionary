@@ -1,6 +1,6 @@
 package org.kyegupov.dictionary.tools
 
-import org.kyegupov.dictionary.server.YAML
+import org.kyegupov.dictionary.common.YAML
 import java.io.File
 import java.io.FileWriter
 import java.nio.file.*
@@ -18,7 +18,6 @@ fun String.safePrefix(count: Int): String {
 fun compactize(article: Article) : String {
     return article.text.renderToHtml()
 }
-
 
 fun writeJsonByLetters(language: Language, parsingResults: ParsingResults) {
 

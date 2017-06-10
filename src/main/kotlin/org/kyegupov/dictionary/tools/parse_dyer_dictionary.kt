@@ -5,13 +5,11 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 import org.jsoup.nodes.Node
 import org.jsoup.nodes.TextNode
+import org.kyegupov.dictionary.common.Weighted
 import java.nio.charset.Charset
 import java.nio.file.FileSystems
 import java.nio.file.Files
 import java.nio.file.Paths
-
-// Keys are in decreasing order of importance
-data class Weighted<out T>(val value: T, val weight: Double)
 
 data class Article(
         val text: ArticleText,
