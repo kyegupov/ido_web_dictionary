@@ -19,3 +19,10 @@ val LOG = LoggerFactory.getLogger("ido-web-dictionary")!!
 
 // Keys are in decreasing order of importance
 data class Weighted<out T>(val value: T, val weight: Double)
+
+enum class Language {
+    ENGLISH,
+    IDO
+}
+
+val allLanguageCodes = mapOf(Pair("i", Language.IDO), Pair("e", Language.ENGLISH))

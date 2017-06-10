@@ -5,6 +5,7 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 import org.jsoup.nodes.Node
 import org.jsoup.nodes.TextNode
+import org.kyegupov.dictionary.common.Language
 import org.kyegupov.dictionary.common.Weighted
 import java.nio.charset.Charset
 import java.nio.file.FileSystems
@@ -64,11 +65,6 @@ enum class ParserMode {
     IN_TEXT,
     IN_KEY,
     IN_ITALIC
-}
-
-enum class Language {
-    ENGLISH,
-    IDO
 }
 
 val RE_PUREWORD = Regex("[A-Za-z]+")

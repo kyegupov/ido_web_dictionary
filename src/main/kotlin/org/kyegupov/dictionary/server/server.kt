@@ -1,19 +1,10 @@
 package org.kyegupov.dictionary.server
 
-import org.kyegupov.dictionary.common.CLASS_LOADER
-import org.kyegupov.dictionary.common.DictionaryOfStringArticles
-import org.kyegupov.dictionary.common.loadDataFromAlphabetizedShards
+import org.kyegupov.dictionary.common.*
 import org.kyegupov.dictionary.tools.GSON
-import org.kyegupov.dictionary.tools.Language
-import org.slf4j.LoggerFactory
-import org.yaml.snakeyaml.DumperOptions
-import org.yaml.snakeyaml.Yaml
-import org.yaml.snakeyaml.constructor.SafeConstructor
-import org.yaml.snakeyaml.representer.Representer
 import spark.Request
 import spark.Response
 import spark.Spark
-import java.nio.file.*
 
 
 data class PerLanguageSearchResponse(
@@ -35,7 +26,6 @@ val ENDING_NORMALIZATION = listOf(
         Pair(listOf("as", "is", "os", "us", "ez", "ir", "or"), "ar")
 )
 
-
 // TODO: handle adjectives without -a
 private fun normalizeIdoWord(word: String): String? {
     for (pair in ENDING_NORMALIZATION) {
@@ -49,7 +39,6 @@ private fun normalizeIdoWord(word: String): String? {
 }
 
 fun main(args: Array<String>) {
-    val allLanguageCodes = mapOf(Pair("i", Language.IDO), Pair("e", Language.ENGLISH))
 
     val data = mutableMapOf<Language, DictionaryOfStringArticles>()
 
