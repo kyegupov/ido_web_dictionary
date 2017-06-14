@@ -26,3 +26,5 @@ enum class Language {
 }
 
 val allLanguageCodes = mapOf(Pair("i", Language.IDO), Pair("e", Language.ENGLISH))
+
+val allLanguagePairCodes = mapOf(Pair(Language.IDO, "io-en"), Pair(Language.ENGLISH, "en-io"))
