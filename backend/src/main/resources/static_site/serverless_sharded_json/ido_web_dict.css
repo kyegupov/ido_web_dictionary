@@ -1,0 +1,44 @@
+@media only screen and (min-device-width: 801px) {
+    body {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-device-width: 800px) {
+    body {
+        font-size: 30pt;
+    }
+    #input-controls #searchbox {
+        width: 100%;
+    }
+}
+
+#input-controls {
+    text-align: center;
+}
+
+#input-controls #direction {
+    font-size: 150%;
+}
+
+input[type=radio] {
+    border: 0px;
+    width: 2em;
+    height: 2em;
+}
+
+#input-controls #searchbox {
+    font-size: 200%;
+}
+
+#content {
+    padding-top: 2em;
+}
+
+.fade {
+    opacity: 0.6;
+}
+
+.red {
+    color: red;
+}
