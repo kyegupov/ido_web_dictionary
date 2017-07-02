@@ -79,3 +79,7 @@ table#description td {
 .phrase {
     margin-bottom: 2em;
 }
+
+.hidden {
+    display: none;
+}
