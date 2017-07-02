@@ -71,9 +71,6 @@
                     src/main/resources
                 </directory>
                 <filtering>true</filtering>
-                <excludes>
-                    <exclude>static_site/serverless_sharded_json/**</exclude>
-                </excludes>
             </resource>
         </resources>
 

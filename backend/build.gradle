@@ -1,0 +1,54 @@
+buildscript {
+    ext.kotlin_version = '1.1.2'
+
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath 'com.github.jengelman.gradle.plugins:shadow:2.0.0'
+        classpath 'org.ajoberstar:grgit:1.1.0'
+    }
+}
+
+apply plugin: "kotlin"
+apply plugin: 'com.github.johnrengelman.shadow'
+apply plugin: 'application'
+
+ext {
+    // Open the Git repository in the current directory.
+    git = org.ajoberstar.grgit.Grgit.open(file('..'))
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile "ch.qos.logback:logback-classic:1.0.13"
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jre8"
+    compile "com.sparkjava:spark-core:2.5.3"
+    compile "com.google.code.gson:gson:2.6.2"
+    compile "org.apache.commons:commons-lang3:3.4"
+    compile "org.yaml:snakeyaml:1.17"
+    compile "org.jsoup:jsoup:1.8.3"
+}
+
+processResources {
+    with copySpec {
+        from 'src/main/resources'
+        filesMatching("**/index.html") {
+            expand([buildNumber: "${git.head().abbreviatedId}"])
+        }
+    }
+}
+
+jar {
+    manifest {
+        attributes 'Main-Class': 'org.kyegupov.dictionary.server.ServerKt'
+    }
+}
+
+mainClassName = 'org.kyegupov.dictionary.server.ServerKt'

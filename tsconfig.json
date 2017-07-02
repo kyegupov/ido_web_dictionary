@@ -1,6 +1,6 @@
 {
     "include": [
-        "src/main/resources/static_site/client_server/static/*"
+        "backend/src/main/resources/frontend/static/*"
     ],
     "exclude": [
         "node_modules",

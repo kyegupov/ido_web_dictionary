@@ -7,6 +7,7 @@ This is rough but working version.
 It is written in Java-compatible Kotlin programming language. It can be run via free IntelliJ IDEA
 programming environment.
 
+For build instructions, see `deployment`.
 
 # En Ido
 
