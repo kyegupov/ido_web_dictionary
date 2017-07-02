@@ -37,7 +37,7 @@
     -telegrafar).', '<b dict-key="radiometer">radiometer: </b>radiometro.', '<b dict-key="radiophone">radiophone:
     </b>radio-telefonar, (<i>instr</i>.) -ilo.', '<b dict-key="radioscope">radioscope:
     </b>radioskop-ilo.', '<b dict-key="radioscopy">radioscopy: </b>radioskop-ado;
-    (<i>by photography</i>) radiograf-ado.', '<b dict-key="radio raditelephone">radio-telegraph,
+    (<i>by photography</i>) radiograf-ado.', '<b dict-key="radio,raditelephone">radio-telegraph,
     -telephone: </b>radio-telegrafar, -telefonar.', '<b dict-key="radish">radish:
     </b>(<i>common</i>) rafan-eto.', '<b dict-key="radium">radium: </b>radiumo.',
   '<b dict-key="radius">radius: </b>(<i>of a circle</i>) radiuso (2001); (<i>bone</i>)
@@ -62,7 +62,7 @@
     at: </b>reproch(ach)ar (ulu); lament-egar (pri ulo); <b dict-key="railing">-ing:
     </b>(<i>barrier</i>) bar-ilo; (<i>fence</i>) fenco; (<i>hand</i>) pasamano; (<i>balustrade</i>)
     balustrado.', '<b dict-key="raillery">raillery: </b>jok-i, -ado; mok-i, -ado.',
-  '<b dict-key="railroad railway">railroad, railway: </b>fer-voy-o; (<i>tramway, street
+  '<b dict-key="railroad,railway">railroad, railway: </b>fer-voy-o; (<i>tramway, street
     railway</i>) tram-voyo, -veturo.', '<b dict-key="raiment">raiment: </b>(<i>one
     piece</i>) vest-o, (<i>collect</i>.) -ero.', '<b dict-key="rain">rain: </b>(<i>impers</i>.)
     pluv-ar, -o (<i>also fig</i>.).', '<b dict-key="rainbow">rainbow: </b>pluv-arko,
@@ -105,7 +105,7 @@
   '<b dict-key="rancid">rancid: </b>ranc-a; <b dict-key="rancidity">-ity: </b>-eso.',
   '<b dict-key="ranco">ranco</b>(<b dict-key="u">u</b>)<b dict-key="r">r: </b>rankor-o;
     <b dict-key="to have ranco">to have r.: </b>(<i>intr</i>.) -ar; <b dict-key="rancous">-ous:
-    </b>-ema, -oza (<i>cf</i>. odiar).', '<b dict-key="random at">random, at: </b>hazarde.',
+    </b>-ema, -oza (<i>cf</i>. odiar).', '<b dict-key="random,at">random, at: </b>hazarde.',
   '<b dict-key="range">range: </b>(<i>dispose in order</i>) ordinar; (<i>put in rows,
     in a rank</i>) rang-igar, -izar; (<i>extend</i>) extensar; (<i>wander</i>) vagar
     (<i>intr</i>.).', '<b dict-key="range">range: </b>(<i>row</i>) rango, lineo, serio;
@@ -147,7 +147,7 @@
     dict-key="rash">rash: </b>(<i>med</i>.) erupto.', '<b dict-key="rasher">rasher:
     </b>lardo-plako, -tranch-ajo.', '<b dict-key="rasp">rasp: </b>rasp-ar, -ilo.',
   '<b dict-key="raspberry">raspberry: </b>(<i>fruit</i>) frambo.', '<b dict-key="rat">rat:
-    </b>rato; (<i>v</i>.) desertar.', '<b dict-key="rata pro">rata, pro:</b> proporcione
+    </b>rato; (<i>v</i>.) desertar.', '<b dict-key="rata,pro">rata, pro:</b> proporcione
     ad.', '<b dict-key="ratable">ratable: </b>evalu-ebla; (<i>subject to tax</i>)
     impost-ebla, -enda.', '<b dict-key="ratafia">ratafia: </b>ratafio.', '<b dict-key="ratchet
     wheel">ratchet wheel: </b>kliko-roto, ingrano-roto; (<i>the pawl itself</i>) kliko,

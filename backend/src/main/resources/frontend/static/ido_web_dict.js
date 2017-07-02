@@ -123,7 +123,7 @@ var IdoDictionaryUi = (function () {
             $("#separator").hide();
         }
         IdoDictionaryUi.unfadeResults();
-        $("b[dict-key~='" + wordQuery + "']").addClass("red");
+        $("b[dict-key*='" + wordQuery + "']").addClass("red");
     };
     IdoDictionaryUi.displayLanguageResults = function (langSearchResponse, langCode) {
         var linksHtml = [];

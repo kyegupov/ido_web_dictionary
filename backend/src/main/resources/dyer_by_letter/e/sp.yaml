@@ -76,7 +76,7 @@
     orel-binoklo.', '<b dict-key="spectacular">spectacular:</b> spektakl-ala, -atra,
     teatr-ala, -atra; dramat-ala, -atra.', '<b dict-key="spectator">spectator:</b>
     spekt-anto, -ero, regard-anto; (<i>one present at</i>) asist-anto; <b dict-key="merely
-    a spectator">merely a s.:</b> kom nura spekt-anto.', '<b dict-key="specter spectre">specter,
+    a spectator">merely a s.:</b> kom nura spekt-anto.', '<b dict-key="specter,spectre">specter,
     spectre:</b> fantom-o; <b dict-key="spectertral">-tral: </b>-a, -ala, -atra.',
   '<b dict-key="spectroscope">spectroscope:</b> spektroskopo.', '<b dict-key="spectroscopy">spectroscopy:</b>
     spektroskopio.', '<b dict-key="spectrum">spectrum:</b> spektro.', '<b dict-key="speculate">speculate:</b>
@@ -125,7 +125,7 @@
   '<b dict-key="spermatocyte">spermatocyte:</b> spermatocito.', '<b dict-key="spermatogenesis">spermatogenesis:</b>
     spermatogenezo.', '<b dict-key="spermatogonium">spermatogonium:</b> spermatogonio.',
   '<b dict-key="spermatophore">spermatophore:</b> spermatoforo.', '<b dict-key="spermatorrhea">spermatorrhea:</b>
-    spermatoreo.', '<b dict-key="spermatozoid spermatozoon">spermatozoid, spermatozoon:
+    spermatoreo.', '<b dict-key="spermatozoid,spermatozoon">spermatozoid, spermatozoon:
     </b>spermatozoido.', '<b dict-key="spermine">spermine:</b> spermino.', '<b dict-key="sphacelus">sphacelus:</b>
     sfacelo.', '<b dict-key="sphenoid">sphenoid:</b> sfenoid-a, -o, -o-osto.', '<b
     dict-key="sphere">sphere:</b> (<i>geom</i>.) sfero; (<i>fig</i>.) domeno, regiono,
@@ -155,7 +155,7 @@
     out">s. out:</b> plu-long-igar, -eskar; dur-igar; <b dict-key="spin along">s.
     along:</b> (<i>on wheels</i>) rul-ar, -irar (alonge, trans).', '<b dict-key="spinach">spinach:</b>
     spinato.', '<b dict-key="spinal">spinal:</b> spin-a, -ala; <b dict-key="spinal
-    marrow spinal cord">s. marrow, s. cord: </b>myelo; <b dict-key="spinal column">s.
+    marrow,spinal cord">s. marrow, s. cord: </b>myelo; <b dict-key="spinal column">s.
     column: </b>spino.', '<b dict-key="spindle">spindle:</b> spindelo (<i>cf</i>.
     bobino, ruko); (<i>geom</i>.) fuzelo; <b dict-key="spindle">s.-shanks:</b> gambi
     spindel-atra; <b dict-key="spindle">s.-tree: </b>fuzeno.', '<b dict-key="spine">spine:</b>
@@ -191,21 +191,20 @@
     (<i>cf</i>. libelo); <b dict-key="spirit">s.-lamp:</b> alkohol-lampo; <b dict-key="spirits
     of turpentine">s.s of turpentine: </b>terpentin-oleo, esenco di terpentino; <b
     dict-key="spiritous liquors">s.ous liquors: </b>alkohol-aji.', '<b dict-key="spiritism">spiritism:&nbsp;</b>spirit-ismo.',
-  '<b dict-key="spiritist">spiritist:</b> spirit-ist, -o, -a.', '<b dict-key="spiritual
-    spiritualist">spiritual-ism, -ist:</b> (<i>opp. to materialism</i>) spirit-al
-    ismo, -al-isto; <b dict-key="spirituality">-ity: </b>spirit-al-eso; <b dict-key="spiritualize">-ize:
-    </b>spirit-al-igar.', '<b dict-key="spirt">spirt: </b><i>see</i><b dict-key="spurt">
-    spurt</b>.', '<b dict-key="spit">spit:</b> (<i>expectorate</i>) (<i>tr., intr.</i>)
-    sputar; (<i>meat, etc</i>.) spis-agar; (<i>pierce</i>) perforar, tra-pikar; (<i>treat
-    with contempt</i>) konsputar.', '<b dict-key="spit">spit:</b> (<i>for roasting</i>)
-    spiso; <b dict-key="land">land-s.:</b> ter-lang(et)o; <b dict-key="spitfire">s.fire:
-    </b>furi-emo.', '<b dict-key="spite">spite:</b> despit-o, rankoro, odio; <b dict-key="to
-    have a spite">to have a s.: </b>(<i>intr</i>.) despitar; (<i>intr</i>.) rankorar;
-    <b dict-key="to spite someone">to s. someone: </b>despit-igar ulu; <b dict-key="out
-    of spite">out of s.: </b>pro despito; <b dict-key="in spite of">in s. of: </b>malgre;
-    <b dict-key="spitful">-ful: </b>despit-oza, -ema; rankor-oza, -ema; malic-oza,
-    -ema.', '<b dict-key="spittle">spittle: </b>(<i>sputum</i>) sput-ajo (<i>cf</i>.
-    expektor-ajo); (<i>saliva</i>) salivo.', '<b dict-key="spittoon">spittoon:</b>
+  '<b dict-key="spiritist">spiritist:</b> spirit-ist, -o, -a.', '<b dict-key="spiritual,spiritualist">spiritual-ism,
+    -ist:</b> (<i>opp. to materialism</i>) spirit-al ismo, -al-isto; <b dict-key="spirituality">-ity:
+    </b>spirit-al-eso; <b dict-key="spiritualize">-ize: </b>spirit-al-igar.', '<b
+    dict-key="spirt">spirt: </b><i>see</i><b dict-key="spurt"> spurt</b>.', '<b dict-key="spit">spit:</b>
+    (<i>expectorate</i>) (<i>tr., intr.</i>) sputar; (<i>meat, etc</i>.) spis-agar;
+    (<i>pierce</i>) perforar, tra-pikar; (<i>treat with contempt</i>) konsputar.',
+  '<b dict-key="spit">spit:</b> (<i>for roasting</i>) spiso; <b dict-key="land">land-s.:</b>
+    ter-lang(et)o; <b dict-key="spitfire">s.fire: </b>furi-emo.', '<b dict-key="spite">spite:</b>
+    despit-o, rankoro, odio; <b dict-key="to have a spite">to have a s.: </b>(<i>intr</i>.)
+    despitar; (<i>intr</i>.) rankorar; <b dict-key="to spite someone">to s. someone:
+    </b>despit-igar ulu; <b dict-key="out of spite">out of s.: </b>pro despito; <b
+    dict-key="in spite of">in s. of: </b>malgre; <b dict-key="spitful">-ful: </b>despit-oza,
+    -ema; rankor-oza, -ema; malic-oza, -ema.', '<b dict-key="spittle">spittle: </b>(<i>sputum</i>)
+    sput-ajo (<i>cf</i>. expektor-ajo); (<i>saliva</i>) salivo.', '<b dict-key="spittoon">spittoon:</b>
     sput-aj-uyo, sput-vazo.', '<b dict-key="splash">splash:</b> (<i>make a splashing
     noise, as waves, liquids</i>) (<i>tr., intr.</i>) plaudar; (<i>spatter</i>) spric-izar;
     (<i>see</i> <b dict-key="bespatter">bespatter</b>); (<i>with colo(u)rs</i>) indutar;
@@ -216,7 +215,7 @@
     splino; (<i>ill-humo(u)r</i>) despito; <b dict-key="spleenetic">-etic:</b> (<i>peevish</i>)
     despit-ema; (<i>med.; be in low spirits</i>) (<i>intr</i>.) splin-ar, esar splin-oza,
     -ema.', '<b dict-key="splenalgy">splenalgy:</b> splenalgio.', '<b dict-key="splendid">splendid:</b>
-    splendida (<i>cf</i>. lux-oza, jener-oza).', '<b dict-key="splendor splendour">splendor,
+    splendida (<i>cf</i>. lux-oza, jener-oza).', '<b dict-key="splendor,splendour">splendor,
     splendour:</b> splendid-eso, bril-ego.', '<b dict-key="splenitis">splenitis:</b>
     splenito.', '<b dict-key="splice">splice:</b> splis-ar, -o, -uro; <b dict-key="splicing
     fid">-cing fid:</b> -ilo.', '<b dict-key="splint">splint:</b> (<i>surg. and tech.</i>)
@@ -255,7 +254,7 @@
     (<i>find</i>) trovar.', '<b dict-key="spot">spot:</b> (<i>blotch</i>) makul-(et)o;
     (<i>mole, natural &ldquo;beauty s.&rdquo;</i>) spoto, nevuso; (<i>drop</i>) guto;
     (<i>place</i>) loko; (<i>point</i>) punto; <b dict-key="spotless">-less: </b>sen-makula
-    (<i>cf</i>. pura; net-ega); <b dict-key="spoted spoty">-ted, -ty: </b>makul-iz-ita
+    (<i>cf</i>. pura; net-ega); <b dict-key="spoted,spoty">-ted, -ty: </b>makul-iz-ita
     (<i>cf</i>. bunta).', '<b dict-key="spouse">spouse:</b> spoz-o, -ulo, -ino.',
   '<b dict-key="spout">spout:</b> (<i>spirt</i>) spricar (ek, de); (<i>declaim</i>)
     deklam-(ach)ar.', '<b dict-key="spout">spout:</b> (<i>of a vessel</i>) beko, vars-tubo,

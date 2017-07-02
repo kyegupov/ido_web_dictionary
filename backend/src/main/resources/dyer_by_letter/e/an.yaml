@@ -1,19 +1,18 @@
 ['<b dict-key="anabaptism">anabaptism:</b> anabapstism-o.', '<b dict-key="anabaptist">anabaptist:</b>
     anabaptist-o.', '<b dict-key="anachronism">anachronism:</b> anakronismo.', '<b
     dict-key="anacoluthon">anacoluthon:</b> anakoluto.', '<b dict-key="anaconda">anaconda:</b>
-    (<i>bio.</i>) anakondo.', '<b dict-key="anaemia anemia">anaemia, anemia:</b> anemio.',
+    (<i>bio.</i>) anakondo.', '<b dict-key="anaemia,anemia">anaemia, anemia:</b> anemio.',
   '<b dict-key="anaerobic">anaerobic:</b> anaerobia.', '<b dict-key="anagallis">anagallis:</b>
     anagalo.', '<b dict-key="anagram">anagram:</b> anagramo.', '<b dict-key="anal">anal:</b>
     anus-ala; <b dict-key="anal fin">a. fin:</b> anus-ala floso.', '<b dict-key="analgesia">analgesia:</b>
-    analgezio.', '<b dict-key="analog">analog:</b> analog-a.', '<b dict-key="analag
-    analagy">analag-ous, -y:</b> analog-a; (<i>quality</i>) -eso; (<i>something a.</i>)
-    -ajo.', '<b dict-key="analyze">analyze:</b> analizar.', '<b dict-key="analytic
-    analytical">analytic-s, -al:</b> analitik-o, -ala.', '<b dict-key="anamnesis">anamnesis:</b>
-    (<i>v., to make an</i>) anamnezar.', '<b dict-key="anamorphosis">anamorphosis:</b>
-    anamorfoso.', '<b dict-key="anapest">anapest:</b> anapesto.', '<b dict-key="anaphase">anaphase:</b>
-    anafazo.', '<b dict-key="anarch anarchist anarchy">anarch-ism, -ist, -y:</b> anarki-ismo,
-    -isto, -o.', '<b dict-key="anastigmatic">anastigmatic:</b> anastigmata.', '<b
-    dict-key="anastomosis">anastomosis:</b> anastomoso.', '<b dict-key="anathema">anathema:</b>
+    analgezio.', '<b dict-key="analog">analog:</b> analog-a.', '<b dict-key="analag,analagy">analag-ous,
+    -y:</b> analog-a; (<i>quality</i>) -eso; (<i>something a.</i>) -ajo.', '<b dict-key="analyze">analyze:</b>
+    analizar.', '<b dict-key="analytic,analytical">analytic-s, -al:</b> analitik-o,
+    -ala.', '<b dict-key="anamnesis">anamnesis:</b> (<i>v., to make an</i>) anamnezar.',
+  '<b dict-key="anamorphosis">anamorphosis:</b> anamorfoso.', '<b dict-key="anapest">anapest:</b>
+    anapesto.', '<b dict-key="anaphase">anaphase:</b> anafazo.', '<b dict-key="anarch,anarchist,anarchy">anarch-ism,
+    -ist, -y:</b> anarki-ismo, -isto, -o.', '<b dict-key="anastigmatic">anastigmatic:</b>
+    anastigmata.', '<b dict-key="anastomosis">anastomosis:</b> anastomoso.', '<b dict-key="anathema">anathema:</b>
     anatemo; <b dict-key="anathemtize">-tize:</b> anatemar; <b dict-key="anathemized
     person">-ized person:</b> anatem-ito.', '<b dict-key="anatomy">anatomy:</b> anatomio.',
   '<b dict-key="ancestor">ancestor:</b> ancestro.', '<b dict-key="anchor">anchor:</b>
@@ -41,9 +40,9 @@
   '<b dict-key="angry">angry:</b> (<i>to be</i>) irac-ar, (<i>tr.</i>) -igar; (<i>to
     be furious</i>) furi-ar, -eskar; (<i>tr.</i>) -igar.', '<b dict-key="angina">angina:</b>
     angino.', '<b dict-key="angiosperm">angiosperm:</b> anginospermo.', '<b dict-key="angle">angle:</b>
-    angulo; (<i>verb</i>) (<i>intr.</i>) peskar.', '<b dict-key="Anglican Anglicanism">Anglican,
+    angulo; (<i>verb</i>) (<i>intr.</i>) peskar.', '<b dict-key="Anglican,Anglicanism">Anglican,
     -ism:</b> Anglikan-a, -o; -ismo.', '<b dict-key="Anglicize">Anglicize:</b> Angl-(atr)igar.',
-  '<b dict-key="Anglomani Anglomanac">Anglomani-a, -ac:</b> Anglo-mani-o; -ika, -iko.',
+  '<b dict-key="Anglomani,Anglomanac">Anglomani-a, -ac:</b> Anglo-mani-o; -ika, -iko.',
   '<b dict-key="Anglophobia">Anglophobia:</b> Angl-odio; <b dict-key="Anglophobiphobe">-phobe:</b>
     Angl-odiant-a, -o.', '<b dict-key="angora">angora:</b> (<i>cat, goat</i>) &quot;angora&quot;
     (kato, kapro).', '<b dict-key="anguish">anguish:</b> angoro, tormento, dolor-ego;
@@ -81,7 +80,7 @@
     un-yara; (<i>year-book</i>) yar-libro.', '<b dict-key="annul">annul:</b> anular;
     nihil-igar, -eskar; abrograr, kasacar.', '<b dict-key="annular">annular:</b> ring-a,
     -atra, -o-forma.', '<b dict-key="annum">annum:</b> yaro; <b dict-key="per annum">per
-    a.:</b> yare.', '<b dict-key="Annunciation the">Annunciation, the:</b> anunco-festo.',
+    a.:</b> yare.', '<b dict-key="Annunciation,the">Annunciation, the:</b> anunco-festo.',
   '<b dict-key="anode">anode:</b> anodo.', '<b dict-key="anodyne">anodyne:</b> kalm-ig-iva,
     -ivo.', '<b dict-key="annoint">annoint:</b> uncionar (ulu per ulo).', '<b dict-key="anomalous">anomalous:</b>
     anomala, ne-regul-oza; <b dict-key="anomalously">-ly:</b> (<i>quality</i>) ne-regul-oz-eso;
@@ -109,9 +108,9 @@
     (pro); <b dict-key="answer to">a. to:</b> (<i>correspond to</i>) konform-esar
     ad; <b dict-key="answerable">a.able:</b> respons-anta, -iva (pri); refut-ebla;
     konforma ad; (<i>to be</i>) (<i>intr.</i>) responsar.', '<b dict-key="ant">ant:</b>
-    formiko; <b dict-key="white ant">white a.:</b> termito; <b dict-key="ant hill
-    nest">a. hill, nest:</b> formik-eyo; <b dict-key="to swarm with or like ants">to
-    swarm with (or like) ants:</b> formik-umar.', '<b dict-key="antagonism">antagonism:</b>
+    formiko; <b dict-key="white ant">white a.:</b> termito; <b dict-key="ant hill,nest">a.
+    hill, nest:</b> formik-eyo; <b dict-key="to swarm with or like ants">to swarm
+    with (or like) ants:</b> formik-umar.', '<b dict-key="antagonism">antagonism:</b>
     antagonism-o.', '<b dict-key="antagonist">antagonist:</b> antagonist-o; <b dict-key="antagonistic">-ic:</b>
     antagonista.', '<b dict-key="antagonize">antagonize:</b> opozar, kontre-agar;
     (<i>to cause to a.</i>) opoz-igar; igar (ulu) opozar od esar opozanto.', '<b dict-key="antarctic">antarctic:</b>
@@ -126,7 +125,7 @@
     ante-diluvia.', '<b dict-key="antelope">antelope:</b> antilopo (<i>cf.</i> bubalo).',
   '<b dict-key="antemeridian">antemeridian:</b> matin-ala.', '<b dict-key="antenna">antenna:</b>
     (<i>zool., elec.</i>) anteno.', '<b dict-key="antenuptial">antenuptial:</b> ante-,
-    pre-mariaja.', '<b dict-key="antepenult antepenultimate">antepenult, -imate:</b>
+    pre-mariaja.', '<b dict-key="antepenult,antepenultimate">antepenult, -imate:</b>
     triesme lasta, ante-prelasta (silabo).', '<b dict-key="anterior">anterior:</b>
     (<i>time</i>) anteriora (1951); ante-a (ad), plu frue (kam); (<i>space</i>) avan-a;
     <b dict-key="anteriority">-ity:</b> ante-eso.', '<b dict-key="ante">ante-room:</b>
@@ -135,9 +134,9 @@
     antero.', '<b dict-key="antheridium">antheridium:</b> anteridio.', '<b dict-key="antherozoid">antherozoid:</b>
     anterozoido.', '<b dict-key="anthesis">anthesis:</b> antezo.', '<b dict-key="anthology">anthology:</b>
     antologio.', '<b dict-key="anthracite">anthracite:</b> antracito.', '<b dict-key="anthrax">anthrax:</b>
-    antraxo.', '<b dict-key="anthropoid">anthropoid:</b> antropoid-a, -o.', '<b dict-key="anthropolog
-    anthropologist">anthropolog-y, -ist:</b> antropologi-o, -isto.', '<b dict-key="anthropomorph
-    anthropomorphism">anthropomorph-ic, -ism:</b> antropomorf-a, -ism.', '<b dict-key="anthropometry">anthropometry:</b>
+    antraxo.', '<b dict-key="anthropoid">anthropoid:</b> antropoid-a, -o.', '<b dict-key="anthropolog,anthropologist">anthropolog-y,
+    -ist:</b> antropologi-o, -isto.', '<b dict-key="anthropomorph,anthropomorphism">anthropomorph-ic,
+    -ism:</b> antropomorf-a, -ism.', '<b dict-key="anthropometry">anthropometry:</b>
     antropometrio.', '<b dict-key="anthropophagy">anthropophagy:</b> kanibal-eso.',
   '<b dict-key="anti">anti-:</b> (<i>prefix</i>) kontre-; (<i>in a few scientific
     words</i>) anti-.', '<b dict-key="antibiotic">antibiotic:</b> (<i>adj.</i>) antibiotika,',
@@ -154,7 +153,7 @@
     kontre-veneno.', '<b dict-key="anti">anti-febrile:</b> kontre-febra.', '<b dict-key="antifermenting
     agent">antifermenting (agent):</b> antifermento.', '<b dict-key="antigen">antigen:</b>
     antigeno.', '<b dict-key="antilogy">antilogy:</b> antilogio.', '<b dict-key="antimatter">antimatter:</b>
-    antimaterio.', '<b dict-key="antimilitar antimilitarist">antimilitar-ism, -ist:</b>
+    antimaterio.', '<b dict-key="antimilitar,antimilitarist">antimilitar-ism, -ist:</b>
     antimilitar-ismo; -isto, (<i>adj.</i>) -a.', '<b dict-key="antimonarchic">antimonarchic(al):</b>
     kontre-monarkia.', '<b dict-key="antimony">antimony:</b> antimonio.', '<b dict-key="antinomy">antinomy:</b>
     antinomio.', '<b dict-key="antiparticle">antiparticle:</b> antipartikulo.', '<b
@@ -169,7 +168,7 @@
     (<i>out of fashion</i>) ek-moda; (<i>person</i>) old-eta, -acha.', '<b dict-key="antique">antique:</b>
     antiqu-a, -ajo.', '<b dict-key="antiquity">antiquity:</b> (<i>quality, epoch</i>)
     antiqu-eso.', '<b dict-key="anti">anti-religious:</b> kontre-religia.', '<b dict-key="anti">anti-scorbutic:</b>
-    kontre-skorbuta.', '<b dict-key="anti ante">anti-Semit-ic, -e:</b> kontre-jud-a,
+    kontre-skorbuta.', '<b dict-key="anti,ante">anti-Semit-ic, -e:</b> kontre-jud-a,
     -i; -semid-a, -(ul)o; <b dict-key="antism">-ism:</b> -ismo.', '<b dict-key="antiseptic">antiseptic:</b>
     antisepta; antisepsi-iva, -ivo; (<i>state</i>) -eso; <b dict-key="to be antiseptic">to
     be a.:</b> antisepsi-esar; <b dict-key="antisepticize">-cize :</b> antisepsi-ar
@@ -188,11 +187,11 @@
     infanti havas pano. <i>Did he get any money?</i> Ka il recevis pekunio? <i>He
     wrote without any ink:</i> Il skribas sen inko.); <b dict-key="any">any-body:</b>
     ulu, irgu (<i>pl.</i>) uli, irgi; <b dict-key="anything">anything:</b> ulo, irgo;
-    <b dict-key="anyhow anyway">anyhow, anyway:</b> irge, irga-maniere, irga-quale;
+    <b dict-key="anyhow,anyway">anyhow, anyway:</b> irge, irga-maniere, irga-quale;
     <b dict-key="anytime">anytime:</b> irge-kande, irga-tempe; <b dict-key="anywhere">anywhere:</b>
     irga-loke, irg-ube; <b dict-key="of any sort">of any sort:</b> irge-quala. <b
     dict-key="Have you any more">Have you any more?:</b> Kad vu havas plu multo? <b
     dict-key="I cannot stay here any longer">I cannot stay here any longer:</b> Me
-    ne povas restar hike plu-longatempe. <b dict-key="Whether he got any or not I
+    ne povas restar hike plu-longatempe. <b dict-key="Whether he got any or not,I
     don know">Whether he got any or not, I don''t know:</b> Kad il recevis kelka o
     ne, me ne savas.']

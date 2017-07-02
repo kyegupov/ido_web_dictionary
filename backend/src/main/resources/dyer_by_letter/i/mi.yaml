@@ -6,7 +6,7 @@
     micelle.', '<b dict-key="micirklo">mi-cirkl-o:</b> hemicycle, half-circle.', '<b
     dict-key="mideo">mi-de-o:</b> demigod.', '<b dict-key="midekeduo">mi-dek-e-du-o:</b>
     half-dozen.', '<b dict-key="mielo">miel-o:</b> honey; (<i>fig.</i>) sweetness;
-    <b dict-key="mielala mieloza mielatra">-ala, -oza, -atra:</b> honeyed, melliferous;
+    <b dict-key="mielala,mieloza,mielatra">-ala, -oza, -atra:</b> honeyed, melliferous;
     <b dict-key="mielifar">-ifar:</b> to produce honey; <b dict-key="mielaquo">-aquo:</b>
     hydromel, mead; <b dict-key="mielkuko">-kuko:</b> gingerbread; <b dict-key="mielmixuro">-mixuro:</b>
     oxymel: a mixture of vinegar and honey; <b dict-key="mieltempo">-tempo:</b> honeymoon.
@@ -14,24 +14,24 @@
     from the leaves of a tree.', '<b dict-key="mieno">mien-o:</b> (of the face) look(s),
     mien, countenance, <b dict-key="mienacho">-acho:</b> affected, lackadaisical,
     simpering look; <b dict-key="mieno superba">-o superba:</b> haughty look; <b dict-key="facar
-    mieni mienachi">facar mien-i, -achi:</b> to put on airs, mince, simper, smirk;
+    mieni,mienachi">facar mien-i, -achi:</b> to put on airs, mince, simper, smirk;
     <b dict-key="ne judikez homo segun lua mieno">ne judikez homo segun lua mieno:</b>
     do not judge a person by his looks. &mdash; DEFR', '<b dict-key="mifacio">mi-faci-o:</b>
     (<i>photog.</i>) pose between face and profile; (cf. <b dict-key="miprofilo">mi-profilo</b>).',
   '<b dict-key="mifarmajo">mi-farm-ajo:</b> metairie: land (or implements) leased
-    for half-share of produce; <b dict-key="miado">-ado:</b> metayage; <b dict-key="miisto
-    miero">-isto, -ero:</b> metayer.', '<b dict-key="mifratulo">mi-frat-ulo:</b> half-brother.',
-  '<b dict-key="migrar">migr-ar:</b> (<i>intr.</i>) to migrate; <b dict-key="migranta
-    migrema">-anta, -ema:</b> migrating; (<i>fig.</i>) itinerant; <b dict-key="migranta
-    uceli">-anta uceli:</b> migrating birds. &mdash; EFIS', '<b dict-key="migreno">migren-o:</b>
+    for half-share of produce; <b dict-key="miado">-ado:</b> metayage; <b dict-key="miisto,miero">-isto,
+    -ero:</b> metayer.', '<b dict-key="mifratulo">mi-frat-ulo:</b> half-brother.',
+  '<b dict-key="migrar">migr-ar:</b> (<i>intr.</i>) to migrate; <b dict-key="migranta,migrema">-anta,
+    -ema:</b> migrating; (<i>fig.</i>) itinerant; <b dict-key="migranta uceli">-anta
+    uceli:</b> migrating birds. &mdash; EFIS', '<b dict-key="migreno">migren-o:</b>
     megrim: a kind of sick or nervous pain affecting one side of the head, hemicrania.
     &mdash; DEFIR', '<b dict-key="migrenino">migrenin-o*:</b> (<i>med.</i>) a kind
     of remedy for megrim or hemicrania.', '<b dict-key="mikao">mika-o:</b> (<i>min.</i>)
     mica. &mdash; DEFIS', '<b dict-key="mikorizo">mikoriz-o:</b> (<i>biol.</i>) mycorrhiza.
     &mdash; DEFIS', '<b dict-key="mikra">mikr-a:</b> little, small; (cf. <b dict-key="poka">poka</b>);
-    <b dict-key="mikreta mikracha">-eta, -acha:</b> tiny, wee; <b dict-key="mikrope">-ope:</b>
+    <b dict-key="mikreta,mikracha">-eta, -acha:</b> tiny, wee; <b dict-key="mikrope">-ope:</b>
     little by little, bit by bit; <b dict-key="mikrigar">-igar:</b> to make small,
-    belittle (cf. <b dict-key="mingrandigar diminutar">min-grand-igar, diminutar</b>);
+    belittle (cf. <b dict-key="mingrandigar,diminutar">min-grand-igar, diminutar</b>);
     <b dict-key="mikrokosmo">-o-kosmo:</b> microcosm. Ex.: Mikra spaco, chambro, homo,
     sumo, nombro, merito. Ant.: <b dict-key="granda">granda. &mdash; </b>DEFIRS',
   '<b dict-key="mikro">mikro-:</b> (<i>scient. prefix</i>) small.', '<b dict-key="mikrobo">mikrob-o:</b>
@@ -55,7 +55,7 @@
     &mdash; DEFIRS', '<b dict-key="mil">mil:</b> 1,000, thousand; <b dict-key="milo">-o:</b>
     a (one) thousand; <b dict-key="milesma">-esma:</b> (ordinal) 1000&lt;sup&gt;th
     &lt;/sup&gt;; <b dict-key="milimo">-imo:</b> (fraction) 1/1000 (part); <b dict-key="milyara">-yara:</b>
-    millenary; (cf. <b dict-key="cent du">cent, du</b> for derivatives). &mdash; FIS',
+    millenary; (cf. <b dict-key="cent,du">cent, du</b> for derivatives). &mdash; FIS',
   '<b dict-key="milano">milan-o:</b> (<i>orni.</i>) kite (Milvus ictinus). &mdash;
     FS', '<b dict-key="milbo">milb-o:</b> (<i>zool.</i>) grain beetle.', '<b dict-key="milda">mild-a:</b>
     (2001) mild, gentle. &mdash; DE', '<b dict-key="mili">mili-:</b> (<i>prefix</i>)
@@ -70,12 +70,12 @@
     (millimetre): 0.039 inch. &mdash; DEFIRS', '<b dict-key="milimikrono">milimikron-o:</b>
     millionth part of a milimetre.', '<b dict-key="miliono">milion-o:</b> million;
     <b dict-key="milioniero">-iero:</b> millionaire. &mdash; DEFIRS', '<b dict-key="militar">milit-ar:</b>
-    (<i>intr.</i>) to (make) war; (<i>fig.</i>) to militate; (<b dict-key="por kontre">por,
-    kontre</b>); <b dict-key="militigar">-igar:</b> to cause to make war; <b dict-key="militanto
-    militisto">-anto, -isto:</b> fighter, combatant, warrior; <b dict-key="militala">-ala:</b>
-    military: relating to war; <b dict-key="militistala">-ist-ala:</b> military: relating
-    to warriors; <b dict-key="militema">-ema:</b> combative, pugnacious, bellicose;
-    <b dict-key="militarto">-arto:</b> art of war; <b dict-key="militruzo">-ruzo:</b>
+    (<i>intr.</i>) to (make) war; (<i>fig.</i>) to militate; (<b dict-key="por,kontre">por,
+    kontre</b>); <b dict-key="militigar">-igar:</b> to cause to make war; <b dict-key="militanto,militisto">-anto,
+    -isto:</b> fighter, combatant, warrior; <b dict-key="militala">-ala:</b> military:
+    relating to war; <b dict-key="militistala">-ist-ala:</b> military: relating to
+    warriors; <b dict-key="militema">-ema:</b> combative, pugnacious, bellicose; <b
+    dict-key="militarto">-arto:</b> art of war; <b dict-key="militruzo">-ruzo:</b>
     stratagem (of war); <b dict-key="militistaro">-ist-aro:</b> armed force of a country
     (cf. <b dict-key="armeo">armeo</b>); <b dict-key="militjudicio">-judicio:</b>
     court-martial; <b dict-key="militala kaptito">-ala kapt-ito:</b> prisoner of war;
@@ -87,7 +87,7 @@
     esas igar lu militisto.', '<b dict-key="milumo">mi-lum-o:</b> half-light, twilight,
     subdued light.', '<b dict-key="miluno">mi-lun-o:</b> half-moon.', '<b dict-key="milyeto">milyet-o:</b>
     (<i>bot.</i>) millet (Panicum miliaceum).', '<b dict-key="mimar">mim-ar:</b> (<i>tr.</i>)
-    to mimic: express by dumb show, as for ridicule; <b dict-key="mimanto mimisto">-anto,
+    to mimic: express by dumb show, as for ridicule; <b dict-key="mimanto,mimisto">-anto,
     -isto:</b> mimic, mime. &mdash; DEFIRS', '<b dict-key="mimetika">mimetik-a*:</b>
     (<i>zool.</i>) a mimicking (animal); <b dict-key="mimetikeso">-eso:</b> mimicry;
     imitative resemblance of one animal to another or to some inanimate object. ',
@@ -112,7 +112,7 @@
     sap; <b dict-key="mineyo">-eyo:</b> a mine; <b dict-key="mineyala">-ey-ala:</b>
     pertaining to mines: <b dict-key="la rivero minis la rivo">la rivero minis la
     rivo:</b> the river undermined the bank. &mdash; DEFIRS', '<b dict-key="minacar">minac-ar:</b>
-    (<i>tr.</i>) to menace, to threaten (<b dict-key="ulu per ulo">ulu, per ulo</b>).
+    (<i>tr.</i>) to menace, to threaten (<b dict-key="ulu,per ulo">ulu, per ulo</b>).
     Ex.: Il minacis mortigar me. La muro minacis krular (E. the wall totters). Kolero
     esas minaco. &mdash; EFIS', '<b dict-key="minareto">minaret-o:</b> minaret. &mdash;
     DEFIRS', '<b dict-key="mineralo">mineral-o:</b> mineral; <b dict-key="mineraligar">-igar:</b>
@@ -121,14 +121,14 @@
     mineralogy; <b dict-key="mineralogiisto">-isto:</b> mineralogist. &mdash; DEFIRS',
   '<b dict-key="minestrelo">minestrel-o:</b> minstrel: poet, singer of the Middle
     Ages. &mdash; DEFIR', '<b dict-key="mingrandigar">min-grand-igar:</b> to lessen,
-    make smaller; (cf. <b dict-key="mikrigar mingrosigar diminutar">mikr-igar, min-gros-igar,
+    make smaller; (cf. <b dict-key="mikrigar,mingrosigar,diminutar">mikr-igar, min-gros-igar,
     diminutar</b>).', '<b dict-key="mingrosigar">min-gros-igar:</b> to reduce in size;
     (cf. <b dict-key="tenuigar">tenu-igar</b>).', '<b dict-key="miniaturo">miniatur-o:</b>
     miniature; a small and delicate painting, as a portrait; a representation on a
-    much reduced scale. &mdash; DEFIRS', '<b dict-key="minim minim">minim(e), -a:</b>
+    much reduced scale. &mdash; DEFIRS', '<b dict-key="minim,minim">minim(e), -a:</b>
     (superlative of <b dict-key="min">min</b>) least, lowest, minimum; <b dict-key="minim">-o:</b>
     minimum; <b dict-key="minim nombro necesa por valideso di voti">-a nombro (necesa
-    por valideso di voti):</b> quorum; <b dict-key="minim bona minim kurajoza">minim
+    por valideso di voti):</b> quorum; <b dict-key="minim bona,minim kurajoza">minim
     bona, minim kurajoza:</b> least good, least courageous; <b dict-key="minim multa
     bruiso posibla">minim multa bruiso posibla:</b> least possible noise: <b dict-key="minim
     chera">minim chera:</b> least dear, the cheapest; <b dict-key="la minim alta monto">la
@@ -140,7 +140,7 @@
     darling, pet; <b dict-key="miniona boko">-a boko:</b> a pretty (and small) mouth;
     <b dict-key="miniona pedo">-a pedo:</b> a dainty foot. &mdash; F', '<b dict-key="ministerio">ministeri-o:</b>
     administrative or executive department of a government of which a <b dict-key="ministro">ministro</b>
-    is the head (cf. V-158); <b dict-key="la ministraro demisionis ma la ministerii
+    is the head (cf. V-158); <b dict-key="la ministraro demisionis,ma la ministerii
     ankore funcionis">la ministraro demisionis, ma la ministerii ankore funcionis:</b>
     the ministers have resigned but the &laquo;ministries&raquo; (administrative departments)
     still carried on their work.', '<b dict-key="ministro">ministr-o:</b> (<i>state
@@ -161,7 +161,7 @@
     minutia, trifle, minor detail: <b dict-key="minucii">-i:</b> minutiae; <b dict-key="minuciema">-ema:</b>
     (person) particular; attentive to detail, fastidious, hairsplitter; <b dict-key="minuciemacho">-em-acho:</b>
     fuss-budget, busybody. &mdash; DEFIS', '<b dict-key="minus">minus:</b> (<i>arith.,
-    alg.</i>) minus; <b dict-key="di plus tri minus un facas od esas quar">di plus
+    alg.</i>) minus; <b dict-key="di plus tri minus un facas od,esas quar">di plus
     tri minus un facas (od, esas) quar:</b> two plus three minus one makes four; <b
     dict-key="il pagis a me un dollar minuse">il pagis a me un dollar minuse:</b>
     he paid me one dollar less (i.e. he took one dollar from the price); <b dict-key="un
@@ -178,7 +178,7 @@
     (<i>geol.</i>) miocene. &mdash; DEFIS', '<b dict-key="miologio">miologi-o:</b>
     myology. &mdash; DEFIS', '<b dict-key="miombro">mi-ombr-o:</b> half-shade, partial
     shadow; (<i>astron.</i>) penumbra; (cf. <b dict-key="milumo">mi-lumo</b>).', '<b
-    dict-key="miopa miop">miop-a, -(ul)o:</b> near-sighted, myopic (person); <b dict-key="miopeso">-eso:</b>
+    dict-key="miopa,miop">miop-a, -(ul)o:</b> near-sighted, myopic (person); <b dict-key="miopeso">-eso:</b>
     myopia. &mdash; DEFIS', '<b dict-key="miozoto">miozot-o:</b> (<i>bot.</i>) myosotis:
     forget-me-not (genus: Myosotis). &mdash; EFISL', '<b dict-key="miprofilo">mi-profil-o:</b>
     (<i>photog.</i>) half-profile (taken from the back; cf. <b dict-key="mifacio">mi-facio</b>).',
@@ -202,16 +202,16 @@
     (<i>prefix</i>) wrongly, badly, unfavourably.', '<b dict-key="mis su">mis-alianc-ar
     (su):</b> to contract a misalliance; to marry beneath one; <b dict-key="o">-o:</b>
     misalliance, a bad match.', '<b dict-key="misaplikar">mis-aplik-ar:</b> (<i>tr.</i>)
-    to misapply (<b dict-key="ulo ad sur">ulo, ad, sur</b>).', '<b dict-key="misdeskriptar">mis-deskript-ar:</b>
+    to misapply (<b dict-key="ulo,ad,sur">ulo, ad, sur</b>).', '<b dict-key="misdeskriptar">mis-deskript-ar:</b>
     (<i>tr.</i>) to misrepresent, wrongfully describe (cf. <b dict-key="misprezentar">mis-prezentar</b>).',
   '<b dict-key="mis">mis-(dis)donar:</b> (<i>tr.</i>) to misdeal (cards).', '<b dict-key="misduktar">mis-dukt-ar:</b>
     (<i>tr.</i>) to mislead (<b dict-key="ulu">ulu</b>).', '<b dict-key="miseventar">mis-event-ar:</b>
     (<i>intr.</i>) to come to any harm, to happen unluckily, to turn out ill; <b dict-key="miso">-o:</b>
     mischance, mishap, misadventure.', '<b dict-key="misfero">mi-sfer-o:</b> hemisphere.',
   '<b dict-key="misformacar">mis-formac-ar:</b> (<i>tr.</i>) to misform, misshape;
-    <b dict-key="miso misuro">-o, -uro:</b> malformation.', '<b dict-key="misinterpretar">mis-interpret-ar:</b>
+    <b dict-key="miso,misuro">-o, -uro:</b> malformation.', '<b dict-key="misinterpretar">mis-interpret-ar:</b>
     (<i>tr.</i>) to misinterpret.', '<b dict-key="misionar">mision-ar:</b> (<i>religious,
-    scientific, etc.</i>) mission; <b dict-key="misionisto misionero">-isto, -ero:</b>
+    scientific, etc.</i>) mission; <b dict-key="misionisto,misionero">-isto, -ero:</b>
     missionary. &mdash; DEFIRS', '<b dict-key="misirar">mis-ir-ar:</b> (<i>intr.</i>)
     to go astray, lose one&rsquo;s way.', '<b dict-key="misjudicio">mis-judici-o:</b>
     (<i>jur.</i>) erroneous judgement.', '<b dict-key="misjudikar">mis-judik-ar:</b>
@@ -220,8 +220,8 @@
     (<i>tr.</i>) to misunderstand, misapprehend.', '<b dict-key="miskonceptar">mis-koncept-ar:</b>
     (<i>tr.</i>) to misconceive.', '<b dict-key="miskonocar">mis-konoc-ar:</b> (<i>tr.</i>)
     to misunderstand (something perceptible to the senses), to mistake; (cf. <b dict-key="konocar">konocar</b>).',
-  '<b dict-key="miskontar">mis-kont-ar:</b> (<i>tr.</i>) to miscount.', '<b dict-key="misnomar
-    misizar">mis-nom-ar, -izar:</b> to misname, give a wrong name to (cf. <b dict-key="nomar">nom-ar</b>).',
+  '<b dict-key="miskontar">mis-kont-ar:</b> (<i>tr.</i>) to miscount.', '<b dict-key="misnomar,misizar">mis-nom-ar,
+    -izar:</b> to misname, give a wrong name to (cf. <b dict-key="nomar">nom-ar</b>).',
   '<b dict-key="mispafar">mis-paf-ar:</b> (<i>intr.</i>) to miss fire.', '<b dict-key="mispazo">mis-paz-o:</b>
     (<i>lit. and fig.</i>) false step, mis-step; blunder, slip; <i>faux pas; </i><b
     dict-key="mispazar">-pazar:</b> to make, take a false step, stumble (cf. <b dict-key="pedbutar">ped-butar</b>).',
@@ -239,12 +239,12 @@
     (<i>bot.</i>) mistletoe (Viscum); <b dict-key="mistelbero">-bero:</b> berry of
     mistletoe. &mdash; De', '<b dict-key="misterio">misteri-o:</b> (<i>also antiq.,
     eccl.</i>) mystery; <b dict-key="misteriala">-ala:</b> relating to mysteries;
-    <b dict-key="misterioza misteriatra">-oza, -atra:</b> mysterious. &mdash; DEFIRS',
+    <b dict-key="misterioza,misteriatra">-oza, -atra:</b> mysterious. &mdash; DEFIRS',
   '<b dict-key="mistifikar">mistifik-ar:</b> (<i>tr.</i>) to hoax, mystify: mischievously
     deceive someone in sport; <b dict-key="mistifiko">-o:</b> hoax, mystify (for sport);
-    (cf. <b dict-key="perplexigar konfuzigar">perplex-igar, konfuz-igar</b>). &mdash;
-    DEFIR', '<b dict-key="mistika mistik">mistik-a, -(ul)o:</b> mystic; <b dict-key="mistikeso
-    mistikismo">-eso, -ismo:</b> mysticism. &mdash; DEFIRS', '<b dict-key="mistradukar">mis-traduk-ar:</b>
+    (cf. <b dict-key="perplexigar,konfuzigar">perplex-igar, konfuz-igar</b>). &mdash;
+    DEFIR', '<b dict-key="mistika,mistik">mistik-a, -(ul)o:</b> mystic; <b dict-key="mistikeso,mistikismo">-eso,
+    -ismo:</b> mysticism. &mdash; DEFIRS', '<b dict-key="mistradukar">mis-traduk-ar:</b>
     (<i>tr.</i>) to mistranslate, to translate wrongly.', '<b dict-key="misuzar">mis-uz-ar:</b>
     (<i>tr.</i>) to misuse, make bad use of, waste.', '<b dict-key="mito">mit-o:</b>
     myth. &mdash; DEFIRS', '<b dict-key="mitamburo">mi-tambur-o:</b> tambourine. V.
@@ -257,25 +257,25 @@
     mythologist. &mdash; DEFIRS', '<b dict-key="mitomo">mitom-o:</b> (<i>biol.</i>)
     part of the cytoplasm.', '<b dict-key="mitoso">mitos-o:</b> (<i>biol.</i>) mitosis.',
   '<b dict-key="mitro">mitr-o:</b> (<i>eccl.</i>) miter (mitre). &mdash; DEFIRS',
-  '<b dict-key="mitralio">mitrali-o:</b> grape-shot, canister, shrapnel; <b dict-key="mitraliagar
-    mitraliopafar">-agar, -o-pafar:</b> (<i>tr.</i>) to fire grapeshot, shrapnel at
-    or on. &mdash; EFIS', '<b dict-key="mitralioso">mitralios-o: </b>machine-gun;
-    (<i>ancient</i>) mitrailleuse. &mdash; DEFR', '<b dict-key="mixar">mix-ar:</b>
-    (<i>tr.</i>) to mix, mingle, blend (<b dict-key="ulo kun ulo">ulo kun ulo</b>);
-    <b dict-key="inter mixar">inter- -ar:</b> to intermix (<b dict-key="uli">uli</b>);
-    <b dict-key="mixar su">-ar su:</b> to intervene in, meddle; <b dict-key="mixar
-    karti">-ar karti:</b> shuffle cards; <b dict-key="mixo mixuro">-o, -uro:</b> mixture,
-    blend, medly; <b dict-key="mixajo">-ajo:</b> miscellanea, miscellany; <b dict-key="mixolinea">-o-linea:</b>
-    (<i>geom.</i>) mixtilineal; <b dict-key="mixacheso">-ach-eso:</b> promiscuousness.
-    Ex.: Mixar l&rsquo;aquo kun la vino. Mixar (E. blend) kolori. Mixar diversa flori
-    en buketo.Mixar su en l&rsquo;aferi di altru. Me mixas klor-acido kun nitrat-acido
-    (e me intermixas la du acido). &mdash; EFI', '<b dict-key="mizamebo">mizameb-o:</b>
-    (<i>biol.</i>) myxamoeba.', '<b dict-key="mizantrop">mizantrop-(ul)o:</b> misanthrope:
-    hater of mankind. &mdash; DEFIS', '<b dict-key="mizerar">mizer-ar:</b> (<i>intr.</i>)
+  '<b dict-key="mitralio">mitrali-o:</b> grape-shot, canister, shrapnel; <b dict-key="mitraliagar,mitraliopafar">-agar,
+    -o-pafar:</b> (<i>tr.</i>) to fire grapeshot, shrapnel at or on. &mdash; EFIS',
+  '<b dict-key="mitralioso">mitralios-o: </b>machine-gun; (<i>ancient</i>) mitrailleuse.
+    &mdash; DEFR', '<b dict-key="mixar">mix-ar:</b> (<i>tr.</i>) to mix, mingle, blend
+    (<b dict-key="ulo kun ulo">ulo kun ulo</b>); <b dict-key="inter mixar">inter-
+    -ar:</b> to intermix (<b dict-key="uli">uli</b>); <b dict-key="mixar su">-ar su:</b>
+    to intervene in, meddle; <b dict-key="mixar karti">-ar karti:</b> shuffle cards;
+    <b dict-key="mixo,mixuro">-o, -uro:</b> mixture, blend, medly; <b dict-key="mixajo">-ajo:</b>
+    miscellanea, miscellany; <b dict-key="mixolinea">-o-linea:</b> (<i>geom.</i>)
+    mixtilineal; <b dict-key="mixacheso">-ach-eso:</b> promiscuousness. Ex.: Mixar
+    l&rsquo;aquo kun la vino. Mixar (E. blend) kolori. Mixar diversa flori en buketo.Mixar
+    su en l&rsquo;aferi di altru. Me mixas klor-acido kun nitrat-acido (e me intermixas
+    la du acido). &mdash; EFI', '<b dict-key="mizamebo">mizameb-o:</b> (<i>biol.</i>)
+    myxamoeba.', '<b dict-key="mizantrop">mizantrop-(ul)o:</b> misanthrope: hater
+    of mankind. &mdash; DEFIS', '<b dict-key="mizerar">mizer-ar:</b> (<i>intr.</i>)
     to be in misery (because of poverty, destitution, or unhappiness or pain); <b
     dict-key="mizero">-o:</b> misery, wretchedness, want, sore need, distress. &mdash;
     DEFIRS', '<b dict-key="mizerikordio">mizerikordi-o:</b> mercy, mercifulness; <b
-    dict-key="mizerikordioza mizerikordiema">-oza, -ema:</b> merciful, compassionate,
+    dict-key="mizerikordioza,mizerikordiema">-oza, -ema:</b> merciful, compassionate,
     clement; <b dict-key="sen mizerikordia">sen- -a:</b> unmerciful. Def.: Kompato
     (di Deo) qua pardonas a pekanto; III-327. Ex. Deala mizerikordio. Klamar mizerikordio
     ad ulu. Ta homo esas senmizerikordia. &mdash; FIS']

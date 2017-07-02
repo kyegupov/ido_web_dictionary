@@ -99,7 +99,7 @@
     <i>see</i> <b dict-key="transient">transient</b>.', '<b dict-key="translate">translate:</b>
     (<i>in languages</i>) tradukar; (<i>of moving bodies</i>) translacar; (<i>a bishop</i>)
     tranferar; <b dict-key="translation">-tion:</b> traduk-o, -uro (vort-opa, -e.c.).',
-  '<b dict-key="translucent translucid">translucent, translucid:</b> translucida;
+  '<b dict-key="translucent,translucid">translucent, translucid:</b> translucida;
     diafana.', '<b dict-key="transmigrate">transmigrate:</b> (<i>intr</i>.) trans-migrar;
     (<i>emigrate</i>) ek-migrar; <b dict-key="transmigration">-tion: </b>(<i>of souls</i>)
     trans-migro, metempsikoso.', '<b dict-key="transmissibility">transmissibility:</b>
@@ -228,7 +228,7 @@
   '<b dict-key="trickster">trickster:</b> tromp-anto, -ero, -emo; dup-ig-ero.', '<b
     dict-key="trictrac">trictrac:</b> triktrako.', '<b dict-key="tricky">tricky:</b>
     (<i>uncertain</i>) ne-certa; chanj-ema.', '<b dict-key="triclinate">triclinate:</b>
-    triklina.', '<b dict-key="tricolored tricoloured">tricolored, tricoloured:</b>
+    triklina.', '<b dict-key="tricolored,tricoloured">tricolored, tricoloured:</b>
     tri-kolora.', '<b dict-key="tricycle">tricycle:</b> triciklo.', '<b dict-key="trident">trident:</b>
     tri-dento.', '<b dict-key="triduum">triduum:</b> &laquo;triduum&raquo;.', '<b
     dict-key="triennial">triennial:</b> tri-yara.', '<b dict-key="trifle">trifle:</b>
@@ -241,7 +241,7 @@
     matter">a t. matter:</b> ne-grava, ne-import-anta afero <i>o</i> kozo.', '<b dict-key="trigger">trigger:</b>
     (<i>of a firearm</i>) des-tens-ilo; <b dict-key="trigger guard">t. guard: </b>pont-eto.',
   '<b dict-key="triglyph">triglyph:</b> triglifo.', '<b dict-key="trigonometry">trigonometry:</b>
-    trigonometrio.', '<b dict-key="trigram trigraph">trigram, trigraph:</b> trigramo.',
+    trigonometrio.', '<b dict-key="trigram,trigraph">trigram, trigraph:</b> trigramo.',
   '<b dict-key="trihedral">trihedral:</b> tri-edra (angulo), tri-edro.', '<b dict-key="trilateral">trilateral:</b>
     tri-later-a, -o.', '<b dict-key="trilingual">trilingual:</b> tri-lingua.', '<b
     dict-key="trilemma">trilemma:</b> trilemo.', '<b dict-key="trill">trill:</b> trilar.',
@@ -296,7 +296,7 @@
     -atra; <b dict-key="tropics">-s:</b> tropiko.', '<b dict-key="tropism">tropism:</b>
     tropismo.', '<b dict-key="trot">trot:</b> (<i>t. along</i>) (<i>intr</i>.) trot-ar,
     (<i>cause to t.</i>) -igar (kavalo); <b dict-key="at full trot">at full t.: </b>ye
-    granda troto.', '<b dict-key="troth plighted">troth, plighted:</b> honor-promiso
+    granda troto.', '<b dict-key="troth,plighted">troth, plighted:</b> honor-promiso
     (mariajar); fianc-eso.', '<b dict-key="troubadour">troubadour:</b> trubaduro.',
   '<b dict-key="trouble">trouble:</b> trublar (la mento, l&rsquo;aquo); (<i>bother,
     worry</i>) perturbar, des-quiet-igar, -eskar; (<i>grieve</i>) chagren-igar; (<i>afflict</i>)

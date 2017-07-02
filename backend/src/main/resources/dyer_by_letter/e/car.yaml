@@ -1,11 +1,11 @@
 ['<b dict-key="car">car:</b> (<i>R.R</i>.) vagono; (<i>ornamented</i>) charo (triumfala,
-    e.c.); (<i>motor c</i>.) automobilo: <b dict-key="street car tram car">street
+    e.c.); (<i>motor c</i>.) automobilo: <b dict-key="street car,tram car">street
     c., tram c.:</b> tram-veturo; <b dict-key="freight car">freight c.: </b>(<i>goods
     wagon,</i> <i>closed</i>) var-vagono, (<i>open</i>) truko; <b dict-key="first
     class car">first class c.:</b> (<i>R.R</i>.) vagono unesma-klasa; <b dict-key="sleeping
     car">sleeping c.:</b> lit-, dorm-vagono; <b dict-key="dining car">dining c.:</b>
     restor-vagono.', '<b dict-key="carabineer">carabineer:</b> karabin-iero.', '<b
-    dict-key="carabus carabio">carabus, carabio:</b> (<i>ent</i>.) karabo.', '<b dict-key="caracole">caracole:</b>
+    dict-key="carabus,carabio">carabus, carabio:</b> (<i>ent</i>.) karabo.', '<b dict-key="caracole">caracole:</b>
     (<i>intr</i>.) karakol-ar, -o.', '<b dict-key="carafe">carafe:</b> karaf-o, -eto.',
   '<b dict-key="caramel">caramel:</b> karamelo.', '<b dict-key="carapace">carapace:</b>
     kuras-osto (sura).', '<b dict-key="carat">carat:</b> (<i>of stones</i>) karato.',
@@ -25,9 +25,9 @@
     korbo-botelo, damij-ano.', '<b dict-key="carbuncle">carbuncle:</b> (<i>ulcer,
     gem</i>.) karbunklo.', '<b dict-key="carburet">carburet:</b> karburar (<i>water,
     etc.</i>); (<i>noun</i>) karb-ido.', '<b dict-key="carburize">carburize:</b> (<i>as
-    iron</i>) karb-igar, -izar; (<i>water, etc</i>.) karburar.', '<b dict-key="carcase
-    carcass">carcase, carcass:</b> (<i>dead animal</i>) bestio-kadavro; (<i>live</i>)
-    korp-o, -acho.', '<b dict-key="carcinoma">carcinoma:</b> karcinomo.', '<b dict-key="card">card:</b>
+    iron</i>) karb-igar, -izar; (<i>water, etc</i>.) karburar.', '<b dict-key="carcase,carcass">carcase,
+    carcass:</b> (<i>dead animal</i>) bestio-kadavro; (<i>live</i>) korp-o, -acho.',
+  '<b dict-key="carcinoma">carcinoma:</b> karcinomo.', '<b dict-key="card">card:</b>
     (<i>wool, etc</i>.) kardar, pektar.', '<b dict-key="card">card:</b> (<i>noun</i>)
     karto; <b dict-key="visiting card">visiting c.:</b> nom-,visit-karto; <b dict-key="postc">postc.:</b>
     post-ala (<i>od</i>, posto-) karto; <b dict-key="restaurant card">restaurant c.:</b>
@@ -42,10 +42,10 @@
     kordi-ala; (<i>malady</i>) -ika; <b dict-key="cardiacal">-al:</b> kordio-fort-ig-anta,
     -iva.', '<b dict-key="cardinal">cardinal:</b> (<i>adj.</i>) chefa, esenc-ala,
     fundament-ala; (<i>fig</i>.) kardinala; <b dict-key="cardinal number">c. number:</b>
-    nombro kardinala; <b dict-key="cardinal point cardinal virtue">c. point, c. virtue:
+    nombro kardinala; <b dict-key="cardinal point,cardinal virtue">c. point, c. virtue:
     </b>kardinala punto, vertuo.', '<b dict-key="cardinal">cardinal:</b> (<i>prelate</i>)
     kardinal-o; <b dict-key="cardinal coloured">c. coloured:</b> -ea; <b dict-key="cardinalate">-ate:</b>
-    -eso; <b dict-key="cardinal cap hat">c. cap, hat:</b> kardinal-bireto, -chapelo.',
+    -eso; <b dict-key="cardinal cap,hat">c. cap, hat:</b> kardinal-bireto, -chapelo.',
   '<b dict-key="cardioid">cardioid:</b> kardioido.', '<b dict-key="cardiology">cardiology:</b>
     kariologio.', '<b dict-key="cardiopathy">cardiopathy:</b> (<i>med.</i>) kardiopatio*.',
   '<b dict-key="cardoon">cardoon:</b> karduno.', '<b dict-key="care">care:</b> (<i>take
@@ -130,11 +130,11 @@
     sided goods van or truck</i>) furgono, charioto; (<i>without sides</i>) kamiono;
     (<i>two-wheeled</i>) charo; <b dict-key="cartage">-age:</b> vetur-ag(ad)o; transport-kusto,
     -preco; <b dict-key="cart">c.-load:</b> -edo; <b dict-key="carter">c.er:</b> char-(dukt)-isto;
-    <b dict-key="ox">ox-c.:</b> bovo-charo.', '<b dict-key="carte blanche to give">carte
+    <b dict-key="ox">ox-c.:</b> bovo-charo.', '<b dict-key="carte blanche,to give">carte
     blanche, to give:</b> donar plenipotenco (<i>od, </i>plen-liber-eso) ad ulu.',
   '<b dict-key="carte de visite">carte de visite:</b> nom-, vizit-karto.', '<b dict-key="cartel">cartel:</b>
     (<i>letter of challenge</i>) kartelo.', '<b dict-key="Cartesian">Cartesian:</b>
-    kartezian-a; <b dict-key="c devil Cartesiandiver">c. devil, -diver:</b> -a diablo,
+    kartezian-a; <b dict-key="c devil,Cartesiandiver">c. devil, -diver:</b> -a diablo,
     -plunj-anto; ludiono.', '<b dict-key="carthamin">carthamin</b>(<b dict-key="e">e</b>)<b
     dict-key="">:</b> kartamino.', '<b dict-key="Carthusian">Carthusian:</b> kartuzi-ana,
     -ano; <b dict-key="Carthusian convent">C. convent:</b> kartuzi-o.', '<b dict-key="cartilage">cartilage:</b>

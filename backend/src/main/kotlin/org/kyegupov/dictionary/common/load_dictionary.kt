@@ -54,7 +54,7 @@ fun buildIndex(articles: MutableList<String>): TreeMap<String, List<Int>> {
 
     articles.forEachIndexed { i, entry ->
         val html = Jsoup.parse(entry)
-        val keywords = html.select("[dict-key]").map {it.attr("dict-key")}
+        val keywords = html.select("[dict-key]").flatMap {it.attr("dict-key").split(',')}
         val weightedKeywords = keywords.mapIndexed{ki, kw -> Weighted(kw, positionToWeight(ki, keywords.size)) }
 
         weightedKeywords.forEach { (value, weight) ->

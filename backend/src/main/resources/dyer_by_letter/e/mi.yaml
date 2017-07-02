@@ -33,7 +33,7 @@
     (<i>of grain</i>) golpo, rusto; (<i>havar</i>) humida makuli.', '<b dict-key="mile">mile:</b>
     milio.', '<b dict-key="mileage">mileage:</b> (<i>allowance</i>) pasajo-indemno
     (po milio); (<i>cost</i>) mili-ala) pasajo-taxo, -pago; (<i>length</i>) tota long-eso
-    (<i>od</i>, disto); milio-mezuro.', '<b dict-key="milestone milepost">milestone,
+    (<i>od</i>, disto); milio-mezuro.', '<b dict-key="milestone,milepost">milestone,
     milepost:</b> termino mili-ala.', '<b dict-key="milfoil">milfoil:</b> (<i>bot.</i>)
     (yarrow) akileo*.', '<b dict-key="miliary">miliary:</b> miliaro.', '<b dict-key="milibar">milibar:</b>
     milibaro.', '<b dict-key="milimicron">milimicron:</b> milimikrono.', '<b dict-key="militant">militant:</b>
@@ -92,7 +92,7 @@
     <b dict-key="low minded">low m.ed:</b> spirito, anmo, ment-eso des nobla <i>o</i>
     des-estim-inda; <b dict-key="mindful">m.ful:</b> atenc-ema, sorg-ema.', '<b dict-key="mine">mine:</b>
     (<i>belonging to me</i>) mea.', '<b dict-key="mine">mine:</b> (<i>ores, etc.</i>)
-    min-ar; (<i>place of minerals, explosives</i>) -eyo; <b dict-key="shaft pit of
+    min-ar; (<i>place of minerals, explosives</i>) -eyo; <b dict-key="shaft,pit of
     a mine">shaft, pit of a m.:</b> shakto; min-truo; <b dict-key="school of mines">school
     of m.s:</b> skolo di min-tekniko.', '<b dict-key="miner">miner:</b> min-isto.',
   '<b dict-key="mineral">mineral:</b> mineral-o; <b dict-key="mineralize">-ize:</b>
@@ -201,8 +201,8 @@
     maiden</i>) damzelo; yun-ino.', '<b dict-key="missal">missal:</b> mes-libro.',
   '<b dict-key="misshapened">misshapened:</b> mis-formac-ita, deform-ita.', '<b dict-key="missile">missile:</b>
     jet-ajo, lans-ajo, -armo; projektilo; (<i>bullet</i>) kuglo.', '<b dict-key="missing">missing:</b>
-    mank-anta, absenta; des-apar-inta, peris-inta; perd-ita, egar-ita; <b dict-key="killed
-    wounded or missing">killed, wounded or m.:</b> mort-ig-ita, vund-ita, o des-apar-inti.',
+    mank-anta, absenta; des-apar-inta, peris-inta; perd-ita, egar-ita; <b dict-key="killed,wounded
+    or missing">killed, wounded or m.:</b> mort-ig-ita, vund-ita, o des-apar-inti.',
   '<b dict-key="mission">mission:</b> (<i>relig., scientific, etc.</i>) misiono; (<i>commission</i>)
     komis-it-aro, send-at-aro.', '<b dict-key="missionary">missionary:</b> mision-isto,
     -ero; (<i>adj</i>.) mision-ala, -ista, -era.', '<b dict-key="missive">missive:</b>
@@ -231,7 +231,7 @@
   '<b dict-key="misuse">misuse:</b> mis-uzar, tro-uzar; male traktar; violentar.',
   '<b dict-key="mite">mite:</b> (<i>tick</i>) akaro; (<i>particle</i>) mikr-et-ajo,
     atomo; <b dict-key="widow mite">widow&rsquo;s m.:</b> obolo di la vidv-ino.',
-  '<b dict-key="miter mitre">miter, mitre:</b> mitro.', '<b dict-key="mitigate">mitigate:</b>
+  '<b dict-key="miter,mitre">miter, mitre:</b> mitro.', '<b dict-key="mitigate">mitigate:</b>
     dolc-igar, moderar, temperar (<i>see</i> <b dict-key="extenuate">extenuate</b>).',
   '<b dict-key="mitochondrion">mitochondrion:</b> mitokondrio.', '<b dict-key="mitosis">mitosis:</b>
     mitoso.', '<b dict-key="mitrailleuse">mitrailleuse:</b> mitralioso.', '<b dict-key="mitred">mitred:</b>

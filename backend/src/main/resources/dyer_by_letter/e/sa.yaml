@@ -1,6 +1,6 @@
 ['<b dict-key="Sabbath">Sabbath: </b>(<i>of Jews</i>) sabato; (<i>Sunday</i>) sundio,
     (<i>fig</i>.) sabato; <b dict-key="Sabbath breaking">S. breaking: </b>sabato-violac(ad)o.',
-  '<b dict-key="saber sabre">saber, sabre: </b>sabr-o; <b dict-key="to saber">to s.:
+  '<b dict-key="saber,sabre">saber, sabre: </b>sabr-o; <b dict-key="to saber">to s.:
     </b>-agar, -frapar; <b dict-key="sabertache">s.tache: </b>-posho.', '<b dict-key="sable">sable:
     </b>zibelino; (<i>black</i>) nigr-a, -atra.', '<b dict-key="sabot">sabot: </b>ligna
     shuo.', '<b dict-key="sabotage">sabotage: </b>(<i>scamping, botching work</i>)
@@ -71,7 +71,7 @@
     </b>koreo; <b dict-key="e">e.ed: </b>sakra, santa, kanoniz-ita; <b dict-key="saintly">s.ly:
     </b>santa.', '<b dict-key="sake">sake: </b>egardo; skopo; kauzo; motivo; <b dict-key="for
     the sake of">for the s. of: </b>(<i>on account of</i>) pro; (<i>on behalf of</i>)
-    por; <b dict-key="for the sake of vengeance of form">for the s. of vengeance,
+    por; <b dict-key="for the sake of vengeance,of form">for the s. of vengeance,
     of form: </b>por la venjo, por la formo; <b dict-key="for my sake">for my s.:
     </b>(<i>remembrance</i>) en memorio di me; <b dict-key="for your sake">for your
     s.: </b>pro egardo por vu; por vu; <b dict-key="for pity sake">for pity&rsquo;s
@@ -107,7 +107,7 @@
     grass</i>) skorzonero.', '<b dict-key="salt">salt: </b>sal-o, -izar; <b dict-key="salt">s.-cellar:
     </b>-uyo; <b dict-key="salted">-ed: </b>sal-iz-ita; <b dict-key="salt">s.-works:
     </b>salino; (<i>mine</i>) sal-min-eyo; <b dict-key="saltish">s.ish: </b>sal-sapora,
-    sal-oza.', '<b dict-key="saltpeter saltpetre">saltpeter, saltpetre: </b>salpetro.',
+    sal-oza.', '<b dict-key="saltpeter,saltpetre">saltpeter, saltpetre: </b>salpetro.',
   '<b dict-key="salubrious">salubrious: </b>salubr-a; -<b dict-key="rity">rity: </b>-eso.',
   '<b dict-key="salutary">salutary: </b>salutara (<i>cf</i>. san-ig-iva).', '<b dict-key="salutation">salutation:
     </b>saluto.', '<b dict-key="salute">salute: </b>salut-ar (ulu, per manuo, per
@@ -154,7 +154,7 @@
     </b>sanio.', '<b dict-key="sanitarium">sanitarium: </b>sanatorio.', '<b dict-key="sanitary">sanitary:
     </b>san-es-ala, higien-ala; <b dict-key="sanitary cordon">s. cordon: </b>bar-ilo
     salubr-es-ala.', '<b dict-key="sanitation">sanitation: </b>san-ig-(ad)o, salubr-igo,
-    higien-o, -legi.', '<b dict-key="sanity saneness">sanity, saneness: </b>(mento-)
+    higien-o, -legi.', '<b dict-key="sanity,saneness">sanity, saneness: </b>(mento-)
     san-eso; sana judiko; racion-al-eso.', '<b dict-key="sans">sans-culotte: </b>sen-brach(ul)o.',
   '<b dict-key="Sanscrit">Sanscrit:</b> sanskrita (linguo).', '<b dict-key="santalin">santalin:
     </b>santalo-tint-ivo.', '<b dict-key="sap">sap: </b>(<i>undermine</i>) sapar;
@@ -177,7 +177,7 @@
     </b>sarkomo.', '<b dict-key="sarcophagus">sarcophagus: </b>sarkofago.', '<b dict-key="sarcoplasm">sarcoplasm-o:</b>
     (<i>phys.</i>) sarkoplasmo.', '<b dict-key="sardine">sardine: </b>sardino.', '<b
     dict-key="sardonic">sardonic: </b>sardonika.', '<b dict-key="sardonyx">sardonyx:
-    </b>sardonixo.', '<b dict-key="sargass sargassum">sargass-o, -um: </b>sargaso.',
+    </b>sardonixo.', '<b dict-key="sargass,sargassum">sargass-o, -um: </b>sargaso.',
   '<b dict-key="sarmentum">sarmentum: </b>sarmento.', '<b dict-key="sarsaparilla">sarsaparilla:
     </b>sarsaparelo.', '<b dict-key="sartorial">sartorial: </b>talior-ala.', '<b dict-key="sash">sash:
     </b>(<i>as of windows</i>) (vitro-) kadro; (<i>belt</i>) zono (silka, e.c.); zono-sharpo;
@@ -215,7 +215,7 @@
     </b>saurio.', '<b dict-key="sausage">sausage: </b>sociso.', '<b dict-key="savage">savage:
     </b>(<i>adj</i>.) sovaja (<i>also fig</i>.) (<i>cf</i>. kruel-ega; ne-amans-ita;
     barbara; brut-ala).', '<b dict-key="savage">savage: </b>(<i>n.</i>) sovaj-(ul)o.',
-  '<b dict-key="savagery savageness">savagery, savageness: </b>(<i>wildness</i>) sovaj-eso;
+  '<b dict-key="savagery,savageness">savagery, savageness: </b>(<i>wildness</i>) sovaj-eso;
     (<i>ferocity</i>) feroc-eso, (<i>act</i>) -ajo.', '<b dict-key="savanna">savanna</b>(<b
     dict-key="h">h</b>)<b dict-key="">: </b>savano.', '<b dict-key="savant">savant:
     </b>cienc-isto.', '<b dict-key="save">save: </b>(<i>from destruction</i>) salvar

@@ -1,5 +1,5 @@
 ['<b dict-key="sobra">sobr-a:</b> (<i>also fig.</i>) temperate: moderate in food or
-    drink; sparing, abstemious, sober; (cf. <b dict-key="neebria temperema sobrmoderema">ne-ebria,
+    drink; sparing, abstemious, sober; (cf. <b dict-key="neebria,temperema,sobrmoderema">ne-ebria,
     temper-ema, -moder-ema</b>); <b dict-key="sobreso">-eso:</b> temperance, sobriety,
     moderation; <b dict-key="sobresala societo">-es-ala soci-eto:</b> temperance society;
     <b dict-key="sobre">-e:</b> soberly, with sobriety. Ex.: La homo qua ne exajeras
@@ -12,7 +12,7 @@
     member of an association; <b dict-key="sociala">-ala:</b> social: relating to
     society; <b dict-key="societala">-et-ala:</b> relating to an association; <b dict-key="sociema">-ema:</b>
     sociable; <b dict-key="sociemeso">-em-eso:</b> sociability, good fellowship; <b
-    dict-key="socialismo">-al-ismo:</b> socialism; <b dict-key="socialista sociala">-al-ist-a,
+    dict-key="socialismo">-al-ismo:</b> socialism; <b dict-key="socialista,sociala">-al-ist-a,
     -ala:</b> socialist. Ex.: Omnu havas devi a la socio. Abeli vivas en societi.
     Societi komercal, literaturala, ciencala. &mdash; DEFIRS', '<b dict-key="sociologo">sociolog-o:
     </b>sociologist. &mdash; DEFIRS', '<b dict-key="sociologio">sociologi-o:</b> sociology.
@@ -21,7 +21,7 @@
     (<i>chem.</i>) soda: sodium carbonate (cf. <b dict-key="natro">natro</b>); <b
     dict-key="sodaquo">-aquo:</b> soda water. &mdash; DEFIR', '<b dict-key="sodomiar">sodomi-ar:</b>
     (<i>intr.</i>) to commit sodomy. &mdash; DEFIS', '<b dict-key="sofao">sofa-o:</b>
-    sofa. V. exp.: vid. <b dict-key="kanapeo divano">kanapeo, divano.</b> &mdash;
+    sofa. V. exp.: vid. <b dict-key="kanapeo,divano">kanapeo, divano.</b> &mdash;
     DEFIS', '<b dict-key="sofismo">sofism-o:</b> sophism, (conscious) fallacy; <b
     dict-key="sofismala">-ala:</b> sophistical (cf. <b dict-key="sofistala">sofist-ala</b>).
     V. exp.: vid. <b dict-key="paralogismo">paralogismo.</b> &mdash; DEFIRS', '<b
@@ -30,7 +30,7 @@
     sophistry. &mdash; DEFIRS', '<b dict-key="sofito">sofit-o:</b> (<i>arch.</i>)
     soffit; <b dict-key="sofiti">-i:</b> (<i>theat.</i>) flies. &mdash; DEFIRS', '<b
     dict-key="soko">sok-o:</b> sock: plowshare. &mdash; EF', '<b dict-key="soklo">sokl-o:</b>
-    (<i>arch.</i>) socle (cf. <b dict-key="piedestalo plinto">piedestalo, plinto</b>).
+    (<i>arch.</i>) socle (cf. <b dict-key="piedestalo,plinto">piedestalo, plinto</b>).
     &mdash; DEFIRS', '<b dict-key="sokursar">sokurs-ar:</b> (<i>tr.</i>) to succo(u)r:
     to come to the aid of when in danger; <b dict-key="sokursarmeo">-armeo:</b> relief
     army. Ex.: Sokursar ulu dronanta. V. exp.: <b dict-key="Sokursar">Sokursar</b>
@@ -39,41 +39,40 @@
     la donaco di adicionala forci o moyeni. On <b dict-key="sokursas">sokursas</b>
     amiko en batalio; on <b dict-key="helpas">helpas</b> la povri, falinto. &mdash;
     EFIS', '<b dict-key="sol">sol:</b> (<i>mus.</i>) sol: fifth note of diatonic scale.',
-  '<b dict-key="sola">sol-a:</b> alone; without company, sole, only (cf. <b dict-key="nura
-    unika solitara">nura, unika, solitara</b>); <b dict-key="soleso">-eso:</b> solitude;
-    <b dict-key="solisto">-isto:</b> (<i>mus.</i>) soloist; <b dict-key="solo">-o:</b>
-    (<i>mus.</i>) solo. Def.: Qua esas ne-akompanata; izolita. Ex.: Il esas sola en
-    la chambro. Unu sola ne povas facar to. Laborar sole. Il esas sola en solitara
-    loko. &mdash; DEFIRS', '<b dict-key="solano">solan-o:</b> (<i>bot.</i>) nightshade
-    (genus: Solanum). &mdash; IL', '<b dict-key="soldar">sold-ar:</b> (<i>tr.</i>)
-    to solder (metals); <b dict-key="soldilo">-ilo:</b> soldering-iron; <b dict-key="soldostano">-o-stano:</b>
-    (metal) solder; <b dict-key="kun soldita">kun- -ita:</b> soldered together. V.
-    exp.: vid. <b dict-key="weldar">weldar.</b> &mdash; EFIS', '<b dict-key="soldato">soldat-o:</b>
-    soldier, trooper; <b dict-key="soldatala soldatatra">-ala, -atra:</b> soldierly;
-    <b dict-key="soldato simpla">-o (simpla):</b> an ordinary s., a private. &mdash;
-    DEFIRS', '<b dict-key="soleo">sole-o:</b> (<i>ichth.</i>) sole (genus: Solea);
-    <b dict-key="soleo solea muskulo">-o*, -a muskulo:</b> (<i>anat.</i>) soleus:
-    a leg muscle. &mdash; EFI', '<b dict-key="solecismo">solecism-o:</b> solecism.
-    &mdash; DEFIRS', '<b dict-key="solena">solen-a:</b> solemn; <b dict-key="soleneso
-    solenajo">-eso, -ajo:</b> (<i>quality, art</i>) solemnity; <b dict-key="solenigar">-igar:</b>
+  '<b dict-key="sola">sol-a:</b> alone; without company, sole, only (cf. <b dict-key="nura,unika,solitara">nura,
+    unika, solitara</b>); <b dict-key="soleso">-eso:</b> solitude; <b dict-key="solisto">-isto:</b>
+    (<i>mus.</i>) soloist; <b dict-key="solo">-o:</b> (<i>mus.</i>) solo. Def.: Qua
+    esas ne-akompanata; izolita. Ex.: Il esas sola en la chambro. Unu sola ne povas
+    facar to. Laborar sole. Il esas sola en solitara loko. &mdash; DEFIRS', '<b dict-key="solano">solan-o:</b>
+    (<i>bot.</i>) nightshade (genus: Solanum). &mdash; IL', '<b dict-key="soldar">sold-ar:</b>
+    (<i>tr.</i>) to solder (metals); <b dict-key="soldilo">-ilo:</b> soldering-iron;
+    <b dict-key="soldostano">-o-stano:</b> (metal) solder; <b dict-key="kun soldita">kun-
+    -ita:</b> soldered together. V. exp.: vid. <b dict-key="weldar">weldar.</b> &mdash;
+    EFIS', '<b dict-key="soldato">soldat-o:</b> soldier, trooper; <b dict-key="soldatala,soldatatra">-ala,
+    -atra:</b> soldierly; <b dict-key="soldato simpla">-o (simpla):</b> an ordinary
+    s., a private. &mdash; DEFIRS', '<b dict-key="soleo">sole-o:</b> (<i>ichth.</i>)
+    sole (genus: Solea); <b dict-key="soleo,solea muskulo">-o*, -a muskulo:</b> (<i>anat.</i>)
+    soleus: a leg muscle. &mdash; EFI', '<b dict-key="solecismo">solecism-o:</b> solecism.
+    &mdash; DEFIRS', '<b dict-key="solena">solen-a:</b> solemn; <b dict-key="soleneso,solenajo">-eso,
+    -ajo:</b> (<i>quality, art</i>) solemnity; <b dict-key="solenigar">-igar:</b>
     to solemnize. Ex.: Solena festo, vovo, dio, tono, vizajo. &mdash; DEFIS', '<b
     dict-key="solenoido">solenoid-o:</b> solenoid. &mdash; DEFIRS', '<b dict-key="solfejar">solfej-ar:</b>
     (<i>tr., mus.</i>) to (sing) sol-fa: sing the notes of the scale; <b dict-key="solfejo">-o:</b>
     sol-faing; solfeggio. &mdash; DEFR', '<b dict-key="solio">soli-o:</b> threshhold
     (of a door, of a window; <i>also fig.</i>), door-soll. Ex.: (<i>fig.</i>) la solio
     di vivo. &mdash; FI', '<b dict-key="solicitar">solicit-ar:</b> (<i>tr.</i>) to
-    solicit: earnestly apply for (cf. <b dict-key="suplikar peticionar">suplikar,
+    solicit: earnestly apply for (cf. <b dict-key="suplikar,peticionar">suplikar,
     peticionar</b>); <b dict-key="solicitema">-ema:</b> solicitous (cf. <b dict-key="suciema">suci-ema</b>);
-    <b dict-key="solicitanto solicitero solicitisto">-anto, -ero, -isto:</b> solicitor,
+    <b dict-key="solicitanto,solicitero,solicitisto">-anto, -ero, -isto:</b> solicitor,
     canvasser. Def.: Insistoze demandar. Ex.: Solicitar audienco, employeso, ofico,
     favoro. Segun la solicito (di). Solicitero por voti. &mdash; DEFIS', '<b dict-key="solida">solid-a:</b>
     (<i>also geom.</i>) solid: not liquid; (<i>fig.</i>) firm, substantial, sound;
-    <b dict-key="solido solidajo">-o, -ajo:</b> a s. body; (<i>geom.</i>) a s. figure;
+    <b dict-key="solido,solidajo">-o, -ajo:</b> a s. body; (<i>geom.</i>) a s. figure;
     <b dict-key="solideso">-eso:</b> solidity, stability; <b dict-key="solidigar">-igar:</b>
     (<i>tr.</i>) <b dict-key="solideskar">-eskar:</b> (<i>intr.</i>) to solidify;
     <b dict-key="plu solidigar">plu- -igar:</b> to consolidate. Ex.: Solida korpo,
     angulo, nutrivi, edifico. (<i>fig.</i>) Motivi, argumenti solida. La solideso
-    di domo. Koldeso solidigas aquo. Ant.: <b dict-key="liquida fluida frajila">liquida,
+    di domo. Koldeso solidigas aquo. Ant.: <b dict-key="liquida,fluida,frajila">liquida,
     fluida, frajila.</b> &mdash; DEFIS', '<b dict-key="solidara">solidar-a:</b> (<i>jur.
     and gen.</i>) solidary: jointly and severally responsible or liable; binding upon
     every one; <b dict-key="solidare">-e:</b> conjointly, jointly and severally; <b
@@ -82,7 +81,7 @@
     to make jointly liable; to unite the interests of (cf. <b dict-key="konsolidar">konsolidar</b>).
     Ex.: Solidara obligaciono. La spozulo esas solidara por la debaji di sua spozino.
     Asociiti en komercal societo esas solidara. (<i>fig.</i>) La solidareso en la
-    interesti di omna laboristi. &mdash; DEFIRS', '<b dict-key="solipeda solipedo">soliped-a,
+    interesti di omna laboristi. &mdash; DEFIRS', '<b dict-key="solipeda,solipedo">soliped-a,
     -o:</b> (<i>zool.</i>) soliped(ous). &mdash; DEFIS', '<b dict-key="solitara">solitar-a:</b>
     (<i>of places</i>) solitary, lonely, deserted; (<i>of persons</i>) (living) alone;
     <b dict-key="solitareso">-eso:</b> loneliness, solitude. V.exp.: <b dict-key="Solitara">Solitara</b>
@@ -112,10 +111,10 @@
     nek necese la <b dict-key="somito">somito,</b> nam ol povas esar larja e plana;
     on ne parolas pri la &laquo;somito&raquo; di moblo, di (plata) domo. La <b dict-key="suprajo">suprajo</b>
     di la tero tote ne identesas kun la <b dict-key="somiti">somiti</b> di la monti;
-    II-163. &mdash; EFI', '<b dict-key="somnambula somnambulala somnambul">somnambul-a,
+    II-163. &mdash; EFI', '<b dict-key="somnambula,somnambulala somnambul">somnambul-a,
     -ala; -(ul)o;</b> <b dict-key="somnambuleso">-eso:</b> somnambulist-ic, -ism.
     &mdash; DEFIS', '<b dict-key="somnolar">somnol-ar:</b> (<i>intr.</i>) to be sleepy,
-    drowsy; <b dict-key="somnolo">-o:</b> somnolence; <b dict-key="somnolanta somnolema">-anta,
+    drowsy; <b dict-key="somnolo">-o:</b> somnolence; <b dict-key="somnolanta,somnolema">-anta,
     -ema:</b> sleepy, drowsy; <b dict-key="somnolegar">-egar:</b> to be overpoweringly
     sleepy. Def.: Sentar la bezono o tendenco (momentala) dormar; IV-463. V. exp.:
     <b dict-key="Dormema">Dormema</b> indikas kustumala tendenco a dormar, ne instantala
@@ -148,23 +147,23 @@
     berry; <b dict-key="sorbiero">-iero:</b> sorb-tree, service tree, mountain-ash,
     rowan tree (genus: Sorbus). &mdash; DEFIS', '<b dict-key="sorbeto">sorbet-o:</b>
     sherbet: a water ice. &mdash; DEFIRS', '<b dict-key="sorcar">sorc-ar:</b> (<i>intr.</i>)
-    to practise sorcery, witchcraft; (<i>tr.</i>) to bewitch (<b dict-key="ulu ulo">ulu,
+    to practise sorcery, witchcraft; (<i>tr.</i>) to bewitch (<b dict-key="ulu,ulo">ulu,
     ulo</b>): (<i>fig.</i>) to charm, enchant; <b dict-key="sorc">-(ad)o:</b> sorcery,
     witchcraft; <b dict-key="sorceso">-eso:</b> (<i>state</i>) bewitchment; enchantment;
     <b dict-key="sorcilo">-ilo:</b> charm; <b dict-key="sorcisto">-isto:</b> sorcerer:
     one who is supposed to be in league with evil spirits; (<i>fig.</i>) wizard, conjuror,
     magician; <b dict-key="sorcistino">-ist-ino:</b> witch. Ex.: On ankore trovas
     kredo ad sorcado inter la populi savaja. (<i>fig.</i>) Ta muliero sorcas me. &mdash;
-    EF', '<b dict-key="sordida sordidega sordidacha">sordid-a, -ega, -acha:</b> (<i>of
+    EF', '<b dict-key="sordida,sordidega,sordidacha">sordid-a, -ega, -acha:</b> (<i>of
     things</i>) dirty, nasty, foul, soiled, sordid, slovenly, sluttish; (<i>fig. of
-    persons, acts</i>) mean, disgusting (cf. <b dict-key="shaminda pudora">shaminda,
-    pudora</b>); <b dict-key="sordideso sordidajo">-eso, -ajo:</b> (<i>quality, object</i>)
-    dirtiness, filthiness: dirt, filth; <b dict-key="sordid sordidacho">-(ul)o, -acho:</b>
+    persons, acts</i>) mean, disgusting (cf. <b dict-key="shaminda,pudora">shaminda,
+    pudora</b>); <b dict-key="sordideso,sordidajo">-eso, -ajo:</b> (<i>quality, object</i>)
+    dirtiness, filthiness: dirt, filth; <b dict-key="sordid,sordidacho">-(ul)o, -acho:</b>
     a dirty person; <b dict-key="sordidigar">-igar:</b> to dirty, soil. Def.: <b dict-key="Desneta">Des-neta.</b>
     Ex.: Sordida aquo, linji, chambro, manui, homo, avareso. &mdash; EFIS', '<b dict-key="sordino">sordin-o:</b>
     (<i>lit. and fig.</i>) sordino: a mute or damper on trumpet, violin, piano, etc.
     &mdash; DEFIS', '<b dict-key="sorgar">sorg-ar:</b> (<i>tr.</i>) to care for (by
-    physical acts), take care of, look after (<b dict-key="ulu ulo">ulu, ulo</b>);
+    physical acts), take care of, look after (<b dict-key="ulu,ulo">ulu, ulo</b>);
     to take pains with; <b dict-key="sorg">-(ad)o:</b> care, attendance; <b dict-key="sorgema">-ema:</b>
     careful, painstaking, regardful (cf. <b dict-key="diligenta">diligenta</b>). Ex.:
     Konfidar ad ulu la sorgo (pri). Komisar ulu por sorgar (pri). El esas la flegisto
@@ -174,7 +173,7 @@
     vulgare).', '<b dict-key="sorito">sorit-o:</b> (<i>log.</i>) sorites. &mdash;
     DEFIRS', '<b dict-key="sorto">sort-o:</b> sort, kind: brand (of goods); <b dict-key="sortaro">-aro:</b>
     assortment. (Note: For idiomatic uses of the E. &laquo;sort&raquo;, &laquo;kind&raquo;,
-    cf. <b dict-key="quaza quala tala ulmaniere">quaza, quala, tala, ul-maniere</b>).
+    cf. <b dict-key="quaza,quala,tala,ulmaniere">quaza, quala, tala, ul-maniere</b>).
     Ex.: Ibe esas omna sorti di bestii. Quala viro! Il esas ulsorta (o quaza, od ulspeca)
     giganto. &mdash; DEFIRS', '<b dict-key="sospirar">sospir-ar:</b> (<i>intr.</i>)
     to sigh, heave or fetch a s.; (<i>tr., fig.</i>) to sigh out, breathe forth. Ex.:
@@ -183,7 +182,7 @@
     (referring to living and growing persons, plants, trees, etc.) savage: wild (living
     in a state of nature) not domesticated, uncivilized; (<i>fig.</i>) unsociable;
     ferocious, fierce; <b dict-key="sovaj">-(ul)o:</b> a s.; <b dict-key="sovajeso">-eso:</b>
-    savagery, wildness; (<i>fig.</i>) fierceness; <b dict-key="sovajigar sovajeskar">-igar,
+    savagery, wildness; (<i>fig.</i>) fierceness; <b dict-key="sovajigar,sovajeskar">-igar,
     -eskar:</b> to make, become s. Ex.: Sovaja populi, animali. Anado sovaja (E. wild).
     (<i>fig.</i>) Mieno sovaja. &mdash; EFIS', '<b dict-key="soyao">soya-o*:</b> (<i>bot.</i>)
     soy.', '<b dict-key="sozio">sozi-o:</b> double, second self, counterpart. Def.:

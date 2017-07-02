@@ -21,7 +21,7 @@
     attendant">a. attendant:</b> ambulanc-isto.', '<b dict-key="ambulant">ambulant:</b>
     migr-anta, voyaj-anta, march-anta, promenanta; mov-anta.', '<b dict-key="ambuscade">ambuscade:</b>
     embusk-ar, -o, -eyo.', '<b dict-key="ambush">ambush:</b> embuskar, -o, -eyo.',
-  '<b dict-key="ameer amir">ameer, amir:</b> emiro.', '<b dict-key="ameliorate">ameliorate:</b>
+  '<b dict-key="ameer,amir">ameer, amir:</b> emiro.', '<b dict-key="ameliorate">ameliorate:</b>
     ameliorar (1958); (plu-)bon-igar, -eskar.', '<b dict-key="amen">amen:</b> &laquo;amen&raquo;.',
   '<b dict-key="amenable">amenable:</b> (<i>liable</i>) respons-anta, -iva ; judici-ebla,
     judik-ebla; (<i>tractable</i>) obedi-ema, submis-ema; (<i>under jurisdiction of</i>)
@@ -56,19 +56,19 @@
     evaluar.', '<b dict-key="amour">amour:</b> amor(et)o; amor-ala relato, intrigo.',
   '<b dict-key="amour">amour-propre:</b> propr-amo.', '<b dict-key="ampere">ampere:</b>
     ampero*; <b dict-key="amperometer">amperometer:</b> amperometro.', '<b dict-key="amphetamine">amphetamine:</b>
-    amfetamino.', '<b dict-key="amphiaster">amphiaster:</b> amfiastero.', '<b dict-key="amphibi
-    amphiban">amphibi-ous, -an:</b> amfibi-a, -o.', '<b dict-key="amphibole">amphibole:</b>
-    hornblendo.', '<b dict-key="amphigenesis">amphigenesis:</b> amfigenezo.', '<b
-    dict-key="amphimixis">amphimixis:</b> amfimixio.', '<b dict-key="amphioxus">amphioxus:</b>
-    amfioxo.', '<b dict-key="amphipyrenin">amphipyrenin:</b> amfipirenino.', '<b dict-key="amphitheatre">amphitheatre:</b>
-    amfiteatro.', '<b dict-key="amphora">amphora:</b> amforo.', '<b dict-key="ample">ample:</b>
-    ampla; granda; abund-anta; sata.', '<b dict-key="amplify">amplify:</b> ampl-igar,
-    developar, plu-grand-igar, exajerar; detal-igar; parafrazar; par-laborar.', '<b
-    dict-key="amplitude">amplitude:</b> ampl-eso, vast-eso; (<i>space</i>) extens-eso;
-    (<i>astron., physics</i>) amplitudo.', '<b dict-key="ampulla">ampulla:</b> ampulo.',
-  '<b dict-key="amputate">amputate:</b> amputar; de-, ek-tranchar; (<i>a joint</i>)
-    des-artik-izar.', '<b dict-key="amulet">amulet:</b> amuleto.', '<b dict-key="amuse">amuse:</b>
-    amuzar; (<i>divert</i>) distraktar.', '<b dict-key="amygdala">amygdala:</b> (<i>physio.</i>)
-    (<i>portion of the brain</i>) amigdalo*.', '<b dict-key="amylaceous">amylaceous:</b>
-    amila.', '<b dict-key="amyloplast">amyloplast:</b> amiloplasto.', '<b dict-key="amistice">amistice:</b>
-    armistico.', '<b dict-key="amory">amory:</b> arm-if-eyo, arsenalo.']
+    amfetamino.', '<b dict-key="amphiaster">amphiaster:</b> amfiastero.', '<b dict-key="amphibi,amphiban">amphibi-ous,
+    -an:</b> amfibi-a, -o.', '<b dict-key="amphibole">amphibole:</b> hornblendo.',
+  '<b dict-key="amphigenesis">amphigenesis:</b> amfigenezo.', '<b dict-key="amphimixis">amphimixis:</b>
+    amfimixio.', '<b dict-key="amphioxus">amphioxus:</b> amfioxo.', '<b dict-key="amphipyrenin">amphipyrenin:</b>
+    amfipirenino.', '<b dict-key="amphitheatre">amphitheatre:</b> amfiteatro.', '<b
+    dict-key="amphora">amphora:</b> amforo.', '<b dict-key="ample">ample:</b> ampla;
+    granda; abund-anta; sata.', '<b dict-key="amplify">amplify:</b> ampl-igar, developar,
+    plu-grand-igar, exajerar; detal-igar; parafrazar; par-laborar.', '<b dict-key="amplitude">amplitude:</b>
+    ampl-eso, vast-eso; (<i>space</i>) extens-eso; (<i>astron., physics</i>) amplitudo.',
+  '<b dict-key="ampulla">ampulla:</b> ampulo.', '<b dict-key="amputate">amputate:</b>
+    amputar; de-, ek-tranchar; (<i>a joint</i>) des-artik-izar.', '<b dict-key="amulet">amulet:</b>
+    amuleto.', '<b dict-key="amuse">amuse:</b> amuzar; (<i>divert</i>) distraktar.',
+  '<b dict-key="amygdala">amygdala:</b> (<i>physio.</i>) (<i>portion of the brain</i>)
+    amigdalo*.', '<b dict-key="amylaceous">amylaceous:</b> amila.', '<b dict-key="amyloplast">amyloplast:</b>
+    amiloplasto.', '<b dict-key="amistice">amistice:</b> armistico.', '<b dict-key="amory">amory:</b>
+    arm-if-eyo, arsenalo.']

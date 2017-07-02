@@ -17,7 +17,7 @@
     konfirmar; <b dict-key="his fate is sealed">his fate is s.ed: </b>lua fato esas
     certa <i>o</i> decid-ita; <b dict-key="sealing">-ing: </b>sigl-(ad)o.', '<b dict-key="seal">seal:
     </b>(<i>imprint</i>) sigl-uro, (<i>instr</i>.)&nbsp; -ilo; (<i>animal</i>) mar-hundo.',
-  '<b dict-key="sea to have">sea-legs, to have:</b> povar stacar bone sur navo.',
+  '<b dict-key="sea,to have">sea-legs, to have:</b> povar stacar bone sur navo.',
   '<b dict-key="sealer">sealer: </b>(<i>with wax</i>) sigl-anto, -isto; (<i>for animals</i>)
     kapt-isto, -ero di mar-hundi.', '<b dict-key="sealing wax">sealing wax: </b>siglo-vaxo.',
   '<b dict-key="sea">sea-lion: </b>mar-leono.', '<b dict-key="sealskin">sealskin:</b>
@@ -96,7 +96,7 @@
     </b>sekret-eso.', '<b dict-key="secret">secret:</b> (<i>adj</i>.) sekreta (<i>cf</i>.
     cel-ita, privata); (<i>n</i>.) sekret-ajo; <b dict-key="secretly">-ly: </b>sekret-e;
     <b dict-key="to tell in secret">to tell in s.:</b> konfidencar ulo ad ulu; <b
-    dict-key="to ask promise secrecy">to ask, promise secrecy: </b>demandar, promisar
+    dict-key="to ask,promise secrecy">to ask, promise secrecy: </b>demandar, promisar
     la sekret-eso (pri ulo); <b dict-key="to work in secret">to work in s.:</b> laborar
     en sekret-eso; <b dict-key="to share a secret">to share a s.: </b>konocar <i>o</i>
     parto-prenar la sekret-ajo; <b dict-key="to keep a secret">to keep a s.: </b>gardar
@@ -201,19 +201,19 @@
     </b>pri me; por me ipsa.', '<b dict-key="self">self-acusing:</b> su-akuz-anta.',
   '<b dict-key="self">self-acting:</b> automata.', '<b dict-key="self">self-aggrandisement:</b>
     su-( plu-)grand-igo.', '<b dict-key="self">self-assured:</b> aplomb-oza.', '<b
-    dict-key="self">self-centered:</b> ego-ista; su-centr-al-ig-ita.', '<b dict-key="self
-    self">self-command, self-control:</b> su-impero, impero a su ipsa; sango-kalm-eso;
-    aplombo; su-fido.', '<b dict-key="self">self-complacement:</b> su-kontenta.',
-  '<b dict-key="self">self-conceit:</b> fier-ach-eso, alta opiniono pri su, vanitato,
-    propr-amo; <b dict-key="selfed">-ed: </b>fier-acha, vanitat-oza, superba.', '<b
-    dict-key="self">self-confidence:</b> su-fido, fido a su (ipsa), aplombo.', '<b
-    dict-key="self">self-contradictory:</b> su-kontre-dic-anta.', '<b dict-key="self">self-deceived:</b>
-    iluzion-ig-ita (da); su-dup-ig-ita.', '<b dict-key="self">self-denial:</b> abnego,
-    renunco.', '<b dict-key="self">self-denying:</b> abneg-anta, -ema.', '<b dict-key="self">self-destruction:</b>
-    su-ocido.', '<b dict-key="self">self-educated:</b> su-instrukt-inta, auto-didakt-a.',
-  '<b dict-key="self">self-esteem:</b> su-estimo, fier-eso (<i>see</i> <b dict-key="self">self-conceit</b>).',
-  '<b dict-key="self">self-evident: </b>evidenta per su (ipsa).', '<b dict-key="self">self-examination:</b>
-    exameno di koncienco.', '<b dict-key="self">self-flattery:</b> su-flat-(ach)-(ad)o.',
+    dict-key="self">self-centered:</b> ego-ista; su-centr-al-ig-ita.', '<b dict-key="self,self">self-command,
+    self-control:</b> su-impero, impero a su ipsa; sango-kalm-eso; aplombo; su-fido.',
+  '<b dict-key="self">self-complacement:</b> su-kontenta.', '<b dict-key="self">self-conceit:</b>
+    fier-ach-eso, alta opiniono pri su, vanitato, propr-amo; <b dict-key="selfed">-ed:
+    </b>fier-acha, vanitat-oza, superba.', '<b dict-key="self">self-confidence:</b>
+    su-fido, fido a su (ipsa), aplombo.', '<b dict-key="self">self-contradictory:</b>
+    su-kontre-dic-anta.', '<b dict-key="self">self-deceived:</b> iluzion-ig-ita (da);
+    su-dup-ig-ita.', '<b dict-key="self">self-denial:</b> abnego, renunco.', '<b dict-key="self">self-denying:</b>
+    abneg-anta, -ema.', '<b dict-key="self">self-destruction:</b> su-ocido.', '<b
+    dict-key="self">self-educated:</b> su-instrukt-inta, auto-didakt-a.', '<b dict-key="self">self-esteem:</b>
+    su-estimo, fier-eso (<i>see</i> <b dict-key="self">self-conceit</b>).', '<b dict-key="self">self-evident:
+    </b>evidenta per su (ipsa).', '<b dict-key="self">self-examination:</b> exameno
+    di koncienco.', '<b dict-key="self">self-flattery:</b> su-flat-(ach)-(ad)o.',
   '<b dict-key="self">self-government:</b> autonom-eso, ne-depend-o, su-guvern-ado
     (<i>see</i> <b dict-key="self">self-command</b>).', '<b dict-key="self">self-importance:</b>
     egotismo, ego-ismo, fier-ach-eso, superb-eso.', '<b dict-key="self">self-imposture:</b>
@@ -241,7 +241,7 @@
     multo; <b dict-key="to sell to the highest bidder">to s. to the highest bidder:
     </b>vendar aucione; <b dict-key="to sell out">to s. out: </b>(<i>liquidate</i>)
     liquidacar; <b dict-key="seller">-er: </b>vend-anto, -ero, -isto; (<i>n</i>.)
-    (<i>an imposture</i>) tromp-o.', '<b dict-key="selvage selvedge">selvage, selvedge:</b>
+    (<i>an imposture</i>) tromp-o.', '<b dict-key="selvage,selvedge">selvage, selvedge:</b>
     bord-umo, drapo-bendo; paspelo.', '<b dict-key="semantics">semantics:</b> semantiko.',
   '<b dict-key="semaphore">semaphore:</b> semafor-o; (<i>v</i>.) -agar.', '<b dict-key="semblance">semblance:</b>
     (<i>likeness</i>) simil-eso (ad); (<i>appearance</i>) semblo; (<i>simulation</i>)
@@ -325,7 +325,7 @@
     pens-ajo; <b dict-key="such are my sentiments">such are my s.s: </b>tala esas
     mea opiniono, <b dict-key="sentimental">-al: </b>(<i>relative to s</i>.) sentiment-ala,
     (<i>person</i>) -ema, -emo; <b dict-key="sentimentality">-ality: </b>em-eso, -ach-ajo,
-    -em(ach)-eso.', '<b dict-key="sentinel sentry">sentinel, sentry:</b> sentinel-o
+    -em(ach)-eso.', '<b dict-key="sentinel,sentry">sentinel, sentry:</b> sentinel-o
     (<i>cf</i>. vedeto); <b dict-key="to stand sentinel">to stand s.: </b>sentinel-esar,
     facion-ar; <b dict-key="sentinel box">s. box: </b>garito.', '<b dict-key="sepal">sepal:</b>
     sepalo.', '<b dict-key="separable">separable:</b> separ-ebla.', '<b dict-key="separate">separate:</b>

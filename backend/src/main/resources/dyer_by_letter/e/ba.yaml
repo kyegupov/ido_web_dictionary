@@ -2,7 +2,7 @@
     bun</i>) &laquo;baba&raquo;.', '<b dict-key="babble">babble:</b> (<i>intr.</i>)
     babliar; (<i>of a stream</i>) (<i>intr.</i>) murmurar, babliar.', '<b dict-key="Babel">Babel:</b>
     (<i>lit. and fig.</i>) Babel; <b dict-key="Tower of Babel">Tower of B.:</b> Babel-turmo.',
-  '<b dict-key="babirusa babiroussa">babirusa, babiroussa:</b> babiruso.', '<b dict-key="baboon">baboon:</b>
+  '<b dict-key="babirusa,babiroussa">babirusa, babiroussa:</b> babiruso.', '<b dict-key="baboon">baboon:</b>
     babuino; (<i>fig.</i>) simio; <b dict-key="dog baboon">dog-faced b.:</b> cinocefalo.',
   '<b dict-key="babouche">babouche:</b> babucho.', '<b dict-key="baby">baby:</b> infant-eto,
     bebeo*; (<i>verb.</i>) traktar quale infant-eto; <b dict-key="babish">-ish:</b>
@@ -19,7 +19,7 @@
     (<i>university graduate</i>) bachelero (pri cienco, e.c.); <b dict-key="bachelor
     aspirant">b. aspirant:</b> bachelero-kanditato; <b dict-key="bachelor room">b.
     room:</b> celib-ul-eyo, -chambro.', '<b dict-key="bacillus">bacillus:</b> bacil-o;
-    <b dict-key="bacilluslary bacillusliform">-lary, -liform:</b> -a, -ala, -atra,
+    <b dict-key="bacilluslary,bacillusliform">-lary, -liform:</b> -a, -ala, -atra,
     -ema, -forma.', '<b dict-key="back">back:</b> (<i>noun</i>) (<i>of body, knife,
     book, hand, etc.</i>) dorso (<i>cf.</i> fundo); (<i>opposite of front</i>) reverso;
     (<i>rear</i>) dop-o, -ajo; <b dict-key="back to back">b. to b.:</b> dorso an dorso;
@@ -71,7 +71,7 @@
     lardo.', '<b dict-key="bacterium">bacterium:</b> bakteri-o; <b dict-key="bacteriumcide">-cide:</b>
     bakteri-ocid-ivo; <b dict-key="bacteriumiologist">-iologist:</b> bakteriologi-isto
     ; <b dict-key="bacteriumiology">-iology:</b> bakteriologio.', '<b dict-key="bad">bad:</b>
-    (<i>opp. of good</i>) mala, des-bona; <b dict-key="bad act object">bad act, object:</b>
+    (<i>opp. of good</i>) mala, des-bona; <b dict-key="bad act,object">bad act, object:</b>
     mal-ajo; <b dict-key="badly">-ly:</b> male; (<i>of health</i>) malada; (<i>malicious,
     evil</i>) maligna; mal-vol-anta; (<i>putrid</i>) putr-anta, -inta; (<i>serious</i>)
     grava; (<i>spurious</i>) falsa; (<i>of weather, luck, smell, people, humor, etc.</i>)
@@ -102,7 +102,7 @@
     molestar; (<i>as for fish</i>) esko; lur-iz-ilo.', '<b dict-key="baize">baize:</b>
     burelo, serjo, biliardo-telo.', '<b dict-key="bake">bake:</b> (<i>dry heat</i>)
     bakar; koquar; <b dict-key="bake bread">b. bread:</b> (<i>intr.</i>) pan-ifar;
-    <b dict-key="fresh newly home baked">fresh, newly, home baked:</b> freshe, nove,
+    <b dict-key="fresh,newly,home baked">fresh, newly, home baked:</b> freshe, nove,
     heme bakita; <b dict-key="bake oven">b. oven:</b> bako-forno; <b dict-key="a bakeing">a
     b.ing:</b> forn-edo ; <b dict-key="bakery">-ery:</b> bak-eyo, -erio; pan-if-eyo,
     -erio; forn-eyo; <b dict-key="baker">-er:</b> bak-anto, -ero, -isto; pan-if-isto.',
@@ -111,7 +111,7 @@
     kontre-pez-ajo; (<i>mental</i>) su-dominaco, ment-ala equilibro; <b dict-key="torsion
     balance">torsion b.:</b> tordo-balanco; <b dict-key="to weigh by a balance">to
     weigh by a b.:</b> ponderar per balanco; <b dict-key="balance sheet">b. sheet:</b>
-    bilanco; <b dict-key="to make draw a balance">to make, draw a b.:</b> (<i>of an
+    bilanco; <b dict-key="to make,draw a balance">to make, draw a b.:</b> (<i>of an
     account</i>) facar bilanco di; <b dict-key="balance due">b. due:</b> deb-rest-ajo,
     sald-ajo; <b dict-key="balanceing body">b.ing body:</b> (<i>as fly-wheel, etc.</i>)
     balanciero; <b dict-key="balance of power">b. of power:</b> equilibro di povo;
@@ -213,7 +213,7 @@
   '<b dict-key="bank">bank-clerk: </b>bank-komizo.', '<b dict-key="banker">banker:</b>
     bank-isto.', '<b dict-key="bank">bank-holiday:</b> (leg-ala) festo.', '<b dict-key="banking">banking:</b>
     bank-aferi, bank-komerc-ado.', '<b dict-key="bank">bank-note:</b> banko-bilieto.',
-  '<b dict-key="bank bankshare">bank-stock, -share:</b> bank-aciono.', '<b dict-key="bankrupt">bankrupt:</b>
+  '<b dict-key="bank,bankshare">bank-stock, -share:</b> bank-aciono.', '<b dict-key="bankrupt">bankrupt:</b>
     (<i>adj.</i>) bankrot-a, -inta; fali-inta; <b dict-key="to be bankrupt">to be
     b.:</b> (<i>implies disgrace</i>) bankrotar; (<i>without disgrace</i>) (<i>intr.</i>)
     fali-ar ; <b dict-key="to bankrupt">to b.:</b> bankrot-igar, fali-igar; <b dict-key="bankrupt
@@ -224,7 +224,7 @@
     festin-ar; -o.', '<b dict-key="banter">banter:</b> (<i>tr., intr.</i>) jokar (ulu,
     pri ulo); mok-etar (ulu).', '<b dict-key="banyan">banyan:</b> (<i>bot., tree</i>)
     banyano.', '<b dict-key="baobab">baobab:</b> baobabo.', '<b dict-key="baptism">baptism:</b>
-    bapto; <b dict-key="baptismal font tank">-al font, tank:</b> bapt-ala vasko, kuvo;
+    bapto; <b dict-key="baptismal font,tank">-al font, tank:</b> bapt-ala vasko, kuvo;
     <b dict-key="certificate of baptism">certificate of b.:</b> bapt-atesto.', '<b
     dict-key="baptistery">baptistery:</b> bapt-eyo.', '<b dict-key="baptise">baptise:</b>
     baptar.', '<b dict-key="bar">bar:</b> (<i>verb</i>) (<i>a door, a way</i>) bar-ar,
@@ -377,17 +377,17 @@
     batalio, kombato.', '<b dict-key="battle">battle-ax</b>(<b dict-key="e">e</b>):
     armo-hak-ilo; (<i>French</i>) francisko.', '<b dict-key="battlement">battlement:
     </b>krenolo; remparo.', '<b dict-key="battleship">battleship: </b>kuras-iz-ita
-    milit-nav-ego.', '<b dict-key="battue">battue: </b>trako-chaso.', '<b dict-key="bawble
-    bauble">bawble, bauble: </b>bagatelo; berlok-acho; lud-ilo; <b dict-key="fool
-    bawble">fool&rsquo;s b.: </b>(<i>sceptre</i>) folo-ceptro.', '<b dict-key="baulk">baulk:
-    </b><i>see </i><b dict-key="balk">balk.</b>', '<b dict-key="bauxite">bauxite:</b>
-    (<i>min.</i>) bauxito*.', '<b dict-key="bawd">bawd: </b>prostituc-agento, proxeneto;
-    <b dict-key="bawdy">-y: </b>obcena, deboch-era; <b dict-key="bawdy house">-y house:
-    </b>prostituc-eyo.', '<b dict-key="bawl">bawl: </b>(<i>inarticulate</i>) kri-(eg)achar;
-    (<i>cry</i>) plor-eg-ar (<i>intr.</i>) plor-ach-ar; (<i>with words</i>) klam-achar;
-    (<i>sing</i>) kant-achar.', '<b dict-key="bay">bay: </b>(<i>intr.</i>) aboyar;
-    <b dict-key="to bring to bay">to bring to b.: </b>akular (ulu).', '<b dict-key="bay">bay:
-    </b>(<i>of joists</i>) (<i>of sea</i>) bayo (<i>large</i>) bay-ego, golfo; (<i>compartment</i>)
+    milit-nav-ego.', '<b dict-key="battue">battue: </b>trako-chaso.', '<b dict-key="bawble,bauble">bawble,
+    bauble: </b>bagatelo; berlok-acho; lud-ilo; <b dict-key="fool bawble">fool&rsquo;s
+    b.: </b>(<i>sceptre</i>) folo-ceptro.', '<b dict-key="baulk">baulk: </b><i>see
+    </i><b dict-key="balk">balk.</b>', '<b dict-key="bauxite">bauxite:</b> (<i>min.</i>)
+    bauxito*.', '<b dict-key="bawd">bawd: </b>prostituc-agento, proxeneto; <b dict-key="bawdy">-y:
+    </b>obcena, deboch-era; <b dict-key="bawdy house">-y house: </b>prostituc-eyo.',
+  '<b dict-key="bawl">bawl: </b>(<i>inarticulate</i>) kri-(eg)achar; (<i>cry</i>)
+    plor-eg-ar (<i>intr.</i>) plor-ach-ar; (<i>with words</i>) klam-achar; (<i>sing</i>)
+    kant-achar.', '<b dict-key="bay">bay: </b>(<i>intr.</i>) aboyar; <b dict-key="to
+    bring to bay">to bring to b.: </b>akular (ulu).', '<b dict-key="bay">bay: </b>(<i>of
+    joists</i>) (<i>of sea</i>) bayo (<i>large</i>) bay-ego, golfo; (<i>compartment</i>)
     fako; alkovo; (<i>bark</i>) aboyo; (<i>coloured</i>) red-bruna; (<i>of horses</i>)
     izabela; <b dict-key="bay window">b. window: </b>alkov-fenestro; <b dict-key="bay
     tree">b. tree: </b>lauro; <b dict-key="bay cherry">b. cherry: </b>ceriz-lauro;

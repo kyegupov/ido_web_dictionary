@@ -22,7 +22,7 @@
   '<b dict-key="anakondo">anakond-o:</b> (2001) anaconda. &mdash; DEFIRS', '<b dict-key="anakoreto">anakoret-o:</b>
     (<i>relig.</i>) anchoret, anchorite. &mdash; DEFIRS', '<b dict-key="anakronismo">anakronism-o:</b>
     anachronism: error in chronology; something incongruous in time. &mdash; DEFIRS',
-  '<b dict-key="analo anali">anal-o, -i:</b> annal(s). &mdash; DEFIS', '<b dict-key="analfabeto">analfabet-o*:</b>
+  '<b dict-key="analo,anali">anal-o, -i:</b> annal(s). &mdash; DEFIS', '<b dict-key="analfabeto">analfabet-o*:</b>
     illiterate; persono qua savas nek lektar nek skribar. &mdash; DFIS.', '<b dict-key="analgeziar">analgezi-ar:</b>
     (<i>tr.</i>) to lull the sensibilities, produce insensibility to pain; <b dict-key="analgezio">-o:</b>
     analgesia. &mdash; EFIS', '<b dict-key="analitiko">analitik-o:</b> (<i>math.</i>)
@@ -41,24 +41,24 @@
   '<b dict-key="ananaso">ananas-o:</b> (<i>fruit</i>) pineapple; <b dict-key="ananasiero">-iero:</b>
     p. plant. &mdash; DFIRS', '<b dict-key="anapesto">anapest-o:</b> (<i>pros.</i>)
     anapest. &mdash; DEFIRS', '<b dict-key="anarkio">anarki-o:</b> anarchy; <b dict-key="anarkiismo">-ismo:</b>
-    anarchism; <b dict-key="anarkiista anarkiisto">-ista, -isto:</b> anarchist. &mdash;
+    anarchism; <b dict-key="anarkiista,anarkiisto">-ista, -isto:</b> anarchist. &mdash;
     DEFIRS', '<b dict-key="anastigmata">anastigmat-a:</b> (<i>opt.</i>) anastigmatic.
     &mdash; DEF', '<b dict-key="anastomoso">anastomos-o:</b> (<i>bio., anat.</i>)
     anastomosis. &mdash; DEFIRS', '<b dict-key="anatemar">anatem-ar:</b> (<i>tr.,
-    Chr. relig.</i>) to anathematize; <b dict-key="anatemo">-o:</b> anathema; <b dict-key="anatemita
-    anatemito">-ita, -ito:</b> anathematized (person). &mdash; DEFIRS', '<b dict-key="anatomio">anatomi-o:</b>
+    Chr. relig.</i>) to anathematize; <b dict-key="anatemo">-o:</b> anathema; <b dict-key="anatemita,anatemito">-ita,
+    -ito:</b> anathematized (person). &mdash; DEFIRS', '<b dict-key="anatomio">anatomi-o:</b>
     (<i>science</i>) anatomy. &mdash; DEFIRS', '<b dict-key="ancestroo">ancestro-o:</b>
-    ancestor; <b dict-key="ancestroala">-ala:</b> ancestral; <b dict-key="ancestroi
-    ancestroaro">-i, -aro:</b> ancestors; <b dict-key="ancestroino">-ino:</b> ancestress.
-    &mdash; EF', '<b dict-key="anchovo">anchov-o:</b> (<i>ichth.</i>) anchovy (Engraulis
-    encrasicholus). &mdash; DEFIRS', '<b dict-key="anciena">ancien-a:</b> ancient,
-    old; <b dict-key="ancieneso">-eso:</b> oldness, ancientness; <b dict-key="ancienajo">-ajo:</b>
-    something old. V. exp.: <b dict-key="anciena nova yuna olda antiqua anciena nova">anciena,
-    nova; yuna, olda; antiqua: anciena, nova</b> relatas prefere la kozi; <b dict-key="yuna
-    olda">yuna, olda</b> relatas precipue l''evo, ma on darfas parolar pri homo anciena
-    o nova en lua profesiono, en ofico o funciono. Ex.: Persono qua esas yuna (per
-    evo) ma anciena en ofico (t.e. homo qua havas &quot;ancieneso&quot; en ula ofico,
-    kontraste ad oficisto qua ne tam longe okupas sua ofico quale l''altru. <b dict-key="Antiqua">Antiqua</b>
+    ancestor; <b dict-key="ancestroala">-ala:</b> ancestral; <b dict-key="ancestroi,ancestroaro">-i,
+    -aro:</b> ancestors; <b dict-key="ancestroino">-ino:</b> ancestress. &mdash; EF',
+  '<b dict-key="anchovo">anchov-o:</b> (<i>ichth.</i>) anchovy (Engraulis encrasicholus).
+    &mdash; DEFIRS', '<b dict-key="anciena">ancien-a:</b> ancient, old; <b dict-key="ancieneso">-eso:</b>
+    oldness, ancientness; <b dict-key="ancienajo">-ajo:</b> something old. V. exp.:
+    <b dict-key="anciena,nova yuna,olda antiqua anciena,nova">anciena, nova; yuna,
+    olda; antiqua: anciena, nova</b> relatas prefere la kozi; <b dict-key="yuna,olda">yuna,
+    olda</b> relatas precipue l''evo, ma on darfas parolar pri homo anciena o nova
+    en lua profesiono, en ofico o funciono. Ex.: Persono qua esas yuna (per evo) ma
+    anciena en ofico (t.e. homo qua havas &quot;ancieneso&quot; en ula ofico, kontraste
+    ad oficisto qua ne tam longe okupas sua ofico quale l''altru. <b dict-key="Antiqua">Antiqua</b>
     koncernas exkluzive l''epoko, t.e. la <b dict-key="antea">antea</b> yarcenti,
     e plu precize la tempi di la Greki e Romani. Domo, moblo, vesto povas esar anciena,
     e tote ne esar antiqua. O se on qualifikas oli &quot;antiqua,&quot; to esas nur
@@ -66,27 +66,27 @@
     &mdash; DeFIS', '<b dict-key="andrinoplo">andrinopl-o:</b> &quot;andrinople&quot;,
     a cotton fabric. &mdash; FIS', '<b dict-key="androceo">androce-o:</b> (<i>bot.</i>)
     androecium. &mdash; DEF', '<b dict-key="androdioika">androdioik-a:</b> (<i>bot.</i>)
-    androdioecious. &mdash; DEFIS', '<b dict-key="androgina androgino">androgin-a,
+    androdioecious. &mdash; DEFIS', '<b dict-key="androgina,androgino">androgin-a,
     -o:</b> (<i>biol.</i>) androgynous, androngyny. &mdash; DEFIRS', '<b dict-key="androido">android-o:</b>
     (2001) android. &mdash; DEFIRS', '<b dict-key="andromonoika">andromonoik-a:</b>
     (<i>bot.</i>) andromonoecious. &mdash; DEFIS', '<b dict-key="anekdoto">anekdot-o:</b>
     anecdote. &mdash; DEFIRS', '<b dict-key="anemio">anemi-o:</b> (<i>med.</i>) anemia,
-    anaemia; <b dict-key="anemiala">-ala:</b> (relating to disease) anemic; <b dict-key="anemiika
-    iko">-ika, iko:</b> anemic (person); <b dict-key="anemiigar">-igar:</b> to render
-    anemic. &mdash; DEFIRS', '<b dict-key="anemofila">anemofil-a:</b> (<i>biol.</i>)
-    anemophilous. &mdash; DEFIS', '<b dict-key="anemometro">anemometr-o:</b> anemometer:
-    wind-guage. &mdash; DEFIRS', '<b dict-key="anemono">anemon-o:</b> (<i>bot.</i>)
-    anemone (genus: Anemone). &mdash; DEFIRS', '<b dict-key="aneroida">aneroid-a:</b>
-    aneroid: <b dict-key="aneroida barometro">-a barometro:</b> a. barometer. &mdash;
-    DEFIRS', '<b dict-key="anesteziar">anestezi-ar:</b> (<i>tr.</i>) to anesthetize
-    (as by ether or chloroform); <b dict-key="anestezio">-o:</b> anesthetizing (act);
-    <b dict-key="anestezieso">-eso:</b> anesthesia (state); <b dict-key="anesteziiva
-    ivo">-iva, ivo:</b> anesthetic. &mdash; DEFIRS', '<b dict-key="aneto">anet-o:</b>
-    (<i>bot.</i>) anet: dil (Anethum graveolens). &mdash; eFIRS', '<b dict-key="anevrismo">anevrism-o:</b>
-    (<i>med.</i>) aneurism. &mdash; DeFIRS', '<b dict-key="anexar">anex-ar:</b> (<i>tr.</i>)
-    to annex; <b dict-key="anexo anexeso">-o, -eso:</b> annexation; <b dict-key="anexajo">-ajo:</b>
+    anaemia; <b dict-key="anemiala">-ala:</b> (relating to disease) anemic; <b dict-key="anemiika,iko">-ika,
+    iko:</b> anemic (person); <b dict-key="anemiigar">-igar:</b> to render anemic.
+    &mdash; DEFIRS', '<b dict-key="anemofila">anemofil-a:</b> (<i>biol.</i>) anemophilous.
+    &mdash; DEFIS', '<b dict-key="anemometro">anemometr-o:</b> anemometer: wind-guage.
+    &mdash; DEFIRS', '<b dict-key="anemono">anemon-o:</b> (<i>bot.</i>) anemone (genus:
+    Anemone). &mdash; DEFIRS', '<b dict-key="aneroida">aneroid-a:</b> aneroid: <b
+    dict-key="aneroida barometro">-a barometro:</b> a. barometer. &mdash; DEFIRS',
+  '<b dict-key="anesteziar">anestezi-ar:</b> (<i>tr.</i>) to anesthetize (as by ether
+    or chloroform); <b dict-key="anestezio">-o:</b> anesthetizing (act); <b dict-key="anestezieso">-eso:</b>
+    anesthesia (state); <b dict-key="anesteziiva,ivo">-iva, ivo:</b> anesthetic. &mdash;
+    DEFIRS', '<b dict-key="aneto">anet-o:</b> (<i>bot.</i>) anet: dil (Anethum graveolens).
+    &mdash; eFIRS', '<b dict-key="anevrismo">anevrism-o:</b> (<i>med.</i>) aneurism.
+    &mdash; DeFIRS', '<b dict-key="anexar">anex-ar:</b> (<i>tr.</i>) to annex; <b
+    dict-key="anexo,anexeso">-o, -eso:</b> annexation; <b dict-key="anexajo">-ajo:</b>
     an annex: <b dict-key="anexita">-ita:</b> annexed. &mdash; DEFIRS', '<b dict-key="angelo">angel-o:</b>
-    fish-hook; <b dict-key="angelagar angelkaptar">-agar, -kaptar:</b> (<i>tr.</i>)
+    fish-hook; <b dict-key="angelagar,angelkaptar">-agar, -kaptar:</b> (<i>tr.</i>)
     to hook; <b dict-key="angelizar">-izar:</b> to put a hook on (cf. <b dict-key="peskar">peskar</b>).
     &mdash; DS', '<b dict-key="angeliko">angelik-o:</b> (<i>bot.</i>) angelica (Angelica
     archangelica). &mdash; DEFIRS', '<b dict-key="angelus">&laquo;angelus&raquo;:</b>
@@ -94,69 +94,69 @@
     angina, quinsy. &mdash; DEFIRS', '<b dict-key="angiomo">angiom-o:</b> (2001) angioma.
     &mdash; DEFIRS', '<b dict-key="angiopatio">angiopati-o:</b> (2001) angiopathy.
     &mdash; DEFIRS', '<b dict-key="angioplastio">angioplasti-o:</b> (2001) angioplasty.
-    &mdash; DEFIRS', '<b dict-key="angiospermo angiosperma">angiosperm-o, -a:</b>
+    &mdash; DEFIRS', '<b dict-key="angiospermo,angiosperma">angiosperm-o, -a:</b>
     (<i>bot.</i>) angiosperm(ous). &mdash; DEFIS', '<b dict-key="Angla">Angl-a:</b>
-    English; <b dict-key="Angl Anglano">-(ul)o, -ano:</b> English-man; <b dict-key="Anglaparolanto">-a-parol-anto:</b>
-    one who speaks English; <b dict-key="Anglia">-ia:</b> England; <b dict-key="Anglatra
-    Anglamode">-atra, -a-mode:</b> in the English fashion: <b dict-key="Anglomaniika
-    Angliko">-o-mani-ika, -iko:</b> anglomaniac, <b dict-key="Anglajo">-ajo:</b> E.
-    idiotism, anglicism; <b dict-key="Angloodio">-o-odio:</b> anglophobia; <b dict-key="Angloodianta
-    Anglanto">-o-odianta, -anto:</b> anglophobe (person); <b dict-key="la Angla">la
-    Angla:</b> the English language.', '<b dict-key="anglikana anglikano">anglikan-a,
-    -o:</b> Anglican; <b dict-key="anglikanismo">-ismo:</b> Anglicanism. &mdash; DEFIRS',
-  '<b dict-key="angorar">angor-ar:</b> (<i>intr.</i>) to be in anguish; <b dict-key="angorigar">-igar:</b>
-    to cause a. to, to agonize; <b dict-key="angoro">-o:</b> anguish: pang, agony,
-    violent pain (of body or mind); <b dict-key="angoriganta">-ig-anta:</b> agonizing;
-    <b dict-key="angoroza">-oza:</b> full of a. V. exp.: vid. <b dict-key="pavorar">pavorar.</b>
-    &mdash; eFIS', '<b dict-key="angora kapro">&laquo;angora&raquo; (-kapro):</b>
-    Angora-goat, <b dict-key="kato">-kato:</b> A.-cat. &mdash; DEFIRS', '<b dict-key="angosturo">angostur-o:</b>
-    (2001) angostura (tree). &mdash; DEFIRS', '<b dict-key="anguilo">anguil-o:</b>
-    (<i>ichth.</i>) eel (order: Apodes); <b dict-key="anguilopesko">-o-pesko:</b>
-    eel-fishing. &mdash; FIS', '<b dict-key="angulo">angul-o:</b> angle, corner; <b
-    dict-key="anguleto">-eto:</b> small angle, nook; <b dict-key="angulala">-ala:</b>
-    angular, corner; <b dict-key="anguloza">-oza:</b> many cornered, angulated; <b
-    dict-key="angulo akuta">-o akuta:</b> acute angled; <b dict-key="angulo faciala">-o
-    faciala:</b> (<i>anat.</i>) facial a.; <b dict-key="ort angula">ort- -a:</b> right-angled;
-    <b dict-key="angulo obtuza">-o obtuza:</b> obtuse a.; <b dict-key="angulopetro">-o-petro:</b>
-    corner-stone; <b dict-key="angulopeco">-o-peco:</b> corner-piece; <b dict-key="angulfaldar">-faldar:</b>
-    (<i>tr.</i>) to fold the corners of (<b dict-key="ulo">ulo</b>); <b dict-key="angulmoblo">-moblo:</b>
-    corner-piece (furniture); <b dict-key="angulruptar">-ruptar:</b> to break the
-    corners off (<b dict-key="ulo">ulo</b>). &mdash; EFIS', '<b dict-key="anhelar">anhel-ar:</b>
-    (<i>intr.</i>) to pant, gasp for breath; <b dict-key="anheligar">-igar:</b> to
-    put out of breath, to wind; <b dict-key="anhel">-(ad)o:</b> panting; (<i>med.</i>)
-    anhelation. Ex.: Ca hundo anhelas. Lu arivis anhelegante, tante rapide lu esis
-    kurinta. Me anheligis me, acensante ta eskalero. &mdash; eFIS', '<b dict-key="anhidra">anhidr-a:</b>
+    English; <b dict-key="Angl,Anglano">-(ul)o, -ano:</b> English-man; <b dict-key="Anglaparolanto">-a-parol-anto:</b>
+    one who speaks English; <b dict-key="Anglia">-ia:</b> England; <b dict-key="Anglatra,Anglamode">-atra,
+    -a-mode:</b> in the English fashion: <b dict-key="Anglomaniika,Angliko">-o-mani-ika,
+    -iko:</b> anglomaniac, <b dict-key="Anglajo">-ajo:</b> E. idiotism, anglicism;
+    <b dict-key="Angloodio">-o-odio:</b> anglophobia; <b dict-key="Angloodianta,Anglanto">-o-odianta,
+    -anto:</b> anglophobe (person); <b dict-key="la Angla">la Angla:</b> the English
+    language.', '<b dict-key="anglikana,anglikano">anglikan-a, -o:</b> Anglican; <b
+    dict-key="anglikanismo">-ismo:</b> Anglicanism. &mdash; DEFIRS', '<b dict-key="angorar">angor-ar:</b>
+    (<i>intr.</i>) to be in anguish; <b dict-key="angorigar">-igar:</b> to cause a.
+    to, to agonize; <b dict-key="angoro">-o:</b> anguish: pang, agony, violent pain
+    (of body or mind); <b dict-key="angoriganta">-ig-anta:</b> agonizing; <b dict-key="angoroza">-oza:</b>
+    full of a. V. exp.: vid. <b dict-key="pavorar">pavorar.</b> &mdash; eFIS', '<b
+    dict-key="angora kapro">&laquo;angora&raquo; (-kapro):</b> Angora-goat, <b dict-key="kato">-kato:</b>
+    A.-cat. &mdash; DEFIRS', '<b dict-key="angosturo">angostur-o:</b> (2001) angostura
+    (tree). &mdash; DEFIRS', '<b dict-key="anguilo">anguil-o:</b> (<i>ichth.</i>)
+    eel (order: Apodes); <b dict-key="anguilopesko">-o-pesko:</b> eel-fishing. &mdash;
+    FIS', '<b dict-key="angulo">angul-o:</b> angle, corner; <b dict-key="anguleto">-eto:</b>
+    small angle, nook; <b dict-key="angulala">-ala:</b> angular, corner; <b dict-key="anguloza">-oza:</b>
+    many cornered, angulated; <b dict-key="angulo akuta">-o akuta:</b> acute angled;
+    <b dict-key="angulo faciala">-o faciala:</b> (<i>anat.</i>) facial a.; <b dict-key="ort
+    angula">ort- -a:</b> right-angled; <b dict-key="angulo obtuza">-o obtuza:</b>
+    obtuse a.; <b dict-key="angulopetro">-o-petro:</b> corner-stone; <b dict-key="angulopeco">-o-peco:</b>
+    corner-piece; <b dict-key="angulfaldar">-faldar:</b> (<i>tr.</i>) to fold the
+    corners of (<b dict-key="ulo">ulo</b>); <b dict-key="angulmoblo">-moblo:</b> corner-piece
+    (furniture); <b dict-key="angulruptar">-ruptar:</b> to break the corners off (<b
+    dict-key="ulo">ulo</b>). &mdash; EFIS', '<b dict-key="anhelar">anhel-ar:</b> (<i>intr.</i>)
+    to pant, gasp for breath; <b dict-key="anheligar">-igar:</b> to put out of breath,
+    to wind; <b dict-key="anhel">-(ad)o:</b> panting; (<i>med.</i>) anhelation. Ex.:
+    Ca hundo anhelas. Lu arivis anhelegante, tante rapide lu esis kurinta. Me anheligis
+    me, acensante ta eskalero. &mdash; eFIS', '<b dict-key="anhidra">anhidr-a:</b>
     (<i>chem.</i>) anhydrous. &mdash; DEFIRS', '<b dict-key="anhidrito">anhidrit-o*:</b>
     (<i>min.</i>) anhydrite.', '<b dict-key="anilino">anilin-o:</b> (<i>chem.</i>)
     aniline. &mdash; DEFIRS', '<b dict-key="animar">anim-ar:</b> (<i>tr.</i>) to animate:
-    endow with life; (<i>fig.</i>) to enliven, give animation to; <b dict-key="animo
-    animeso">-o, -eso:</b> animation; <b dict-key="animata animoza">-ata, -oza:</b>
-    animated. Ex.: La anmo animas la korpo. La konversado esis animoza. &mdash; DEFIRS',
-  '<b dict-key="animalo">animal-o:</b> animal; <b dict-key="animalala">-ala:</b> animal;
-    <b dict-key="animaleto mikroskopala">-eto (mikroskopala):</b> animalcule; <b dict-key="animaleso">-eso:</b>
-    animality; <b dict-key="animalaro">-aro:</b> group of a.s; kingdom, fauna. &mdash;
-    DEFIRS', '<b dict-key="animismo">animism-o:</b> (<i>philos., physiol.</i>) animism.
-    &mdash; DEF', '<b dict-key="aniono">anion-o:</b> anion. &mdash; DEFIRS', '<b dict-key="aniversario">aniversari-o:</b>
+    endow with life; (<i>fig.</i>) to enliven, give animation to; <b dict-key="animo,animeso">-o,
+    -eso:</b> animation; <b dict-key="animata,animoza">-ata, -oza:</b> animated. Ex.:
+    La anmo animas la korpo. La konversado esis animoza. &mdash; DEFIRS', '<b dict-key="animalo">animal-o:</b>
+    animal; <b dict-key="animalala">-ala:</b> animal; <b dict-key="animaleto mikroskopala">-eto
+    (mikroskopala):</b> animalcule; <b dict-key="animaleso">-eso:</b> animality; <b
+    dict-key="animalaro">-aro:</b> group of a.s; kingdom, fauna. &mdash; DEFIRS',
+  '<b dict-key="animismo">animism-o:</b> (<i>philos., physiol.</i>) animism. &mdash;
+    DEF', '<b dict-key="aniono">anion-o:</b> anion. &mdash; DEFIRS', '<b dict-key="aniversario">aniversari-o:</b>
     anniversary; <b dict-key="aniversario mortala">-o mortala:</b> commemoration.
     &mdash; DEFIS', '<b dict-key="anizo">aniz-o:</b> (<i>bot.</i>) anise (Pimpinella
     Anisum); <b dict-key="anizosemini">-o-semini:</b> aniseed; <b dict-key="anizliquoro">-liquoro:</b>
     anisette. &mdash; DEFIRS', '<b dict-key="anizotropa">anizotrop-a:</b> (<i>biol.</i>)
-    anisotropic. &mdash; DEFIS', '<b dict-key="anjelo">anjel-o:</b> angel; <b dict-key="anjelala
-    anjelatra">-ala, -atra:</b> angelic; <b dict-key="gardanjelo">gard-anjelo:</b>
-    guardian a. &mdash; DEFIRS', '<b dict-key="anke">anke:</b> (<i>adv., conj.</i>)
-    also; <b dict-key="me anke ne">me anke ne</b> (od, <b dict-key="anka me ne">anka
-    me ne</b>) I neither; <b dict-key="ma anke">ma anke:</b> but also, but yet. Ex.:
-    La lakto esas plu salubra kam la biro ol esas anke plu nutriva. &mdash; I', '<b
-    dict-key="ankilosar">ankilos-ar:</b> (<i>tr., surg.</i>) to anchylose: make stiff;
-    <b dict-key="ankilosesar">-esar:</b> to be to become anchylosed; <b dict-key="ankiloso
-    ankiloseso">-o, -eso:</b> ankylosis, anchylosis. &mdash; DEFIRS', '<b dict-key="ankore">ankore:</b>
-    (<i>adv., conj.</i>) yet, still, until now, until then (refers to a fact or act
-    already existing); <b dict-key="lu ankore ne arivas">lu ankore ne arivas:</b>
-    he has not yet arrived; <b dict-key="kad vu ankore hungras">kad vu ankore hungras?</b>
-    are you still hungry. V. exp.: <b dict-key="Ankore ja Ankore">Ankore ja: Ankore</b>
-    signifikas duro di ago o stando plu longa, e <b dict-key="ja">ja</b> komenco di
-    fakto od ago plu frua kam on opinionis; III-335. &mdash; FI', '<b dict-key="ankro">ankr-o:</b>
-    anchor; <b dict-key="ankrojetar ankragar">-o-jetar, -agar:</b> (<i>tr.</i>) to
+    anisotropic. &mdash; DEFIS', '<b dict-key="anjelo">anjel-o:</b> angel; <b dict-key="anjelala,anjelatra">-ala,
+    -atra:</b> angelic; <b dict-key="gardanjelo">gard-anjelo:</b> guardian a. &mdash;
+    DEFIRS', '<b dict-key="anke">anke:</b> (<i>adv., conj.</i>) also; <b dict-key="me
+    anke ne">me anke ne</b> (od, <b dict-key="anka me ne">anka me ne</b>) I neither;
+    <b dict-key="ma anke">ma anke:</b> but also, but yet. Ex.: La lakto esas plu salubra
+    kam la biro ol esas anke plu nutriva. &mdash; I', '<b dict-key="ankilosar">ankilos-ar:</b>
+    (<i>tr., surg.</i>) to anchylose: make stiff; <b dict-key="ankilosesar">-esar:</b>
+    to be to become anchylosed; <b dict-key="ankiloso,ankiloseso">-o, -eso:</b> ankylosis,
+    anchylosis. &mdash; DEFIRS', '<b dict-key="ankore">ankore:</b> (<i>adv., conj.</i>)
+    yet, still, until now, until then (refers to a fact or act already existing);
+    <b dict-key="lu ankore ne arivas">lu ankore ne arivas:</b> he has not yet arrived;
+    <b dict-key="kad vu ankore hungras">kad vu ankore hungras?</b> are you still hungry.
+    V. exp.: <b dict-key="Ankore ja Ankore">Ankore ja: Ankore</b> signifikas duro
+    di ago o stando plu longa, e <b dict-key="ja">ja</b> komenco di fakto od ago plu
+    frua kam on opinionis; III-335. &mdash; FI', '<b dict-key="ankro">ankr-o:</b>
+    anchor; <b dict-key="ankrojetar,ankragar">-o-jetar, -agar:</b> (<i>tr.</i>) to
     anchor; <b dict-key="ankrago">-ago:</b> anchoring; <b dict-key="ankresaragita">-esar-agita:</b>
     to be at anchor; <b dict-key="ankrageyo">-ag-eyo:</b> anchorage; <b dict-key="ankrotrabo">-o-trabo:</b>
     (<i>nav.</i>) cat-head; <b dict-key="ankroboyo">-o-boyo:</b> a.-bouy; <b dict-key="driftar
@@ -169,7 +169,7 @@
     (<i>ent.</i>) death-tick, -watch (Anobium); <b dict-key="ligno anobio">ligno-
     -o:</b> wood-fretter. &mdash; FL', '<b dict-key="anodo">anod-o:</b> (<i>elec.</i>)
     anode: positive terminal. &mdash; DEFIRS', '<b dict-key="anomala">anomal-a:</b>
-    abnormal, anomalous: irregular; <b dict-key="anomaleso anomalajo">-eso, -ajo:</b>
+    abnormal, anomalous: irregular; <b dict-key="anomaleso,anomalajo">-eso, -ajo:</b>
     anomaly, abnormality. &mdash; DEFIRS', '<b dict-key="anonima">anonim-a:</b> anonymous;
     <b dict-key="anonimeso">-eso:</b> anonymity; <b dict-key="anonim">-(ul)o:</b>
     a. person. &mdash; DEFIRS', '<b dict-key="anorako">anorak-o:</b> (1979) anorak.
@@ -202,12 +202,12 @@
     dict-key="antibiotika">antibiotik-a:</b> (1979) antibiotic. &mdash; DEFS', '<b
     dict-key="antibiotiko">antibiotik-o:</b> (1979) antibiotics. &mdash; DEFS', '<b
     dict-key="anticiklono">anticiklon-o:</b> (1949) anticyclone. &mdash; EFS', '<b
-    dict-key="anticipar">anticip-ar:</b> (<i>tr.</i>) to anticipate; <b dict-key="anticipo
-    anticipeso">-o, -eso:</b> anticipation; <b dict-key="anticipe">-e:</b> in anticipation;
-    <b dict-key="anticipala pago">-ala pago:</b> advance payment. &mdash; DEFIS',
-  '<b dict-key="antidoto">antidot-o:</b> (<i>also fig.</i>) antidote. Def.: Substanco
-    qua neutrigas l''efekti di la veneni; IV-76. &mdash; DEFIRS', '<b dict-key="antifermento">antiferment-o:</b>
-    (<i>chem., biol.</i>) antifermenting agent. &mdash; DEFIS', '<b dict-key="antifono">antifon-o:</b>
+    dict-key="anticipar">anticip-ar:</b> (<i>tr.</i>) to anticipate; <b dict-key="anticipo,anticipeso">-o,
+    -eso:</b> anticipation; <b dict-key="anticipe">-e:</b> in anticipation; <b dict-key="anticipala
+    pago">-ala pago:</b> advance payment. &mdash; DEFIS', '<b dict-key="antidoto">antidot-o:</b>
+    (<i>also fig.</i>) antidote. Def.: Substanco qua neutrigas l''efekti di la veneni;
+    IV-76. &mdash; DEFIRS', '<b dict-key="antifermento">antiferment-o:</b> (<i>chem.,
+    biol.</i>) antifermenting agent. &mdash; DEFIS', '<b dict-key="antifono">antifon-o:</b>
     antiphon: anthem; <b dict-key="antifonaro">-aro:</b> antiphonary. &mdash; DEFIRS',
   '<b dict-key="antifrazo">antifraz-o:</b> antiphrasis. Def.: Figuro di retoriko,
     qua konsistas en uzar ula vorto o frazo en senco kontrea a lua vera signifiko.
@@ -229,22 +229,22 @@
     feels antipathetical, full of aversion. Ant.: <b dict-key="simpatiar">simpatiar.</b>
     &mdash; DEFIRS', '<b dict-key="antipirino">antipirin-o:</b> (<i>chem., med.</i>)
     antipyrin. &mdash; DEFIRS', '<b dict-key="antipatriota">anti-patriot-a:</b> antipatriotic.
-    &mdash; EF', '<b dict-key="antipodo antipodi">antipod-o, -i:</b> antipode(s).
+    &mdash; EF', '<b dict-key="antipodo,antipodi">antipod-o, -i:</b> antipode(s).
     &mdash; DEFIRS', '<b dict-key="antiqua">antiqu-a:</b> antique, ancient: of a former
     epoch; <b dict-key="antiquajo">-ajo:</b> an antique; <b dict-key="antiqueso">-eso:</b>
     antiquity; <b dict-key="antiquajisto">-aj-isto:</b> antiquary. Ex.: Antiqua moblo,
     kustumo; muzeo di antiquaji. V. ex.: vid. <b dict-key="anciena">anciena</b>. Ant.:
-    <b dict-key="moderna nuntempa prezenta nuna">moderna, nun-tempa, prezenta, nuna.</b>
+    <b dict-key="moderna,nuntempa,prezenta,nuna">moderna, nun-tempa, prezenta, nuna.</b>
     &mdash; DEFIRS', '<b dict-key="antiquara">antiquar-a:</b> (1949) antiquarian.
     &mdash; DEFS', '<b dict-key="antirino">antirin-o:</b> (1949) genero di skrofulacei.
     &mdash; DEFIRS', '<b dict-key="antisemida">anti-semid-a:</b> anti-Semitic; <b
     dict-key="anti">-(ul)o:</b> anti-Semite; <b dict-key="antiismo">-ismo:</b> anti-Semitism.
     &mdash; DEF', '<b dict-key="antisepsiar">antisepsi-ar:</b> (<i>tr.</i>) to antisepticize;
     <b dict-key="antisepsiesar">-esar:</b> to be antiseptic; <b dict-key="antisepsieso">-eso:</b>
-    antiseptic state; <b dict-key="antisepsiiva antisepsiivo">-iva, -ivo:</b> antiseptic.
+    antiseptic state; <b dict-key="antisepsiiva,antisepsiivo">-iva, -ivo:</b> antiseptic.
     Def.: Kombatar kontre la mikrobi per antisepsiivo. &mdash; DEFIRS', '<b dict-key="antisepta">antisept-a:</b>
     (1949) antiseptic. &mdash; DEFIRS', '<b dict-key="antitezo">antitez-o: </b>(<i>log.,
-    rhet</i>.) antithesis; <b dict-key="antiteza antitezala antitezatra">-a, -ala,
+    rhet</i>.) antithesis; <b dict-key="antiteza,antitezala,antitezatra">-a, -ala,
     -atra:</b> antithetic(al). DEFIRS', '<b dict-key="antitoxino">antitoxin-o:</b>
     antitoxin. &mdash; DEF', '<b dict-key="antivermo">anti-verm-o:</b> vermifuge.',
   '<b dict-key="antologio">antologi-o: </b>anthology. &mdash; DEFIRS', '<b dict-key="antonimo">antonim-o:</b>
@@ -260,12 +260,12 @@
     anthropomorphic; <b dict-key="antropomorfismo">-ismo:</b> antropomorphism. &mdash;
     DEFIRS', '<b dict-key="antuso">antus-o:</b> (1949) a type of pipit (bird). &mdash;
     DEFIRS', '<b dict-key="anular">anul-ar:</b> (1949) (<i>tr.</i>) to annul. &mdash;
-    DEFIS', '<b dict-key="anuncar">anunc-ar:</b> (<i>tr.</i>) to announce; <b dict-key="anunco
-    anuncajo">-o, -ajo:</b> (<i>act; what is announced</i>) announcement; <b dict-key="anuncanto
-    anuncilo">-anto, -ilo: </b>announcer; <b dict-key="klame anuncar vari">klame -ar
-    vari:</b> to cry wares (for sale);<b dict-key="korne anuncar"> korne -ar:</b>
-    to wind the horn; <b dict-key="anuncofesto">-o-festo; </b>(<i>rel.</i>) Annunciation
-    (March 25th). DEFIS', '<b dict-key="anuso">anus-o:</b> (<i>anat.</i>) anus; <b
-    dict-key="anusala floso">-ala floso:</b> anal fin. &mdash; DEFIS', '<b dict-key="anxiar">anxi-ar:</b>
+    DEFIS', '<b dict-key="anuncar">anunc-ar:</b> (<i>tr.</i>) to announce; <b dict-key="anunco,anuncajo">-o,
+    -ajo:</b> (<i>act; what is announced</i>) announcement; <b dict-key="anuncanto,anuncilo">-anto,
+    -ilo: </b>announcer; <b dict-key="klame anuncar vari">klame -ar vari:</b> to cry
+    wares (for sale);<b dict-key="korne anuncar"> korne -ar:</b> to wind the horn;
+    <b dict-key="anuncofesto">-o-festo; </b>(<i>rel.</i>) Annunciation (March 25th).
+    DEFIS', '<b dict-key="anuso">anus-o:</b> (<i>anat.</i>) anus; <b dict-key="anusala
+    floso">-ala floso:</b> anal fin. &mdash; DEFIS', '<b dict-key="anxiar">anxi-ar:</b>
     (<i>intr., pri, pro, de</i>) to be anxious, <b dict-key="anxio">-o:</b> anxiety;
     -<b dict-key="oza">oza:</b> anxious. &mdash; DEFIS']

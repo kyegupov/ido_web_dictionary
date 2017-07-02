@@ -17,8 +17,8 @@
     DEFIRS', '<b dict-key="genero">gener-o:</b> genus; <b dict-key="generala">-ala:</b>
     general, generic; <b dict-key="generale">-ale:</b> generally, in general; <b dict-key="generaleso">-al-eso:</b>
     (<i>character</i>) generality; <b dict-key="generalajo la">-al-ajo (la):</b> (<i>objective</i>)
-    generality; <b dict-key="generaligar">-al-igar:</b> to generalize; <b dict-key="generalig
-    generuro">-al-ig-(ad)o, -uro:</b> generaliz-ing, -ation. &mdash; DEFIS', '<b dict-key="generaciono">generacion-o:</b>
+    generality; <b dict-key="generaligar">-al-igar:</b> to generalize; <b dict-key="generalig,generuro">-al-ig-(ad)o,
+    -uro:</b> generaliz-ing, -ation. &mdash; DEFIS', '<b dict-key="generaciono">generacion-o:</b>
     generation, people of same period. &mdash; DEFIRS', '<b dict-key="generalo">general-o:</b>
     (<i>milit.</i>) general. &mdash; DEFIRS', '<b dict-key="generalisimo">generalisim-o:</b>
     generalissimo, commander-in-chief. &mdash; DEFIS', '<b dict-key="generatoro">generator-o*:</b>
@@ -26,7 +26,7 @@
     Biblical</i>) genesis; (<i>geom.</i>) genesis, generation; <b dict-key="genezala">-ala:</b>
     genetic. &mdash; DEFIS', '<b dict-key="genio">geni-o:</b> genius, particular natural
     talent, uncommon intellectual power; (<i>fig.</i>) attendant spirit; <b dict-key="genioza">-oza:</b>
-    full of g.; <b dict-key="havar genio por aferi por muziko">havar -o por aferi,
+    full of g.; <b dict-key="havar genio por aferi,por muziko">havar -o por aferi,
     por muziko:</b> to have a g. for business, for music; <b dict-key="il havas la
     doto di granda genio">il havas la doto di granda -o:</b> he has the gift (natural
     endowment) of great g.; <b dict-key="la genio di la Franca esas klareso">la -o
@@ -36,7 +36,7 @@
   '<b dict-key="genitar">genit-ar:</b> (<i>tr.</i>) to beget, breed, generate, procreate
     (living beings); cf. <b dict-key="produktar ulo">produktar (ulo)</b>; (<i>geom.</i>)
     to generate; <b dict-key="genit">-(ad)o:</b> begetting, reproduction (<b dict-key="di
-    ulu">di ulu</b>); <b dict-key="genitala genitanta genitiva">-ala, -anta, -iva:</b>
+    ulu">di ulu</b>); <b dict-key="genitala,genitanta,genitiva">-ala, -anta, -iva:</b>
     genital, generating, reproductive; <b dict-key="genitalo">-alo*:</b>genital (organ);
     <b dict-key="genitori">-ori:</b> (both) parents; <b dict-key="genituro">-uro:</b>
     offspring, a progeny; (of animals) a litter; -<b dict-key="ema">ema:</b> prolific;
@@ -45,7 +45,7 @@
     genitive. &mdash; DEFIS', '<b dict-key="genocido">genocid-o*:</b> genocide: deliberate
     destruction of a racial, cultural, or political population.', '<b dict-key="genro">genr-o:</b>
     (<i>gram.</i>) gender. Def.: Gramatikala sexuo; IV-692.', '<b dict-key="gento">gent-o:</b>
-    (<i>Roman</i>) gens. &mdash; L', '<b dict-key="genuo genuala">genu-o, -ala:</b>
+    (<i>Roman</i>) gens. &mdash; L', '<b dict-key="genuo,genuala">genu-o, -ala:</b>
     knee; <b dict-key="genupozar">-pozar:</b> (<i>intr.</i>) to kneel (down); <b dict-key="genupozinte">-poz-inte:</b>
     on bended knee(s); <b dict-key="genuflexar">-flexar:</b> to bend the k.; <b dict-key="genuflexo">-flexo:</b>
     genuflexion; <b dict-key="genushirmilo">-shirm-ilo:</b> any screen for k., as
@@ -69,10 +69,10 @@
     &mdash; DFRS', '<b dict-key="geranio">gerani-o:</b> (<i>bot.</i>) geranium (genus:
     Geranium). &mdash; DEFIRS', '<b dict-key="gerfalko">gerfalk-o:</b> (<i>orni.</i>)
     gerfalcon, gyrfalcon (subgenus: Hierofalco). &mdash; DEFIS', '<b dict-key="Germania">German-ia:</b>
-    Germany; <b dict-key="Germana Germanala">-a, -ala:</b> German, Germanic; <b dict-key="Germano">-o:</b>
-    a German; <b dict-key="Germanismo Germanajo">-ismo, -ajo:</b> Germanism; <b dict-key="Germanigar">-igar:</b>
-    to Germanize; <b dict-key="Germanamanta Germano">-am-ant-a, -o:</b> Germanophil;
-    <b dict-key="Germanodianta Germano">-odi-ant-a, -o:</b> German-hating, -hater;
+    Germany; <b dict-key="Germana,Germanala">-a, -ala:</b> German, Germanic; <b dict-key="Germano">-o:</b>
+    a German; <b dict-key="Germanismo,Germanajo">-ismo, -ajo:</b> Germanism; <b dict-key="Germanigar">-igar:</b>
+    to Germanize; <b dict-key="Germanamanta,Germano">-am-ant-a, -o:</b> Germanophil;
+    <b dict-key="Germanodianta,Germano">-odi-ant-a, -o:</b> German-hating, -hater;
     <b dict-key="la Germana linguo">la -a (linguo):</b> German language.', '<b dict-key="germanio">germani-o:</b>
     (<i>chem.</i>) germanium. &mdash; DEF', '<b dict-key="gerontologio">gerontologi-o:</b>
     (2001) gerontology. &mdash; DEFIRS', '<b dict-key="gerundio">gerundi-o:</b> (<i>gram.</i>)
@@ -81,6 +81,6 @@
     <b dict-key="gesto">-o:</b> gesticulation, gesture, deaf and dumb sign; <b dict-key="gestadema">-ad-ema:</b>
     gesticulative; <b dict-key="geste">-e:</b> by gesticulating. &mdash; DEFIRS',
   '<b dict-key="getro">getr-o:</b> gaiter, leggings; <b dict-key="getreti">-eti:</b>
-    spats; <b dict-key="getrizar">-izar:</b> to put leggings on (<b dict-key="su ulu">su,
+    spats; <b dict-key="getrizar">-izar:</b> to put leggings on (<b dict-key="su,ulu">su,
     ulu</b>). &mdash; EF', '<b dict-key="geya">gey-a*:</b> homosexual.', '<b dict-key="geyser">&laquo;geyser&raquo;:</b>
     geyser. - DEF']

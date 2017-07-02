@@ -36,7 +36,7 @@ data class ArticleText(val nodes : MutableList<RichTextNode>) {
         return nodes.map { node ->
             when (node) {
                 is org.kyegupov.dictionary.tools.TextNode -> StringEscapeUtils.escapeHtml4(node.text)
-                is KeywordNode -> ("""<b dict-key="${StringEscapeUtils.escapeHtml4(node.fullKeywords.joinToString(" "))}">"""
+                is KeywordNode -> ("""<b dict-key="${StringEscapeUtils.escapeHtml4(node.fullKeywords.joinToString(","))}">"""
                     + "${StringEscapeUtils.escapeHtml4(node.text)}</b>")
                 is ItalicNode -> "<i>" + StringEscapeUtils.escapeHtml4(node.text) + "</i>"
                 else -> { throw IllegalArgumentException("Node : $node") }
@@ -189,7 +189,7 @@ data class ParsingResults(
 fun parseFiles(language: Language): ParsingResults {
 
     val pathMatcher = FileSystems.getDefault().getPathMatcher("glob:**/${language.toString().toLowerCase()[0]}?.html")
-    val sourceFiles = Files.list(Paths.get("src/main/resources/dyer_source")).filter { pathMatcher.matches(it) }.sorted()
+    val sourceFiles = Files.list(Paths.get("backend/src/main/resources/dyer_source")).filter { pathMatcher.matches(it) }.sorted()
 
     val articles = arrayListOf<Article>()
 

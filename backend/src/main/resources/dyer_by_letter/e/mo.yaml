@@ -37,7 +37,7 @@
     muaro.', '<b dict-key="moist">moist:</b> humid-eta; <b dict-key="moisten">-en:</b>
     humid-(et)igar, -eskar; <b dict-key="moisture">-ure:</b> humid-(et)eso.', '<b
     dict-key="molar">molar:</b> molar-a, -o, -a dento.', '<b dict-key="molasses">molasses:</b>
-    melaso.', '<b dict-key="mold mould">mold, mould:</b> (<i>earth</i>) vejet-ala
+    melaso.', '<b dict-key="mold,mould">mold, mould:</b> (<i>earth</i>) vejet-ala
     sulo, dungo-tero; (<i>mildew, fungus</i>) mold-o, -iro; (<i>for casting, etc</i>.)
     muld-ilo, (<i>result</i>) -uro (<i>cf</i>. modelo); <b dict-key="to mold">to m.:</b>
     (<i>form a m. of</i>) muldar (<i>cf</i>. modlar; fomacar); (<i>to make mouldy</i>)
@@ -54,7 +54,7 @@
     dict-key="mollify">mollify:</b> (<i>soften</i>) mol-igar, -eskar; (plu-)dolc-igar;
     (<i>calm</i>) kalm-igar, -eskar; (<i>moderate</i>) moderar, diminutar.', '<b dict-key="mollusc">mollusc:
     </b>molusko.', '<b dict-key="molossus">molossus:</b> (<i>dog breed</i>) moloso.',
-  '<b dict-key="molt moult">molt, moult:</b> (<i>intr</i>.) mu-ar, -eskar.', '<b dict-key="molten">molten:</b>
+  '<b dict-key="molt,moult">molt, moult:</b> (<i>intr</i>.) mu-ar, -eskar.', '<b dict-key="molten">molten:</b>
     fuz-ita, fluida.', '<b dict-key="molybdenum">molybdenum:</b> molibdo.', '<b dict-key="moment">moment:</b>
     (<i>of time</i>) instanto; (importance) importo, grav-eso; <b dict-key="every
     moment">every m.:</b> omna -instante, sen-cese; <b dict-key="in a moment">in a
@@ -108,7 +108,7 @@
     monosilab-a; <b dict-key="monosyllabicle">-le:</b> -o.', '<b dict-key="monotropa">monotropa:</b>
     monotropo.', '<b dict-key="monotheism">monotheism:</b> monoteismo.', '<b dict-key="monotheist">monotheist:</b>
     monoteisto.', '<b dict-key="monotonous">monotonous:</b> monotona.', '<b dict-key="monotony">monotony:</b>
-    monoton-eso.', '<b dict-key="mons pubis mons Venus">mons pubis, mons Venus:</b>
+    monoton-eso.', '<b dict-key="mons pubis,mons Venus">mons pubis, mons Venus:</b>
     (<i>anat.</i>) venusmonto.', '<b dict-key="monsoon">monsoon:</b> musono.', '<b
     dict-key="monster">monster:</b> (<i>monstrosity</i>) monstr-o, -ajo; (<i>giant</i>)
     gigant-(eg)a, -ulo.', '<b dict-key="monstrance">monstrance:</b> ostensorio.',
@@ -126,7 +126,7 @@
     sen-luna; <b dict-key="moonstruck">m.struck: </b>lunatika.', '<b dict-key="moonshiner">moonshiner:</b>
     kontraband-distilero, -isto.', '<b dict-key="moor">moor:</b> amar-agar, fixigar
     per amaro; per kordo.', '<b dict-key="moor">moor:</b> (<i>heath</i>) erik-eyo,
-    -lando; (<i>marsh</i>) marsho; <b dict-key="moor cock moor fowl">m. cock, m. fowl:</b>
+    -lando; (<i>marsh</i>) marsho; <b dict-key="moor cock,moor fowl">m. cock, m. fowl:</b>
     uroalo; <b dict-key="moorhen">m.hen:</b> galinelo.', '<b dict-key="moorings">moorings:</b>
     (<i>place</i>) ankr-ag-eyo; (<i>hawsers</i>) amari; amar-ag-ili.', '<b dict-key="moose">moose:</b>
     alko (Amerik-ana).', '<b dict-key="moot">moot:</b> debatar, diskutar; <b dict-key="moot
@@ -194,12 +194,12 @@
     sham-igar; vexar.', '<b dict-key="mortise">mortise:</b> mortez-o, -izar.', '<b
     dict-key="mortmain">mortmain:</b> domeni ne-alien-abla.', '<b dict-key="mortuary">mortuary:</b>
     mort-int-ala domo (<i>see</i> <b dict-key="morgue">morgue</b>).', '<b dict-key="mosaic">mosaic:</b>
-    mozaik-a, -o.', '<b dict-key="Moslem">Moslem:</b> Mohamed-isto, -ista.', '<b dict-key="mosque
-    mosk">mosque, mosk:</b> moskeo.', '<b dict-key="mosquito">mosquito:</b> moskito.',
-  '<b dict-key="moss">moss:</b> musk-o; <b dict-key="mossy">-y:</b> -oza.', '<b dict-key="most">most:</b>
-    maxim, -e, -a; maxim multo, la plu <i>o</i> maxim multi (<i>od</i>, multi homi,
-    e.c.) (<i>cf</i>. majoritato); <b dict-key="most often">m. often:</b> maxim ofte;
-    <b dict-key="most possible">m. possible:</b> maxim (multe) posible; <b dict-key="the
+    mozaik-a, -o.', '<b dict-key="Moslem">Moslem:</b> Mohamed-isto, -ista.', '<b dict-key="mosque,mosk">mosque,
+    mosk:</b> moskeo.', '<b dict-key="mosquito">mosquito:</b> moskito.', '<b dict-key="moss">moss:</b>
+    musk-o; <b dict-key="mossy">-y:</b> -oza.', '<b dict-key="most">most:</b> maxim,
+    -e, -a; maxim multo, la plu <i>o</i> maxim multi (<i>od</i>, multi homi, e.c.)
+    (<i>cf</i>. majoritato); <b dict-key="most often">m. often:</b> maxim ofte; <b
+    dict-key="most possible">m. possible:</b> maxim (multe) posible; <b dict-key="the
     most that I can do">the m. that I can do:</b> la maximo quon me povas facar; <b
     dict-key="with the most care">with the m. care:</b> kun la maxima sorgo; <b dict-key="mostof
     us">m.of us:</b> la plu multi ek ni, la maxim multa homi; <b dict-key="at most">at
@@ -229,18 +229,17 @@
     sen-mova, ne-mov-anta.', '<b dict-key="motivate">motivate:</b> motiv-izar (<i>cf</i>.
     efekt-igar, incitar; instigar).', '<b dict-key="motive">motive:</b> (<i>adj</i>.)
     mov-anta, -iva; (<i>reason for acting</i>) motivo; <b dict-key="motive power">m.
-    power:</b> movo-povo, mov-iv-eso; <b dict-key="to allege to state a motive for
-    the motive of">to allege, to state a m. for, the m. of:</b> motiv-izar.', '<b
-    dict-key="motley">motley:</b> (<i>parti-coloured</i>) bunta; (<i>mixed</i>) mix-ita,
-    divers-(ach)a; heterogena.', '<b dict-key="motor">motor:</b> (<i>mechan</i>.)
-    motoro; <b dict-key="motor car">m. car:</b> automobilo; motor-veturo; <b dict-key="gasoline
-    motor">gasoline m.:</b> gazolin-motoro; <b dict-key="motor cycle">m. cycle:</b>
-    motor-biciklo.', '<b dict-key="mottled">mottled:</b> (<i>horse</i>) kun ronda
-    makuli (mix-kolora); (<i>of soap, etc</i>.) vein-iz-ita, marmor-um-ita.', '<b
-    dict-key="motto">motto:</b> moto.', '<b dict-key="mouflon">mouflon:</b> muflono.',
-  '<b dict-key="mould">mould: </b><i>see</i> <b dict-key="mold">mold</b>.', '<b dict-key="moult">moult:</b>
-    mu-ar, -eskar (<i>intr</i>.).', '<b dict-key="mound">mound:</b> ter-amaso; (<i>natural
-    elevation</i>) kolin-eto (<i>cf</i>. tumulo).', '<b dict-key="mount">mount:</b>
+    power:</b> movo-povo, mov-iv-eso; <b dict-key="to allege,to state a motive for,the
+    motive of">to allege, to state a m. for, the m. of:</b> motiv-izar.', '<b dict-key="motley">motley:</b>
+    (<i>parti-coloured</i>) bunta; (<i>mixed</i>) mix-ita, divers-(ach)a; heterogena.',
+  '<b dict-key="motor">motor:</b> (<i>mechan</i>.) motoro; <b dict-key="motor car">m.
+    car:</b> automobilo; motor-veturo; <b dict-key="gasoline motor">gasoline m.:</b>
+    gazolin-motoro; <b dict-key="motor cycle">m. cycle:</b> motor-biciklo.', '<b dict-key="mottled">mottled:</b>
+    (<i>horse</i>) kun ronda makuli (mix-kolora); (<i>of soap, etc</i>.) vein-iz-ita,
+    marmor-um-ita.', '<b dict-key="motto">motto:</b> moto.', '<b dict-key="mouflon">mouflon:</b>
+    muflono.', '<b dict-key="mould">mould: </b><i>see</i> <b dict-key="mold">mold</b>.',
+  '<b dict-key="moult">moult:</b> mu-ar, -eskar (<i>intr</i>.).', '<b dict-key="mound">mound:</b>
+    ter-amaso; (<i>natural elevation</i>) kolin-eto (<i>cf</i>. tumulo).', '<b dict-key="mount">mount:</b>
     (<i>a horse, a stairway</i>) (<i>intr</i>.) acensar (sur); (<i>a machin, a gem</i>)
     munt-ar; (<i>elevate, raise on high</i>) elevar; (<i>prices</i>) augmentar; (<i>guard</i>)
     (<i>intr</i>.) facionar; (<i>guns on a ship</i>) portar; (<i>on someone&rsquo;s

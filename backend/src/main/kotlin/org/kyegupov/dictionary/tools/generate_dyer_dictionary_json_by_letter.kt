@@ -26,7 +26,7 @@ fun writeJsonByLetters(language: Language, parsingResults: ParsingResults) {
 
     val langLetter = language.toString().toLowerCase()[0]
 
-    val targetPath = "src/main/resources/dyer_by_letter/$langLetter"
+    val targetPath = "backend/src/main/resources/dyer_by_letter/$langLetter"
 
     File(targetPath).deleteRecursively()
     Files.createDirectories(Paths.get(targetPath))

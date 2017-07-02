@@ -139,7 +139,7 @@
     akuz-ebla; imput-ebla; impost-ebla.', '<b dict-key="charge d">charge d&rsquo;affairs:</b>
     legato.', '<b dict-key="charger">charger:</b> (<i>horse</i>) kavalrio-kavalo;
     (<i>person</i>) asalt-ero; charj-isto, -ero; (<i>instr.</i>) charj-ilo.', '<b
-    dict-key="charges scale of">charges, scale of:</b> preci, kusti; tarifo.', '<b
+    dict-key="charges,scale of">charges, scale of:</b> preci, kusti; tarifo.', '<b
     dict-key="charily">charily:</b> pre-sorg-ante, cirkonspekte, prudente.', '<b dict-key="chariot">chariot:</b>
     char-o; -eer: -(duct)isto.', '<b dict-key="charisma">charisma:</b> karismo.',
   '<b dict-key="charitable">charitable:</b> karitat-ema, -oza, almon-oza, -ema; (<i>lenient</i>)
@@ -263,7 +263,7 @@
     </b>chigo.', '<b dict-key="chilblain">chilblain:</b> frost-infl-uro.', '<b dict-key="child">child:
     </b>(<i>to the age of about seven</i>) infant-o, -ulo, -ino; (<i>baby</i>) infant-eto;
     (<i>seven to fifteen years</i>) puer-o, -ulo, -ino; kindo*; (<i>descendant</i>)
-    fili-o, -ulo, ino; -id-.', '<b dict-key="childbed to be in">childbed, to be in:
+    fili-o, -ulo, ino; -id-.', '<b dict-key="childbed,to be in">childbed, to be in:
     </b>esar partur-anta, -onta.', '<b dict-key="childbirth">childbirth: </b>parturo,
     akusho; <b dict-key="woman in childbirth">woman in c.: </b>partur-int-ino.', '<b
     dict-key="childhood">childhood: </b>infant-eso, puer-eso.', '<b dict-key="childish">childish:
@@ -288,7 +288,7 @@
     di kameno; <b dict-key="chimney sweep">c. sweep: </b>kameno-skrap-ero, -isto.',
   '<b dict-key="chimpanzee">chimpanzee: </b>chimpanzeo.', '<b dict-key="chin">chin:
     </b>menton-o; <b dict-key="protruding chin">protruding c.: </b>-o sali-anta; <b
-    dict-key="double chin">double c.: </b>-o du-pada; <b dict-key="chin chinband chinpiece">c.-strap,
+    dict-key="double chin">double c.: </b>-o du-pada; <b dict-key="chin,chinband,chinpiece">c.-strap,
     -band, -piece: </b>-umo.', '<b dict-key="china">china: </b>porcelana; <b dict-key="china
     clay">c. clay: </b>kaolino; <b dict-key="china ware">c. ware: </b>(<i>crockery</i>)
     fayenco.', '<b dict-key="chinchilla">chinchilla:</b> chinchilo.', '<b dict-key="chinchona">chinchona:
@@ -362,34 +362,33 @@
     bapt-ala nomo.', '<b dict-key="Christianity">Christianity: </b>(<i>doctrine</i>)
     Krist-an-ismo; (<i>quality, state</i>) Krist-an-eso.', '<b dict-key="Christianize">Christianize:
     </b>Krist-an-igar.', '<b dict-key="Christmas">Christmas: </b>Kristo-nask-o, -ala;
-    <b dict-key="Christmas box gift">C. box, gift: </b>Krist-nask-ala buxo (<i>od</i>,
+    <b dict-key="Christmas box,gift">C. box, gift: </b>Krist-nask-ala buxo (<i>od</i>,
     donac-ajo); <b dict-key="Christmas tree">C. tree: </b>Krist-nask-ala arboro.',
   '<b dict-key="Christology">Christology: </b>Kristo-teologio.', '<b dict-key="chromatic">chromatic:
     </b>(<i>mus., opt</i>.) kromatika.', '<b dict-key="chromatin">chromatin:</b> kromatino.',
   '<b dict-key="chromatolysis">chromatolysis:</b> kromatolizo.', '<b dict-key="chromatophylic">chromatophylic:</b>
     kromatofila.', '<b dict-key="chromatophore">chromatophore:</b> kromatoforo.',
-  '<b dict-key="chromatography">chromatography:</b> kromatografio.', '<b dict-key="chrome
-    chromium">chrome, chromium: </b>kromo; <b dict-key="chrome yellow">c. yellow:</b>
-    krom-flava, krom-koloro.', '<b dict-key="chromidium">chromidium:</b> kromidio.',
-  '<b dict-key="chromolithograph">chromolithograph: </b>kromolitograf-uro; <b dict-key="to
-    make chromolithograph">to make c.: </b>(<i>intr</i>.) -ar.', '<b dict-key="chromosome">chromosome:
-    </b>(<i>biol</i>.) kromosomo.', '<b dict-key="chromotype">chromotype: </b>kromotip-ar,
-    -uro.', '<b dict-key="chromotypography">chromotypography: </b>(<i>to print in</i>)
-    kromotipografar.', '<b dict-key="chronic">chronic: </b>kronika.', '<b dict-key="chronicle">chronicle:</b>
-    kronik-o,<b dict-key="to chronicle"> to c.:</b> -igar, registr-ar, raportar.',
-  '<b dict-key="chronology">chronology: </b>kronologi-o, <b dict-key="chronological">-gical:
-    </b>-ala.', '<b dict-key="chronometer">chronometer: </b>kronometro.', '<b dict-key="chrysalis">chrysalis:
-    </b>krizalido.', '<b dict-key="chrysanthemum">chrysanthemum: </b>krizantemo.',
-  '<b dict-key="chubby">chubby: </b>repleta, gras-eta; (<i>of cheeks</i>) vang-oza.',
-  '<b dict-key="chuck">chuck: </b>(<i>pat, tap</i>) frap-etar; (<i>throw</i>) jetar,
-    lansar; <b dict-key="chuck up">c. up: </b>abandonar; (<i>wedge</i>) konio, inkastr-ajo;
-    <b dict-key="drill chuck">drill c.:</b> mandrino.', '<b dict-key="chuckle">chuckle:
+  '<b dict-key="chromatography">chromatography:</b> kromatografio.', '<b dict-key="chrome,chromium">chrome,
+    chromium: </b>kromo; <b dict-key="chrome yellow">c. yellow:</b> krom-flava, krom-koloro.',
+  '<b dict-key="chromidium">chromidium:</b> kromidio.', '<b dict-key="chromolithograph">chromolithograph:
+    </b>kromolitograf-uro; <b dict-key="to make chromolithograph">to make c.: </b>(<i>intr</i>.)
+    -ar.', '<b dict-key="chromosome">chromosome: </b>(<i>biol</i>.) kromosomo.', '<b
+    dict-key="chromotype">chromotype: </b>kromotip-ar, -uro.', '<b dict-key="chromotypography">chromotypography:
+    </b>(<i>to print in</i>) kromotipografar.', '<b dict-key="chronic">chronic: </b>kronika.',
+  '<b dict-key="chronicle">chronicle:</b> kronik-o,<b dict-key="to chronicle"> to
+    c.:</b> -igar, registr-ar, raportar.', '<b dict-key="chronology">chronology: </b>kronologi-o,
+    <b dict-key="chronological">-gical: </b>-ala.', '<b dict-key="chronometer">chronometer:
+    </b>kronometro.', '<b dict-key="chrysalis">chrysalis: </b>krizalido.', '<b dict-key="chrysanthemum">chrysanthemum:
+    </b>krizantemo.', '<b dict-key="chubby">chubby: </b>repleta, gras-eta; (<i>of
+    cheeks</i>) vang-oza.', '<b dict-key="chuck">chuck: </b>(<i>pat, tap</i>) frap-etar;
+    (<i>throw</i>) jetar, lansar; <b dict-key="chuck up">c. up: </b>abandonar; (<i>wedge</i>)
+    konio, inkastr-ajo; <b dict-key="drill chuck">drill c.:</b> mandrino.', '<b dict-key="chuckle">chuckle:
     </b>guturo-ridar, ridar represe; <b dict-key="chuckle head">c. head: </b>stult-(ul)o.',
   '<b dict-key="chum">chum: </b>intim-(ul)o; kun-lud-anto, -ero; kun-viv-anto; <b
     dict-key="chumy">-my: </b>intim-a, -es-ema.', '<b dict-key="church">church: </b>(<i>building</i>)
     kirko; (<i>institution</i>) eklezio; <b dict-key="churchman">-man: </b>eklezi-ano;
     <b dict-key="church warden">c. warden: </b>presbiteri-ano; <b dict-key="church
-    yard">c. yard: </b>kirko-korto; tomb-eyo; <b dict-key="bosom pale of the church">bosom,
+    yard">c. yard: </b>kirko-korto; tomb-eyo; <b dict-key="bosom,pale of the church">bosom,
     pale of the c.: </b>gremio di l&rsquo;eklezio; <b dict-key="churching">c.ing:
     </b>(after childbirth) partur-benediko.', '<b dict-key="churl">churl: </b>des-afabl-(ur)o,
     grosier-(ul)o; <b dict-key="churlish">-ish: </b>des-afabla, des-polita.', '<b
