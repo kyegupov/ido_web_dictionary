@@ -2,6 +2,6 @@ StarDict's dict ifo file
 version=3.0.0
 [options]
 bookname=en-io
-wordcount=31000
-idxfilesize=616678
+wordcount=31256
+idxfilesize=620235
 sametypesequence=h

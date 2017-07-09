@@ -15,7 +15,7 @@ fun main(args : Array<String>) {
         val langPairCode = allLanguagePairCodes[lang]
         val data = loadDataFromAlphabetizedShards("dyer_by_letter/$langCode")
 
-        val targetPath = "src/main/resources/stardict/$langPairCode"
+        val targetPath = "backend/src/main/resources/stardict/$langPairCode"
         File(targetPath).deleteRecursively()
         Files.createDirectories(Paths.get(targetPath))
 
