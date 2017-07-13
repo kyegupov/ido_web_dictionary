@@ -23,7 +23,13 @@ val NON_WORD_CHARS = Regex("\\b")
 
 val ENDING_NORMALIZATION = listOf(
         Pair(listOf("i", "on", "in"), "o"),
-        Pair(listOf("as", "is", "os", "us", "ez", "ir", "or"), "ar")
+        Pair(listOf(
+                "as", "is", "os",
+                "us", "ez",
+                "ir", "or",
+                "anta", "inta", "onta",
+                "ata", "ita", "ota"),
+            "ar")
 )
 
 // TODO: handle adjectives without -a
