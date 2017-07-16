@@ -56,9 +56,9 @@ fun main(args: Array<String>) {
 
     val staticPath = "frontend"
 
-    if (CLASS_LOADER.getResource("frontend").protocol == "file") {
+    if (CLASS_LOADER.getResource(staticPath).protocol == "file") {
         // developer mode, serve from source
-        Spark.staticFiles.externalLocation("src/main/resources/" + staticPath)
+        Spark.staticFiles.externalLocation("backend/src/main/resources/" + staticPath)
     } else {
         Spark.staticFiles.location(staticPath)
     }

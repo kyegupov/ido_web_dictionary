@@ -58,23 +58,12 @@ class IdoDictionaryUi {
             $(".results").hide();
         }
         if (query != this.queryAsAlreadyProcessed && query!="") {
-            let title = BASE_TITLE + ": " + query;
             if (this.mode == "single_word") {
-                if (updateUrl) {
-                    window.history.pushState({word: query}, title, "#?word=" + encodeURIComponent(query));
-                } else {
-                    window.document.title = title;
-                }
                 this.phrase = null;
-                this.searchWord(query.toLowerCase(), false, null);
+                this.searchWord(query.toLowerCase(), false, null, updateUrl);
             } else {
-                if (updateUrl) {
-                    window.history.pushState({phrase: query}, title, "#?phrase=" + encodeURIComponent(query));
-                } else {
-                    window.document.title = title;
-                }
                 this.phrase = query;
-                this.searchPhrase(query, false);
+                this.searchPhrase(query, false, updateUrl);
             }
             this.queryAsAlreadyProcessed = query;
         }
@@ -99,7 +88,7 @@ class IdoDictionaryUi {
         }, immediately ? 0 : DELAY_REQUEST_MS);
     }
 
-    searchWord(query: string, immediately: boolean, language: string | null) {
+    searchWord(query: string, immediately: boolean, language: string | null, updateUrl: boolean) {
 
         let url = `api/search?query=${query}`;
         if (language != null) {
@@ -108,14 +97,30 @@ class IdoDictionaryUi {
         let wordQuery = query;
 
         this.setupServerRequest(url,
-            jsonResponse => this.displayResults(wordQuery, jsonResponse as SearchResponse),
+            jsonResponse => {
+                this.displayResults(wordQuery, jsonResponse as SearchResponse);
+                let title = BASE_TITLE + ": " + query;
+                if (updateUrl) {
+                    window.history.pushState({word: query}, title, "#?word=" + encodeURIComponent(query));
+                } else {
+                    window.document.title = title;
+                }
+            },
             immediately);
     }
 
-    searchPhrase(query: string, immediately: boolean) {
+    searchPhrase(query: string, immediately: boolean, updateUrl: boolean) {
 
         this.setupServerRequest(`api/phrase?query=${query}`,
-            jsonResponse => this.displayPhraseResults(jsonResponse as PhraseWord[]),
+            jsonResponse => {
+                this.displayPhraseResults(jsonResponse as PhraseWord[]);
+                let title = BASE_TITLE + ": " + query;
+                if (updateUrl) {
+                    window.history.pushState({phrase: query}, title, "#?phrase=" + encodeURIComponent(query));
+                } else {
+                    window.document.title = title;
+                }
+            },
             immediately);
     }
 
@@ -219,7 +224,7 @@ class IdoDictionaryUi {
         $(".phrase").html(linksHtml.join(""));
 
         $("a.suggested_phrase_word").click(event => {
-            this.searchWord(event.target.getAttribute("keyword")!, true, "i");
+            this.searchWord(event.target.getAttribute("keyword")!, true, "i", false);
         });
     }
 
