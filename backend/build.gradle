@@ -52,3 +52,4 @@ jar {
 }
 
 mainClassName = System.getProperty("mainClass") ?: 'org.kyegupov.dictionary.server.ServerKt'
+tasks.run.workingDir = ".."
