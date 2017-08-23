@@ -9,9 +9,9 @@
     <span dict-key="сокращать в">сокращать в</span>', '<b dict-key="indemno">indemno</b>:
     <span dict-key="компенсация">компенсация</span>', '<b dict-key="indexo">indexo</b>:
     <span dict-key="индекс">индекс</span>', '<b dict-key="india">india</b>: <span
-    dict-key="индия">индия</span>', '<b dict-key="indiano">indiano</b>: <span dict-key="инду
-    (индеец)">инду (индеец)</span>', '<b dict-key="indiferenta">indiferenta</b>: <span
-    dict-key="безразличный">безразличный</span>', '<b dict-key="indignar">indignar</b>:
+    dict-key="индия">индия</span>', '<b dict-key="indiano">indiano</b>: <span dict-key="индус
+    (индеец)">индус (индеец)</span>', '<b dict-key="indiferenta">indiferenta</b>:
+    <span dict-key="безразличный">безразличный</span>', '<b dict-key="indignar">indignar</b>:
     <span dict-key="быть возмущенным">быть возмущенным</span>', '<b dict-key="indijar">indijar</b>:
     <span dict-key="быть в потребности">быть в потребности</span>', '<b dict-key="indijena">indijena</b>:
     <span dict-key="местный">местный</span>', '<b dict-key="indikar">indikar</b>:
@@ -60,7 +60,7 @@
   '<b dict-key="insekto">insekto</b>: <span dict-key="насекомое">насекомое</span>',
   '<b dict-key="insertar">insertar</b>: <span dict-key="вставить">вставить</span>',
   '<b dict-key="insigno">insigno</b>: <span dict-key="значок">значок</span>, <span
-    dict-key="призна (подпись)">призна (подпись)</span>, <span dict-key="знаки отличия">знаки
+    dict-key="признак (подпись)">признак (подпись)</span>, <span dict-key="знаки отличия">знаки
     отличия</span>', '<b dict-key="insinuar">insinuar</b>: <span dict-key="инсинуировать">инсинуировать</span>',
   '<b dict-key="insistar">insistar</b>: <span dict-key="настаивать">настаивать</span>',
   '<b dict-key="inspektar">inspektar</b>: <span dict-key="осматривать">осматривать</span>',
@@ -90,11 +90,11 @@
   '<b dict-key="interceptar">interceptar</b>: <span dict-key="перехватывать">перехватывать</span>',
   '<b dict-key="interdiktar">interdiktar</b>: <span dict-key="запрещать">запрещать</span>',
   '<b dict-key="interesar">interesar</b>: <span dict-key="интересовать">интересовать</span>',
-  '<b dict-key="interesto">interesto</b>: <span dict-key="интере (процент) (финансовый
-    и т.д.)">интере (процент) (финансовый и т.д.)</span>', '<b dict-key="interferar">interferar</b>:
+  '<b dict-key="interesto">interesto</b>: <span dict-key="интерес (процент) (финансовый
+    и т.д.)">интерес (процент) (финансовый и т.д.)</span>', '<b dict-key="interferar">interferar</b>:
     <span dict-key="вмешиваться">вмешиваться</span>', '<b dict-key="interimo">interimo</b>:
     <span dict-key="промежуток времени">промежуток времени</span>', '<b dict-key="interjeciono">interjeciono</b>:
-    <span dict-key="междомети (возглас)">междомети (возглас)</span>', '<b dict-key="interkonsento">interkonsento</b>:
+    <span dict-key="междометие (возглас)">междометие (возглас)</span>', '<b dict-key="interkonsento">interkonsento</b>:
     <span dict-key="взаимное соглашение">взаимное соглашение</span>, <span dict-key="понимание">понимание</span>',
   '<b dict-key="interna">interna</b>: <span dict-key="внутренний">внутренний</span>',
   '<b dict-key="internaciona">internaciona</b>: <span dict-key="международный">международный</span>',

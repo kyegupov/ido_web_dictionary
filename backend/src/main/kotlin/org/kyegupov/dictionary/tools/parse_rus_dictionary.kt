@@ -38,11 +38,19 @@ fun parseRusFiles(): List<Article> {
                     toList()
 
 
-            val idoKey = it.getElementsByTag("b")[0].text().normalizeRuDictEntry()
+            val idoKey = it.getElementsByTag("b")[0].text().trim().toLowerCase()
+            val idoKeys = mutableListOf<String>()
 
-            val allKeywords: List<String> = listOf(idoKey).plus(rusKeywords)
+            if (idoKey.contains("(")) {
+                idoKeys.add(idoKey.replace(Regex("\\([^)]+\\)"), "").trim())
+                idoKeys.add(idoKey.replace(Regex("[()]"), "").trim())
+            } else {
+                idoKeys.add(idoKey)
+            }
 
-            val textNodes: MutableList<RichTextNode> = listOf(KeywordNode(idoKey, listOf(idoKey), true))
+            val allKeywords: List<String> = idoKeys.plus(rusKeywords)
+
+            val textNodes: MutableList<RichTextNode> = listOf(KeywordNode(idoKey, idoKeys, true))
                     .plus(TextNode(": "))
                     .plus(rusKeywords.flatMap { listOf(KeywordNode(it, listOf(it), false), TextNode(", ")) })
                     .dropLast(1)
@@ -67,7 +75,7 @@ private fun String.normalizeRuDictEntry(): String {
     return this
             .trim()
             .replace("( ", "(")
-            .replace(Regex("[^ ]\\("), " (" )
+            .replace(Regex("([^ ])\\("), "$1 (" )
             .toLowerCase()
 }
 

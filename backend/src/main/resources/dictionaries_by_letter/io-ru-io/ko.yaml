@@ -11,7 +11,7 @@
     залог</span>', '<b dict-key="kolda">kolda</b>: <span dict-key="холод">холод</span>',
   '<b dict-key="kolegio">kolegio</b>: <span dict-key="колледж">колледж</span>', '<b
     dict-key="kolego">kolego</b>: <span dict-key="коллега">коллега</span>', '<b dict-key="kolektar">kolektar</b>:
-    <span dict-key="собират (ся)">собират (ся)</span>', '<b dict-key="kolektivisto">kolektivisto</b>:
+    <span dict-key="собирать (ся)">собирать (ся)</span>', '<b dict-key="kolektivisto">kolektivisto</b>:
     <span dict-key="коллективист">коллективист</span>', '<b dict-key="kolesterolo">kolesterolo</b>:
     <span dict-key="холестерин">холестерин</span>', '<b dict-key="koliar">koliar</b>:
     <span dict-key="скопляться">скопляться</span>, <span dict-key="собираться">собираться</span>',
@@ -195,7 +195,7 @@
     о соглашении">договориться о соглашении</span>', '<b dict-key="konvergar">konvergar</b>:
     <span dict-key="сходиться">сходиться</span>', '<b dict-key="konversar">konversar</b>:
     <span dict-key="преобразовать">преобразовать</span>', '<b dict-key="konvertar">konvertar</b>:
-    <span dict-key="конвертироват (преобразовывать)">конвертироват (преобразовывать)</span>',
+    <span dict-key="конвертировать (преобразовывать)">конвертировать (преобразовывать)</span>',
   '<b dict-key="konvinkar">konvinkar</b>: <span dict-key="убеждать">убеждать</span>',
   '<b dict-key="konvulsar">konvulsar</b>: <span dict-key="биться в конвульсиях">биться
     в конвульсиях</span>, <span dict-key="иметm конвульсию">иметm конвульсию</span>',
@@ -222,7 +222,7 @@
     <span dict-key="рожок (животных, музыкальный)">рожок (животных, музыкальный)</span>',
   '<b dict-key="koro">koro</b>: <span dict-key="хор">хор</span>', '<b dict-key="korodar">korodar</b>:
     <span dict-key="разъедать">разъедать</span>', '<b dict-key="korpo">korpo</b>:
-    <span dict-key="орга (тело)">орга (тело)</span>', '<b dict-key="korporaciono">korporaciono</b>:
+    <span dict-key="орган (тело)">орган (тело)</span>', '<b dict-key="korporaciono">korporaciono</b>:
     <span dict-key="корпорация">корпорация</span>', '<b dict-key="korpulenta">korpulenta</b>:
     <span dict-key="тучный">тучный</span>, <span dict-key="крепкий">крепкий</span>',
   '<b dict-key="korto">korto</b>: <span dict-key="суд">суд</span>, <span dict-key="внутренний
@@ -235,7 +235,7 @@
     dict-key="котлета">котлета</span>, <span dict-key="отбивная">отбивная</span>',
   '<b dict-key="kotono">kotono</b>: <span dict-key="хлопок">хлопок</span>', '<b dict-key="kovar">kovar</b>:
     <span dict-key="высиживать (цыплят)">высиживать (цыплят)</span>, <span dict-key="насиживать
-    (яйца)">насиживать (яйца)</span>', '<b dict-key="kovrar">kovrar</b>: <span dict-key="закрыват
-    (охватывать)">закрыват (охватывать)</span>', '<b dict-key="kovrilo">kovrilo</b>:
+    (яйца)">насиживать (яйца)</span>', '<b dict-key="kovrar">kovrar</b>: <span dict-key="закрывать
+    (охватывать)">закрывать (охватывать)</span>', '<b dict-key="kovrilo">kovrilo</b>:
     <span dict-key="покрывало">покрывало</span>', '<b dict-key="kozo">kozo</b>: <span
     dict-key="вещь">вещь</span>']

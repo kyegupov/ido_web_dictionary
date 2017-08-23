@@ -49,5 +49,5 @@
   '<b dict-key="severa">severa</b>: <span dict-key="серьезный">серьезный</span>, <span
     dict-key="резкий">резкий</span>', '<b dict-key="sextilion">sextilion</b>: <span
     dict-key="секстильон = миллион в 6 степени">секстильон = миллион в 6 степени</span>',
-  '<b dict-key="sexuo">sexuo</b>: <span dict-key="по (секс)">по (секс)</span>', '<b
-    dict-key="sezono">sezono</b>: <span dict-key="сезон">сезон</span>']
+  '<b dict-key="sexuo">sexuo</b>: <span dict-key="пол (секс)">пол (секс)</span>',
+  '<b dict-key="sezono">sezono</b>: <span dict-key="сезон">сезон</span>']

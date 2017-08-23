@@ -1,4 +1,5 @@
-['<b dict-key="olda">olda</b>: <span dict-key="старый">старый</span>', '<b dict-key="oleo">oleo</b>:
-    <span dict-key="масло (не для еды)">масло (не для еды)</span>', '<b dict-key="olim">olim</b>:
-    <span dict-key="прежде">прежде</span>, <span dict-key="раньше">раньше</span>',
-  '<b dict-key="olivo">olivo</b>: <span dict-key="маслина">маслина</span>']
+['<b dict-key="ol,olu">ol(u)</b>: <span dict-key="это">это</span>', '<b dict-key="olda">olda</b>:
+    <span dict-key="старый">старый</span>', '<b dict-key="oleo">oleo</b>: <span dict-key="масло
+    (не для еды)">масло (не для еды)</span>', '<b dict-key="olim">olim</b>: <span
+    dict-key="прежде">прежде</span>, <span dict-key="раньше">раньше</span>', '<b dict-key="olivo">olivo</b>:
+    <span dict-key="маслина">маслина</span>']

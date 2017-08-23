@@ -42,7 +42,7 @@
     <span dict-key="иметь обед">иметь обед</span>', '<b dict-key="dinosaurio">dinosaurio</b>:
     <span dict-key="динозавр">динозавр</span>', '<b dict-key="dio">dio</b>: <span
     dict-key="день">день</span>', '<b dict-key="diplomaco">diplomaco</b>: <span dict-key="дипломатия">дипломатия</span>',
-  '<b dict-key="direciono">direciono</b>: <span dict-key="руководств (направление)">руководств
+  '<b dict-key="direciono">direciono</b>: <span dict-key="руководство (направление)">руководство
     (направление)</span>', '<b dict-key="direktar">direktar</b>: <span dict-key="направить">направить</span>',
   '<b dict-key="direta">direta</b>: <span dict-key="прямой">прямой</span>', '<b dict-key="disertar">disertar</b>:
     <span dict-key="защтщать диссертацию">защтщать диссертацию</span>', '<b dict-key="diserturo">diserturo</b>:
@@ -81,5 +81,5 @@
     <span dict-key="гадать">гадать</span>, <span dict-key="догадываться">догадываться</span>,
     <span dict-key="строить догадки">строить догадки</span>, <span dict-key="полагать">полагать</span>',
   '<b dict-key="divorco">divorco</b>: <span dict-key="развод">развод</span>', '<b
-    dict-key="divulgar">divulgar</b>: <span dict-key="обнародоват (разглашать)">обнародоват
+    dict-key="divulgar">divulgar</b>: <span dict-key="обнародовать (разглашать)">обнародовать
     (разглашать)</span>', '<b dict-key="dizastro">dizastro</b>: <span dict-key="бедствие">бедствие</span>']
