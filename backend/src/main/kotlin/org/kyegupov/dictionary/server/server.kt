@@ -46,10 +46,12 @@ private fun normalizeIdoWord(word: String): String? {
 
 fun main(args: Array<String>) {
 
-    val data = mutableMapOf<Language, DictionaryOfStringArticles>()
+    val data = mutableMapOf<Direction, DictionaryOfStringArticles>()
 
-    for ((langCode, lang) in allLanguageCodes) {
-        data[lang] = loadDataFromAlphabetizedShards("dyer_by_letter/$langCode")
+    for ((_, directions) in languageToDirections) {
+        for (direction in directions) {
+            data[direction] = loadDataFromAlphabetizedShards("dictionaries_by_letter/${direction.s}")
+        }
     }
 
     Spark.port(3000)
@@ -63,18 +65,19 @@ fun main(args: Array<String>) {
         Spark.staticFiles.location(staticPath)
     }
 
+    Spark.exception(Exception::class.java) { exception, _, _ -> exception.printStackTrace() }
+
     Spark.get("api/search", { request: Request, response: Response ->
         // TODO: support multiple non-Ido languages, get language from client
         val query = request.queryParams("query")!!
         val result = mutableMapOf<String, PerLanguageSearchResponse>()
-        val queryLang = request.queryParams("lang")
-        val languages = if (queryLang == null) allLanguageCodes.keys else listOf(queryLang)
-        for (langCode in languages) {
-            val lang = allLanguageCodes[langCode]
-            val dic = data[lang]!!
+        val language = languagesByCodes[request.queryParams("lang")!!]
+        for (direction in languageToDirections[language]!!) {
+            println(direction)
+            val dic = data[direction]!!
             val suggestedWords = mutableMapOf<String, List<Int>>()
             suggestedWords.putAll(dic.compactIndex.subMap(query, query + "\uFFFF"))
-            if (lang == Language.IDO) {
+            if (direction.toString().contains("io-")) {
                 suggestedWords.putAll(dic.compactIndex.subMap(normalizeIdoWord(query), normalizeIdoWord(query)+ "\uFFFF"))
             }
             val preciseArticleIds = dic.compactIndex[query] ?:
@@ -86,7 +89,7 @@ fun main(args: Array<String>) {
                     } else listOf<String>(),
                     totalSuggestions = suggestedWords.size,
                     articlesHtml = preciseArticleIds.map { dic.entries[it] })
-            result[langCode] = langResult
+            result[direction.s] = langResult
         }
         response.type("application/json")
         GSON.toJson(result)
@@ -96,7 +99,7 @@ fun main(args: Array<String>) {
         // TODO: support multiple non-Ido languages, get language from client
         val query = request.queryParams("query")!!
         val phraseResult = mutableListOf<PhraseWord>()
-        val dic = data[Language.IDO]!!
+        val dic = data[Direction.IO_EN]!!
         for (word0 in query.split(NON_WORD_CHARS)) {
             val word = normalizeIdoWord(word0.toLowerCase())
             if (dic.compactIndex.containsKey(word)) {

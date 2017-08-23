@@ -1,6 +1,6 @@
 package org.kyegupov.dictionary.tools
 
-import org.kyegupov.dictionary.common.Language
+import org.kyegupov.dictionary.common.Direction
 import org.kyegupov.dictionary.common.YAML
 import java.io.File
 import java.io.FileWriter
@@ -8,8 +8,8 @@ import java.nio.file.*
 
 fun main(args : Array<String>) {
 
-    writeJsonByLetters(Language.IDO, parseFiles(Language.IDO))
-    writeJsonByLetters(Language.ENGLISH, parseFiles(Language.ENGLISH))
+    writeJsonByLetters(Direction.IO_EN, parseDyerFiles(Direction.IO_EN))
+    writeJsonByLetters(Direction.EN_IO, parseDyerFiles(Direction.EN_IO))
 }
 
 fun String.safePrefix(count: Int): String {
@@ -20,13 +20,11 @@ fun compactize(article: Article) : String {
     return article.text.renderToHtml()
 }
 
-fun writeJsonByLetters(language: Language, parsingResults: ParsingResults) {
+fun writeJsonByLetters(direction: Direction, parsingResults: ParsingResults) {
 
     val articles = parsingResults.articles
 
-    val langLetter = language.toString().toLowerCase()[0]
-
-    val targetPath = "backend/src/main/resources/dyer_by_letter/$langLetter"
+    val targetPath = "src/main/resources/dictionaries_by_letter/$direction"
 
     File(targetPath).deleteRecursively()
     Files.createDirectories(Paths.get(targetPath))

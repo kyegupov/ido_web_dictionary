@@ -15,7 +15,9 @@ var JAR_FS: FileSystem? = null
 
 // https://stackoverflow.com/a/28057735
 fun listResources(path: String): List<Path> {
+    println(path)
     val uri = CLASS_LOADER.getResource(path).toURI()
+
     val myPath: Path
     if (uri.scheme == "jar") {
         if (JAR_FS == null) {

@@ -79,3 +79,11 @@ table#description td {
 .phrase {
     margin-bottom: 2em;
 }
+
+.template {
+    display: none;
+}
+
+.spacer {
+    padding: 0px 30px;
+}

@@ -5,7 +5,7 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Element
 import org.jsoup.nodes.Node
 import org.jsoup.nodes.TextNode
-import org.kyegupov.dictionary.common.Language
+import org.kyegupov.dictionary.common.Direction
 import org.kyegupov.dictionary.common.Weighted
 import java.nio.charset.Charset
 import java.nio.file.FileSystems
@@ -36,8 +36,11 @@ data class ArticleText(val nodes : MutableList<RichTextNode>) {
         return nodes.map { node ->
             when (node) {
                 is org.kyegupov.dictionary.tools.TextNode -> StringEscapeUtils.escapeHtml4(node.text)
-                is KeywordNode -> ("""<b dict-key="${StringEscapeUtils.escapeHtml4(node.fullKeywords.joinToString(","))}">"""
-                    + "${StringEscapeUtils.escapeHtml4(node.text)}</b>")
+                is KeywordNode -> {
+                    val tag = if (node.isBold) "b" else { "span" };
+                    ("""<$tag dict-key="${StringEscapeUtils.escapeHtml4(node.fullKeywords.joinToString(","))}">"""
+                            + "${StringEscapeUtils.escapeHtml4(node.text)}</$tag>")
+                }
                 is ItalicNode -> "<i>" + StringEscapeUtils.escapeHtml4(node.text) + "</i>"
                 else -> { throw IllegalArgumentException("Node : $node") }
             }
@@ -52,7 +55,8 @@ interface RichTextNode {
 data class TextNode(override val text : String) : RichTextNode
 data class KeywordNode(
         override val text : String, // Original text
-        val fullKeywords : List<String> // Expanded abbreviations, multiple versions
+        val fullKeywords : List<String>, // Expanded abbreviations, multiple versions
+        val isBold : Boolean
 ) : RichTextNode
 data class ItalicNode(override val text : String) : RichTextNode
 
@@ -71,7 +75,7 @@ val RE_PUREWORD = Regex("[A-Za-z]+")
 
 val GSON = GsonBuilder().disableHtmlEscaping().setPrettyPrinting().create()!!
 
-class HtmlParser (val language : Language) {
+class HtmlParser (val language : Direction) {
     val articleTexts: MutableList<ArticleText> = arrayListOf()
     private var currentArticleTextBuilder: ArticleText = ArticleText(arrayListOf())
     private var currentMode: ParserMode = ParserMode.IN_TEXT
@@ -120,7 +124,7 @@ class HtmlParser (val language : Language) {
 
     private fun addKey(text: String) {
         val fullKeywords = inferFullKeyword(text)
-        currentArticleTextBuilder.nodes.add(KeywordNode(text, fullKeywords))
+        currentArticleTextBuilder.nodes.add(KeywordNode(text, fullKeywords, true))
     }
 
     fun nextEntry() {
@@ -148,12 +152,12 @@ class HtmlParser (val language : Language) {
             for (word in words.filter { it.isNotEmpty() }) {
                 var fullWord = word
                 if (!baseword.isNullOrEmpty()) {
-                    if (language == Language.IDO) {
+                    if (language == Direction.IO_EN) {
                         if (word.startsWith("-")) {
                             fullWord = baseword + word.substring(1)
                         }
                         fullWord = fullWord.replace("-", "")
-                    } else if (language == Language.ENGLISH) {
+                    } else if (language == Direction.EN_IO) {
                         baseword = baseword!!.removeSuffix(":")
                         if (word.startsWith(baseword!![0] + ".-")) {
                             fullWord = baseword + word.substring(3)
@@ -186,7 +190,7 @@ data class ParsingResults(
         val articles: List<Article>
 )
 
-fun parseFiles(language: Language): ParsingResults {
+fun parseDyerFiles(language: Direction): ParsingResults {
 
     val pathMatcher = FileSystems.getDefault().getPathMatcher("glob:**/${language.toString().toLowerCase()[0]}?.html")
     val sourceFiles = Files.list(Paths.get("backend/src/main/resources/dyer_source")).filter { pathMatcher.matches(it) }.sorted()

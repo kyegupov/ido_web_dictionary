@@ -1,6 +1,11 @@
 /// <reference path="jquery.d.ts" />
 var DELAY_REQUEST_MS = 300;
 var BASE_TITLE = "Ido ↔ English dictionary by Dyer";
+var LANG_HUMAN_NAMES = {
+    "en-io": "English – Ido",
+    "io-en": "Ido – English",
+    "io-ru-io": "Ido – Russian"
+};
 var IdoDictionaryUi = (function () {
     function IdoDictionaryUi() {
         this.queryAsAlreadyProcessed = ""; // previous query
@@ -9,7 +14,7 @@ var IdoDictionaryUi = (function () {
     IdoDictionaryUi.prototype.main = function () {
         var _this = this;
         this.queryAsAlreadyProcessed = "";
-        $("input:radio[name=search-type]").change(function (event) {
+        $("select[name=mode]").change(function (event) {
             _this.mode = $(event.target).val();
             if (_this.mode == "single_word") {
                 $(".phrase").hide();
@@ -17,30 +22,33 @@ var IdoDictionaryUi = (function () {
             else {
                 $(".phrase").show();
             }
-            _this.handleSearchBoxChange(true);
+            _this.handleSearchBoxChange(true, true);
+        });
+        $("select[name=lang]").change(function () {
+            _this.handleSearchBoxChange(true, true);
         });
         $("#searchbox").on("input", function () {
-            _this.handleSearchBoxChange(true);
+            _this.handleSearchBoxChange(true, false);
         });
-        $("input:radio[name=search-type][value=single_word]").click();
         this.mode = "single_word";
         window.onpopstate = function (e) { return _this.handleUrl(); };
         this.handleUrl();
     };
-    IdoDictionaryUi.prototype.handleSearchBoxChange = function (updateUrl) {
+    IdoDictionaryUi.prototype.handleSearchBoxChange = function (updateUrl, force) {
         var query = $("#searchbox").val().trim();
         if (query.trim() == "") {
             $("#banner").show();
             $(".results").hide();
         }
-        if (query != this.queryAsAlreadyProcessed && query != "") {
+        if (force || (query != this.queryAsAlreadyProcessed && query != "")) {
+            var lang = $("select[name=lang]").val();
             if (this.mode == "single_word") {
                 this.phrase = null;
-                this.searchWord(query.toLowerCase(), false, null, updateUrl);
+                this.searchWord(query.toLowerCase(), lang, false, null, updateUrl);
             }
             else {
                 this.phrase = query;
-                this.searchPhrase(query, false, updateUrl);
+                this.searchPhrase(query, lang, false, updateUrl);
             }
             this.queryAsAlreadyProcessed = query;
         }
@@ -63,9 +71,9 @@ var IdoDictionaryUi = (function () {
             IdoDictionaryUi.fadeResults();
         }, immediately ? 0 : DELAY_REQUEST_MS);
     };
-    IdoDictionaryUi.prototype.searchWord = function (query, immediately, language, updateUrl) {
+    IdoDictionaryUi.prototype.searchWord = function (query, lang, immediately, language, updateUrl) {
         var _this = this;
-        var url = "api/search?query=" + query;
+        var url = "api/search?lang=" + lang + "&query=" + query;
         if (language != null) {
             url += "&lang=" + language;
         }
@@ -74,20 +82,20 @@ var IdoDictionaryUi = (function () {
             _this.displayResults(wordQuery, jsonResponse);
             var title = BASE_TITLE + ": " + query;
             if (updateUrl) {
-                window.history.pushState({ word: query }, title, "#?word=" + encodeURIComponent(query));
+                window.history.pushState({ word: query }, title, "#?lang=" + lang + "&word=" + encodeURIComponent(query));
             }
             else {
                 window.document.title = title;
             }
         }, immediately);
     };
-    IdoDictionaryUi.prototype.searchPhrase = function (query, immediately, updateUrl) {
+    IdoDictionaryUi.prototype.searchPhrase = function (query, lang, immediately, updateUrl) {
         var _this = this;
-        this.setupServerRequest("api/phrase?query=" + query, function (jsonResponse) {
+        this.setupServerRequest("api/phrase?lang=" + lang + "&query=" + query, function (jsonResponse) {
             _this.displayPhraseResults(jsonResponse);
             var title = BASE_TITLE + ": " + query;
             if (updateUrl) {
-                window.history.pushState({ phrase: query }, title, "#?phrase=" + encodeURIComponent(query));
+                window.history.pushState({ phrase: query }, title, "#?lang=" + lang + "&phrase=" + encodeURIComponent(query));
             }
             else {
                 window.document.title = title;
@@ -95,11 +103,11 @@ var IdoDictionaryUi = (function () {
         }, immediately);
     };
     // TODO: HTML sanitizing
-    IdoDictionaryUi.makeSearchLink = function (keyword) {
-        return "<a href=\"#?word=" + encodeURIComponent(keyword) + "\" class=\"suggested_word\">" + keyword + "</a>";
+    IdoDictionaryUi.makeSearchLink = function (lang, keyword) {
+        return "<a href=\"#?lang=" + lang + "&word=" + encodeURIComponent(keyword) + "\" class=\"suggested_word\">" + keyword + "</a>";
     };
-    IdoDictionaryUi.prototype.makeQuickSearchLink = function (word) {
-        return "<a href=\"#?phrase=" + encodeURIComponent(this.phrase) + "\" class=\"suggested_phrase_word\" "
+    IdoDictionaryUi.prototype.makeQuickSearchLink = function (lang, word) {
+        return "<a href=\"#?lang=" + lang + "&phrase=" + encodeURIComponent(this.phrase) + "\" class=\"suggested_phrase_word\" "
             + ("keyword=\"" + word.normalizedWord + "\">") + word.originalWord + "</a>";
     };
     IdoDictionaryUi.fadeResults = function () {
@@ -112,23 +120,21 @@ var IdoDictionaryUi = (function () {
         $(".results").removeClass("fade");
     };
     IdoDictionaryUi.prototype.displayResults = function (wordQuery, searchResponse) {
-        var r1 = IdoDictionaryUi.displayLanguageResults(searchResponse.e, "en-io");
-        var r2 = IdoDictionaryUi.displayLanguageResults(searchResponse.i, "io-en");
-        if (!r1 && !r2) {
+        $(".per_direction_result:not(.template)").remove();
+        var anyResults = true;
+        for (var _i = 0, _a = Object.keys(searchResponse); _i < _a.length; _i++) {
+            var direction = _a[_i];
+            anyResults = anyResults && IdoDictionaryUi.displayLanguageResults(searchResponse[direction], direction);
+        }
+        if (!anyResults) {
             $(".nope")[0].innerHTML = "No matching words found";
             $(".nope").show();
         }
         else {
             $(".nope").hide();
         }
-        if (r1 && r2) {
-            $("#separator").show();
-        }
-        else {
-            $("#separator").hide();
-        }
         IdoDictionaryUi.unfadeResults();
-        $("b[dict-key*='" + wordQuery + "']").addClass("red");
+        $("*[dict-key*='" + wordQuery + "']").addClass("red");
     };
     IdoDictionaryUi.displayLanguageResults = function (langSearchResponse, langCode) {
         var linksHtml = [];
@@ -136,10 +142,11 @@ var IdoDictionaryUi = (function () {
             $("." + langCode).hide();
             return false;
         }
+        var lang = $("select[name=lang]").val();
         if (langSearchResponse.suggestions) {
             for (var _i = 0, _a = langSearchResponse.suggestions; _i < _a.length; _i++) {
                 var word = _a[_i];
-                linksHtml.push("<b>" + IdoDictionaryUi.makeSearchLink(word) + "</b>");
+                linksHtml.push("<b>" + IdoDictionaryUi.makeSearchLink(lang, word) + "</b>");
             }
         }
         else {
@@ -151,28 +158,31 @@ var IdoDictionaryUi = (function () {
             }
             wordsHtml += langSearchResponse.totalSuggestions + " matching words found";
         }
-        $("." + langCode + " .words")[0].innerHTML = wordsHtml;
-        $("." + langCode + " .articles")[0].innerHTML = langSearchResponse.articlesHtml.join("<hr>");
-        $("." + langCode).show();
+        var target = $(".per_direction_results .template").clone();
+        target.appendTo($(".per_direction_results"));
+        target.removeClass("template");
+        target.find(".heading")[0].innerHTML = LANG_HUMAN_NAMES[langCode];
+        target.find(".words")[0].innerHTML = wordsHtml;
+        target.find(".articles")[0].innerHTML = langSearchResponse.articlesHtml.join("<hr>");
         return true;
     };
     IdoDictionaryUi.prototype.displayPhraseResults = function (words) {
         var _this = this;
+        $(".per_direction_result:not(.template)").remove();
         if (!words) {
             $(".nope")[0].innerHTML = "No matching words found";
             $(".nope").show();
         }
         else {
             $(".nope").hide();
-            $(".en-io").hide();
-            $(".io-en").hide();
             IdoDictionaryUi.unfadeResults();
         }
         var linksHtml = [];
+        var lang = $("select[name=lang]").val();
         for (var _i = 0, words_1 = words; _i < words_1.length; _i++) {
             var word = words_1[_i];
             if (word.normalizedWord) {
-                linksHtml.push("<b>" + this.makeQuickSearchLink(word) + "</b>");
+                linksHtml.push("<b>" + this.makeQuickSearchLink(lang, word) + "</b>");
             }
             else {
                 linksHtml.push(word.originalWord);
@@ -180,22 +190,23 @@ var IdoDictionaryUi = (function () {
         }
         $(".phrase").html(linksHtml.join(""));
         $("a.suggested_phrase_word").click(function (event) {
-            _this.searchWord(event.target.getAttribute("keyword"), true, "i", false);
+            var lang = $("select[name=lang]").val();
+            _this.searchWord(event.target.getAttribute("keyword"), lang, true, "i", false);
         });
     };
     IdoDictionaryUi.prototype.handleUrl = function () {
         var phrase = getUrlFragmentParameterByName("phrase");
         var word = getUrlFragmentParameterByName("word");
         if (phrase) {
-            $("input:radio[name=search-type][value=ido_phrase]").click();
+            this.mode = "ido_phrase";
             $("#searchbox").val(phrase);
-            this.handleSearchBoxChange(false);
+            this.handleSearchBoxChange(false, false);
         }
         else {
             if (word) {
-                $("input:radio[name=search-type][value=single_word]").click();
+                this.mode = "single_word";
                 $("#searchbox").val(word);
-                this.handleSearchBoxChange(false);
+                this.handleSearchBoxChange(false, false);
             }
         }
     };

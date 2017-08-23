@@ -20,16 +20,19 @@
 
         <div id="input-controls">
             <div id="search-type">
-                <div class="btn-group" data-toggle="buttons">
-                    <label class="btn btn-primary">
-                        <input type="radio" name="search-type" value="single_word" />
-                        English or Ido Word
-                    </label>
-                    <label class="btn btn-primary">
-                        <input type="radio" name="search-type" value="ido_phrase" />
-                        Ido Phrase
-                    </label>
-                </div>
+                <label>
+                    <select name="lang">
+                        <option value="en">English</option>
+                        <option value="ru">Russian</option>
+                    </select>
+                </label>
+                <span class="spacer">&nbsp;</span>
+                <label>
+                    <select name="mode">
+                        <option value="single_word">Single Word</option>
+                        <option value="ido_phrase">Ido Phrase</option>
+                    </select>
+                </label>
             </div>
             <input class="form-control input-lg" id="searchbox">
         </div>
@@ -64,26 +67,15 @@
         </div>
 
         <div class="results">
-            <div class="nope">
-            </div>
-            <div class="phrase">
-            </div>
-            <div class="en-io">
-                <div class="heading">English-Ido results</div>
-
-                <div class="words"></div>
-
-                <div class="articles">
+            <div class="nope"></div>
+            <div class="phrase"></div>
+            <div class="per_direction_results">
+                <div class="per_direction_result template">
+                    <div class="heading"></div>
+                    <div class="words"></div>
+                    <div class="articles"></div>
+                    <div class="separator"></div>
                 </div>
-            </div>
-
-            <div id="separator"></div>
-
-            <div class="io-en">
-                <div class="heading">Ido-English results</div>
-                <div class="words"></div>
-
-                <div class="articles"></div>
             </div>
         </div>
     </div>

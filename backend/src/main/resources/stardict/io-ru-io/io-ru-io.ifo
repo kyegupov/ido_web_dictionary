@@ -1,0 +1,8 @@
+StarDict's dict ifo file
+    version=3.0.0
+    [options]
+    bookname=IO_RU_IO
+    wordcount=8232
+    idxfilesize=200120
+    sametypesequence=h
+    

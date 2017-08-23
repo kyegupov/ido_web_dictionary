@@ -22,9 +22,23 @@ data class Weighted<out T>(val value: T, val weight: Double)
 
 enum class Language {
     ENGLISH,
+    RUSSIAN,
     IDO
 }
 
-val allLanguageCodes = mapOf(Pair("i", Language.IDO), Pair("e", Language.ENGLISH))
+val languagesByCodes = mapOf(
+    Pair("io", Language.IDO),
+    Pair("en", Language.ENGLISH),
+    Pair("ru", Language.RUSSIAN)
+)
 
-val allLanguagePairCodes = mapOf(Pair(Language.IDO, "io-en"), Pair(Language.ENGLISH, "en-io"))
+enum class Direction(val s: String) {
+    IO_EN("io-en"),
+    EN_IO("en-io"),
+    IO_RU_IO("io-ru-io")
+}
+
+val languageToDirections = mapOf(
+    Pair(Language.ENGLISH, listOf(Direction.IO_EN, Direction.EN_IO)), 
+    Pair(Language.RUSSIAN, listOf(Direction.IO_RU_IO))
+)
