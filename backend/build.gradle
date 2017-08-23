@@ -51,10 +51,4 @@ jar {
     }
 }
 
-mainClassName = 'org.kyegupov.dictionary.server.ServerKt'
-
-task execute(type:JavaExec) {
-   main = mainClass
-   classpath = sourceSets.main.runtimeClasspath
-   workingDir = ".."
-}
+mainClassName = System.getProperty("mainClass") ?: 'org.kyegupov.dictionary.server.ServerKt'
