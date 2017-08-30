@@ -50,12 +50,12 @@ fun main(args : Array<String>) {
             idxFileStream.close()
             val ifoFileWriter = Files.newOutputStream(Paths.get(targetPath).resolve(direction.s + ".ifo")).writer(StandardCharsets.UTF_8)
             ifoFileWriter.write("""StarDict's dict ifo file
-    version=3.0.0
-    [options]
-    bookname=$direction
-    wordcount=${allWords.size}
-    idxfilesize=${idxSize}
-    sametypesequence=h
+version=3.0.0
+[options]
+bookname=$direction
+wordcount=${allWords.size}
+idxfilesize=${idxSize}
+sametypesequence=h
     """
             )
             ifoFileWriter.close()
