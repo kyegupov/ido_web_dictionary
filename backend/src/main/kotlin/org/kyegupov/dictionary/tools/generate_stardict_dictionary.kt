@@ -52,7 +52,7 @@ fun main(args : Array<String>) {
             ifoFileWriter.write("""StarDict's dict ifo file
 version=3.0.0
 [options]
-bookname=$direction
+bookname=${direction.s}
 wordcount=${allWords.size}
 idxfilesize=${idxSize}
 sametypesequence=h

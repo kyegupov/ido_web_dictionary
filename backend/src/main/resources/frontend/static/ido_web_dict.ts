@@ -158,9 +158,9 @@ class IdoDictionaryUi {
     displayResults(wordQuery: string, searchResponse: SearchResponse) {
 
         $(".per_direction_result:not(.template)").remove();
-        let anyResults = true;
+        let anyResults = false;
         for (let direction of Object.keys(searchResponse)) {
-            anyResults = anyResults && IdoDictionaryUi.displayLanguageResults(searchResponse[direction], direction);
+            anyResults = anyResults || IdoDictionaryUi.displayLanguageResults(searchResponse[direction], direction);
         }
 
         if (!anyResults) {
