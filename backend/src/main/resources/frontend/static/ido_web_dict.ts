@@ -160,7 +160,9 @@ class IdoDictionaryUi {
         $(".per_direction_result:not(.template)").remove();
         let anyResults = false;
         for (let direction of Object.keys(searchResponse)) {
-            anyResults = anyResults || IdoDictionaryUi.displayLanguageResults(searchResponse[direction], direction);
+            if (IdoDictionaryUi.displayLanguageResults(searchResponse[direction], direction)) {
+                anyResults = true;
+            }
         }
 
         if (!anyResults) {

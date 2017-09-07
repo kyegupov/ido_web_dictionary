@@ -124,7 +124,9 @@ var IdoDictionaryUi = (function () {
         var anyResults = false;
         for (var _i = 0, _a = Object.keys(searchResponse); _i < _a.length; _i++) {
             var direction = _a[_i];
-            anyResults = anyResults || IdoDictionaryUi.displayLanguageResults(searchResponse[direction], direction);
+            if (IdoDictionaryUi.displayLanguageResults(searchResponse[direction], direction)) {
+                anyResults = true;
+            }
         }
         if (!anyResults) {
             $(".nope")[0].innerHTML = "No matching words found";
