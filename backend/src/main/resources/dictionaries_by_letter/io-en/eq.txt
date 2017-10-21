@@ -1,0 +1,42 @@
+<b dict-key="equaciono">equacion-o:</b> (<i>math.</i>) equation. &mdash; EFIS
+
+<b dict-key="equatoro">equator-o:</b> equator; <b dict-key="equatoralo,equatorala teleskopo">-alo,
+-ala teleskopo:</b> equatorial, e. telescope. &mdash; DEFIRS.
+
+<b dict-key="equi">equi-:</b> (1927) (<i>prefix</i>) equi-. &mdash; DEFIRS
+
+<b dict-key="equiangula">equi-angul-a:</b> (<i>geom.</i>) equiangular.
+
+<b dict-key="equidistanta">equi-dist-anta:</b> equidistant.
+
+<b dict-key="equilatera">equi-later-a:</b> (<i>geom.</i>) equilateral.
+
+<b dict-key="equilibrar">equilibr-ar:</b> (<i>intr., tr.</i>) to be in state of equilibrium,
+balance, counterpoise; <b dict-key="equilibrigar">-igar:</b> to equilibrate; to put in balance
+equilibrium (ulo); <b dict-key="equilibro">-o:</b> equilibrium, equipoise, balance; <b
+dict-key="equilibroza">-oza:</b> well-balanced; <b dict-key="equilibristo">-isto:</b> equilibrist,
+juggler. Ex.: &quot;A equilibras B&quot;, o: &quot;A e B equilibras&quot; = &quot;Existas relato di
+equilibro inter A e B&quot;. &quot;X (aganto) equilibrigas A e B&quot;, o &quot;A per B&quot;. On
+uzas <b dict-key="equilibrigar">equilibrigar</b> nur por <b dict-key="l aganto">l'extera
+aganto</b>, qua pozas la forci (pezi, e.c.) en equilibro, qua efektigas l'equilibro sen partoprenar
+ol; IV-171. &mdash; EFIRS.
+
+<b dict-key="equimultopla,equio">equi-mult-opl-a, -o:</b> equimultiple.
+
+<b dict-key="equinoxo">equinox-o:</b> equinox. DEFIS.
+
+<b dict-key="equipar">equip-ar:</b> (<i>tr.</i>) to equip, fit out (a ship, an expedition, a
+soldier) (cf. <b dict-key="provizar">provizar</b>). &mdash; DEFIR
+
+<b dict-key="equipolar">equipol-ar:</b> (<i>tr., math.</i>) to equilibrate according to the method
+of Giusto Bellavitis, using equipollence.
+
+<b dict-key="equipolo">equipol-o:</b> (<i>log., math.</i>) equipollence: equivalence.
+
+<b dict-key="equiseto">equiset-o:</b> (<i>bot.</i>) horsetails (genus equisetum). &mdash; EL
+
+<b dict-key="equitato">equitat-o:</b> equity; natural justice. Def.: Yusteso natural, segun la
+komuna raciono, quan on opozas a la yusteso legal, a la yuro; IV-9. &mdash; EFIS.
+
+<b dict-key="equivalar">equival-ar:</b> (<i>tr.</i>) to be equivalent to (<b
+dict-key="ulo">ulo</b>). &mdash; DEFIRS.

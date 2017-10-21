@@ -1,0 +1,15 @@
+<b dict-key="iodo">iod-o:</b> (<i>chem.</i>) iodine; <b dict-key="iodido">-ido:</b> iodide; <b
+dict-key="iodoformo">-oformo:</b> iodoform. &mdash; DEFIRS
+
+<b dict-key="iono">ion-o:</b> (<i>phys.</i>) ion. &mdash; DEF
+
+<b dict-key="ionio">ioni-o*:</b> (<i>chem.</i>) ionium. &mdash; DEFIRS
+
+<b dict-key="Ioniala">Ioni-ala:</b> Ionic: relating to Ionia; <b dict-key="Ioniano">-ano:</b> an
+Ionian.
+
+<b dict-key="ionika">ionik-a:</b> (<i>arch.</i>) ionic. &mdash; DEFIS
+
+<b dict-key="ionosfero">ionosfer-o*:</b> ionosphere: later of the atmosphere.
+
+<b dict-key="iota">&laquo;iota&raquo;:</b> (<i>Gr. alphabet</i>) iota; (<i>fig.</i>) jot, little.

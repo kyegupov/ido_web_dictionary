@@ -1,0 +1,27 @@
+<b dict-key="vulcanite">vulcanite:</b> ebonito, vulkaniz-ita kauchuko.
+
+<b dict-key="vulcanize">vulcanize:</b> vulkanizar.
+
+<b dict-key="vulgar">vulgar:</b> (<i>coarse</i>) mal-gusta, grosiera, ne-polita, vulgar-acha;
+(<i>common, popular</i>) vulgara, komuna, populara; <b dict-key="vulgar fraction">v. fraction:</b>
+fraciono (ordinara); <b dict-key="vulgar tongue">v. tongue:</b> linguo <i>o</i> parol-ado vulgara;
+<b dict-key="the vulgar">the v.: </b>(<i>the ordinary run of people</i>) populo, turbo, plebey-aro.
+
+<b dict-key="vulgarity,vulgarism">vulgarity, vulgarism:</b> (<i>quality of commonness</i>)
+vulgar-eso; (<i>coarseness</i>) grosier-eso; (<i>expression</i>) grosier-ajo, vulgar-ach-ajo,
+vulgar-acha expreso, slang-(aj)o.
+
+<b dict-key="vulgarize">vulgarize:</b> (<i>popularize</i>) vulgar-igar, -eskar.
+
+<b dict-key="Vulgate">Vulgate:</b> vulgato.
+
+<b dict-key="vulnerability">vulnerability:</b> vun-ebl-eso; atak-ebl-eso; domaj-ebl-eso.
+
+<b dict-key="vulnerable">vulnerable:</b> vund-ebla; atak-ebla; domaj-ebla.
+
+<b dict-key="vulpine">vulpine:</b> fox-ala, -atra; (<i>fig</i>.) ruz-oza, -ema.
+
+<b dict-key="vulture">vulture:</b> vultur-o; <b dict-key="vulturine">-rine:</b> -ala, -atra;
+rapt-ema.
+
+<b dict-key="vulva">vulva:</b> vulvo.

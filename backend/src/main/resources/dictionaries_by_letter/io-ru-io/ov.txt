@@ -1,0 +1,3 @@
+<b dict-key="ovala">ovala</b>: <span dict-key="овальный">овальный</span>
+
+<b dict-key="ovo">ovo</b>: <span dict-key="яйцо">яйцо</span>

@@ -1,0 +1,13 @@
+<b dict-key="ok">ok</b>: <span dict-key="восемь">восемь</span>, <span dict-key="8">8</span>
+
+<b dict-key="okaziono">okaziono</b>: <span dict-key="случай">случай</span>, <span
+dict-key="возможность">возможность</span>
+
+<b dict-key="oktilian">oktilian</b>: <span dict-key="октиллион = миллион в 8 степени">октиллион =
+миллион в 8 степени</span>
+
+<b dict-key="oktobro">oktobro</b>: <span dict-key="октябрь">октябрь</span>
+
+<b dict-key="okulo">okulo</b>: <span dict-key="глаз">глаз</span>
+
+<b dict-key="okupar">okupar</b>: <span dict-key="заниматься">заниматься</span>

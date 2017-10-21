@@ -1,0 +1,5 @@
+<b dict-key="oestriol">oestriol:</b> estriolo.
+
+<b dict-key="oestrogen">oestrogen:</b> estrogeno.
+
+<b dict-key="oestrone">oestrone:</b> estrono.

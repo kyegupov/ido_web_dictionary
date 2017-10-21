@@ -1,0 +1,61 @@
+<b dict-key="isabel">isabel:</b> izabela.
+
+<b dict-key="ischemia,ischaemia">ischemia, ischaemia:</b> iskemio.
+
+<b dict-key="ischium">ischium:</b> iskiono.
+
+<b dict-key="isinglass">isinglass:</b> iktiokolo.
+
+<b dict-key="Islam">Islam:</b> islamo.
+
+<b dict-key="isle,island">isle, island:</b> insul-o, <b dict-key="isler">-er:</b> -ano.
+
+<b dict-key="isobar">isobar:</b> izobaro.
+
+<b dict-key="isochronal">isochronal:</b> izokrona.
+
+<b dict-key="isoclinic">isoclinic:</b> izoklina.
+
+<b dict-key="isodynamic">isodynamic:</b> izodinama.
+
+<b dict-key="isogamous">isogamous:</b> izogama.
+
+<b dict-key="isogonic">isogonic:</b> izogona.
+
+<b dict-key="isography">isography:</b> izografiko.
+
+<b dict-key="isolate">isolate:</b> izolar; <b dict-key="isolatd">-d:</b> izol-ita (<i>cf</i>. sola,
+separ-ita, aparta).
+
+<b dict-key="isomeric">isomeric: </b>izomera.
+
+<b dict-key="isometrical">isometrical:</b> izometra.
+
+<b dict-key="isomorphous">isomorphous:</b> izomorfa.
+
+<b dict-key="isoperimetrical">isoperimetrical:</b> izoperimetra.
+
+<b dict-key="isoplere">isoplere:</b> izoplero.
+
+<b dict-key="isosceles">isosceles:</b> izocela.
+
+<b dict-key="isotherm">isotherm:</b> izotermo.
+
+<b dict-key="isotonic">isotonic:</b> izotonika.
+
+<b dict-key="isotope">isotope:</b> izotopo.
+
+<b dict-key="isotopic">isotopic:</b> izotopa.
+
+<b dict-key="isotropic">isotropic:</b> izotropa.
+
+<b dict-key="issue">issue:</b> (<i>money, bonds, etc.</i>) emisar; (<i>a book, paper</i>) editar
+(<i>cf</i>. publik-igar); (<i>come out of</i>) ek-irar, ek-fluar.
+
+<b dict-key="issue">issue:</b> (<i>edition</i>) edit-uro; (<i>coming out</i>) ek-ir-(ad)o;
+(<i>ending</i>) fino (<i>cf</i>. konkluzo; rezulto); (<i>number of a periodical</i>) numero;
+(<i>problem</i>) problemo, questiono; (<i>distribution</i>) distributar, dis-donar;
+(<i>offspring</i>) infanto, decend-anto, filio, genit-uro; <b dict-key="at issue">at i.:</b> (<i>to
+be decided</i>) decid-ota (questiono, problemo, to quo trakt-esas); kontesto-, litijo-punto.
+
+<b dict-key="isthmus">isthmus:</b> itmo.

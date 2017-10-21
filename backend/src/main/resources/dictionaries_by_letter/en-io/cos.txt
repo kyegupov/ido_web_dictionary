@@ -1,0 +1,44 @@
+<b dict-key="cosistency">cosistency: </b>(<i>composition</i>) konsisto; dens-eso; koher-em-eso;
+stabil-eso; (<i>logicality</i>) logik-oz-eso, -em-eso; (<i>harmony</i>) harmonio; kongruo.
+
+<b dict-key="cosmetic">cosmetic: </b>(<i>art of</i>) kosmetic-o; (<i>adj.</i>) -ala; (<i>a c.</i>)
+-ajo.
+
+<b dict-key="cosmic">cosmic: </b>kosm-ala.
+
+<b dict-key="cosmogony">cosmogony: </b>kosmogonio.
+
+<b dict-key="cosmography">cosmography: </b>kosmografio.
+
+<b dict-key="cosmology">cosmology: </b>kosmologio.
+
+<b dict-key="cosmonaut">cosmonaut:</b> kosmonauto.
+
+<b dict-key="cosmopolitan">cosmopolitan:</b> kosmopolit-a, -(ul)o.
+
+<b dict-key="cosmos">cosmos: </b>kosmo.
+
+<b dict-key="Cossack">Cossack: </b>kozako.
+
+<b dict-key="cosset">cosset: </b>dorlotar.
+
+<b dict-key="cost">cost: </b>kustar; <b dict-key="how much costs">how much c.s: </b>quante kustas
+(to).
+
+<b dict-key="cost">cost: </b>(<i>n.</i>) kusto; preco; kusto-preco; (<i>expense</i>) spens-(ad)o;
+<b dict-key="at the cost of">at the c. of: </b>po; <b dict-key="cost of making">c. of making:
+</b>fabrik-preco, -kusto; <b dict-key="cost what it will">c. what it will: </b>po irga preco; ye
+irga risko; <b dict-key="to one cost">to one&rsquo;s c.: </b>ye la detrimento (<i>od, </i>domajo)
+di ulu.
+
+<b dict-key="costal">costal: </b>kost-ala.
+
+<b dict-key="costermonger">costermonger: </b>strad-ala (frukto-) vend-isto.
+
+<b dict-key="costive">costive: </b>konstip-ita, -es-ema.
+
+<b dict-key="costly">costly: </b>kust-oza, -anta; chera; prec-oza; lux-oza; <b
+dict-key="costliness">-liness: </b>kustoz-eso (<i>od</i>, precozeso), spens-(eg)o.
+
+<b dict-key="costume">costume: </b>kostumo; <b dict-key="costumier">-mier: </b>-isto, vend-isto,
+-lug-isto. <b dict-key="cot">cot: </b>(<i>cottage</i>) dom-eto; (<i>bed</i>) lit-eto.

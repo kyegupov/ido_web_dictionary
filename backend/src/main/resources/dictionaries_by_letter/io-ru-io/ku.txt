@@ -1,0 +1,116 @@
+<b dict-key="kuafar">kuafar</b>: <span dict-key="делать прическу">делать прическу</span>
+
+<b dict-key="kuba">kuba</b>: <span dict-key="куба">куба</span>
+
+<b dict-key="kubo">kubo</b>: <span dict-key="куб">куб</span>
+
+<b dict-key="kudo">kudo</b>: <span dict-key="локоть">локоть</span>
+
+<b dict-key="kuglo">kuglo</b>: <span dict-key="пуля">пуля</span>
+
+<b dict-key="kuko">kuko</b>: <span dict-key="пирог">пирог</span>
+
+<b dict-key="kukulo">kukulo</b>: <span dict-key="кукушка">кукушка</span>
+
+<b dict-key="kukumbro">kukumbro</b>: <span dict-key="огурец">огурец</span>
+
+<b dict-key="kukurbito">kukurbito</b>: <span dict-key="тыква">тыква</span>
+
+<b dict-key="kulbutar">kulbutar</b>: <span dict-key="прыгать кувырком">прыгать кувырком</span>
+
+<b dict-key="kulco">kulco</b>: <span dict-key="комар">комар</span>, <span
+dict-key="мошка">мошка</span>
+
+<b dict-key="kuliero">kuliero</b>: <span dict-key="ложка">ложка</span>
+
+<b dict-key="kulminar">kulminar</b>: <span dict-key="достигать высшей точки">достигать высшей
+точки</span>
+
+<b dict-key="kulpar">kulpar</b>: <span dict-key="совершать ошибку">совершать ошибку</span>
+
+<b dict-key="kulpo">kulpo</b>: <span dict-key="вина">вина</span>
+
+<b dict-key="kultar">kultar</b>: <span dict-key="поклоняться">поклоняться</span>
+
+<b dict-key="kultelo">kultelo</b>: <span dict-key="нож">нож</span>
+
+<b dict-key="kultivar">kultivar</b>: <span dict-key="выращивать">выращивать</span>
+
+<b dict-key="kulturo">kulturo</b>: <span dict-key="культура">культура</span>
+
+<b dict-key="kun">kun</b>: <span dict-key="с">с</span>, <span dict-key="вместе с">вместе с</span>
+
+<b dict-key="kunexistar">kunexistar</b>: <span dict-key="сосуществовать">сосуществовать</span>
+
+<b dict-key="kunfederar">kunfederar</b>: <span dict-key="объединяться">объединяться</span>
+
+<b dict-key="kunfuzar">kunfuzar</b>: <span dict-key="смешивать">смешивать</span>, <span
+dict-key="соединяться вместе">соединяться вместе</span>
+
+<b dict-key="kunhabitar">kunhabitar</b>: <span dict-key="сожительствовать">сожительствовать</span>
+
+<b dict-key="kuniklo">kuniklo</b>: <span dict-key="кролик">кролик</span>
+
+<b dict-key="kunlaborar">kunlaborar</b>: <span dict-key="сотрудничать">сотрудничать</span>
+
+<b dict-key="kunsidar">kunsidar</b>: <span dict-key="проводить заседание">проводить
+заседание</span>, <span dict-key="сессию">сессию</span>, <span dict-key="встречу">встречу</span>
+
+<b dict-key="kuntexto">kuntexto</b>: <span dict-key="контекст">контекст</span>
+
+<b dict-key="kuntrompo">kuntrompo</b>: <span dict-key="сговор">сговор</span>, <span
+dict-key="обман">обман</span>
+
+<b dict-key="kunvenar">kunvenar</b>: <span dict-key="собираться">собираться</span>
+
+<b dict-key="kunvokar">kunvokar</b>: <span dict-key="вызвать">вызвать</span>, <span
+dict-key="созывать">созывать</span>
+
+<b dict-key="kuplar">kuplar</b>: <span dict-key="соединять">соединять</span>, <span
+dict-key="связаться вместе">связаться вместе</span>
+
+<b dict-key="kupo">kupo</b>: <span dict-key="кубок (что касается приза)">кубок (что касается
+приза)</span>
+
+<b dict-key="kupono">kupono</b>: <span dict-key="купон">купон</span>
+
+<b dict-key="kupro">kupro</b>: <span dict-key="медь">медь</span>
+
+<b dict-key="kuracar">kuracar</b>: <span dict-key="лечить">лечить</span>
+
+<b dict-key="kurajar">kurajar</b>: <span dict-key="быть храбрым">быть храбрым</span>
+
+<b dict-key="kurar">kurar</b>: <span dict-key="бежать">бежать</span>
+
+<b dict-key="kuriero">kuriero</b>: <span dict-key="курьер">курьер</span>
+
+<b dict-key="kurioza">kurioza</b>: <span dict-key="любопытный">любопытный</span>
+
+<b dict-key="kursiva">kursiva</b>: <span dict-key="курсивный">курсивный</span>
+
+<b dict-key="kurso">kurso</b>: <span dict-key="курс">курс</span>
+
+<b dict-key="kurta">kurta</b>: <span dict-key="короткий">короткий</span>, <span
+dict-key="краткий">краткий</span>
+
+<b dict-key="kurteno">kurteno</b>: <span dict-key="занавес">занавес</span>
+
+<b dict-key="kurva">kurva</b>: <span dict-key="согнутый">согнутый</span>, <span
+dict-key="изогнутый">изогнутый</span>
+
+<b dict-key="kuseno">kuseno</b>: <span dict-key="подушка">подушка</span>
+
+<b dict-key="kushar su">kushar su</b>: <span dict-key="ложиться">ложиться</span>
+
+<b dict-key="kushar">kushar</b>: <span dict-key="(tr.) лежать">(tr.) лежать</span>
+
+<b dict-key="kustar">kustar</b>: <span dict-key="стоить">стоить</span>
+
+<b dict-key="kustumar">kustumar</b>: <span dict-key="делать кое-что обычно">делать кое-что
+обычно</span>, <span dict-key="находиться в привычке к">находиться в привычке к</span>
+
+<b dict-key="kuverto">kuverto</b>: <span dict-key="конверт">конверт</span>
+
+<b dict-key="kuvo">kuvo</b>: <span dict-key="бадья">бадья</span>
+
+<b dict-key="kuzo">kuzo</b>: <span dict-key="кузен">кузен</span>

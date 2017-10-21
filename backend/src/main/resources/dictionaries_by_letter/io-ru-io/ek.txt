@@ -1,0 +1,20 @@
+<b dict-key="ek">ek</b>: <span dict-key="из (направление изнутри наружу); материал из чего
+сделано">из (направление изнутри наружу); материал из чего сделано</span>
+
+<b dict-key="eklezio">eklezio</b>: <span dict-key="церковь (организация, не строение)">церковь
+(организация, не строение)</span>
+
+<b dict-key="ekmigrar">ekmigrar</b>: <span dict-key="эмигрировать">эмигрировать</span>
+
+<b dict-key="eko">eko</b>: <span dict-key="эхо">эхо</span>
+
+<b dict-key="ekologio">ekologio</b>: <span dict-key="экология">экология</span>
+
+<b dict-key="ekonomiko">ekonomiko</b>: <span dict-key="экономика">экономика</span>
+
+<b dict-key="ekonomio">ekonomio</b>: <span dict-key="экономия">экономия</span>
+
+<b dict-key="ekpulsar">ekpulsar</b>: <span dict-key="удалять">удалять</span>
+
+<b dict-key="eksekrecar">eksekrecar</b>: <span dict-key="выделять">выделять</span>, <span
+dict-key="извергать">извергать</span>

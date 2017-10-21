@@ -1,0 +1,11 @@
+<b dict-key="oil">oil: </b>ole-o, -izar.
+
+<b dict-key="oil">oil-cake: </b>turto.
+
+<b dict-key="oil">oil-cloth:</b> vaxo-telo.
+
+<b dict-key="oilskins">oilskins:</b> pluv-vest-aro.
+
+<b dict-key="oily">oily:</b> ole-oza, -atra.
+
+<b dict-key="ointment">ointment:</b> unguento.

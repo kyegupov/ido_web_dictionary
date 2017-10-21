@@ -1,0 +1,44 @@
+<b dict-key="rhapsodist">rhapsodist: </b>rapsodo.
+
+<b dict-key="rhapsody">rhapsody: </b>rapsodio.
+
+<b dict-key="rheostat">rheostat: </b>reostato.
+
+<b dict-key="rhetor">rhetor: </b>retoro.
+
+<b dict-key="rhetoric">rhetoric: </b>retorik-o; <b dict-key="rhetorical">-al: </b>-ala; <b
+dict-key="rhetorician">-ian: </b>-er(ul)o, -isto (<i>cf</i>. retor-o, -acho).
+
+<b dict-key="rheumatic">rheumatic: </b>(<i>relating to the disease</i>) reumat-ism-ala;
+(<i>person</i>) -ika, -iko.
+
+<b dict-key="rheumatism">rheumatism: </b>reumatismo.
+
+<b dict-key="rhinoceros">rhinoceros: </b>rinocero.
+
+<b dict-key="rhinoplasty">rhinoplasty: </b>rinoplastiko.
+
+<b dict-key="rhizome">rhizome: </b>(<i>rootstock, rootstalk</i>) rizomo.
+
+<b dict-key="rhizopod">rhizopod</b>(<b dict-key="a">a</b>)<b dict-key="">: </b>rizopodo.
+
+<b dict-key="rhodium">rhodium: </b>rodio.
+
+<b dict-key="rhododendron">rhododendron: </b>rododendro.
+
+<b dict-key="rhombus">rhombus: </b>rombo.
+
+<b dict-key="rhombic">rhombic: </b>romb-ala.
+
+<b dict-key="rhombohedron">rhombohedron: </b>romboedro.
+
+<b dict-key="rhomboid">rhomboid: </b>romboido.
+
+<b dict-key="rhubarb">rhubarb: </b>rubarbo.
+
+<b dict-key="rhumb">rhumb: </b>rumbo.
+
+<b dict-key="rhyme">rhyme: </b>rim-o; (<i>v</i>.) -ifar, -izar.
+
+<b dict-key="rhythm">rhythm: </b>ritm-o (<i>cf</i>. kadenco); <b dict-key="rhythmic">-ic: </b>-oza,
+-ala.

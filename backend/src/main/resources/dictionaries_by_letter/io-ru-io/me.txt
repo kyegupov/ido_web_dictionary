@@ -1,0 +1,98 @@
+<b dict-key="me">me</b>: <span dict-key="я">я</span>, <span dict-key="меня">меня</span>
+
+<b dict-key="meceno">meceno</b>: <span dict-key="меценат">меценат</span>
+
+<b dict-key="mecho">mecho</b>: <span dict-key="фитиль">фитиль</span>
+
+<b dict-key="medalio">medalio</b>: <span dict-key="медаль">медаль</span>
+
+<b dict-key="mediacar">mediacar</b>: <span dict-key="быть посредником">быть посредником</span>
+
+<b dict-key="mediato">mediato</b>: <span dict-key="промежуточное звено">промежуточное звено</span>
+
+<b dict-key="medicino">medicino</b>: <span dict-key="медицина">медицина</span>
+
+<b dict-key="mediko">mediko</b>: <span dict-key="врач">врач</span>
+
+<b dict-key="medio">medio</b>: <span dict-key="среда">среда</span>
+
+<b dict-key="meditar">meditar</b>: <span dict-key="размышлять">размышлять</span>, <span
+dict-key="обдумывать">обдумывать</span>
+
+<b dict-key="mediteraneo">mediteraneo</b>: <span dict-key="средиземноморье">средиземноморье</span>
+
+<b dict-key="mekaniko">mekaniko</b>: <span dict-key="механика">механика</span>
+
+<b dict-key="mekanismo">mekanismo</b>: <span dict-key="механизм">механизм</span>
+
+<b dict-key="melkar">melkar</b>: <span dict-key="доить">доить</span>
+
+<b dict-key="melodio">melodio</b>: <span dict-key="мелодия">мелодия</span>
+
+<b dict-key="melono">melono</b>: <span dict-key="дыня">дыня</span>
+
+<b dict-key="mem">mem</b>: <span dict-key="даже">даже</span>
+
+<b dict-key="membro">membro</b>: <span dict-key="член">член</span>
+
+<b dict-key="memorando">memorando</b>: <span dict-key="меморандум">меморандум</span>
+
+<b dict-key="memorar">memorar</b>: <span dict-key="помнить">помнить</span>, <span dict-key="иметь
+память о">иметь память о</span>
+
+<b dict-key="menajo">menajo</b>: <span dict-key="домашнее хозяйство">домашнее хозяйство</span>
+
+<b dict-key="mencionar">mencionar</b>: <span dict-key="упоминать">упоминать</span>
+
+<b dict-key="mentiar">mentiar</b>: <span dict-key="лгать">лгать</span>
+
+<b dict-key="mento">mento</b>: <span dict-key="мнение">мнение</span>
+
+<b dict-key="mentono">mentono</b>: <span dict-key="подбородок">подбородок</span>
+
+<b dict-key="menuo">menuo</b>: <span dict-key="меню">меню</span>
+
+<b dict-key="meritar">meritar</b>: <span dict-key="заслужить">заслужить</span>, <span
+dict-key="заслуживать">заслуживать</span>
+
+<b dict-key="merkar">merkar</b>: <span dict-key="запоминать">запоминать</span>, <span
+dict-key="отмечать">отмечать</span>
+
+<b dict-key="merkato">merkato</b>: <span dict-key="рынок">рынок</span>
+
+<b dict-key="merkurdio">merkurdio</b>: <span dict-key="среда">среда</span>
+
+<b dict-key="mesajo">mesajo</b>: <span dict-key="сообщение">сообщение</span>
+
+<b dict-key="meskina">meskina</b>: <span dict-key="узкий">узкий</span>, <span
+dict-key="тесный">тесный</span>
+
+<b dict-key="meso">meso</b>: <span dict-key="(религиозная) месса">(религиозная) месса</span>
+
+<b dict-key="mestiero">mestiero</b>: <span dict-key="торговля">торговля</span>, <span
+dict-key="занятие или бизнес">занятие или бизнес</span>
+
+<b dict-key="metafiziko">metafiziko</b>: <span dict-key="метафизика">метафизика</span>
+
+<b dict-key="metaforo">metaforo</b>: <span dict-key="метафора">метафора</span>
+
+<b dict-key="metalo">metalo</b>: <span dict-key="металл">металл</span>
+
+<b dict-key="metar">metar</b>: <span dict-key="надевать (одежду)">надевать (одежду)</span>
+
+<b dict-key="meteoro">meteoro</b>: <span dict-key="метеор">метеор</span>
+
+<b dict-key="meteorologio">meteorologio</b>: <span dict-key="метеорология">метеорология</span>
+
+<b dict-key="metodo">metodo</b>: <span dict-key="метод">метод</span>
+
+<b dict-key="metro">metro</b>: <span dict-key="метр">метр</span>
+
+<b dict-key="mexikia">mexikia</b>: <span dict-key="мексика">мексика</span>
+
+<b dict-key="mexikiano">mexikiano</b>: <span dict-key="мексиканец">мексиканец</span>
+
+<b dict-key="mezo">mezo</b>: <span dict-key="середина">середина</span>
+
+<b dict-key="mezurar">mezurar</b>: <span dict-key="измерять">измерять</span>, <span
+dict-key="мерить">мерить</span>

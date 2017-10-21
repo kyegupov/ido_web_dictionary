@@ -1,0 +1,17 @@
+<b dict-key="iodide">iodide:</b> iod-ido.
+
+<b dict-key="iodine">iodine:</b> iodo.
+
+<b dict-key="iodoform">iodoform:</b> iodoformo.
+
+<b dict-key="ion">ion:</b> iono.
+
+<b dict-key="Ionian">Ionian:</b> Iono-ala, -ana, -ano.
+
+<b dict-key="Ionic">Ionic:</b> Ioni-ala; (<i>arch</i>.) ionika.
+
+<b dict-key="ionium">ionium:</b> ionio.
+
+<b dict-key="ionosphere">ionosphere:</b> ionosfero*.
+
+<b dict-key="iota">iota:</b> &laquo;iota&raquo;.

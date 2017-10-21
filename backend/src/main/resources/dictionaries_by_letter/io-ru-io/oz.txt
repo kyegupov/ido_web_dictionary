@@ -1,0 +1,1 @@
+<b dict-key="ozono">ozono</b>: <span dict-key="озон">озон</span>

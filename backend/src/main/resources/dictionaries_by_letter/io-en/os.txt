@@ -1,0 +1,45 @@
+<b dict-key="osifrago">osifrag-o:</b> (<i>orni.</i>) ossifrage, osprey, sea-eagle. (Falco
+ossifragus). &mdash; EFI
+
+<b dict-key="oskular">oskul-ar:</b> (<i>tr., intr., geom.</i>) to osculate.
+
+<b dict-key="osmio">osmi-o:</b> (<i>chem.</i>) osmium. &mdash; DEFIRS
+
+<b dict-key="osmoso">osmos-o:</b> (<i>physics</i>) osmosis, osmose. &mdash; DEFS
+
+<b dict-key="osto">ost-o:</b> bone; <b dict-key="osteto">-eto:</b> small bone, ossicle; <b
+dict-key="ostala,ostoza">-ala, -oza:</b> osseous, bony; (<i>fig.</i>) large-boned; <b
+dict-key="ostaro">-aro:</b> bony frame-work (cf. <b dict-key="skeleto">skeleto</b>); <b
+dict-key="ostigar">-igar:</b> to ossify; <b dict-key="osteskar">-eskar:</b> to become ossified; <b
+dict-key="ostifado,ostesko">-if-ado, -esko:</b> ossification; <b
+dict-key="ostokarbono">-o-karbono:</b> bone-black; <b dict-key="ludar per osteti">ludar per
+osteti:</b> to play at knuckle-bones. &mdash; EFIS
+
+<b dict-key="ostegomo">ostegom-o:</b> (<i>med.</i>) Tumoro ek osto-tisuo.
+
+<b dict-key="ostensorio">ostensori-o:</b> (<i>R.C. relig.</i>) ostensorium, monstrance. &mdash; DEFI
+
+<b dict-key="ostentar">ostent-ar:</b> (<i>tr., intr.</i>) to do a thing out of ostentation, show
+off, make a show (<b dict-key="pri">pri</b>), parade (<b dict-key="ulo">ulo</b>); (<i>fig.</i>) to
+swagger; <b dict-key="ostentanta,ostentoza,ostentema">-anta, -oza, -ema:</b> ostentatious. V. exp.:
+vid. <b dict-key="fanfaronar">fanfaronar. &mdash; </b>EFIS
+
+<b dict-key="osteoblasto">osteoblast-o:</b> (<i>biol.</i>) osteoblast: a bone-forming cell.
+
+<b dict-key="osteologio">osteologi-o:</b> osteology. &mdash; DEFIRS
+
+<b dict-key="osteomo">osteom-o:</b> <i>(med.)</i> osteoma. &mdash; DE
+
+<b dict-key="osteopatio">osteopati-o:</b> (2001) osteopathy. &mdash; DEFIRS
+
+<b dict-key="osteoplastio">osteoplasti-o:</b> (2001) osteoplasty. &mdash; DEFIRS
+
+<b dict-key="ostito">ostit-o:</b> (<i>med.</i>) ostitis. &mdash; DEF
+
+<b dict-key="ostro">ostr-o:</b> oyster; <b dict-key="ostrostrato,ostreyo">-o-strato, -eyo:</b>
+oyster-bed; <b dict-key="ostrkultiv">-kultiv(ad)o:</b> oyster culture. &mdash; DEFIRS
+
+<b dict-key="ostracismo">ostracism-o:</b> ostracism: banishment (cf. <b
+dict-key="exilar">exil-ar</b>). &mdash; DEFIRS
+
+<b dict-key="ostrogoto">ostrogot-o:</b> Ostrogoth.

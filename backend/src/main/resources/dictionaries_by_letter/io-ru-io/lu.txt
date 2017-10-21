@@ -1,0 +1,29 @@
+<b dict-key="lu">lu</b>: <span dict-key="он или она">он или она</span>
+
+<b dict-key="lucida">lucida</b>: <span dict-key="ясный">ясный</span>, <span
+dict-key="нормальный">нормальный</span>
+
+<b dict-key="ludar">ludar</b>: <span dict-key="играть (игра и т.д.)">играть (игра и т.д.)</span>
+
+<b dict-key="lugar">lugar</b>: <span dict-key="давать напрокат">давать напрокат</span>
+
+<b dict-key="luktar">luktar</b>: <span dict-key="бороться">бороться</span>, <span
+dict-key="схватиться">схватиться</span>
+
+<b dict-key="lumar">lumar</b>: <span dict-key="сиять">сиять</span>, <span dict-key="испускать
+свет">испускать свет</span>
+
+<b dict-key="lundio">lundio</b>: <span dict-key="понедельник">понедельник</span>
+
+<b dict-key="luno">luno</b>: <span dict-key="луна">луна</span>
+
+<b dict-key="lupo">lupo</b>: <span dict-key="лупа">лупа</span>
+
+<b dict-key="lutro">lutro</b>: <span dict-key="выдра">выдра</span>
+
+<b dict-key="luxemburgia">luxemburgia</b>: <span dict-key="люксембург">люксембург</span>
+
+<b dict-key="luxo">luxo</b>: <span dict-key="роскошь">роскошь</span>
+
+<b dict-key="luxurio">luxurio</b>: <span dict-key="вожделение">вожделение</span>, <span
+dict-key="похоть">похоть</span>, <span dict-key="разврат">разврат</span>

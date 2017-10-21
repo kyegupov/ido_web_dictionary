@@ -1,0 +1,10 @@
+<b dict-key="e">e:</b> (<i>mus.</i>) mi: third note of the diatonic scale.
+
+<b dict-key="e">-e-:</b> (<i>suffix</i>) signifying of the same color or aspect as the root. Ex.:
+<b dict-key="roz">roz-ea:</b> rose-colored; <b dict-key="oranj">oranj-ea:</b> orange-colored.
+
+<b dict-key="e">-e:</b> ending of derived adverbs.
+
+<b dict-key="e">e(d):</b> (<i>conj.</i>) and. &mdash; FI
+
+<b dict-key="e,e">e(lektronikala)-posto*, -letro*:</b> e-mail.

@@ -1,0 +1,457 @@
+<b dict-key="enable">enable:</b> kapabl-igar, posibl-igar, permisar; (<i>jur</i>.) habilitar.
+
+<b dict-key="enact">enact:</b> (<i>a law</i>) dekretar, ediktar; votar; (<i>perform</i>) facar;
+(<i>a part</i>) reprezentar; <b dict-key="enactment">-ment:</b> dekreto, edikto, akto, fac-(ad)o.
+
+<b dict-key="enamel">enamel:</b> emali-o, -izar.
+
+<b dict-key="enamoured,to become">enamoured, to become:</b> (<i>with someone</i>) divenar amor-oza
+(ad ulu), amor-eskar (kun ulu); (<i>with something</i>) am-eskar (pri), divenar am-oza (ad ulo); <b
+dict-key="enamoured person">e. person:</b> amor-ato.
+
+<b dict-key="enarthrosis">enarthrosis:</b> enartroso.
+
+<b dict-key="encage">encage:</b> en-kaj-igar (ulu).
+
+<b dict-key="encamp">encamp:</b> (<i>intr</i>.) kampar; <b dict-key="encampment">-ment:</b>
+kamp-(ad)o, (<i>place</i>) -eyo, (<i>collect</i>) -ant-aro.
+
+<b dict-key="encase">encase:</b> en-kest-igar; en-bux-igar.
+
+<b dict-key="encaustic">encaustic:</b> (<i>paint</i>.) enkaustik-a, -o.
+
+<b dict-key="enciente">enciente:</b> gravida.
+
+<b dict-key="encephalitis">encephalitis:</b> encefalito.
+
+<b dict-key="encephalon">encephalon:</b> encefalo.
+
+<b dict-key="enchain">enchain:</b> (en-) katen-izar, -ligar.
+
+<b dict-key="enchant">enchant:</b> (<i>by magic and fig</i>.) sorcar; (<i>fascinate</i>)
+charm-(eg)ar, ravisar; <b dict-key="enchantress">-ress:</b> sorc-er-ino; charm-iv-ino, -er-ino.
+
+<b dict-key="enchasel">enchasel:</b> inkastrar; cizelar orne.
+
+<b dict-key="encircle">encircle:</b> circondar; cernar; en-cirkl-igar.
+
+<b dict-key="enclave">enclave:</b> inkluz-o, -ajo.
+
+<b dict-key="enclitic">enclitic:</b> enklitik-a, -o.
+
+<b dict-key="enclose">enclose:</b> inkluzar; (<i>land</i>) cirkum-klozar (ulo per);
+(<i>surround</i>) cirkondar, (<i>beset</i>) cernar; <b dict-key="herewith enclosed">herewith
+e.d:</b> hike inkluz-ita <i>od</i> konten-ata.
+
+<b dict-key="enclosure">enclosure:</b> (<i>act</i>) inkluz-(ad)o; cirkum-kloz-(ad)o; (<i>thing</i>)
+inkluz-ajo; (<i>space</i>) kloz-eyo.
+
+<b dict-key="encomium">encomium:</b> panegiro, laudo-diskurso.
+
+<b dict-key="encompass">encompass:</b> (<i>beset</i>) cernar; (<i>surround</i>) cirkondar;
+(<i>land, etc</i>.) cirkum-klozar; (<i>fig</i>.) envelopar; inkluzar, envolvar.
+
+<b dict-key="encore">encore:</b> bis! (<i>v</i>.) klamar bis.
+
+<b dict-key="encounter">encounter:</b> renkontrar; (<i>by accident</i>) (hazarde) trovar;
+(<i>enemy</i>) kontakt-eskar; atakar.
+
+<b dict-key="encounter">encounter:</b> (<i>n.</i>) renkontro; (<i>attack</i>) atako, kombato;
+(<i>collision</i>) koliziono.
+
+<b dict-key="encourage">encourage:</b> kuraj-igar (ulu); (<i>become</i>) -eskar (<i>cf</i>.
+stimular; animar); <b dict-key="encouragment">-ment:</b> kuraj-igo; <b
+dict-key="encouraging">-ing:</b> kuraj-ig-anta, -ig-iva.
+
+<b dict-key="encroach">encroach:</b> uzurp(et)ar (ulo, de ulu); (<i>cf.</i> intruzar; entamar;
+impozar); <b dict-key="encroachment">-ment:</b> uzurp(et)-(ad)o.
+
+<b dict-key="encrust">encrust:</b> krust-izar.
+
+<b dict-key="encumber">encumber:</b> inkombrar, embarasar, jenar, impedar; <b dict-key="estate
+encumbered">estate e.ed:</b> domeno charj-ata per hipoteko; <b dict-key="encumberance">-ance:</b>
+-ajo.
+
+<b dict-key="encyclical">encyclical:</b> enciklik-a, -o.
+
+<b dict-key="encyclopaedia">encyclopaedia:</b> enciklopedio.
+
+<b dict-key="encysted">encysted:</b> en-kist-ig-ita; <b dict-key="to become encysted">to become
+e.:</b> kist-eskar, esar kist-esk-inta.
+
+<b dict-key="end">end:</b> (<i>to come to an e</i>.) finar; (<i>put an e. to</i>) finigar (ulo);
+(<i>draw to an e</i>.) fin-eskar (<i>cf</i>. cesar; termin-izar; abutar; rezultar; komplet-igar).
+
+<b dict-key="end">end:</b> (<i>n.</i>) fino; extrem-ajo; termin-ajo; (<i>aim</i>) skopo;
+(<i>consequence</i>) rezult-ajo, konsequo; (<i>fragment</i>) fragmento; <b dict-key="to end in">to
+e. in:</b> abutar; <b dict-key="at an end">at an e.:</b> esar (par-)finita; preter-ir-ita; <b
+dict-key="the approaching end">the approaching e.:</b> ven-onta fino; <b dict-key="to no end">to no
+e.:</b> sen-rezult-aja; vane; <b dict-key="to the end that">to the e. that:</b> por ke (<i>with
+imperative</i>); <b dict-key="at the end">at the e.:</b> fine; ye la fino; konkluze; ye la
+extrem-ajo; <b dict-key="to attain his end">to attain his e.:</b> atingar sua skopo; <b
+dict-key="to come to a bad end">to come to a bad e.:</b> finar male; <b dict-key="to make an end
+of">to make an e. of:</b> konkluzar (per); fin-igar (ulo); <b dict-key="to put an end to">to put an
+e. to:</b> (<i>kill</i>) mort-igar; ocidar; <b dict-key="on end">on e.:</b> stac-ant-a, -e; <b
+dict-key="end to end">e. to e.:</b> extrem-ajo an extrem-ajo; kontakte; (pozar) bute; <b
+dict-key="to make both ends meet">to make both e.s meet:</b> aquilibr-igar sua budjet-o; <b
+dict-key="to draw to an end">to draw to an e.:</b> fin-eskar, expir-eskar; <b dict-key="to make one
+hair stand on end">to make one&rsquo;s hair stand on e.:</b> heris-igar la hari; <b
+dict-key="endless">e.less:</b> sen-fina; konstanta; eterna; perpetua; sen-cesa; kontinua; <b
+dict-key="endlessness">e.lessness:</b> perpetu-eso, sen-fin-eso; <b dict-key="endlong">e.long:</b>
+long-es-ale; (<i>on e</i>.) stac-anta; perpendikl-a, -e; <b dict-key="endmost">e.most:</b> maxim
+fora, extrema; <b dict-key="endwise">e.wise:</b> stac-anta, perpendikle; <b dict-key="week
+end">week e.:</b> inter-semana (vakanceto).
+
+<b dict-key="endanger">endanger:</b> (en)danjer-igar; pozar en danjero; riskar.
+
+<b dict-key="endear">endear:</b> kar-igar, afecion-igar; <b dict-key="endearment">-ment:</b>
+afecion-igo; (<i>caress</i>) karez-ajo, -o.
+
+<b dict-key="endeavor">endeavor: </b>(<i>strive</i>) esforcar; (<i>take pains</i>) penar;
+(<i>attempt</i>) probar; (<i>aim</i>) viz-ar; (<i>take steps</i>) demarshar; (<i>undertake</i>)
+entraprezar; (<i>n.</i>) (<i>gen</i>.) esforco.
+
+<b dict-key="endemic">endemic:</b> endemik-a, endemi-a, -ala; <b dict-key="endemic disease">e.
+disease:</b> endemio.
+
+<b dict-key="endermic">endermic:</b> endermika.
+
+<b dict-key="ending">ending:</b> fin-o, -ajo; konkluzo; (<i>gram., mus.</i>) fin-alo;
+(<i>gram.</i>) dezinenco.
+
+<b dict-key="endive">endive:</b> endivio.
+
+<b dict-key="endocardium">endocardium:</b> endokardio.
+
+<b dict-key="endocarp">endocarp:</b> endokarpo.
+
+<b dict-key="endocrine">endocrine:</b> (<i>med.</i>) endokrina*.
+
+<b dict-key="endocrinology">endocrinology:</b> endokrinologio.
+
+<b dict-key="endoderm">endoderm:</b> endodermo.
+
+<b dict-key="endogamy">endogamy:</b> (<i>social.</i>) endogamio.
+
+<b dict-key="endogenous">endogenous:</b> endogena.
+
+<b dict-key="endometrium">endometrium:</b> (<i>physio.</i>) (mucous layer of the uterus)
+endometrio*.
+
+<b dict-key="endoparasite">endoparasite:</b> endoparazito.
+
+<b dict-key="endoplasm">endoplasm:</b> endoplasmo.
+
+<b dict-key="endorphin">endorphin:</b> endorfino.
+
+<b dict-key="endorse">endorse:</b> see <b dict-key="indorse">indorse.</b>
+
+<b dict-key="endoscope">endoscope:</b> endoskopo.
+
+<b dict-key="endoscopy">endoscopy:</b> endoskopio.
+
+<b dict-key="endosmose">endosmose:</b> en-osmoso.
+
+<b dict-key="endosperm">endosperm:</b> endospermo.
+
+<b dict-key="endow">endow:</b> dotar (ulu, ulo) (<i>cf</i>. rent-izar; donacar; doari-izar); <b
+dict-key="happily endowed">happily e.ed:</b> fortun-oze dot-ita; <b dict-key="endowment">-ment:</b>
+dot-o, -uro.
+
+<b dict-key="endurable">endurable:</b> toler-ebla.
+
+<b dict-key="endurance">endurance:</b> (<i>lastingness</i>) dur-iv-eso; suport-povo;
+(<i>tolerance</i>) tolero; (<i>fig</i>.) vigoro, fort-eso; pacient-eso; <b dict-key="beyond
+endurance">beyond e.:</b> ne-toler-ebla.
+
+<b dict-key="endure">endure:</b> (<i>tolerate</i>) tolerar; (<i>bear, undergo</i>) subisar;
+(<i>suffer</i>) sufrar (paciente); (<i>last</i>) durar; (<i>permit</i>) permisar.
+
+<b dict-key="enema">enema:</b> klister-o; (<i>e. pipe, instr</i>.) -o-kanulo, injekt-ilo; -iz-ilo;
+<b dict-key="to give an enema to">to give an e. to:</b> klister-izar (ulu).
+
+<b dict-key="enemy">enemy:</b> enemik-(ul)o.
+
+<b dict-key="energetic">energetic:</b> energi-oza, -ala; efik-iva; fort-ega; ag-iva.
+
+<b dict-key="energetics">energetics:</b> energetiko.
+
+<b dict-key="energize">energize:</b> energi-izar.
+
+<b dict-key="energy">energy:</b> energio (<i>cf</i>. vigoro; fort-eso; forco).
+
+<b dict-key="enervate">enervate:</b> sen-fort-igar; sen-nerv-igar; febl-igar, -eskar; debil-igar,
+-eskar.
+
+<b dict-key="enfeeble">enfeeble:</b> febl-igar, -eskar; debil-igar, -eskar.
+
+<b dict-key="enfeoff">enfeoff:</b> feud-igar (ulo por ulu); (<i>fig</i>.) vasal-igar, -ligar; <b
+dict-key="enfeoffment">-ment:</b> feud-igo.
+
+<b dict-key="enfilade">enfilade:</b> enfilar; <b dict-key="enfilade fire">e. fire:</b>
+enfilo-paf(ad)o.
+
+<b dict-key="enfold">enfold:</b> en-volvar; (<i>clasp</i>) embracar.
+
+<b dict-key="enforce">enforce:</b> efik-igar; igar obediar; exekut-ar, -igar; <b
+dict-key="enforcable">-able:</b> exekut-ebla; obedi-ig-ebla; <b dict-key="enforcd">-d:</b>
+(<i>compulsory</i>) koakt-ata; oblig-ata; -enda; dev-anta; <b dict-key="enforcment">-ment:</b>
+(oblig-anta) exekut-(ad)o.
+
+<b dict-key="enfranchise">enfranchise:</b> civit-an-igar; nacion-an-igar; (<i>set free</i>)
+emancipar.
+
+<b dict-key="enfrock">enfrock:</b> (<i>a monk</i>) frok-izar.
+
+<b dict-key="engage">engage:</b> (<i>hire</i>) engajar; (<i>oneself</i>) okupar su; amuzar su;
+(<i>attack</i>) atakar; (<i>intr</i>.) bataliar; (<i>lease</i>) lokacar; (<i>promise</i>) promisar,
+garantiar; (<i>gain</i>) ganar, atraktar; (<i>employ</i>) okupar, employar; (<i>e. to perform</i>)
+entraprezar; (<i>tech., become geared</i>) ingranar; (<i>betroth</i>) fianc-ar, -at-eskar;
+(<i>begin</i>) komencar; <b dict-key="engagd">-d:</b> fianc-ita (kun); okup-ata, -ita; <b
+dict-key="engagment">-ment:</b> angajo; fianc-o, -eso; oblig-eso; kombato, batali(et)-o; rendevuo;
+promiso.
+
+<b dict-key="engaging">engaging: </b>atrakt-iva, -ema; sedukt-anta, -iva.
+
+<b dict-key="engender">engender:</b> produktar; genitar.
+
+<b dict-key="engine">engine:</b> mashino; (<i>motor</i>) motoro; (<i>R.R.</i>) lokomotivo; <b
+dict-key="steam engine">steam e.: </b>vapor-mashino; <b dict-key="traction engine">traction e.:</b>
+lokomobilo; <b dict-key="fire engine">fire e.:</b> incendio-pump-ilo; <b dict-key="war engine">war
+e.:</b> milit-mashino; <b dict-key="single engine">single-acting e.:</b> mashino di singla efekto;
+<b dict-key="ten horsepower engine">ten horsepower e.:</b> dek-kaval-povo-mashino; <b
+dict-key="high,low pressure engine">high, low pressure e.:</b> alt-, bas-presa mashino; <b
+dict-key="engine driver">e. driver:</b> (<i>R.R.</i>) lokomotiv-isto; (<i>gen</i>.) mashin-isto; <b
+dict-key="to operate an engine">to operate an e.:</b> mashin-agar; <b dict-key="to build
+engines">to build e.s:</b> mashin-ifar.
+
+<b dict-key="engineer">engineer:</b> (<i>R.R</i>.) lokomotiv-isto, (<i>gen</i>.) mashin-isto;
+(<i>professional</i>) injenioro; <b dict-key="engineer corps">e. corps:</b> (<i>milit</i>.) jeni-o,
+(<i>member of</i>) -ano; <b dict-key="civil engineer">civil e.:</b> injenioro civila; <b
+dict-key="engineering">-ing:</b> (<i>construction</i>) mashin-if-ado; (<i>science</i>) mekaniko;
+injenior-, jeni-arto; (<i>mechanism</i>) mekanismo.
+
+<b dict-key="engirdle">engirdle:</b> zon-izar; cirkondar.
+
+<b dict-key="engorged">engorged:</b> replet-ega.
+
+<b dict-key="engrave">engrave:</b> (<i>etch lines</i>) grabar; radirar; (<i>precious stones,
+medals</i>) gliptar; (<i>wood</i>) xilografar; (<i>fig</i>.) profunde impresar; <b
+dict-key="engraving">-ing:</b> (<i>act</i>) <i>add</i> -(ad)o; (<i>result</i>) <i>add</i> -uro.
+
+<b dict-key="engross">engross:</b> (<i>occupy</i>) absorbar; (<i>write</i>) kaligrafar; <b
+dict-key="engrossing">-ing:</b> -anta, interes-eg-anta, -iva; kaligraf-anta.
+
+<b dict-key="engulf">engulf:</b> glutar; dron-ar, -esar.
+
+<b dict-key="enhance">enhance:</b> augment-ar, -eskar (plu-grav-igar); (<i>prices</i>)
+plu-cher-igar.
+
+<b dict-key="English">English: </b>Angla.
+
+<b dict-key="enigma">enigma:</b> enigmato.
+
+<b dict-key="enjoin">enjoin:</b> imperar; (<i>forbid</i>) interdikt-ar.
+
+<b dict-key="enjoy">enjoy:</b> juar (ulo); (<i>be joyous</i>) joyar; (<i>possess</i>) posedar;
+(<i>like</i>) prizar; am-ar; <b dict-key="enjoy oneself">e. oneself:</b> amuzar su; havar plezuro;
+<b dict-key="enjoable">-able:</b> agreabla; <b dict-key="enjoment">-ment:</b> ju-(ad)o, plezuro,
+satisfaco.
+
+<b dict-key="enkindle">enkindle:</b> acendar; inflamar; (<i>fig</i>.) ardor-igar.
+
+<b dict-key="enlarge">enlarge:</b> plu-grand-igar, -esar; augmentar, extensar; ampl-igar; dilatar;
+hipertrofiar; <b dict-key="enlarge on">e. on:</b> (<i>a subject</i>) (plu-)longe traktar; ampl-igar.
+
+<b dict-key="enlighten">enlighten:</b> informar; klar-igar; explikar; instruktar; iluminar.
+
+<b dict-key="enlist">enlist:</b> rekrutar (su, ulu); (<i>fig</i>.) engajar su (en); adherar (ad);
+(<i>by compulsion</i>) konskriptar; (<i>by enticement</i>) rekrut-achar.
+
+<b dict-key="enliven">enliven:</b> gay-igar, -eskar; animar; stimular.
+
+<b dict-key="en masse">en masse:</b> amase.
+
+<b dict-key="enmesh">enmesh:</b> en-ret-igar; (<i>fig</i>.) esar intrik-ata, -ita en.
+
+<b dict-key="enmity">enmity:</b> enemik-eso, (<i>act of</i>) -ajo; (<i>cf</i>. odio, rankoro).
+
+<b dict-key="enmix">enmix:</b> en-mixar.
+
+<b dict-key="enneagon">enneagon:</b> eneagono.
+
+<b dict-key="ennoble">ennoble:</b> (<i>raise to noble rank</i>) nobel-igar; (<i>dignify</i>)
+nobl-igar.
+
+<b dict-key="ennui">ennui:</b> enoyo, ted-eso; splino.
+
+<b dict-key="enormous">enormous:</b> enorma, grand-ega, giganta, kolosa; monstr-a, -ala, -atra; <b
+dict-key="enormousmity">-mity:</b> enorm-eso; abomin-eso, -ajo.
+
+<b dict-key="enough">enough:</b> (<i>adv</i>.) sat(e); (<i>adj</i>.) sata, sat multa; sufic-anta;
+ampla; (<i>passable, tolerable</i>) pasabla; (<i>n</i>.) sato, sufic-ajo; (<i>interj</i>.) haltez!
+<b dict-key="more than enough">more than e.:</b> plu multo kam necesa; <b dict-key="that is
+enough">that is e.:</b> to suficas, (<i>impers</i>.) suficas; <b dict-key="it is good enough">it is
+good e.:</b> (<i>fair, passable</i>) ol es pasabla.
+
+<b dict-key="enrage">enrage:</b> furi-igar, igar ulu furi-oza; irac(eg)-igar; <b
+dict-key="enragd">-d:</b>furi-oza.
+
+<b dict-key="enrapture">enrapture:</b> ravisar; <b dict-key="to be enraptureed">to be e.ed:</b>
+extaz-(esk)ar (pri).
+
+<b dict-key="enrich">enrich:</b> rich-igar, (<i>become</i>) -eskar.
+
+<b dict-key="enroll">enroll:</b> en-registr-igar (<i>cf</i>. rekrutar, engajar).
+
+<b dict-key="en route">en route:</b> voy-irante.
+
+<b dict-key="ensconce">ensconce:</b> sidar (komfort-oze).
+
+<b dict-key="ensemble">ensemble:</b> (<i>n</i>.) ensembl-o; (<i>adv</i>.) ensemble, kune, en-tote.
+
+<b dict-key="enshrine">enshrine:</b> inkastrar; en-kest-igar.
+
+<b dict-key="enshroud">enshroud:</b> vel-izar, envelop-ar, -esar (da).
+
+<b dict-key="ensign">ensign:</b> standardo; (<i>milit., rank</i>) sub-lietnanto.
+
+<b dict-key="ensilage">ensilage:</b> en-sil-ajo.
+
+<b dict-key="enslave">enslave:</b> sklav-igar, -eskar.
+
+<b dict-key="ensnare">ensnare:</b> insidiar; (<i>fig</i>.) atrapar; dup-igar (<i>cf</i>. kaptar,
+trompar).
+
+<b dict-key="ensue">ensue:</b> (<i>logically</i>) konsequar (de); rezultar (de); (<i>follow
+after</i>) sequar.
+
+<b dict-key="ensuing">ensuing:</b> konsequ-anta, rezult-anta; sequ-anta; proxima.
+
+<b dict-key="entablature,entablement">entablature, entablement:</b> entablamento.
+
+<b dict-key="entail">entail:</b> (<i>necessitate</i>) neces-igar; (<i>an estate</i>) substitucar;
+<b dict-key="entailed estate">-ed estate:</b> (<i>in France</i>) majorato.
+
+<b dict-key="entangle">entangle:</b> intrikar (<i>cf</i>. intrigar, kunmixar).
+
+<b dict-key="entente">entente:</b> inter-konsento; <b dict-key="entente cordial">e. cordial:</b>
+konkordo kordi-ala; <b dict-key="triple entente">triple e.:</b> tri-opla inter-konsento.
+
+<b dict-key="enter">enter:</b> (<i>go in</i>) en-irar; (<i>come in</i>) en-venar; (<i>make to
+e</i>.) en-ir-igar; (<i>inscribe</i>) en-skribar; registr-agar; (<i>jur., an action</i>) iniciar,
+entraprezar; (<i>in book</i>) not-ar, -izar; (<i>book-keeping</i>) debetar, kreditar; (<i>an
+office, a profession</i>) en-irar; (<i>a contract</i>) kontratar; (<i>a claim</i>) revendikar;
+(<i>a church</i>) klerik-eskar; <b dict-key="enter into">e. into:</b> parto-prenar (ulo); <b
+dict-key="enter upon">e. upon:</b> komencar, entraprezar; iniciar, debutar.
+
+<b dict-key="enteric">enteric:</b> intestin-ala.
+
+<b dict-key="enteritis">enteritis:</b> enterito.
+
+<b dict-key="enterprise">enterprise:</b> entraprez-(ad)o, -ajo; (<i>fig</i>.) audaco, vigoro.
+
+<b dict-key="enterprising">enterprising:</b> entraprez-ema, energi-oza.
+
+<b dict-key="entertain">entertain:</b> (<i>accept</i>) aceptar; (<i>as guest</i>) gast-igar (ulu;
+gast-esar che-ulu); (<i>amuse</i>) amuzar; distraktar; (<i>regale</i>) regalar; <b
+dict-key="entertainer">-er:</b> (<i>professional</i>) amuz-isto; (<i>host</i>) hosto; <b
+dict-key="entertaining">-ing:</b> amuz-anta, -iva; <b dict-key="entertainment">-ment:</b> (<i>of
+guest</i>) gast-igo; (<i>amusement</i>) amuz-o, -ivo; distrakto (-horo); (<i>fete</i>) festo;
+(<i>feast</i>) regalo, festino.
+
+<b dict-key="enthral">enthral:</b> sklav-igar; (<i>fig</i>.) ravisar.
+
+<b dict-key="enthrone">enthrone:</b> en-tron-igar; (<i>fig</i>.) establisar.
+
+<b dict-key="enthuse">enthuse:</b> (<i>intr</i>.) entuziasm-ar, -eskar.
+
+<b dict-key="enthusiasm">enthusiasm:</b> entuziasmo.
+
+<b dict-key="enthusiastic">enthusiastic:</b> entuziasm-anta, -ema, -oza; zel-anta, -oza.
+
+<b dict-key="entice">entice:</b> lurar (<i>cf</i>. tentar; seduktar; atraktar; implikar).
+
+<b dict-key="entire">entire:</b> (<i>whole</i>) tota; (<i>intact</i>) integra; (<i>complete</i>)
+kompleta; <b dict-key="entirly">-ly:</b> tote, plene; <b dict-key="not entirely">not e.ly:</b> ne
+tote.
+
+<b dict-key="entitle">entitle:</b>&nbsp;(<i>give t. to</i>) titul-izar (<i>cf</i>. nom-izar);
+(<i>authorise</i>) yur-izar; (<i>be entitled, have the right</i>) darfar.
+
+<b dict-key="entity">entity:</b> ento.
+
+<b dict-key="entomb">entomb:</b> sepultar.
+
+<b dict-key="entomology">entomology:</b> entomologi-o; <b dict-key="entomologist">-gist:</b> -isto.
+
+<b dict-key="entomophilous">entomophilous:</b> entomofilo.
+
+<b dict-key="entr">entr&rsquo;acte: </b>inter-akto.
+
+<b dict-key="entrails">entrails: </b>intestin-i.
+
+<b dict-key="entrance">entrance:</b> (<i>go into a hypnotic state</i>) tranc-ar, -eskar;
+(<i>enrapture</i>) (<i>intr</i>.) extazar; ravisar; charm-egar.
+
+<b dict-key="entrance">entrance:</b> (<i>act</i>) en-ir-o, (<i>place</i>) -eyo; (<i>fig</i>.) boko;
+(<i>beginning</i>) komenco, inicio, debuto (<i>cf</i>. pordo, pas-eyo, portalo, apert-uro);
+(<i>permission, power of e</i>.) en-ir-yuro; aceso-yuro.
+
+<b dict-key="entrap">entrap:</b> kaptar; insidiar; (<i>take in</i>) atrapar.
+
+<b dict-key="entrechat">entrechat:</b> entrechato.
+
+<b dict-key="entreat">entreat:</b> suplikar, pregar.
+
+<b dict-key="entr">entr&eacute;e:</b> entreo.
+
+<b dict-key="entremets">entremets:</b> entremeso.
+
+<b dict-key="entrench">entrench:</b> tranche-igar, -izar; fortifik-ar.
+
+<b dict-key="entrepot">entrepot:</b> depoz-eyo, magazino; (<i>city, town</i>) staplo.
+
+<b dict-key="entresol">entresol: </b>entresolo.
+
+<b dict-key="entropy">entropy:</b> entropio.
+
+<b dict-key="entrust">entrust:</b> (<i>to the care of</i>) konfidar; (<i>tell in confidence</i>)
+konfidencar; (<i>trust someone</i>) fidar (ulu, su).
+
+<b dict-key="entry">entry:</b> (<i>act</i>) en-ir-o, (<i>place</i>) -eyo; (<i>access</i>)
+aceso(-yuro); (<i>small hallway</i>) vestibul-eto; (<i>nav</i>.) arivo-deklaro; (<i>write in</i>)
+en-skribar; registr-agar; not-ar, -izar; <b dict-key="entry into possession">e. into
+possession:</b> posed-eskar; <b dict-key="port of entry">port of e.:</b> dogan-ala portuo; <b
+dict-key="double entry">double e.:</b> debet-ala e kredit-ala kont-ado.
+
+<b dict-key="entwine">entwine:</b> inter-plektar; torde volvar.
+
+<b dict-key="enucleate">enucleate:</b> enuklear.
+
+<b dict-key="enumerate">enumerate:</b> enumerar.
+
+<b dict-key="enunciate">enunciate:</b> enuncar (<i>cf</i>. deklarar, asertar, proklamar);
+(<i>articulate</i>) artikular.
+
+<b dict-key="envelop">envelop:</b> envelopar; (<i>wrap in</i>) en-volvar; (<i>enclose</i>)
+inkluzar; (<i>n</i>.) (<i>wrapper</i>) envelop-ilo; (<i>of letters</i>) kuverto (<i>cf</i>.
+tegumento).
+
+<b dict-key="envenom">envenom:</b> venen-izar (<i>cf</i>. intoxikar).
+
+<b dict-key="enviable">enviable:</b> envidi-ebla, -inda.
+
+<b dict-key="envious">envious:</b> envidi-ema, -oza; <b dict-key="to be envious of">to be e.
+of:</b> envidiar; <b dict-key="enviousness">-ness:</b> envidi-em-eso.
+
+<b dict-key="environ">environ:</b> cirkondar; <b dict-key="environment">-ment:</b> cirkum-aji;
+medio; (<i>suburbs</i>) pre-urbi.
+
+<b dict-key="envoy">envoy:</b> (diplomac-ala) send-ito, deleg-ato; komis-ato.
+
+<b dict-key="envy">envy:</b> envidi-ar, -o.
+
+<b dict-key="enwrap">enwrap: </b><i>see</i><b dict-key="envelop"> envelop.</b>
+
+<b dict-key="enzyme">enzyme:</b> enzimo.

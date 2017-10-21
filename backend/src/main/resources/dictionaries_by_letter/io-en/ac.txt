@@ -1,0 +1,100 @@
+<b dict-key="acefala">acefal-a:</b> (<i>biol.</i>) acephalous: without a head.
+
+<b dict-key="acelerar">aceler-ar:</b> (<i>tr</i>.) to accelerate, hasten, quicken. Ex.: Acelerar la
+pazi. Ant.: <b dict-key="moderar">moderar</b>, (<b dict-key="plu">plu)lent-igar</b>. &mdash; EFIS
+
+<b dict-key="acendar">acend-ar:</b> (<i>tr</i>.) to light (a lamp), to kindle (a fire), to turn on
+(electric light); (<i>fig</i>.) to inflame (the passions); <b dict-key="acendilo">-ilo:</b>
+(<i>instr</i>.) lighter; <b dict-key="acendoligno">-o-ligno:</b> kindling. Ant.: <b
+dict-key="extingar">extingar</b>. &mdash; LIS
+
+<b dict-key="acensar">acens-ar:</b> (<i>tr., intr</i>) to go up, ascend, mount; <b
+dict-key="acensanta">-anta:</b> ascending, rising; <b dict-key="acenseyo">-eyo:</b> place to mount
+(as stair, ascent); <b dict-key="acensilo">-ilo:</b> lift, elevator, hoist; <b
+dict-key="acensofesto">-o-festo:</b> Ascension Day; <b dict-key="acenso rekta">-o rekta:</b>
+(<i>astron</i>.) right ascension. Def.: Irar ad-supere; II-136. Ex.: Acensar (sur) kavalo,
+eskalero, monto. Ant.: <b dict-key="decensar">decensar</b>. &mdash; DEFIS
+
+<b dict-key="acento">acent-o: </b>accent: stress of voice (not written accent, cf. <b
+dict-key="supersigno">super-signo</b>); -<b dict-key="izar">izar:</b> to accent, lay stress on; <b
+dict-key="acentizo">-izo</b>, <b dict-key="acentizuro">-iz-uro:</b> accentuation; <b
+dict-key="senacenta">sen-acenta</b>, <b dict-key="neacentizita">ne-acent-izita</b>: unaccented.
+&mdash; DEFIRS
+
+<b dict-key="aceptar">acept-ar:</b> (<i>tr</i>.) to accept (something willingly, as a proposal,
+condition apology, challenge), to receive (a guest); <b dict-key="acepto">-o:</b> acception,
+reception, greeting; <b dict-key="aceptebla">-ebla:</b> acceptable, receivable (of guests); <b
+dict-key="aceptanto">-anto:</b>acceptor (also of bills); <b dict-key="aceptinda">-inda:</b> worth
+accepting; <b dict-key="aceptodio">-o-dio:</b> reception-day, levee. <b dict-key="Vu esas plezure
+aceptata">Vu esas plezure aceptata:</b> you are welcome, Ant.: <b dict-key="refuzar">refuzar</b>.
+V. exp.: <b dict-key="recevar">recevar</b>. &mdash; DEFIRS
+
+<b dict-key="acero">acer-o:</b> (<i>bot.</i>) maple-tree (genus: Acer) &mdash; FILS
+
+<b dict-key="acerba">acerb-a:</b> (<i>also fig</i>.) acerb: sour, bitter and harsh in taste (as
+unripe fruit); <i>-</i><b dict-key="eso">eso:</b> acerbity, harshness; severity. Ex.: Frukto
+acerba. Parolado acerba. V. exp.: vid. <b dict-key="aspera">aspera</b>. &mdash; EFIS
+
+<b dict-key="acesar">aces-ar</b>: (<i>tr</i>.) to have access to (<b dict-key="ulu,ulo">ulu,
+ulo</b>); (<i>med</i>.) to have an access, an attack; <b dict-key="aceso">-o</b>: access, entry;
+(<i>med.</i>) attack; <b dict-key="acesebla">-ebla:</b> accessible, approachable. Ex.: Il acesas
+loko, persono (o havas aceso a loko, persono). Loko, persono acesebla. Aceso di febro,
+(<i>fig</i>.) aceso di iraco, furio, desespero. &mdash; EFIS
+
+<b dict-key="acesito">acesit-o:</b> accesit: honorable mention accorded to a student. &mdash; DeFIS
+
+<b dict-key="acesora">acesor-a:</b> accessory, subsidiary (cf. <b
+dict-key="helpanta">help-anta</b>, <b dict-key="konfirmanta">konfirm-anta</b>, <b
+dict-key="surogata">surogata</b>); <b dict-key="acesoro,acesorajo">-o,-ajo:</b> an accessory;
+(<i>milit</i>., <b dict-key="ledra">ledra-</b>) accoutrement. Def.: Qua akompanas precipuajo. Ant.:
+<b dict-key="esencala,precipua">esencala, precipua</b>. &mdash; DEFIRS
+
+<b dict-key="acetabulo">acetabul-o*:</b> Surfaco artikal dil iliaka osto. &mdash; DEFIRS
+
+<b dict-key="acetat acido">acetat-o (-acido):</b> (<i>chem.</i>) acetic acid;
+CH&lt;sup&gt;3&lt;/sup&gt; CO&lt;sup&gt;2&lt;/sup&gt;H. &mdash; DEFIS
+
+<b dict-key="acetileno">acetilen-o:</b> (<i>chem</i>.) acetylene; <b
+dict-key="acetilenlampo">-lampo:</b> a. lamp. &mdash; DEFIRS
+
+<b dict-key="acetometro">acetometr-o:</b> acetimeter. &mdash; DEFIRS
+
+<b dict-key="acetono">aceton-o:</b> (<i>chem.</i>) acetone:
+CH&lt;sup&gt;3&lt;/sup&gt;CO.CH&lt;sup&gt;3&lt;/sup&gt;.
+
+<b dict-key="ach">-ach-:</b> (<i>suffix</i>) signifying in a pejorative sense, low quality,
+disesteem, antipathy, repugnance. Ex.: <b dict-key="rid">rid-achar:</b> to guffaw; <b
+dict-key="hund"> hund-acho:</b> cur.
+
+<b dict-key="achento">achent-o:</b> dialect accent; stranjera, regionala o sociala aparta pronunco
+e frazo-melodio di ula linguo.
+
+<b dict-key="aciano">acian-o:</b> (<i>bot.</i>) bluebottle, cornflower (Centaurea Cyanus). &mdash;
+DISL
+
+<b dict-key="acida">acid-a:</b> acid; acetous; <b dict-key="acideta">-eta:</b> sour (cf. <b
+dict-key="acerba,akra">acerba, akra</b>); (<i>chem</i>.) acid; <b dict-key="acidajo">-ajo:</b> an
+a. substance; <b dict-key="acideso">-eso:</b> acidity; <b dict-key="acidigar">-igar:</b> to
+acidify; <b dict-key="acideskar">-eskar:</b> to become a., turn sour; <b
+dict-key="acidigo">-igo</b><b dict-key="">,</b> <b dict-key="acidesko">-esko:</b> acidification; <b
+dict-key="acid">-</b><b dict-key="oza,acidatra">oza, -atra:</b> acidulous: <b
+dict-key="acidizar">-izar:</b> to acidulate. &mdash; EFIRS
+
+<b dict-key="acidentar"> acident-ar:</b> (<i>tr.</i>) to cause an accident to; <b
+dict-key="acidento">-o:</b> accident (generally in an ill sense), mishap; (<i>philos.</i>)
+accident; <b dict-key="acidenta,acidentala">-a, -ala:</b> accidental; <b
+dict-key="acidentanto">-anto:</b> on who or that which causes an a. <b
+dict-key="acidentito">-ito:</b> victim of an a.; <b dict-key="acidentoza">-oza:</b> full of a.s; <b
+dict-key="acidente">-e:</b> accidentally, by chance. Def.: Efektigar acidento ad ulu (ulo); IV-105,
+VI-162. Ex.: Acidento bona o mala. La infirmaji e acidenti di la vivo homala. Kozo acidental.
+Deskovrar acidente ulo. &mdash; EFIRS
+
+<b dict-key="acidometro">acidometr-o:</b> acidimeter. &mdash; EFIRS
+
+<b dict-key="aciono">acion-o:</b> (<i>fin.</i>) share (of a bank, railway, joint-stock company,
+etc.); <b dict-key="acioni">-i:</b> stock; <b dict-key="acioniero">-iero:</b> share-, stock-holder;
+&mdash; DFIRS
+
+<b dict-key="acipitro">acipitr-o:</b> (<i>orni.</i>) goshawk (Astur palumbarius). &mdash; LF
+
+<b dict-key="acizo">aciz-o:</b> town or city tax on commodities, excise, octroi. &mdash; DeFIRS

@@ -1,0 +1,127 @@
+<b dict-key="descant">descant: </b>diskursar (pri).
+
+<b dict-key="descend">descend: </b>(<i>intr</i>.) decensar; falar; (<i>of race</i>) decendar (de),
+venar de; havar origino; (<i>lower oneself</i>) abasar su.
+
+<b dict-key="descendant">descendant: </b>decend-anta, anto, (<i>pl</i>.) -ant-aro.
+
+<b dict-key="descent">descent: </b>(<i>going to a lower level</i>) decens-o; (<i>place</i>) -eyo;
+(<i>lineage</i>) decendo; (<i>invasion</i>) invado; (<i>slope downwards</i>) pento.
+
+<b dict-key="describe">describe: </b>(<i>by words</i>) deskriptar; (<i>mark out</i>) trasar,
+skisar; (<i>narrate</i>) naracar.
+
+<b dict-key="description">description: </b>deskript-(ad)o, (<i>result</i>) -uro; (<i>kind</i>)
+klaso, sorto; qualeso; (<i>explanation</i>) expliko.
+
+<b dict-key="descriptive">descriptive: </b>(<i>also geom</i>.) deskript-iva.
+
+<b dict-key="descry">descry: </b>vid-eskar, des-kovrar.
+
+<b dict-key="desecrate">desecrate: </b>profanacar.
+
+<b dict-key="desert">desert: </b>(<i>milit., and fig.</i>) (<i>tr., intr.</i>) desertar,
+trans-fugar a l&rsquo;enemiko; (<i>abandon</i>) abandonar; (<i>quit</i>) livar; (<i>run away</i>)
+for-kurar; <b dict-key="deserter">-er: </b>desert-anto, -into, -ero; (<i>fugitive</i>)
+trans-fug-anto, -into.
+
+<b dict-key="desert">desert: </b>(<i>wilderness</i>) dezerto; (<i>merit</i>) merit-o.
+
+<b dict-key="deserted">deserted: </b>solitara, abandon-ita (<i>cf</i>. tebaid-atra).
+
+<b dict-key="deserts">deserts: </b>merit-aji, rekompenso; kompenso.
+
+<b dict-key="deserve">deserve: </b>meritar.
+
+<b dict-key="deserving">deserving: </b>merit-anta, -oza; digna.
+
+<b dict-key="deshabille">deshabille: </b>neglijeo.
+
+<b dict-key="desiccate">desiccate: </b>sik-agar, (<i>become</i>) -eskar.
+
+<b dict-key="desiccator">desiccator: </b>sik-ig-ilo, desikatoro.
+
+<b dict-key="desideratum">desideratum: </b>dezir-, postul-(aj)o.
+
+<b dict-key="design">design: </b>(<i>draw</i>) desegnar; (<i>destine</i>) destinar; (<i>intend</i>)
+projetar, intencar; (<i>rough-out</i>) esbosar; <b dict-key="designedly">-edly: </b>intence, kun
+reflekt-ita rezolvo; <b dict-key="designer">-er: </b>desegn-anto, -ero, -isto; invent-anto, -ero;
+<b dict-key="designing">-ing: </b>intrig-anta, -ema; mashinac-anta, -ema.
+
+<b dict-key="design">design: </b>(<i>intention</i>) intenco; (<i>drawing</i>) desegno, -uro; mapo;
+(<i>model</i>) modelo, imit-ajo; (<i>emblem</i>) devizo; (<i>sketch</i>) skis-o, -uro; <b
+dict-key="by design">by d.: </b>intence.
+
+<b dict-key="designate">designate: </b>indikar (per nomo, signo); (<i>give name to</i>) nom-izar,
+titul-izar; (<i>nominate</i>) nominar; selektar.
+
+<b dict-key="desinence">desinence: </b>(<i>termination, ending</i>) desinenco.
+
+<b dict-key="desire">desire: </b>(<i>crave</i>) dezirar; (<i>express a wish</i>) demandar; pregar.
+
+<b dict-key="desirable">desirable: </b>dezir-inda, agreabla, avantaj-oza, (<i>object</i>) dezir-ajo.
+
+<b dict-key="desirous">desirous: </b>dezir-oza; (<i>envious</i>) envidi-oza, -ema.
+
+<b dict-key="desist">desist: </b>(<i>tr., intr.</i>) ces-ar, (<i>make d</i>.) -igar.
+
+<b dict-key="desk">desk: </b>(<i>writing</i>) skrib-tablo, pupitro; (<i>pulpit or
+professor&rsquo;s</i>) katedro; (<i>music d</i>.) muzik- (<i>od,</i> kanto) pupitro.
+
+<b dict-key="desolate">desolate: </b>(<i>devasted</i>) devastar; (<i>afflict</i>) dezolar;
+(<i>depopulate</i>) des-popul-izar; (<i>adj</i>.) dezol-ata; ne-habit-ata; devast-ita; solitara;
+chagren-anta; ruin-ita.
+
+<b dict-key="despair">despair: </b>(<i>tr., intr</i>.) des-esperar; <b dict-key="to drive to
+despair">to drive to d.: </b>des-esperigar (ulu); <b dict-key="despairing">-ing:
+</b>des-esper-anta, -ema, -oza.
+
+<b dict-key="despatch">despatch: </b><i>see</i> <b dict-key="dispatch">dispatch.</b>
+
+<b dict-key="desperado"> desperado: </b>rapt-isto, bandito, danjer-oz-(ul)o.
+
+<b dict-key="desperate">desperate: </b>(<i>one who despairs</i>) des-esper-anta, -anto; (<i>of whom
+one despairs</i>) des-esper-ala, -ig-iva; (<i>dangerous</i>) danjer-oza, risk-oza; (<i>frantic</i>)
+furi-oza, frenezi-oza.
+
+<b dict-key="despicable">despicable: </b>des-estim-inda, des-priz-inda; -ega.
+
+<b dict-key="despise">despise: </b>des-estimar, des-priz(eg)ar; <b dict-key="to despise danger">to
+d. danger: </b>ne timar (<i>od</i>, egardar) la danjero.
+
+<b dict-key="despite">despite: </b>(<i>in spite of</i>) malgre.
+
+<b dict-key="despoil">despoil: </b>spoliar.
+
+<b dict-key="despond">despond: </b>des-esper-ar, (<i>make</i>) -igar; <b
+dict-key="despondent">-ent: </b>des-esper-anta, -ema; dezol-anta.
+
+<b dict-key="despot">despot: </b>despot-o; <b dict-key="despotism">-ism: </b>-eso, -ismo.
+
+<b dict-key="dessert">dessert: </b>deser-o; <b dict-key="dessert dish,knife,etc">d. dish, knife,
+etc.:</b> deser-disho, -kultelo, e.c.
+
+<b dict-key="destination">destination: </b>(<i>end of journey</i>) voyaj-fino; adreso;
+(<i>goal</i>) skopo.
+
+<b dict-key="destine">destine: </b>destinar.
+
+<b dict-key="destiny">destiny: </b>destino; (<i>fate</i>) fato.
+
+<b dict-key="destitute">destitute: </b>indij-anta; privac-ita; des-proviz-ita; (<i>fig</i>.)
+mizer-oza, povra; <b dict-key="to be destitute of">to be d. of: </b>indijar (ulo); (<i>d.
+person</i>) indij-anto, -ero. (<i>cf</i>. mankar).
+
+<b dict-key="destitution">destitution: </b>indij-o, -eso; mizero, povr-eg-eso; <b dict-key="to be
+in destitution">to be in d.: </b>(<i>intr</i>.) mizerar; (<i>tr</i>.) indijar.
+
+<b dict-key="destroy">destroy: </b>destruktar; <b dict-key="destroer">-er: </b>(<i>naval</i>)
+kontre-torped-navo.
+
+<b dict-key="destruction">destruction: </b>destrukt-(ad)o, -uro, -eso.
+
+<b dict-key="desuetude">desuetude: </b>obsolet-eso; ne-uz-eso.
+
+<b dict-key="desultory">desultory: </b>sen-metoda, ne-regul-oza, kapric-oza, -ema.
+
+<b dict-key="designedly">designedly: </b>pre-pens-ite, pre-medit-ite.

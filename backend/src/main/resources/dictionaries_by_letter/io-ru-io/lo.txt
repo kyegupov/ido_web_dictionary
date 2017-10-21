@@ -1,0 +1,43 @@
+<b dict-key="lo">lo</b>: <span dict-key="это (то, о чём говорилось только что)">это (то, о чём
+говорилось только что)</span>
+
+<b dict-key="logiko">logiko</b>: <span dict-key="логика">логика</span>
+
+<b dict-key="lojar">lojar</b>: <span dict-key="селить">селить</span>, <span
+dict-key="жить">жить</span>, <span dict-key="жить на ограниченный срок">жить на ограниченный
+срок</span>
+
+<b dict-key="lojio">lojio</b>: <span dict-key="коробка">коробка</span>, <span
+dict-key="домик">домик</span>
+
+<b dict-key="lokacar">lokacar</b>: <span dict-key="нанимать">нанимать</span>, <span
+dict-key="сдавать в аренду">сдавать в аренду</span>
+
+<b dict-key="loko">loko</b>: <span dict-key="место">место</span>, <span
+dict-key="местоположение">местоположение</span>
+
+<b dict-key="lokomoco">lokomoco</b>: <span dict-key="передвижение">передвижение</span>
+
+<b dict-key="lokomotivo">lokomotivo</b>: <span dict-key="локомотив">локомотив</span>
+
+<b dict-key="lombardo">lombardo</b>: <span dict-key="ломбард">ломбард</span>
+
+<b dict-key="lombriko">lombriko</b>: <span dict-key="земляной червь">земляной червь</span>
+
+<b dict-key="loncho">loncho</b>: <span dict-key="ломтик (хлеба)">ломтик (хлеба)</span>, <span
+dict-key="отбивная (мяса)">отбивная (мяса)</span>
+
+<b dict-key="longa">longa</b>: <span dict-key="долго">долго</span>
+
+<b dict-key="longtitudo">longtitudo</b>: <span dict-key="долгота (геогр.)">долгота (геогр.)</span>
+
+<b dict-key="lor">lor</b>: <span dict-key="во время">во время</span>
+
+<b dict-key="lore">lore</b>: <span dict-key="тогда">тогда</span>
+
+<b dict-key="loto">loto</b>: <span dict-key="часть">часть</span>, <span dict-key="доля">доля</span>
+
+<b dict-key="lotriar">lotriar</b>: <span dict-key="тянуть жребий">тянуть жребий</span>, <span
+dict-key="проводить лотерею">проводить лотерею</span>
+
+<b dict-key="loyala">loyala</b>: <span dict-key="лояльный">лояльный</span>

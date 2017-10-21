@@ -1,0 +1,27 @@
+<b dict-key="lycanthropy">lycanthropy:</b> likantrop-eso.
+
+<b dict-key="lycee">lycee:</b> liceo (<i>cf</i>. gimnazio).
+
+<b dict-key="lychee">lychee:</b> (<i>litchi, fruit</i>) lichio.
+
+<b dict-key="lycopodium">lycopodium:</b> lokipodio.
+
+<b dict-key="lye">lye:</b> lesiv-aquo (<i>cf</i>. lesivar).
+
+<b dict-key="lying">lying:</b> (<i>deceitful person</i>) menti-anta, -anto; -era, -ero; -ema, -emo;
+(<i>of things</i>) tromp-anta, iluzion-ig-anta (<i>cf</i>. sternar; jacar).
+
+<b dict-key="lying hospital">lying-in hospital:</b> akush-erio, -hospitalo.
+
+<b dict-key="lymph">lymph:</b> limf-o; <b dict-key="lymphatic">-atic:</b> (<i>duct, etc</i>.) -ala;
+(temperament) -oza.
+
+<b dict-key="lynch">lynch:</b> linchar.
+
+<b dict-key="lynx">lynx:</b> linc-o; <b dict-key="lynx">l.-eye:</b> (<i>also fig</i>.) -okulo.
+
+<b dict-key="Lyra">Lyra:</b> (<i>astron</i>.) liro (la).
+
+<b dict-key="lyre">lyre:</b> liro.
+
+<b dict-key="lyric">lyric:</b> lirik-a; (<i>poet</i>) -isto; (<i>poem</i>) -ajo.

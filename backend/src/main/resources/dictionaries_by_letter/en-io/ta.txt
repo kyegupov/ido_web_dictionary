@@ -1,0 +1,388 @@
+<b dict-key="tab">tab:</b> (<i>tape</i>) rubando (<i>cf</i>. tago); (<i>label</i>) etiketo; <b
+dict-key="to keep tab">to keep t.:</b> kontar.
+
+<b dict-key="tabby">tabby:</b> kato (domestika).
+
+<b dict-key="tabernacle">tabernacle:</b> tabernaklo.
+
+<b dict-key="table">table:</b> (<i>furniture</i>) tablo; (<i>list; flat surface</i>) tabelo;
+(<i>slab, shelf</i>) tabulo;<b dict-key="tablecloth"> t.cloth:</b> tablo-tuko.
+
+<b dict-key="tableau">tableau:</b> viv-anta imaj-o, -ero.
+
+<b dict-key="table">table-d&rsquo;h&ocirc;te:</b> komuna gasto-tablo; komuna manjo.
+
+<b dict-key="tableland">tableland:</b> alta plan-ajo <i>o</i> plat-ajo. 
+
+<b dict-key="table">table-spoon:</b> supo-kuliero.
+
+<b dict-key="tablet">tablet:</b> (<i>for writing</i>) skrib-tabel-eto; (<i>of chocolate, etc</i>.)
+tabul-eto (<i>see</i> <b dict-key="table">table</b>).
+
+<b dict-key="tabloid">tabloid:</b> (<i>adj</i>.) tabul-et-atra; kompres-ita.
+
+<b dict-key="taboo">taboo:</b> tabuo.
+
+<b dict-key="tabouret">tabouret:</b> tabureto.
+
+<b dict-key="tabular">tabular:</b> (<i>list form</i>) tabela.
+
+<b dict-key="tabulate">tabulate:</b> tabel-igar; katalog-izar; list-igar.
+
+<b dict-key="tachygenesis">tachygenesis:</b> takigenezo.
+
+<b dict-key="tachygraph">tachygraph:</b> takigrafar.
+
+<b dict-key="tachymeter">tachymeter:</b> takimetro.
+
+<b dict-key="tachymetry">tachymetry:</b> takimetrio.
+
+<b dict-key="tacit">tacit:</b> tac-ata, -ita.
+
+<b dict-key="taciturn">taciturn:</b> tac-era, -ema; <b dict-key="taciturnity">-ity: </b>tac-er-eso,
+-em-eso; ne-parol-em-eso.
+
+<b dict-key="tack">tack:</b> (<i>veer around</i>) (<i>intr</i>.) jirar; borde-ar; (<i>baste</i>)
+imbastar; (<i>fasten slightly</i>) kloz-klov-et-agar ne-sekure <i>o</i> jejere; <b dict-key="tack
+down a carpet">t. down a carpet: </b>klov-et-agar tapiso (sur planko-sulo); <b dict-key="tack
+about">t. about: </b>(<i>ship</i>) borde-ar; -igar la navo.
+
+<b dict-key="tack">tack:</b> (<i>of a ship</i>) bordeo; (<i>small nail</i>) klov-eto;
+(<i>direction</i>) direciono; sinso.
+
+<b dict-key="tackle">tackle:</b> (<i>attack</i>) atak-(esk)ar (kun); (<i>catch hold of</i>) sizar,
+manu-kaptar; (<i>struggle</i>) luktar (kun).
+
+<b dict-key="tackle">tackle:</b> (<i>hoisting gear</i>) puli-aro; (<i>for fishing</i>) pesk-il-aro;
+(<i>cordage</i>) kord-(eg)-aro (nav-ala).
+
+<b dict-key="tact">tact:</b> takt-o; <b dict-key="tactful">-ful: </b>-oza; <b
+dict-key="tactless">-less: </b>sen-takta; ne-habila.
+
+<b dict-key="tactical">tactical:</b> taktik-ala.
+
+<b dict-key="tactician">tactician:</b> taktik-isto.
+
+<b dict-key="tactics">tactics:</b> taktiko.
+
+<b dict-key="tadpole">tadpole:</b> ran-larvo.
+
+<b dict-key="taffeta">taffeta:</b> tafto.
+
+<b dict-key="tag">tag:</b> (<i>as of lace</i>) tago; (<i>label</i>) etiketo; (<i>rag</i>) shifono.
+
+<b dict-key="tail">tail:</b> (<i>of animal and fig</i>.) kaudo (<i>cf</i>. mancho; extrem-ajo,
+fin-ajo, -o; basko); <b dict-key="I can make neither head nor tail of it">I can make neither head
+nor t. of it: </b>me tote ne povas komprenar ulo; me povas intelektar nulo pri (<i>od</i>, en) ol;
+<b dict-key="turn tail">turn t.: </b>fug-eskar; <b dict-key="a long cat">a long-t.ed cat: </b>kato
+kun longa kaudo; <b dict-key="at the tail end">at the t. end: </b>ye la fino <i>od</i> extrem-ajo;
+<b dict-key="tailless">t.less: </b>sen-kauda.
+
+<b dict-key="tailor">tailor:</b> (<i>give form to</i>) taliar; (<i>person</i>) talior-o; <b
+dict-key="tailoress">-ess: </b>-ino.
+
+<b dict-key="taint">taint:</b> koruptar (karno, e.c.); (<i>infect, also fig</i>.) infektar; <b
+dict-key="tainted">t.ed: </b>(<i>rotten</i>) putr-inta; (<i>impure</i>) ne-pura.
+
+<b dict-key="take">take:</b> (<i>lay hold of</i>) prenar; (<i>a person to</i>) duktar, guidar;
+(<i>a thing to</i>) portar; (<i>consider</i>) konsiderar; (<i>understand</i>) intelektar,
+konceptar; (<i>arrest</i>) arestar; (<i>suppose</i>) supozar; (<i>capture</i>) kaptar (<i>cf</i>.
+konquestar; sizar; furtar; raptar); (<i>opportunity</i>) kaptar, prenar (l&rsquo;okaziono); (<i>a
+walk, stroll</i>) facar (promeno); (<i>hire</i>) lokacar; (<i>photograph</i>) fotografar;
+(<i>eat</i>) manjar; (<i>drink</i>) drinkar; (<i>swallow</i>) glutar; (<i>require</i>) neces-igar,
+postular; <b dict-key="take aback">t. aback: </b>surprizar; konsternar; <b dict-key="take one
+life">t. one&rsquo;s life: </b>ocidar su; <b dict-key="take advantage of">t. advantage of:</b>
+profitar per; <b dict-key="take one eyes off">t. one&rsquo;s eyes off:</b> de-turnar l&rsquo;okuli
+de; <b dict-key="take aim at">t. aim at: </b>vizar; <b dict-key="take about">t. about: </b>duktar
+omna-loke; <b dict-key="take again">t. again: </b>ri-, retro-prenar; <b dict-key="take away">t.
+away: </b>for-duktar (ulu); for-portar (ulo); <b dict-key="take by the teeth">t. by the teeth:</b>
+prenar (ulo) per la denti; <b dict-key="take by the arm">t. by the arm: </b>prenar ulu ye la
+brakio; <b dict-key="take the bull by the horns">t. the bull by the horns: </b>afrontar <i>od</i>
+asaltar quik l&rsquo;obstaklo; <b dict-key="take care">t. care: </b>(<i>take heed</i>) atencar;
+(<i>by physical acts</i>) sorgar (<i>cf</i>. flegar); <b dict-key="take cold">t. cold:
+</b>pren-esar da katar(et)o; <b dict-key="take down">t. down: </b>(<i>carry</i>) portar ulo
+ad-infre; (<i>unhang</i>) des-pendar; (<i>lower</i>) abasar; (<i>humble</i>) humil-agar, abasar;
+(<i>pull down, demolish</i>) demolisar; (<i>in shorthand</i>) stenografar (ulo); (<i>make
+memo</i>.) notar; <b dict-key="take effect">t. effect: </b>efikar (<i>cf</i>. produktar); <b
+dict-key="take fire">t. fire:</b> brul-eskar; <b dict-key="take for">t. for: </b>konsiderar ulu,
+ulo kom; supozar esar; supozar ke; <b dict-key="take for a walk">t. for a walk: </b>duktar ulu en
+promeno; promenar kun ulu; <b dict-key="take heart">t. heart: </b>kuraj-eskar; <b dict-key="take
+heed">t. heed: </b>atencar (pri); <b dict-key="take in">t. in: </b>(<i>deceive</i>) dup-igar,
+trompar; (<i>receive</i>) recevar; (<i>lead in</i>) duktar (ulu) en; (<i>as a guest</i>) gast-igar
+(ulu), loj-igar; (<i>comprise</i>) kontenar, inkluzar; (<i>shorten</i>) kurt-igar; <b
+dict-key="take in hand">t. in hand: </b>(<i>undertake</i>) asumar; entraprezar; <b dict-key="take
+in vain">t. in vain:</b> profanacar; <b dict-key="take leave">t. leave: </b>permisar a su (a me);
+(<i>bid adieu</i>) adiar (ulu); <b dict-key="take notice">t. notice: </b>(<i>notice</i>) remarkar;
+<b dict-key="take off">t. off: </b>de-, for-prenar; (<i>diminish</i>) diminutar; (<i>shorten</i>)
+kurt-igar; (<i>make fun of</i>) mok-imitar; <b dict-key="take on">t. on: </b>(<i>accept</i>)
+aceptar, asumar; <b dict-key="take one leave">t. one&rsquo;s leave: </b>dicar adio, adiar; for-,
+ek-irar; <b dict-key="take pains">t. pains: </b>penar (facar); <b dict-key="take part in">t. part
+in: </b>parto-prenar; <b dict-key="take place">t. place: </b>(<i>happen</i>) eventar; <b
+dict-key="take refuge">t. refuge: </b>refujar; <b dict-key="take sides">t. sides: </b>defensar la
+interesti di ulu, apogar ulu (<i>od</i> ula partiso); <b dict-key="take the place of">t. the place
+of: </b>remplasar (ulu, ulo) (<i>cf</i>. suplear; suplantar); <b dict-key="take to">t. to:
+</b>(<i>like</i>) prizar, amar; (<i>habit</i>) aquirar kustumo, kustum-eskar; donar su ad; <b
+dict-key="take to heart">t. to heart: </b>chagrenar (pri); des-quiet-esar; trubl-esar; fervorar pri
+ulo; <b dict-key="take to pieces">t. to pieces: </b>des-asemblar; des-muntar; <b dict-key="take to
+task">t. to task: </b>reprimandar; <b dict-key="take the trouble">t. the trouble: </b>penar
+(facar); <b dict-key="take up">t. up: </b>(<i>occupy</i>) okupar (ulo, su); (<i>arrest</i>)
+arestar; (<i>undertake</i>) asumar (la tasko); entraprezar (afero); <b dict-key="take his courage
+in both hands">t. his courage in both hands:</b> kolektar sua tota kurajo; <b dict-key="take the
+bit in his teeth">t. the bit in his teeth:</b> (<i>fig</i>.) furi-eskar; <b dict-key="take to his
+legs">t. to his legs: </b>fug-eskar (rapid-ege); <b dict-key="take in surprise">t. in surprise:
+</b>suprizar (ulu, ne proviz-ita <i>o</i> ne prepar-ita); <b dict-key="take liberties">t.
+liberties: </b>agar tro libere (ad ulu); <b dict-key="take a high hand">t. a high hand: </b>agar
+superbe; <b dict-key="take someone to be serious">t. someone to be serious: </b>konsiderar ulu kom
+serioza; <b dict-key="take someone as witness">t. someone as witness: </b>prenar ulu kom testo; <b
+dict-key="take one thing for another">t. one thing for another: </b>konfundar ulo ad altro; <b
+dict-key="take on fat">t. on fat: </b>divenar gras-oza; <b dict-key="take a taste for">t. a taste
+for: </b>aquirar inklin-eso ad ulo; <b dict-key="take form">t. form: </b>recevar formo <i>o</i>
+fasono; <b dict-key="take a road">t. a road: </b>en-irar <i>o</i> sequar voyo; <b dict-key="take a
+boat,a train">t. a boat, a train: </b>prenar <i>od</i> uz-eskar batelo, treno; <b dict-key="take
+flight">t. flight: </b>flug-eskar; <b dict-key="take to a trot">t. to a trot: </b>trot-eskar; <b
+dict-key="take the advance">t. the advance: </b>pre-irar; <b dict-key="take one time">t.
+one&rsquo;s time: </b>selektar l&rsquo;instanto, ne hastar; <b dict-key="take precautions">t.
+precautions: </b>pre-sorgar (pri, por); <b dict-key="take measures">t. measures: </b>facar aranji
+<i>o</i> prepari (pri); de-marshar; <b dict-key="take care not to fall">t. care not to fall:
+</b>sorgez ne falar; <b dict-key="take pity on">t. pity on: </b>kompat-(es)kar; <b dict-key="take a
+resolution">t. a resolution: </b>facar decido <i>o</i> rezolvo; <b dict-key="take one revenge">t.
+one&rsquo;s revenge: </b>revanchar (kontre ulu); <b dict-key="take pleasure in">t. pleasure in:
+</b>recevar plezuro de; <b dict-key="take to crying">t. to crying: </b>plor-eskar; <b dict-key="to
+be takeen with">to be t.en with: </b>(<i>charmed</i>) esar charm-ita <i>o</i> facin-ita da; <b
+dict-key="to be takeen up with">to be t.en up with: </b>(<i>busy with</i>) okup-ata da.
+
+<b dict-key="talc">talc:</b> talko.
+
+<b dict-key="tale">tale:</b> (<i>imaginative</i>) rakont-o (<i>v</i>.) -ar; (<i>true incident</i>)
+narac-o, (<i>v</i>.) -ar (<i>cf</i>. fablo, historio); <b dict-key="to tell tales">to tell t.s:
+</b>(<i>lie</i>) mentiar; (<i>inform against</i>) denunc-ar; <b dict-key="tale">t.-bearer:
+</b>(<i>denouncer</i>) denunc-anto, -ero; (<i>one who makes reports</i>) raport-anto, -ero.
+
+<b dict-key="talent">talent:</b> talento; <b dict-key="talented person">-ed person: </b>-oz(ul)o.
+
+<b dict-key="talisman">talisman:</b> talismano.
+
+<b dict-key="talk">talk:</b> (<i>intr</i>.) parolar (pri) (<i>cf</i>. konversar, diskursar, dicar);
+(<i>gossip</i>) (<i>intr</i>.) babilar; (<i>discuss</i>) diskutar; <b dict-key="talk through the
+nose">t. through the nose: </b>naz-parolar (pri); <b dict-key="talk French">t. French:</b> parolar
+la Franca; <b dict-key="talk sense">t. sense: </b>parolar segun la raciono; <b dict-key="talk
+over">t. over:</b> (<i>discuss</i>) diskutar; (<i>persuade</i>) persuadar.
+
+<b dict-key="talk">talk:</b> (<i>n</i>.) konvers-ado, parol-ado; (<i>gossip</i>) babil-ado;
+(<i>rumo(u)r</i>) rumoro; <b dict-key="there is talk of">there is t. of:</b><i> </i>on parolas pri;
+esas questiono pri; <b dict-key="she is the talk of the town">she is the t. of the town: </b>en la
+urbo, on parolas nur pri el; <b dict-key="talkative">-ative: </b>parol-ema; <b
+dict-key="talkativeness">-ativeness: </b>-em-eso; (<i>of trifling talk</i>) babil-em-eso.
+
+<b dict-key="tall">tall:</b> alta, longa; <b dict-key="a man of tall stature">a man of t. stature:
+</b>alta-statura hom-ulo.
+
+<b dict-key="tallow">tallow:</b> sebo (<i>cf</i>. stearino); <b dict-key="tallow candle">t. candle:
+</b>seb-kandelo.
+
+<b dict-key="tally">tally:</b> (<i>count</i>) kontar; (<i>agree</i>) (<i>intr</i>.) konkordar.
+
+<b dict-key="talon">talon:</b> ungl(eg)o.
+
+<b dict-key="talus">talus:</b> (<i>slope</i>) taluso (<i>anat</i>.) astragalo.
+
+<b dict-key="tamarind">tamarind:</b> tamarind-o, -iero.
+
+<b dict-key="tamarisk">tamarisk:</b> tamarisko.
+
+<b dict-key="tambour">tambour:</b> (<i>drum</i>) tamburo (<i>cf</i>. tamburino).
+
+<b dict-key="tambourine">tambourine:</b> mi-tamburo.
+
+<b dict-key="tame">tame:</b> (<i>domesticate, make tractable</i>) amansar; (<i>subjugate</i>)
+domtar.
+
+<b dict-key="tame">tame:</b> (<i>domesticated</i>) domestika, amans-ita, ne-, des-sovaja; docila;
+(<i>subjugated</i>) domt-ita, submis-ita; (<i>of style, etc</i>.) insipida, ne-interes-anta;
+(<i>spiritless</i>) sen-anima, quieta; koncili-ema; <b dict-key="tamer">-er: </b>(<i>of beasts</i>)
+domt-ero, -isto; <b dict-key="tamness">-ness: </b>domestik-eso (<i>of persons and animals</i>);
+(<i>docility</i>) docil-eso, obedi-em-eso.
+
+<b dict-key="tamp">tamp:</b> (<i>ram</i>) tampar; (<i>plug</i>) stopar.
+
+<b dict-key="tamper">tamper:</b> (<i>disarrange</i>) des-aranjar (<i>cf</i>. tush-achar, intruzar);
+(<i>t. with witnesses, etc.</i>) koruptar; subornar.
+
+<b dict-key="tamp">tamp</b>(<b dict-key="i">i</b>)<b dict-key="on">on:</b> tampono (<i>cf.
+</i>stop-ilo).
+
+<b dict-key="tam">tam-tam:</b> tamtamo.
+
+<b dict-key="tan">tan:</b> (<i>leather</i>) tan-agar; (<i>sunburn</i>) (sun-) brun-igar, -eskar.
+
+<b dict-key="tan">tan:</b> (<i>substance</i>) tano; <b dict-key="tan">t.-colo</b>(<b
+dict-key="u">u</b>)<b dict-key="red">red:</b> tan-ea, -kolora; <b dict-key="tanned face">t.ned
+face:</b> vizajo (sun-) brun-ig-ita; <b dict-key="tanery">-nery: </b>tan-ag-erio.
+
+<b dict-key="tandem">tandem:</b> (<i>adj., adv.</i>) tandem-a, -e.
+
+<b dict-key="tang">tang:</b> (<i>flavo(u)r</i>) saporo (akuta).
+
+<b dict-key="tangent">tangent:</b> tangent-a, -o.
+
+<b dict-key="tangerine orange">tangerine orange:</b> mandarino.
+
+<b dict-key="tangible">tangible:</b> tush-ebla. palp-ebla, sent-ebla.
+
+<b dict-key="tangle">tangle:</b> inter-, kun-mixar; intrikar.
+
+<b dict-key="tangle">tangle:</b> (<i>n</i>.) intrik-o, -ado, -eso, -uro; konfuz-eso, inter-mix-eso,
+des-ordino, embaras-eso.
+
+<b dict-key="tank">tank:</b> (<i>closed, also milit</i>.) tanko; (<i>vat</i>) kuv-ego; (<i>as for
+storing rainfall</i>) cisterno.
+
+<b dict-key="tankard">tankard:</b> (drink-)pot-ego; kup-ego.
+
+<b dict-key="tannic acid,tannin">tannic acid, tannin:</b> tanino.
+
+<b dict-key="tansy">tansy:</b> <i>(bot.)</i> tanaceto (Tanacetum vulgare).
+
+<b dict-key="tantalize">tantalize:</b> tormentetar; tentar; <b dict-key="tantalizing">-zing:</b>
+-anta, -ema.
+
+<b dict-key="tantalum">tantalum:</b> tantalo.
+
+<b dict-key="Tantalus cup">Tantalus cup:</b> Tantal-vazo.
+
+<b dict-key="tantamount">tantamount:</b> equival-anta.
+
+<b dict-key="tantrum">tantrum:</b> mala humoro, aceso di iraco.
+
+<b dict-key="Tanzania">Tanzania:</b> Tanzania.
+
+<b dict-key="tap">tap:</b> (<i>strike gently</i>) frap-etar, -ar lejere; (<i>percuss</i>) tapotar;
+(<i>screw t</i>.) tapar; (<i>bore a hole</i>) borar; (<i>open</i>) apertar; (<i>draw liquids</i>)
+cherpar.
+
+<b dict-key="tap">tap:</b> (<i>for draining liquids</i>) robineto; (<i>of an inn</i>) drink-eyo,
+-chambro; <b dict-key="tap borer">t. borer:</b> tap-ilo; <b dict-key="tap root">t. root:
+</b>pivoto-radiko.
+
+<b dict-key="tape">tape:</b> (lig-)rubando; lin-, koton-rubando; <b dict-key="tape">t.-worm:
+</b>tenio; <b dict-key="tape">t.-line: </b>mezur-rubando.
+
+<b dict-key="taper">taper:</b> divenar, igar pint-atra, <i>o</i> min dika long-es-ale; pint-eskar;
+<b dict-key="tapering">-ing: </b>min-dik-esk-anta, tenu-esk-anta; pint-atra, kon-atra.
+
+<b dict-key="taper">taper:</b> (<i>candle</i>) kandelo; (<i>of wax</i>) bujio; (<i>in church</i>)
+cero.
+
+<b dict-key="tapestry">tapestry:</b> tapeto.
+
+<b dict-key="tapioca">tapioca:</b> tapiokao.
+
+<b dict-key="tapir">tapir:</b> tapiro.
+
+<b dict-key="tar">tar:</b> (<i>substance</i>) gudr-o, (<i>v</i>.) -izar; (<i>sailor</i>) mar-isto,
+nav-isto.
+
+<b dict-key="tarantella">tarantella:</b> tarantelo.
+
+<b dict-key="tarantula">tarantula: </b>tarantulo.
+
+<b dict-key="tardigrade">tardigrade:</b> tardigrada.
+
+<b dict-key="tardy">tardy:</b> (<i>behindhand</i>) tarda; (<i>slow</i>) lenta.
+
+<b dict-key="tare">tare:</b> (<i>script</i>.) lolio; (<i>weight</i>) taro; (<i>vetch</i>) vecho.
+
+<b dict-key="target">target:</b> skopo; skopo-plako; (<i>buckler</i>) tarjo; <b dict-key="to shoot
+at a target">to shoot at a t.: </b>pafar a skopo-plako.
+
+<b dict-key="tariff">tariff:</b> (<i>customs duty</i>) tarifo.
+
+<b dict-key="tarin">tarin:</b> tarino.
+
+<b dict-key="tarlatan">tarlatan:</b> tarlatano.
+
+<b dict-key="tarnish">tarnish:</b> des-bril-igar, -eskar; matid-igar, -eskar.
+
+<b dict-key="taroc,tarot">taroc, tarot:</b> taroko.
+
+<b dict-key="tarpaulin">tarpaulin:</b> gudro-telo.
+
+<b dict-key="tarragon">tarragon:</b> estragono.
+
+<b dict-key="tarry">tarry:</b> (<i>intr</i>.) restar; (<i>get behindhand</i>) tard-eskar.
+
+<b dict-key="tarsus">tarsus:</b> tars-o; <b dict-key="tarsusal">-sal:</b> -a, -ala.
+
+<b dict-key="tart">tart:</b> (<i>round cake</i>) tarto; (<i>pie</i>) torto.
+
+<b dict-key="tart">tart:</b> (<i>adj</i>.) acida, akra, acerba, mord-ema.
+
+<b dict-key="tartan">tartan:</b> <i>(design)</i> tartan; (<i>fabric</i>) tartan stofo;
+(<i>ship</i>) tartan-navo.
+
+<b dict-key="tartar">tartar:</b> (<i>of teeth and chem</i>.) tartaro; <b dict-key="tartaric
+acid">t.ic acid:</b> tartar-acido.
+
+<b dict-key="Tartarus">Tartarus:</b> Tartaro.
+
+<b dict-key="Tartuffe">Tartuffe:</b> Tartufo.
+
+<b dict-key="task">task:</b> tasko; <b dict-key="to task with">to t. with: </b>akuzar; reprochar;
+<b dict-key="to take to task">to take to t.: </b>reprimandar;<b dict-key="to do task"> to do
+t.-work: </b>laborar sugun tasko; <b dict-key="task">t.-worker:</b> tasko-labor-isto.
+
+<b dict-key="tassel">tassel:</b> tuf-pend-ajo.
+
+<b dict-key="taste">taste:</b> gustar (ulo); (<i>have a certain flavo(u)r</i>) saporar
+(<i>intr</i>.) (<i>cf</i>. savurar); <b dict-key="good taste">good t.:</b><i> </i>(<i>of
+persons</i>) bona gusto; (<i>of a thing</i>) bona saporo; <b dict-key="a joke in bad taste">a joke
+in bad t.: </b>mal-gusta joko; <b dict-key="a man of good taste">a man of good t.:</b> bon-gusta
+homo (<i>od</i>, viro); <b dict-key="to have a taste for">to have a t. for: </b>havar inklin-eso
+por (ulo); prizar (ulo); <b dict-key="every one to his taste">every one to his t.:</b> singlu segun
+sua gusto; <b dict-key="tastful">-ful: </b>(<i>person</i>) bon-gusta; (<i>dish</i>) sapor-oza; <b
+dict-key="lacking in taste">lacking in t.: </b>(<i>flavo(u)r</i>) sen-sapora; (<i>person or
+ornament</i>) mal-gusta. 
+
+<b dict-key="tatter">tatter:</b> (<i>cloth torn and hanging</i>) rago; (<i>rag torn off</i>)
+shifono; <b dict-key="to clothe in tatters">to clothe in t.s: </b>rag-izar (ulu); rag-eskar; <b
+dict-key="to be tattered">to be t.ed: </b>esar rag-oza, -iz-ita.
+
+<b dict-key="tatterdemalion">tatterdemalion:</b> rag-oz(ul)o; ragi-iz-ita persono.
+
+<b dict-key="tattle">tattle:</b> (<i>gossip</i>) (<i>intr</i>.) babilar; (<i>inform against</i>)
+denuncar; (<i>tell a fib</i>) rakontar falsajo.
+
+<b dict-key="tattoo">tattoo:</b> (<i>the skin</i>) tatu-ar; <b dict-key="tattoing">-ing:
+</b>(<i>act</i>) -(ad)o; (<i>result</i>) -uro.
+
+<b dict-key="tattoo">tattoo:</b> (<i>milit</i>.) son-igo por retreto.
+
+<b dict-key="taught,taut">taught, taut:</b> rigida, tens-ita.
+
+<b dict-key="taunt">taunt:</b> mok-insultar, mokar sarkasme.
+
+<b dict-key="Taurus">Taurus:</b> tauro.
+
+<b dict-key="tautochrone">tautochrone:</b> tautokrono.
+
+<b dict-key="tautology">tautology:</b> tautologio.
+
+<b dict-key="tavern">tavern:</b> tavern-o (<i>cf</i>. alberg-o, drink-erio); <b
+dict-key="tavern">t.-keeper: </b>-isto, -estro.
+
+<b dict-key="taw">taw:</b> (<i>to dress skins</i>) mejisar.
+
+<b dict-key="tawdry">tawdry:</b> bel-acha; pretend-ach-anta; mal-gusta.
+
+<b dict-key="tawny">tawny:</b> (<i>of animals</i>) falva; (<i>of persons</i>) sun-brul-ita, brun-a,
+-ig-ita.
+
+<b dict-key="tax">tax:</b> (<i>assess</i>) taxar; (<i>levy a t. on</i>) impostar; (<i>accuse</i>)
+akuzar, reprochar; (<i>load</i>) charjar, opresar.
+
+<b dict-key="tax">tax:</b> (<i>impost</i>) impost-o, -ajo (pri); (<i>burden</i>) charjo; <b
+dict-key="taxation">-ation: </b>(<i>assessment</i>) tax-(ad)o; (<i>paying</i>) impost-(ad)o.
+
+<b dict-key="taxicab">taxicab:</b> taxio; <b dict-key="taxicabmeter">-meter:</b> taximetro.
+
+<b dict-key="taxidermy">taxidermy:</b> taxidermio.

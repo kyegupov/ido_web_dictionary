@@ -1,0 +1,49 @@
+<b dict-key="publika">publika</b>: <span dict-key="публичный">публичный</span>
+
+<b dict-key="pudorar">pudorar</b>: <span dict-key="быть стеснительным">быть стеснительным</span>
+
+<b dict-key="pudro">pudro</b>: <span dict-key="пудра">пудра</span>
+
+<b dict-key="puerino">puerino</b>: <span dict-key="девочка">девочка</span>
+
+<b dict-key="puero">puero</b>: <span dict-key="ребенок">ребенок</span>
+
+<b dict-key="puerulo">puerulo</b>: <span dict-key="мальчик">мальчик</span>
+
+<b dict-key="pugno">pugno</b>: <span dict-key="кулак">кулак</span>
+
+<b dict-key="pulmono">pulmono</b>: <span dict-key="легкое">легкое</span>
+
+<b dict-key="pulsar">pulsar</b>: <span dict-key="выдвигать (подталкивать)">выдвигать
+(подталкивать)</span>
+
+<b dict-key="pultro">pultro</b>: <span dict-key="домашняя птица">домашняя птица</span>
+
+<b dict-key="pulvero">pulvero</b>: <span dict-key="порошок">порошок</span>
+
+<b dict-key="pumpar">pumpar</b>: <span dict-key="накачать">накачать</span>, <span
+dict-key="качать">качать</span>
+
+<b dict-key="pundo">pundo</b>: <span dict-key="фунт стерлингов">фунт стерлингов</span>
+
+<b dict-key="punisar">punisar</b>: <span dict-key="наказывать">наказывать</span>
+
+<b dict-key="punto">punto</b>: <span dict-key="точка">точка</span>
+
+<b dict-key="pupeo">pupeo</b>: <span dict-key="кукла">кукла</span>, <span
+dict-key="марионетка">марионетка</span>
+
+<b dict-key="pupilo">pupilo</b>: <span dict-key="зрачек">зрачек</span>
+
+<b dict-key="pura">pura</b>: <span dict-key="чистый">чистый</span>
+
+<b dict-key="purgar">purgar</b>: <span dict-key="производить чистку">производить чистку</span>
+
+<b dict-key="purpura">purpura</b>: <span dict-key="фиолетовый">фиолетовый</span>
+
+<b dict-key="puso">puso</b>: <span dict-key="гной">гной</span>
+
+<b dict-key="puteo">puteo</b>: <span dict-key="родник">родник</span>, <span
+dict-key="колодец">колодец</span>
+
+<b dict-key="putrar">putrar</b>: <span dict-key="гнить">гнить</span>

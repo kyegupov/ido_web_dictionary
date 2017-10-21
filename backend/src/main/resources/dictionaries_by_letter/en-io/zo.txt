@@ -1,0 +1,22 @@
+<b dict-key="zodiac">zodiac:</b> zodiako.
+
+<b dict-key="zone">zone:</b> zono.
+
+<b dict-key="zoocecidia">zoocecidia:</b> zoocecidio.
+
+<b dict-key="zoography">zoography:</b> zoografio.
+
+<b dict-key="zoolatry">zoolatry:</b> bestio-kulto.
+
+<b dict-key="zoology">zoology:</b> zoology-o; <b dict-key="zoologist">-gist:</b> -isto; <b
+dict-key="zoological">-gical:</b> -ala.
+
+<b dict-key="zoophyte">zoophyte:</b> zoofito.
+
+<b dict-key="zoosperm">zoosperm:</b> zoospermo.
+
+<b dict-key="zoospore">zoospore:</b> zoosporo.
+
+<b dict-key="zouave">zouave:</b> zuavo.
+
+<b dict-key="zounds">zounds:</b> per la diablo!

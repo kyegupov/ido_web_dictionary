@@ -1,0 +1,20 @@
+<b dict-key="kidnapar">kidnapar</b>: <span dict-key="похитить">похитить</span>
+
+<b dict-key="kilogramo">kilogramo</b>: <span dict-key="килограмм">килограмм</span>
+
+<b dict-key="kilometro">kilometro</b>: <span dict-key="километр">километр</span>
+
+<b dict-key="kilowato">kilowato</b>: <span dict-key="киловатт">киловатт</span>
+
+<b dict-key="kimero">kimero</b>: <span dict-key="химера">химера</span>
+
+<b dict-key="kin">kin</b>: <span dict-key="пять">пять</span>, <span dict-key="5">5</span>
+
+<b dict-key="kiosko">kiosko</b>: <span dict-key="киоск">киоск</span>, <span dict-key="стенд
+новостей">стенд новостей</span>
+
+<b dict-key="kirko">kirko</b>: <span dict-key="церковь">церковь</span>
+
+<b dict-key="kirurgio">kirurgio</b>: <span dict-key="хирургия">хирургия</span>
+
+<b dict-key="kisar">kisar</b>: <span dict-key="целовать">целовать</span>

@@ -1,0 +1,12 @@
+<b dict-key="kooperar">kooper-ar:</b> (<i>intr.</i>) to cooperate ( in a co-operative institution);
+(cf. <b dict-key="kunlaborar,kontributar">kunlaborar, kontributar </b>(<b dict-key="ad">ad</b>); <b
+dict-key="kooperala,kooperanta societo">-ala, -anta societo:</b> cooperative society; <b
+dict-key="kooperativo">-ativo:</b> (2001) cooperative (noun). &mdash; DEFIRS
+
+<b dict-key="kooptar">koopt-ar:</b> (<i>tr.</i>) to co-opt: to choose or elect a fellow member.
+Def.: Adjuntar a su membro per interna elekto. Ex.: La elektita komisitaro havis la yuro di koopto,
+e kooptis Sro. X. pro la specala autoritato; IV-105. &mdash; DEF
+
+<b dict-key="koordinar">koordin-ar:</b> (<i>tr.</i>) to co-ordinate: dispose, adjust; <b
+dict-key="koordiniti">-iti:</b> (<i>geom.</i>) coordinates. Def.: Kombinar en la ordino asignita da
+la formo o la naturo id l&rsquo;elementi. Ex.: Koordinadi la muskuli. &mdash; DEFIRS

@@ -1,0 +1,26 @@
+<b dict-key="tigro">tigro</b>: <span dict-key="тигр">тигр</span>
+
+<b dict-key="til">til</b>: <span dict-key="до (в пространстве и времени)">до (в пространстве и
+времени)</span>
+
+<b dict-key="tilrivido">tilrivido</b>: <span dict-key="до свидания">до свидания</span>
+
+<b dict-key="timar">timar</b>: <span dict-key="бояться">бояться</span>, <span
+dict-key="страшиться">страшиться</span>, <span dict-key="пугаться">пугаться</span>
+
+<b dict-key="timida">timida</b>: <span dict-key="робкий">робкий</span>
+
+<b dict-key="tineo">tineo</b>: <span dict-key="моль (одежды)">моль (одежды)</span>
+
+<b dict-key="tintar">tintar</b>: <span dict-key="окрашивать">окрашивать</span>
+
+<b dict-key="tipo">tipo</b>: <span dict-key="тип">тип</span>
+
+<b dict-key="tirano">tirano</b>: <span dict-key="тиран">тиран</span>
+
+<b dict-key="tirar">tirar</b>: <span dict-key="тянуть">тянуть</span>, <span
+dict-key="вытягивать">вытягивать</span>
+
+<b dict-key="titilar">titilar</b>: <span dict-key="щекотать">щекотать</span>
+
+<b dict-key="titulo">titulo</b>: <span dict-key="название">название</span>

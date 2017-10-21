@@ -1,0 +1,20 @@
+<b dict-key="dim">dim: </b>ne-(des-)klara; ne-bril-anta; sen-brila; obskura; (<i>fig</i>.) obtuza,
+trubl-ita; febla; (<i>v</i>.) obskur-(et)igar, -eskar; (<i>shade</i>) ombr-izar; (<i>lose</i>
+<i>brilliancy</i>) des-bril-igar, -eskar; matid-igar; (<i>surpass</i>) eklipsar; <b
+dict-key="dimness">-ness: </b>(<i>gen</i>.) obskur-eso, ne-klar-eso.
+
+<b dict-key="dimension">dimension: </b>dimensiono.
+
+<b dict-key="diminish">diminish: </b>(<i>tr</i>.) diminutar; (<i>price</i>) rabat-ar,
+min-grand-igar; (<i>intr</i>.)&nbsp;diminutar; des-kreskar.
+
+<b dict-key="diminution">diminution: </b>diminut-o, -eso, -uro.
+
+<b dict-key="diminutive">diminutive: </b>diminut-iv-a, -o; mikra; (<i>paltry</i>) meskina.
+
+<b dict-key="dimity">dimity:</b> dimitio.
+
+<b dict-key="dimorphous">dimorphous:</b> dimorfa.
+
+<b dict-key="dimple">dimple: </b>fos-eto; (<i>v</i>.) formacar la foseti; <b dict-key="dimpld">-d.:
+</b>fos-et-oza.

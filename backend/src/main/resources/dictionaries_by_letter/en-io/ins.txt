@@ -1,0 +1,238 @@
+<b dict-key="ins and outs">ins and outs:</b> (<i>of an affair</i>) apud-aji ed abut-aji; detali.
+
+<b dict-key="insalubrity">insalubrity:</b> ne-salubr-eso.
+
+<b dict-key="insane">insane:</b> dement-a, lunatika, fola, frenezi-oza, alienac-ika, sen-raciona;
+<b dict-key="insane person">i. person:</b> dement-(ul)o, alienac-iko; <b dict-key="to become
+insane">to become i.:</b> dement-eskar; <b dict-key="insane asylum">i. asylum:</b> dement-erio; <b
+dict-key="insane act">i. act:</b> dement-ajo.
+
+<b dict-key="insanitary">insanitary:</b> ne-salubra, ne-san-es-ala, ne-higien-ala.
+
+<b dict-key="insanity">insanity:</b> dement-eso (<i>see</i><b dict-key="insane"> insane</b>);
+(<i>on one subject</i>) monomanio.
+
+<b dict-key="insatiable">insatiable:</b> ne-satur-ebla, ne-kontent-ig-ebla.
+
+<b dict-key="insatiate">insatiate:</b> ne-satur-ebla.
+
+<b dict-key="inscribe">inscribe:</b> sur-, en-skribar; (<i>engrave</i>) en-grabar; (<i>imprint</i>)
+imprimar; (<i>dedicate</i>) dedikar; (<i>record in a book</i>) registr-agar.
+
+<b dict-key="inscription">inscription:</b> en-skrib-uro; (<i>archeol</i>.) epigrafo; (<i>title</i>)
+titulo.
+
+<b dict-key="inscrutable">inscrutable:</b> ne-penetr-ebla; ne-explor-ebla.
+
+<b dict-key="insect">insect:</b> insekt-o, <b dict-key="insects">-s:</b> (<i>collect</i>) -aro; <b
+dict-key="insecticide">-icide:</b> -ocid-anta, -iva; -ivo, -ilo; <b
+dict-key="insectivorous">-ivorous:</b> insekto-manj-anta, insekti-vora.
+
+<b dict-key="insecure">insecure:</b> (<i>not protected</i>) ne-sekura; (<i>not firm</i>) ne-ferma,
+ne-solida.
+
+<b dict-key="insecurity">insecurity:</b> ne-sekur-eso, danjero; (<i>unstable</i>) ne-ferm-eso;
+(<i>incertitude</i>) ne-cert-eso.
+
+<b dict-key="insensate">insensate:</b> (<i>inanimate</i>) sen-viva; (<i>without intelligence</i>)
+fola, sen-raciona; (<i>without feeling</i>) ne-sent-iva.
+
+<b dict-key="insensible">insensible:</b> (<i>wich cannot feel</i>) ne-sent-iva;
+(<i>imperceptible</i>) ne-sent-ebla; (<i>indifferent</i>); indiferenta; (<i>without
+consciousness</i>) sen-koncia.
+
+<b dict-key="inseparable">inseparable:</b> ne-separ-ebla.
+
+<b dict-key="insert">insert:</b> insertar (<i>cf</i>. interpolar, interpozar, inkluzar).
+
+<b dict-key="inside">inside:</b> intern-a, -e, -ajo; (<i>prep</i>.) en, interne di; <b
+dict-key="inside out">i. out:</b> revers-e, -a; <b dict-key="from the inside to the outside">from
+the i. to the outside:</b> de interne ad extere; <b dict-key="to turn inside out">to turn i.
+out:</b> turnar la reverso ad extere.
+
+<b dict-key="insidious">insidious:</b> (<i>thing</i>) insidi-oza, (<i>person</i>) -ema; perfida.
+
+<b dict-key="insight">insight:</b> (profunda) konoco; (<i>explanation</i>) expliko;
+(<i>information</i>) informo.
+
+<b dict-key="insignia">insignia:</b> insign-o, -i, -aro.
+
+<b dict-key="insignificance">insignificance:</b> ne-signifiko, ne-importo, ne-valoro; des-grav-eso.
+
+<b dict-key="insignificant">insignificant:</b> des-grava, sen-signifika, sen-importa, sen-valora.
+
+<b dict-key="insincere">insincere:</b> des-, ne-sincera (<i>cf</i>. hipokrita, fing-ita, falsa).
+
+<b dict-key="insincerity">insincerity:</b> des-, ne-sincer-eso; disimul-ado, -em-eso.
+
+<b dict-key="insinuate">insinuate:</b> (<i>lit. and fig.</i>) insinuar (<i>cf</i>. infiltrar;
+shovar; sugest-etar).
+
+<b dict-key="insinuating">insinuating:</b> insinu-anta, -ema.
+
+<b dict-key="insinuation">insinuation:</b> (<i>act</i>) insinu-o, (<i>what is insinuated</i>) -ajo.
+
+<b dict-key="insipid">insipid:</b> insipida, sen-sapora; <b dict-key="insipidity">-ity:</b>
+sen-sapor-eso; insipid-eso, (<i>thing</i>) -ajo.
+
+<b dict-key="insist">insist:</b> (<i>earnestly urge, stress</i>) (<i>intr</i>.) insistar (pri);
+(<i>demand</i>) postular (<i>cf</i>. persistar; obstinar); -<b dict-key="ent">ent:</b> insist-anta,
+-ema.
+
+<b dict-key="insnare">insnare:</b> kaptar; atrapar.
+
+<b dict-key="insobriety">insobriety:</b> (<i>drunkenness</i>) ebri-eso, -em-eso;
+(<i>intemperateness</i>) des-, ne-sobr-eso; ne-moder-eso.
+
+<b dict-key="insolent">insolent:</b> insolent-a, (<i>act</i>) -ajo, (<i>quality</i>) -eso;
+(<i>person</i>) -(ul)o; <b dict-key="to treat with insolent">to treat with i.:</b> insultar (ulu);
+agar insolente.
+
+<b dict-key="insolubility">insolubility:</b> (<i>of problems, etc</i>.) ne-solv-ebl-eso; (<i>of
+substances</i>) ne-dis-solv-ebl-eso.
+
+<b dict-key="insolvency">insolvency:</b> (<i>fin</i>.) ne-solvent-eso (<i>with disgrace</i>)
+bankroto.
+
+<b dict-key="insolvent">insolvent:</b> ne-solventa; <b dict-key="to become insolvent">to become
+i.:</b> ne-solvent-eskar, fali-ar, -eskar; (<i>with disgrace</i>) bankrotar.
+
+<b dict-key="insomnia">insomnia:</b> ne-dorm-ado, -iv-eso.
+
+<b dict-key="insomuch">insomuch:</b> tante (ke); tale ke.
+
+<b dict-key="inspect">inspect:</b> inspektar (<i>cf</i>. explorar) (ulo); examenar (ulu); revuar;
+surveyar.
+
+<b dict-key="inspection">inspection:</b> inspekt-(ad)o; <b dict-key="round of inspection">round of
+i.:</b> -o-turo.
+
+<b dict-key="inspector">inspector:</b> inspekt-anta, -ero, -isto; verifik-isto, -ero, -anto.
+
+<b dict-key="inspan">inspan:</b> jungar (<i>cf</i>. harnes-izar).
+
+<b dict-key="inspiritation">inspiritation: </b>(<i>breath</i>) aspir-(ad)o (<i>cf</i>.
+respir-(ad)o); (<i>with ideas</i>) (<i>act</i>) inspir-(ad)o, (<i>received</i>) -eso, (<i>which
+inspires</i>) -ajo.
+
+<b dict-key="inspire">inspire:</b> (<i>the mind, spirit</i>) inspirar.
+
+<b dict-key="inspiring">inspiring:</b> inspir-anta.
+
+<b dict-key="instability">instability:</b> ne-stabil-eso.
+
+<b dict-key="install">install:</b> instalar (ulu, ulo).
+
+<b dict-key="installation">installation:</b> (<i>act</i>) instal-(ad)o, (<i>result</i>) -uro.
+
+<b dict-key="instalment">instalment:</b> (<i>partial payment</i>) akonto; <b dict-key="by
+instalments">by i.s:</b> pagar akonte.
+
+<b dict-key="instance">instance:</b> donar exemplo o pruvo (di).
+
+<b dict-key="instance">instance:</b> (<i>example</i>) exemplo; (<i>instigation</i>) instigo;
+invito; solicito; (<i>occasion</i>) okaziono; cirkonstanc-o, -i; kazo; (<i>legal</i>) instanco; <b
+dict-key="for instance">for i.:</b> exemple; <b dict-key="court of the first instance">court of the
+first i.:</b> korto di un-esma instanco.
+
+<b dict-key="instant">instant:</b> (<i>moment</i>) instanto; (<i>present month, current</i>) nuna;
+(<i>urgent</i>) urj-anta; (<i>immediately</i>) quik; (<i>immeditate</i>) quik-a; <b dict-key="this
+instant">this i.:</b> ca-instante; quik; <b dict-key="the instant that">the i. that:</b> tam balde
+kam, quik pos ke; <b dict-key="the letter is dated the th instant">the letter is dated the 10th
+i.:</b> la letro esis dat-iz-ata ye la 10ma di la monato; <b dict-key="they are very instant">they
+are very i.:</b> li esas tre urj-anta (<i>od</i>, insist-anta); <b dict-key="in an instant">in an
+i.:</b> en un instanto; quik; <b dict-key="every instant">every i.:</b> omna-intante; sen-cese.
+
+<b dict-key="instantaneous">instantaneous:</b> instant-ala; quik-a; <b
+dict-key="instantaneousness">-ness:</b> instant-al-eso, subit-eso.
+
+<b dict-key="instantly">instantly:</b> quik, ca-instante.
+
+<b dict-key="instead">instead:</b> vice (ulu, ulo); <b dict-key="instead that">i. that:</b> vice ke.
+
+<b dict-key="instep">instep:</b> pedo-kolo; (<i>anat</i>.) tarso.
+
+<b dict-key="instigate">instigate:</b> incitar; (<i>ordinarily in bad sense</i>) instigar.
+
+<b dict-key="instigation">instigation:</b> (<i>esp. to evil</i>) instig-(ad)o; incito; sugest-o,
+-ajo.
+
+<b dict-key="instil">instil:</b> (<i>lit. and fig.</i>) instilar (<i>cf</i>. inkulkar; infuzar).
+
+<b dict-key="instinct">instinct:</b> instint-o; <b dict-key="instinctive">-ive:</b> -ala, -atra;
+spontana.
+
+<b dict-key="institute">institute:</b> (<i>establish, found</i>) institucar; (<i>initiate</i>)
+iniciar (<i>cf</i>. procesar; entraprezar, dekretar); (<i>learned society</i>) instituto.
+
+<b dict-key="institution">institution:</b> <i>see suffix</i> -erio (<i>as:</i> eduk-erio: <i>an
+educational institution</i>); (<i>something instituted</i>) instituc-uro; (<i>learned</i>)
+instituto; <b dict-key="public institutions">public i.s:</b> instituc-uri publika.
+
+<b dict-key="instruct">instruct:</b> (<i>teach</i>) instruktar (ulu); (<i>give orders</i>) imperar
+(ulo, ad ulu); (<i>inform</i>) informar (ulu, pri ulo); (<i>give practical instructions,
+directions</i>) donar instrucioni.
+
+<b dict-key="instruction">instruction:</b> (<i>given</i>) instrukt-o, (<i>received</i>) -eso;
+(<i>information</i>) informo, (<i>practical directions</i>) instrucion-o, -i; (<i>lesson</i>)
+leciono; (<i>order</i>) komiso; impero, (<i>milit</i>.) komando; <b dict-key="instruction book">i.
+book:</b> lerno-libro.
+
+<b dict-key="instructive">instructive:</b> instrukt-anta, -iva.
+
+<b dict-key="instructor">instructor:</b> instrukt-anto, -ero, -isto (<i>cf</i>. profesoro,
+preceptoro, doc-ero, -isto, skol-mastro).
+
+<b dict-key="instrument">instrument:</b> (<i>tool</i>) instrumento; (<i>legal</i>) akto, dokumento;
+(<i>means</i>) moyeno, (<i>fig</i>.) instrumento; organo; utensilo.
+
+<b dict-key="instrumental">instrumental:</b> (<i>gen</i>.) instrument-ala; (<i>gram</i>.) <b
+dict-key="instrumental case">i. case:</b> -alo; <b dict-key="to be instrumental">to be i.:</b>
+helpar.
+
+<b dict-key="instrumentality">instrumentality:</b> moyeno, help-o, -ilo, -ivo; kun-laboro;
+parto-preno.
+
+<b dict-key="instrumentation">instrumentation:</b> instrument-izo, orkestr-iz(ad)o.
+
+<b dict-key="insubordinate">insubordinate:</b> ne-obedi-ema; <b
+dict-key="insubordination">-tion:</b> -em-eso.
+
+<b dict-key="insufferable">insufferable:</b> ne-toler-ebla.
+
+<b dict-key="insufficiency">insufficiency:</b> ne-sufic-o, -ant-eso.
+
+<b dict-key="insufficient">insufficient:</b> ne-sufic-anta.
+
+<b dict-key="insular">insular:</b> insul-ala, -ana; (<i>fig</i>.) (ment-e) streta; (<i>fig</i>.)
+insul-ana.
+
+<b dict-key="insularity">insularity:</b> insul-an-eso, (ment-ala) stret-eso.
+
+<b dict-key="insulate">insulate:</b> (<i>also elec</i>.) izolar (<i>cf</i>. separar; apart-igar);
+<b dict-key="insulator">-tor:</b> -ilo, -ivo.
+
+<b dict-key="insulin">insulin:</b> insulino.
+
+<b dict-key="insult">insult:</b> insult-ar, -o; <b dict-key="insulting">-ing:</b> -anta, -iva, -ema.
+
+<b dict-key="insuperable">insuperable:</b> ne-vink-ebla.
+
+<b dict-key="insupportable">insupportable:</b> ne-toler-ebla; (<i>argument</i>) ne-susten-ebla.
+
+<b dict-key="insurance">insurance:</b> (<i>fin</i>.) asekur-o; <b dict-key="insurance policy">i.
+policy:</b> -o-akto, -kontrato; <b dict-key="insurance office">i. office:</b> -o-kontoro; <b
+dict-key="insurance premium">i. premium:</b> (<i>paid by insured</i>) -o-taxo; <b dict-key="to take
+additional insurance">to take additional i.:</b> -ar (su, ulu) pluse; <b dict-key="to cancel an
+insurance policy">to cancel an i. policy:</b> (<i>esp. maritime</i>) ristornar; <b
+dict-key="insurance agent">i. agent:</b> asekur-isto.
+
+<b dict-key="insure">insure:</b> (<i>fin</i>.) asekur-ar (su, ulu); (<i>make certain</i>) cert-igar
+(su, pri; ulo ad ulu; ulu pri ulo); garantiar; <b dict-key="insured person">i.d person:</b>
+asekur-ito; <b dict-key="insure against">i. against:</b> kontre-asekurar.
+
+<b dict-key="insurgent">insurgent:</b> rebel-a, -(ul)o; revolt-anto, -into.
+
+<b dict-key="insurmountable">insurmountable:</b> ne-vink-ebla.
+
+<b dict-key="insurrection">insurrection:</b> revolto.

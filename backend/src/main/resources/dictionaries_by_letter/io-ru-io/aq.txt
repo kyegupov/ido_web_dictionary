@@ -1,0 +1,3 @@
+<b dict-key="aquirar">aquirar</b>: <span dict-key="приобретать">приобретать</span>
+
+<b dict-key="aquo">aquo</b>: <span dict-key="вода">вода</span>

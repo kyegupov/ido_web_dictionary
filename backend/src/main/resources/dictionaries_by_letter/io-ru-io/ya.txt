@@ -1,0 +1,8 @@
+<b dict-key="ya">ya</b>: <span dict-key="в самом деле">в самом деле</span>, <span
+dict-key="действительно; конечно">действительно; конечно</span>, <span
+dict-key="несомненно">несомненно</span>
+
+<b dict-key="yakto">yakto</b>: <span dict-key="яхта">яхта</span>
+
+<b dict-key="yaro">yaro</b>: <span dict-key="год">год</span>, <span dict-key="yarent.o столетие и
+т.д.">yarent.o столетие и т.д.</span>

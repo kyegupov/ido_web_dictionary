@@ -1,0 +1,9 @@
+<b dict-key="yuna">yuna</b>: <span dict-key="молодой">молодой</span>
+
+<b dict-key="yuro">yuro</b>: <span dict-key="право">право</span>, <span dict-key="юридический
+(законный), моральный и т.д.)">юридический (законный), моральный и т.д.)</span>
+
+<b dict-key="yusta">yusta</b>: <span dict-key="благочестивый">благочестивый</span>, <span
+dict-key="праведный">праведный</span>, <span dict-key="беспристрастный">беспристрастный</span>,
+<span dict-key="непредубежденный">непредубежденный</span>, <span
+dict-key="объективный">объективный</span>, <span dict-key="справедливый">справедливый</span>

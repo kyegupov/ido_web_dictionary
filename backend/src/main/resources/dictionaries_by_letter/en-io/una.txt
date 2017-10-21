@@ -1,0 +1,53 @@
+<b dict-key="unabashed">unabashed:</b> ne-perturb-ita; sen-shama.
+
+<b dict-key="unabated">unabated:</b> sen-cesa, ne-diminut-ita.
+
+<b dict-key="unable">unable:</b> ne-kapabla. ne-pov-anta; <b dict-key="he was unable to do it">he
+was u. to do it:</b> il ne povis facar ol.
+
+<b dict-key="unabridged">unabridged:</b> ne-abrevi-ita, kompleta.
+
+<b dict-key="unaccented">unaccented:</b> (<i>stress of voice</i>) sen-acenta, ne-acent-iz-ita;
+(<i>without supersigns</i>) sen-super-signa, ne-super-sign-iz-ita; (<i>unemphatic</i>) ne-emfaz-ita.
+
+<b dict-key="unaccommodating">unaccommodating:</b> des-komplez-ema; ne-koncili-ema.
+
+<b dict-key="unaccompanied">unaccompanied:</b> sola, ne-akompan-ata.
+
+<b dict-key="unaccountable">unaccountable:</b> ne-explik-ebla; (<i>odd</i>) stranja; (<i>not
+responsible</i>) ne-respons-iva, -ema.
+
+<b dict-key="unaccoustomed">unaccoustomed:</b> (<i>of things</i>) ne-kustum-ala, -ata; (<i>of
+persons</i>) -anta; <b dict-key="I am unaccoustomed to">I am u. to: </b>me ne kustumas (parolar
+e.c.).
+
+<b dict-key="unacknowledged">unacknowledged:</b> (<i>of letters</i>) sen respondo; sen-responda
+(letro).
+
+<b dict-key="unaffected">unaffected:</b> (<i>without affectation</i>) sen-afektaca; (<i>not
+influenced</i>) ne-influ-ata, -ita; (<i>not moved</i>) apati-oza; ne-sent-iva.
+
+<b dict-key="unalloyed">unalloyed:</b> (<i>metals</i>) sen-aloya; pura.
+
+<b dict-key="unanimity">unanimity:</b> unanim-eso; <b dict-key="unanimitmous">-mous:</b> -a.
+
+<b dict-key="unapt">unapt:</b> ne-apta (ad); (<i>dull</i>) ne-kapabla.
+
+<b dict-key="unarmed">unarmed:</b> sen-arma; sen-defensa.
+
+<b dict-key="unasked">unasked:</b> ne-demand-ita, -ata; ne-solicit-ata, -ita; spontana.
+
+<b dict-key="unassuming">unassuming:</b> ne-pretend-ema, modesta, simpla.
+
+<b dict-key="unattached">unattached:</b> ne-lig-ita, libera, ne-depend-anta (de); (<i>milit</i>.)
+dispon-ebla, en ne-aktiv-eso.
+
+<b dict-key="unavailing">unavailing:</b> ne-utila, vana, sen-efika.
+
+<b dict-key="unavoidable">unavoidable:</b> ne-evit-ebla.
+
+<b dict-key="unaware">unaware:</b> ne-, nul-sava-anta; <b dict-key="to be unaware">to be u.:</b>
+ne-savar (ulo).
+
+<b dict-key="unawares">unawares:</b> ne-expek-ite; <b dict-key="to be taken unawares">to be taken
+u.:</b> surpriz-esar sen preparo.

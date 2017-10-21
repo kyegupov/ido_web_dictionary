@@ -1,0 +1,56 @@
+<b dict-key="do">do</b>: <span dict-key="итак">итак</span>, <span dict-key="ладно">ладно</span>,
+<span dict-key="значит">значит</span>, <span dict-key="посему">посему</span>, <span
+dict-key="следовательно">следовательно</span>
+
+<b dict-key="docar">docar</b>: <span dict-key="преподавать">преподавать</span>
+
+<b dict-key="dogano">dogano</b>: <span dict-key="таможня (в порту и т.д.)">таможня (в порту и
+т.д.)</span>
+
+<b dict-key="dogmato">dogmato</b>: <span dict-key="догма">догма</span>
+
+<b dict-key="doko">doko</b>: <span dict-key="док">док</span>
+
+<b dict-key="doktoro">doktoro</b>: <span dict-key="доктор">доктор</span>
+
+<b dict-key="doktrino">doktrino</b>: <span dict-key="доктрина">доктрина</span>
+
+<b dict-key="dokumento">dokumento</b>: <span dict-key="документ">документ</span>
+
+<b dict-key="dolca">dolca</b>: <span dict-key="сладкий">сладкий</span>, <span dict-key="приятный на
+вкус">приятный на вкус</span>
+
+<b dict-key="dolorar">dolorar</b>: <span dict-key="чувствовать боль">чувствовать боль</span>
+
+<b dict-key="domajar">domajar</b>: <span dict-key="повреждать">повреждать</span>
+
+<b dict-key="domeno">domeno</b>: <span dict-key="наследственная собственность">наследственная
+собственность</span>, <span dict-key="поместье">поместье</span>, <span
+dict-key="имение">имение</span>
+
+<b dict-key="domestika">domestika</b>: <span dict-key="внутренний">внутренний</span>
+
+<b dict-key="dominacar">dominacar</b>: <span dict-key="доминировать">доминировать</span>
+
+<b dict-key="domo">domo</b>: <span dict-key="дом">дом</span>
+
+<b dict-key="domtar">domtar</b>: <span dict-key="приручить">приручить</span>, <span
+dict-key="подчинить">подчинить</span>, <span dict-key="поработить">поработить</span>
+
+<b dict-key="donacar">donacar</b>: <span dict-key="жертвовать">жертвовать</span>
+
+<b dict-key="donar">donar</b>: <span dict-key="давать">давать</span>
+
+<b dict-key="dop">dop</b>: <span dict-key="сзади">сзади</span>, <span dict-key="позади; после (в
+пространстве)">позади; после (в пространстве)</span>
+
+<b dict-key="dormar">dormar</b>: <span dict-key="сон">сон</span>
+
+<b dict-key="dorno">dorno</b>: <span dict-key="шип">шип</span>
+
+<b dict-key="dorso">dorso</b>: <span dict-key="назад">назад</span>
+
+<b dict-key="dotar">dotar</b>: <span dict-key="обеспечивать постоянным доходом">обеспечивать
+постоянным доходом</span>, <span dict-key="снабжать приданным">снабжать приданным</span>
+
+<b dict-key="dozo">dozo</b>: <span dict-key="доза">доза</span>

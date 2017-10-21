@@ -1,0 +1,261 @@
+<b dict-key="slab">slab:</b> plako.
+
+<b dict-key="slabber">slabber:</b> (<i>slobber</i>) (<i>intr</i>.) bavar.
+
+<b dict-key="slack">slack:</b> (<i>of ropes, etc</i>.) laxa; (<i>slow</i>) lenta; (<i>remiss</i>)
+neglij-anta, -ema; ne-ag-ema; des-vigil-anta, -ema; ne-rigor-oza; (<i>feeble</i>) febla; <b
+dict-key="to be slack">to be s.: </b>(<i>of trade</i>) (<i>intr</i>.) langorar; <b dict-key="slack
+water">s. water: </b>aquo ne-mov-anta; maxim alta mareo.
+
+<b dict-key="slacken">slacken:</b> (<i>make or become less tense</i>) des-tensar, lax-igar, -eskar;
+(<i>diminish</i>) diminutar; moderar; febl-igar; (<i>make slower</i>) (plu-)lent-igar, -eskar.
+
+<b dict-key="slag">slag: </b>skorio.
+
+<b dict-key="slake">slake:</b> (<i>thirst</i>) saciar; amortisar; extingar; <b dict-key="slake
+lime">s. lime: </b>aqu-izar la kalko.
+
+<b dict-key="slam">slam:</b> (<i>shut noisily</i>) bruis-oze klozar (ulo); (<i>throw down</i>)
+bruisoze jetar (ulo, ad), de-jet-egar (ulo).
+
+<b dict-key="slander">slander:</b> (<i>tr., intr.</i>) maldicensar; kalumniar (<i>cf</i>.
+denigrar); (<i>legal</i>) difam-ar; (<i>n</i>.) -o, -ado; <b dict-key="slanderer">-er: </b>-anto,
+-ero; <b dict-key="slanderous">-ous: </b>(<i>of things</i>) kalumni-a, -oza, -ema; difam-anta,
+-ema, -iva; (<i>person</i>) difam-anto, -ero; maldicens-anto, -ero, emo.
+
+<b dict-key="slang">slang:</b> slang-o (<i>cf</i>. jargono); <b dict-key="slangy">-y: </b>-a, -ala,
+-atra.
+
+<b dict-key="slant">slant:</b> (<i>tr., intr.</i>) inklinar; obliqu-igar, -eskar, -irar, -marchar;
+<b dict-key="slanting">s.ing: </b>obliqua, inklin-ita (ad).
+
+<b dict-key="slap">slap:</b> frap-(et)ar (ulu, ulo); <b dict-key="slap anyone face">s.
+anyone&rsquo;s face: </b>vango-frapar (ulu); (<i>n</i>.) (manu-, vango-) frapo; (<i>clap of hands,
+whip, etc</i>.) klako; (<i>fig</i>.) insulto; (<i>interj</i>.) plump!; <b dict-key="slapdash
+way">s.dash way:</b> en maniero sen-reflekta.
+
+<b dict-key="slash">slash:</b> inciz-(eg)ar; sek-vundar; tranch-eg-achar; (<i>surface</i>)
+sek-achar, sek-vundar; (<i>a whip</i>) klakar; (<i>lash</i>) flogar; verg-agar.
+
+<b dict-key="slash">slash:</b> (<i>on face, etc</i>.) sek-vund-uro, inciz-uro.
+
+<b dict-key="slate">slate:</b> ardezo; (<i>min</i>.) skisto; (<i>for writing</i>) ardez-tabelo; <b
+dict-key="to slate">to s.:</b> (<i>a roof</i>) ardez-izar , -kovrar; <b dict-key="slate pencil">s.
+pencil: </b>ardeza-krayono; <b dict-key="slate roof">s. roof: </b>ardez-tekto; <b dict-key="to
+slate a person">to s. a person: </b>(<i>censure</i>) reprimandar; (<i>put on a political
+slate</i>)<b dict-key=""> </b>pozar ulu <i>o</i> la nomo di ulu<b dict-key=""> </b>sur listo di<b
+dict-key=""> </b>kandidati; kandidat-igar, -eskar, -esar; <b dict-key="slate">s.-colo</b>(<b
+dict-key="u">u</b>)<b dict-key="red">red: </b>ardez-ea.
+
+<b dict-key="slattern">slattern:</b> sordid-(in)o, persono des-neta; <b dict-key="slatternly">-ly:
+</b>des-neta, sordid-ema; neglij-anta, -ema.
+
+<b dict-key="slaughter">slaughter:</b> (<i>animals</i>) buchar; (<i>massacre</i>) masakrar
+(<i>cf</i>. egorjar); (<i>to cause to die</i>) mort-igar; (<i>murder</i>) ocidar; <b
+dict-key="slaughterhouse">s.house: </b>buch-eyo, -erio.
+
+<b dict-key="Slav">Slav</b>(<b dict-key="onian">onian</b>) <b dict-key="language">language:</b> la
+Slava.
+
+<b dict-key="slave">slave:</b> labor-egar sklav-atre; sklav-esar (ad); (<i>n</i>.) sklav-(ul)o; <b
+dict-key="slaver">-er: </b>(<i>dealer</i>) sklav-vend-isto; (<i>ship</i>) sklav-navo; (<i>v</i>.)
+bavar; <b dict-key="slavry">-ry: </b>sklav-eso; <b dict-key="to reduce to slavery">to reduce to
+s.ry: </b>sklav-igar (ulu); <b dict-key="slavish">-ish:</b> -ala, -atra, -ema.
+
+<b dict-key="slay">slay:</b> mort-igar; (<i>assassinate</i>) asasinar (<i>see</i> <b
+dict-key="slaughter">slaughter</b>).
+
+<b dict-key="sled">sled:</b> glit-vetur-o; <b dict-key="sledge">-ge: </b>(<i>tr</i>.) transportar
+(ulo) per glit-vetur-(eg)o; <b dict-key="sledge">sledge-hammer:</b> martel-ego, forjo-martel-ego.
+
+<b dict-key="sleek">sleek:</b> (<i>smooth</i>) glat-a, (<i>v</i>.) -igar; (<i>of horses</i>)
+pilo-glata; (<i>polished</i>) polis-ita; <b dict-key="sleeky">-y: </b>(<i>of persons</i>)
+hipokrita, ruz-ema, dolc-acha.
+
+<b dict-key="sleep">sleep:</b> (<i>intr</i>.) (<i>be asleep</i>) dormar; (<i>stay for the
+night</i>) lojar, kushar su ye; <b dict-key="to be sleepy">to be sleepy: </b>somnolar; <b
+dict-key="sleep like a top">s. like a top: </b>dormar tranquile; <b dict-key="sleep in peace">s. in
+peace: </b>(<i>fig</i>.) repozar pac-oze; <b dict-key="to sleep out">to s. out: </b>(<i>as of
+servants</i>) lojar exter la domo, la hemo; <b dict-key="lack of sleep">lack of s.: </b>manko di
+dormo; (<i>insomnia</i>) ne-dorm-iv-eso; <b dict-key="sound sleep">sound s.: </b>dormo profunda; <b
+dict-key="to go to sleep">to go to s.: </b>dorm-eskar; <b dict-key="to awake from sleep">to awake
+from s.: </b>vekar; <b dict-key="sleeper">s.er: </b>dorm-anto; (<i>on R.R. track</i>) travers-o,
+-o-trabo (fer-voy-ala); (<i>sleeping car</i>) lit-vagono; <b dict-key="sleep walking">s.- walking:
+</b>somnambul-(ad)o, -eso; <b dict-key="sleepy">-y: </b>somnol-anta, -ema; dorm-ema.
+
+<b dict-key="sleet">sleet:</b> (<i>intr., impers.</i>) grel-etar, -eti.
+
+<b dict-key="sleeve">sleeve:</b> maniko; <b dict-key="to laugh in one sleeve">to laugh in
+one&rsquo;s s.:</b> cel-ate ridar (<i>see</i> <b dict-key="cuff">cuff</b>).
+
+<b dict-key="sleigh">sleigh:</b> glit-veturo, -kalesho; <b dict-key="sleighing">-ing:
+</b>glit-vetur-veh-ado; glit-vetur-transporto.
+
+<b dict-key="sleight of hand">sleight of hand:</b> eskamot-o, -ar.
+
+<b dict-key="slender">slender:</b> (<i>svelte</i>) gracila; (<i>thin and long</i>) tenua;
+(<i>weak</i>) febla; lejera; (<i>not amply supplied</i>) povra, streta, meskina; (<i>small</i>)
+mikra; <b dict-key="slender stalk">s. stalk: </b>stipo tenua; <b dict-key="slender waist">s. waist:
+</b>tayo tenua; <b dict-key="slender repast">s. repast: </b>repasto lejera, repast-eto; <b
+dict-key="slender means">s. means: </b>febla moyeni <i>o</i> hav-aji.
+
+<b dict-key="sleuth">sleuth:</b> traco-serch-ero; detektivo; <b dict-key="sleuth">s.-hound:
+</b>chas-hundo.
+
+<b dict-key="slice">slice:</b> tranchar (ulo, en lonchi, en peci).
+
+<b dict-key="slice">slice:</b> (<i>n</i>.) loncho; tranch-ajo; <b dict-key="slice of bread and
+butter">s. of bread and butter: </b>pan-loncho butr-iz-ita.
+
+<b dict-key="slick">slick:</b> (<i>clever</i>) habila; ruz-oza, -ema; (<i>smooth</i>) glata.
+
+<b dict-key="slide">slide:</b> (<i>intr</i>.) glit-ar; (<i>tr</i>.) -igar (<i>cf</i>. shovar,
+pulsar; insinuar).
+
+<b dict-key="slide">slide:</b> (<i>act</i>) glit-o; (<i>groove</i>) kuliso; (<i>place for
+sliding</i>) glit-eyo; <b dict-key="slide">s.-valve: </b>shibro; (<i>for microscope,
+magiclantern</i>) vitro; <b dict-key="photographic slide">photographic s.:</b> diapozitivo; <b
+dict-key="rock slide">rock s.: </b>rok-krul-(ad)o; <b dict-key="slideing door">s.ing door:
+</b>kulis-pordo; <b dict-key="slideing scale">s.ing scale: </b>mov-ebla skalo.
+
+<b dict-key="slight">slight:</b> faliar <i>od</i> omisar la respekto ad ulu; des-, ne-respektar;
+(<i>of things</i>) ne-egardar, ne-konsiderar; neglijar (ulu, ulo); (<i>n</i>.) des-,
+ne-respekt-ajo; insult-eto.
+
+<b dict-key="slight">slight:</b> (<i>adj</i>.) (<i>small</i>) mikra (<i>cf</i>. <i>suffix</i>
+-eta); (<i>thin</i>) dina; (<i>long and thin</i>) tenua (<i>cf</i>. magra); (<i>weak</i>) febla;
+(<i>light</i>) lejera; <b dict-key="a slight wound">a s. wound: </b>lejera vund-uro; <b
+dict-key="slightly">-ly: </b>(<i>somewhat</i>) poke (<i>cf</i>. kelke); <b dict-key="slighting
+glance">s.ing glance: </b>des-estim-ala regard-(et)o.
+
+<b dict-key="slily">slily: </b>disimul-eme; (<i>mischievously</i>) malic-e, -oze, -eme.
+
+<b dict-key="slim">slim:</b> (<i>tenuous</i>) tenua; (<i>lank</i>) magra; (<i>svelte</i>) gracila
+(<i>see</i> <b dict-key="slender">slender</b>).
+
+<b dict-key="slime">slime:</b> slamo; <b dict-key="slimy">-my:</b> slam-oza, -ema; viskoza;
+glutin-iva; (<i>bot</i>.) muk-oza.
+
+<b dict-key="sling">sling:</b> lansar, jetar (ulo ad); (<i>with a s.</i>) frond-agar; (<i>with a
+strop</i>) strop-izar, -ligar; (<i>suspend</i>) suspendar; <b dict-key="sling a hammock">s. a
+hammock:</b> tensar hamako.
+
+<b dict-key="sling">sling:</b> (<i>for throwing</i>) frondo; (<i>strap</i>) stropo; (<i>as for a
+broken limb</i>) sharpo.
+
+<b dict-key="slink">slink:</b> furt-eme, -atre en-irar, ek-irar (<i>cf</i>. insinuar su; eskapar
+sekrete).
+
+<b dict-key="slip">slip:</b> (<i>slide</i>) (<i>intr</i>.) glit-ar; (<i>tr</i>.) glit-igar
+(<i>cf</i>. shovar, insinuar); (<i>skid</i>) ripar; (<i>stumble</i>) mis-pazar (<i>also fig</i>.)
+<b dict-key="slip away">s. away: </b>eskapar (<i>od</i>, ek-irar, fugar) sekrete (<i>od</i>,
+furt-atre); <b dict-key="to slip down">to s. down: </b>falar glit-ante; <b dict-key="slip off">s.
+off: </b>(<i>clothes</i>) des-metar; <b dict-key="my foot slipped">my foot s.ped: </b>me mis-pazis;
+(<i>take off</i>) de-prenar; <b dict-key="slip on">s. on: </b>(<i>a garment</i>) metar, vest-izar;
+<b dict-key="slip the hounds">s. the hounds: </b>des-ligar, liber-igar la hundi; <b dict-key="the
+years slipped by">the years s.ped by: </b>la yari preter-pasis; <b dict-key="to let slip">to let
+s.: </b>lasar irar; liber-igar; (<i>utter inadverdently</i>) dicar (ulo) sen-reflekte; <b
+dict-key="I slipped">I s.ped: </b>(<i>fall</i>) falar (<i>cf</i>. krular).
+
+<b dict-key="slip">slip:</b> (<i>act of slipping</i>) glito; (<i>lapse in speech, etc.</i>)
+(parol-)eroro; mis-judiko; mis-pazo; kulp-eto; (<i>long narrow piece</i>) bendo; (<i>leash</i>)
+lig-ilo; (<i>twig</i>) stip(et)o (por plantacar); (<i>dock</i>) doko; (<i>groove</i>) kuliso;
+(<i>of earth, of rock</i>) (ter-, roko-) krulo; <b dict-key="to give anyone the slip">to give
+anyone the s.:</b> evitar (ulu); deceptar; ne satisfacar sua promiso; eskap-ar; abandonar (ulu); <b
+dict-key="slip of the pen">s. of the pen: </b>skrib-eroro; <b dict-key="slip of paper">s. of paper:
+</b>papera<b dict-key=""> </b>bendo<b dict-key=""> </b><i>od</i><b dict-key="">, </b>pec(et)o;<b
+dict-key="slip of a wheel"> s. of a wheel:</b> roto-slipo, -ripo.
+
+<b dict-key="slip">slip-knot:</b> glit-nodo.
+
+<b dict-key="slipper">slipper:</b> pantoflo; <b dict-key="Turkish slipper">Turkish s.: </b>babucho;
+(<i>as of the pope</i>) shu-eto.
+
+<b dict-key="slippery">slippery:</b> glit-ig-anta, -iva; (<i>not easily held</i>) des-facile
+ten-ebla; <b dict-key="slippery road">s. road: </b>voyo glit-ig-iva, -ig-ema; (<i>evasive</i>)
+elud-ema; (<i>tricky</i>) ruz-oza, -ema.
+
+<b dict-key="slipshod">slipshod:</b> (<i>careless</i>) neglij-anta, -ema; des-ordin-ita; sen-sucia.
+
+<b dict-key="slit">slit:</b> fend-ar; -o, -uro.
+
+<b dict-key="sliver">sliver:</b> split-o, (<i>v</i>.) -igar, -eskar.
+
+<b dict-key="slobber">slobber:</b> (<i>intr</i>.) bavar.
+
+<b dict-key="sloe">sloe:</b> prunelo.
+
+<b dict-key="slogan">slogan:</b> slogano.
+
+<b dict-key="sloop">sloop:</b> slupo.
+
+<b dict-key="slop">slop:</b> (<i>spill</i>) (ek-)vars-achar; (<i>make sloppy</i>) makul-izar
+<i>o</i> sordid-igar per liquido; <b dict-key="slop bowl">s. bowl:</b> baseno por rins-aquo.
+
+<b dict-key="slope">slope:</b> (<i>tr., intr.</i>) inklinar.
+
+<b dict-key="slope">slope:</b> (<i>geom</i>.) inklin-eso (<i>cf</i>. obliqu-eso); (<i>downward</i>)
+pento; (<i>upward</i>) rampo; (<i>shelf, embankment</i>) taluso; <b dict-key="sloping">-ping:
+</b>inklin-anta, -ata; (<i>of a bank</i>) talusa; obliqua.
+
+<b dict-key="sloppy">sloppy:</b> (<i>wet</i>) humid-(ach)a; (<i>muddy</i>) fang-oza.
+
+<b dict-key="slops">slops:</b> (<i>refuse</i>) for-jet-aji (fluida); rins-aquo.
+
+<b dict-key="slot">slot:</b> (<i>groove</i>) ranuro, kuliso; streta apert-uro; mikra tru-eto.
+
+<b dict-key="sloth">sloth:</b> indolent-(em)eso; oci-em-o; (<i>slowness</i>) lent-eso; <b
+dict-key="slothful">-ful: </b>oci-ema, -era; indolenta.
+
+<b dict-key="slouch">slouch:</b> marchar, sidar ne-rekte <i>o</i> plumpe <i>o</i> ne-graci-oze.
+
+<b dict-key="slouch hat">slouch hat:</b> chapel(eg)o kun mola rebord-(eg)o.
+
+<b dict-key="slough">slough:</b> (<i>dry crust, scab; med.</i>) eskaro;
+exfoli-uro&nbsp;gangren-oza; (<i>of a snake</i>) exfoli-ita pelo; (<i>quagmire</i>) slam-truo,
+-eyo; <b dict-key="slough off">s. off:</b><i> </i>exfoli-ar; -eskar, -ifar; (<i>intr</i>.)
+gangrenar; <b dict-key="the slough of despond">the s. of despond: </b>l&rsquo;abismo di des-espero.
+
+<b dict-key="sloven">sloven:</b> des-net-a, -(ul)o; sordid-eg-a, -(ul)o; -ach-a, -(ul)o; <b
+dict-key="slovenly">-ly: </b>des-neta, sordida; neglij-acha.
+
+<b dict-key="slow">slow:</b> (<i>belated, behindhand, of clocks, etc.</i>) tarda; (<i>not quick,
+sluggish</i>) lenta, ne-rapida; (<i>wearisome</i>) ted-anta; (<i>dull</i>) stupida;
+(<i>indolent</i>) indolenta, oci-era, ne-ag-ema; <b dict-key="to slow down">to s. down: </b>(<i>a
+walk, etc</i>.) (plu-)lent-igar, -eskar; <b dict-key="the clock is five minutes slow">the clock is
+five minutes s.: </b>la horlojo tard-esas per kin minuti; <b dict-key="to be slow of speech">to be
+s. of speech: </b>parolar lente; <b dict-key="slowness">s.ness: </b>(<i>of watches, clocks</i>)
+tard-eso, -igo, -esko.
+
+<b dict-key="slowworm">slowworm:</b> orveto.
+
+<b dict-key="slue">slue:</b> turnar, rotacar (sur, cirkum); (<i>twist</i>) tordar.
+
+<b dict-key="slug">slug:</b> (<i>snail</i>) limako; (paf-) lingot-eto; kugl-(ach)o.
+
+<b dict-key="sluggard">sluggard:</b> oci-er-a, -(ul)o; nul-fac-ant-a, -o; indolent-eg-a, -(ul)o.
+
+<b dict-key="sluggish">sluggish:</b> (<i>inert</i>) inerta; lenta, ne-rapida; (<i>lazy</i>) oci-era.
+
+<b dict-key="sluice">sluice:</b> sluz-o, -pordo, -baseno (<i>cf</i>. shibro).
+
+<b dict-key="slum">slum:</b> povra quartero (di urbo).
+
+<b dict-key="slumber">slumber:</b> (<i>intr</i>.) dorm-ar, -o (<i>cf</i>. somnolar).
+
+<b dict-key="slump">slump:</b> (<i>fall down</i>) (<i>intr</i>.) falar; (<i>of values</i>)
+min-valor-eskar; diminutar.
+
+<b dict-key="slur">slur:</b> (<i>in mus</i>.) lig-signo; (<i>reproach</i>) reprocho (<i>cf</i>.
+kalumnio; difamo; denigro; stigmato; lezo); <b dict-key="to cast a slur upon">to cast a s.
+upon:</b> denigrar; blamar; <b dict-key="to slur over">to s. over: </b>facar ne-serioze; pasar
+lejer-ache; (<i>words</i>) pronuncar ne-klare.
+
+<b dict-key="slush">slush:</b> (<i>melting snow</i>) liquid-atra nivo; (<i>as for masts</i>)
+lubrifik-graso.
+
+<b dict-key="slut">slut:</b> sordid-eg-ino, -ach-ino; (<i>female dog</i>) hund-ino.
+
+<b dict-key="sly">sly:</b> (<i>cunning</i>) disimul-ema, -anta; ruz-ema; (<i>secretive</i>) cel-ema
+(<i>cf</i>. subtila; malic-ema); <b dict-key="to look at slyly">to look at s.ly: </b>regardar
+celate.

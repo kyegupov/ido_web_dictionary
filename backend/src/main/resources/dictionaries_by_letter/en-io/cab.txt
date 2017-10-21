@@ -1,0 +1,36 @@
+<b dict-key="cab">cab: </b>(<i>four-wheeled</i>) fiakro; (<i>two-wheeled</i>) kabrioleto; <b
+dict-key="cab horse">c. horse: </b>fiakro-kavalo. 
+
+<b dict-key="cabal">cabal:</b> (<i>intrigue, plot</i>) komplot-o, konspir-o, intrigo;
+(<i>clique</i>) komplot-ant-aro, konspir-ant-aro.
+
+<b dict-key="cabala">cabala: </b>kabalo.
+
+<b dict-key="cabalistic">cabalistic: </b>kabal-ala, -atra.
+
+<b dict-key="cabaret">cabaret:</b> kabareto.
+
+<b dict-key="cabbage">cabbage:</b> kaulo; <b dict-key="cabbage head">c. head:</b> kaulo-kapo; <b
+dict-key="cabbagesoup">c.soup:</b> kaulo-supo; <b dict-key="cabbage rose">c. rose:</b> centifolio;
+<b dict-key="headed cabbage">headed c.: </b>kap-kaulo.
+
+<b dict-key="cabbage moth">cabbage moth:</b> (<i>zool.</i>) pierido.
+
+<b dict-key="cabin">cabin: </b>(<i>hut</i>) kabano; (<i>ship&rsquo;s</i>) kabino; <b
+dict-key="cabin boy">c. boy: </b>moso; <b dict-key="cabin passenger">c. passenger: </b>pasaj-anto
+di la unesma klaso.
+
+<b dict-key="cabinet">cabinet: </b>(<i>small cupboard</i>) armor-eto; (<i>small closet</i>)
+kabin-eto, chambr-eto; (<i>as for curiosities</i>) kabin-eto, fako-moblo; kolekt-aj-vetrino; <b
+dict-key="cabinet member">c. member: </b>ministr-o, -ar-ano; <b dict-key="cabinet maker">c. maker:
+</b>menuzisto, (<i>fig.</i>) eben-isto.
+
+<b dict-key="cable">cable: </b>(<i>moor</i>) kabl-agar, amar-agar; (<i>telegraph</i>)
+kablo-telegrafar; (<i>noun</i>) amaro, kablo, kord-ego; (<i>telegraphic</i>) kablo; <b
+dict-key="wire covering about a cable">wire covering about a c.: </b>kabl-armaturo; <b
+dict-key="cable gram">c. gram: </b>kablo-telegramo; <b dict-key="cable length">c. length: </b>183
+metri.
+
+<b dict-key="caboose">caboose: </b>(<i>ship&rsquo;s</i>) koqu-eyo.
+
+<b dict-key="cabriolet">cabriolet: </b>kabrioleto.

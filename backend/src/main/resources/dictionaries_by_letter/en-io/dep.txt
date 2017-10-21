@@ -1,0 +1,104 @@
+<b dict-key="depart">depart: </b>(<i>intr</i>.) (<i>go away</i>, <i>also fig</i>.) departar (ek,
+de); livar; abandonar, ek-irar (ula loko); for-irar; (<i>deviate</i>) deviacar, eskartar (de);
+(<i>from a custom, law</i>) derogar; (<i>die</i>) mortar; (<i>make d</i>.) depart-igar.
+
+<b dict-key="department">department: </b>(<i>territorial</i>) departmento; (<i>official,
+executive</i>) ministerio; (<i>section, physical and professional</i>) fako; (<i>jurisdiction</i>)
+resortiso; <b dict-key="head of department">head of d.: </b>(<i>as in some business</i>) fak-estro.
+
+<b dict-key="departure">departure: </b>departo, for-iro (<i>cf</i>. <b
+dict-key="depart">depart</b>).
+
+<b dict-key="depend">depend: </b>(<i>for support;</i> <i>log</i>.) (<i>intr</i>.) dependar (de);
+(<i>trust</i>) (<i>intr</i>.) fidar (ad ulu, ad ulo); (<i>hang from</i>) pendar (de); <b
+dict-key="dependable">-able: </b>fid-inda.
+
+<b dict-key="dependent">dependent: </b>depend-anta, -anto; (<i>pendant</i>) pend-anta, -ajo; <b
+dict-key="to be dependent">to be d.: </b>dependar (de ulu, ulo), esar depend-anta; (<i>to, under
+the jurisdiction of</i>) resortis-anta (de).
+
+<b dict-key="dependence,dependency">dependence, -y: </b>dependo, fido; (<i>foreign, etc.</i>)
+kolonio, anex-ajo; <b dict-key="no dependence can be placed on him">no d. can be placed on him:
+</b>on ne povas fidar ad il.
+
+<b dict-key="dephlegm">dephlegm:</b> deflegmar.
+
+<b dict-key="depict">depict: </b>deskriptar, piktar.
+
+<b dict-key="depilate">depilate: </b>sen-pil-igar.
+
+<b dict-key="deplete">deplete:</b> diminutar, des-plen-igar, vaku-igar, mikr-igar.
+
+<b dict-key="depletive">depletive: </b>exhaust-iva, konsum-ema.
+
+<b dict-key="deplorable">deplorable: </b>deplor-inda.
+
+<b dict-key="deplore">deplore:</b> deplorar (<i>cf</i>. regretar, plendar, lamentar).
+
+<b dict-key="deploy">deploy: </b>des-faldar, developar.
+
+<b dict-key="depolarize">depolarize: </b>des-polar-igar.
+
+<b dict-key="deponent">deponent: </b>(<i>law</i>) atest-anto, testo; (<i>gram</i>.) deponant-a, -o.
+
+<b dict-key="depopulate">depopulate: </b>des-popul-izar.
+
+<b dict-key="deport">deport: </b>(<i>send out of the country</i>) exilar; (<i>to a penal
+colony</i>) deportar; (<i>behave</i>) (<i>intr</i>.) kondutar.
+
+<b dict-key="deportment">deportment: </b>(<i>conduct, looks</i>) kondut-(ad)o; su-teno; manieri.
+
+<b dict-key="depose">depose: </b>(<i>bear witness</i>) atestar; (<i>deposit</i>) depozar;
+(<i>reduce in rank</i>) degradar; revokar; (<i>a sovereign</i>) des-tron-izar.
+
+<b dict-key="deposit">deposit: </b>(<i>gen</i>.) depoz-ar (ulo); (<i>act</i>) -o; (<i>thing</i>)
+-ajo; (<i>sediment</i>) sedimento; (<i>object pledged</i>) gajo; gajo-pekunio; (<i>put on,</i>
+<i>lay on</i>) pozar (ulo) sur.
+
+<b dict-key="depositary,depository">depositary, depository: </b>depoz-ario, -eyo.
+
+<b dict-key="deposition">deposition: </b>(<i>of witness</i>) atesto, -uro; (<i>a depositing</i>)
+depoz-o, (<i>thing</i>) -ajo; (<i>part payment</i>) part-ala pago; (<i>of a sovereign</i>)
+des-tron-izo; (<i>from office</i>) revoko, degrado.
+
+<b dict-key="depositor">depositor: </b>depoz-anto,<b dict-key=""> </b>-ero.
+
+<b dict-key="depot">depot: </b>(<i>for goods</i>) depoz-eyo; magazino; (<i>R.R.</i>) staciono.
+
+<b dict-key="deprave">deprave: </b>koruptar; vici-igar, -izar; pervers-igar.
+
+<b dict-key="depravity">depravity: </b>sen-etik-eso, degenero; vici-oz-eso, -ajo; malign-eso, -ajo.
+
+<b dict-key="deprecate">deprecate: </b>regretar; des-konsilar (projeto); des-aprobar.
+
+<b dict-key="depreciate">depreciate: </b>min-valor-igar, -eskar; (<i>vilify</i>) denigrar,
+maldicensar (pri).
+
+<b dict-key="depreciative">depreciative </b>(<b dict-key="word">word</b>)<b dict-key="">:
+</b>pejorativ-a, -o.
+
+<b dict-key="depredate">depredate: </b>spoliar; (<i>by violence, ravish</i>) raptar;
+(<i>devastate</i>) devastar; <b dict-key="depredator">-tor: </b>spoli-anto, -ero.
+
+<b dict-key="depress">depress: </b>(<i>phys., moral</i>) depresar (ulu, ulo) (<i>cf</i>.
+min-valor-igar, plat-igar); <b dict-key="depressive">-ive: </b>depres-iva, -ema; <b
+dict-key="depression">-ion: </b>depres-o, -eso, -ajo; des-gay-igo, -eso; melankolio.
+
+<b dict-key="deprive">deprive: </b>privacar (ulu, su) (<i>cf</i>. frustrar, spoliar, revokar,
+interdiktar); <b dict-key="deprivation">-vation: </b>(<i>act</i>) privac-o, (<i>state</i>) -eso.
+
+<b dict-key="depth">depth: </b>(<i>quality</i>) profund-eso; (<i>object, place</i>) -ajo;
+(<i>cavity</i>) kav-ajo; <b dict-key="depth of night">d. of night: </b>mezo-nokto, meze di nokto.
+
+<b dict-key="depurant">depurant: </b>pur-ig-iva, -ivo.
+
+<b dict-key="deputation">deputation: </b>(<i>act</i>) deput-o; (<i>function</i>) -at-eso;
+(<i>collect</i>.) -at-aro, deleg-it-aro.
+
+<b dict-key="depute">depute: </b>deputar, delegar.
+
+<b dict-key="deputize">deputize: </b>deputar.
+
+<b dict-key="deputy">deputy: </b>deput-ito; deleg-ito; (<i>person sent</i>) send-ata, -ito;
+(<i>substitute</i>) suple-anto; (<i>assistant</i>) adyunto; vice-, sub-; <b dict-key="chamber of
+deputys">chamber of d.s: </b>chambro di deput-ati.

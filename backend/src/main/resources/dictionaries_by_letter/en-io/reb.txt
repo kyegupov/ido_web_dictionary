@@ -1,0 +1,22 @@
+<b dict-key="rebate">rebate: </b>(<i>value, price</i>) rabat-ar, -o; <b dict-key="at a rebate">at a
+r.: </b>rabate.
+
+<b dict-key="rebel">rebel: </b>(<i>intr</i>.) revoltar (kontre); (<i>personally</i>) rebel-eskar,
+-esar.
+
+<b dict-key="rebel">rebel: </b>(<i>person</i>) rebel-a, -(ul)o, revolt-anto, -into.
+
+<b dict-key="rebellion">rebellion: </b>rebel-eso, -esko; revolto.
+
+<b dict-key="rebellious">rebellious: </b>rebela.
+
+<b dict-key="rebuff">rebuff: </b>(<i>repulse</i>) repulsar; (<i>decline</i>) refuzar; <b
+dict-key="a sharp rebuff">a sharp r.: </b>(<i>refusal</i>) akra refuzo.
+
+<b dict-key="rebuild">rebuild: </b>ri-konstruktar.
+
+<b dict-key="rebuke">rebuke: </b>reprimand-ar, -o.
+
+<b dict-key="rebus">rebus: </b>rebuso.
+
+<b dict-key="rebut">rebut: </b>refutar (<i>cf</i>. kontre-argumentar, -pledar).

@@ -1,0 +1,34 @@
+<b dict-key="ice">ice: </b>glaci-o; <b dict-key="to make into ice">to make into i.:</b> -igar
+(ulo); <b dict-key="become ice">become i.:</b> -eskar; <b dict-key="piece of ice">piece of i.:</b>
+-peco, -amaso; <b dict-key="icecream">i.cream:</b> (<i>fig</i>.) (kremo-) glaci-o, -ajo; <b
+dict-key="ice bed">i. bed:</b> -strato; <b dict-key="breaking up or melting of ice">breaking up or
+melting of i.:</b> -o-rupt-ado, dis-solv-ado; <b dict-key="icebox">i.box:</b> -armoro; <b
+dict-key="iceberg">i.berg:</b> -amas-ego, -mont(et)o (flotacanta); <b dict-key="icd">-d:
+</b>(<i>with ice</i>) glaci-iz-ita; (<i>chilled</i>) des-varm-esk-inta; <b
+dict-key="icing">-ing:</b> sukr-iz-ajo.
+
+<b dict-key="ichneumon">ichneumon:</b> (<i>insect</i>) ikneumono.
+
+<b dict-key="icthyophagous">icthyophagous:</b> fish-manj-anta.
+
+<b dict-key="icthyosaurus">icthyosaurus:</b> iktyosauro.
+
+<b dict-key="icicle">icicle:</b> glacio-pend-ajo, -dento.
+
+<b dict-key="iciness">iciness:</b> glaci-ala kold-eso.
+
+<b dict-key="icon">icon:</b> ikono.
+
+<b dict-key="iconoclast">iconoclast:</b> ikonoklast-a, -o.
+
+<b dict-key="iconography">iconography:</b> ikonografio.
+
+<b dict-key="iconometer">iconometer:</b> ikonometro.
+
+<b dict-key="icosahedron">icosahedron:</b> ikosaedro.
+
+<b dict-key="icterus">icterus:</b> iktero.
+
+<b dict-key="ictus">ictus:</b> (<i>med.</i>) iktuso; (<i>music, poet.</i>) &laquo;iktus&raquo;.
+
+<b dict-key="icy">icy:</b> glaci-a, -ala, -atra.

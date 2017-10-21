@@ -1,0 +1,395 @@
+<b dict-key="fa">fa:</b> (<i>mus.</i>) fa: fourth note of the diatonic scale.
+
+<b dict-key="fabo">fab-o:</b> (<i>bot.</i>) bean. &mdash; FIS
+
+<b dict-key="fablo">fabl-o:</b> fable; <b dict-key="fablatra,fabloza">-atra, -oza:</b> fabulous,
+fictitious. &mdash; DEFIS
+
+<b dict-key="fabrikar">fabrik-ar:</b> (<i>tr.</i>) to manufacture (cf. <b
+dict-key="manufabrikar">manu-fabrikar</b>); <b dict-key="fabrik">-(ad)o:</b> fabrication,
+manufacture; <b dict-key="fabrikuro">-uro:</b> object made, <b dict-key="fabrikerio">-erio:</b>
+factory, works, mills (cf. <b dict-key="manufakturo">manufakturo</b>); <b
+dict-key="fabrikomarko">-o-marko:</b> trademark. Def.: Facar laboruri segun procedi mashinala o
+mekanikal. Ex.: Fabrikar horloji, stofi. &mdash; DEFIRS
+
+<b dict-key="facar">fac-ar:</b> (<i>tr., lit. and fig.</i>) to make (a concrete object); to do,
+perform (a certain act); <b dict-key="facigar">-igar:</b> to cause (<b dict-key="ulu">ulu</b>) to
+make (<b dict-key="ulo">ulo</b>); to have (<b dict-key="ulo">ulo</b>) done (<b dict-key="da ulu">da
+ulu</b>); (cf. <b dict-key="igar">igar</b>); <b dict-key="facesar">-esar:</b> to be made,
+performed; <b dict-key="faco">-o:</b> making, doing; <b dict-key="facanto,ero">-anto, ero:</b>
+maker, doer; <b dict-key="facebla">-ebla:</b> practicable, feasible; <b dict-key="facar shui">-ar
+shui:</b> to make shoes; <b dict-key="facar bona komercado">-ar bona komercado:</b> to do a good
+business. V. exp.: vid. <b dict-key="agar">agar.</b> &mdash; FIS
+
+<b dict-key="faceto">facet-o:</b> facet (as of a diamond); <b dict-key="facetizar">-izar:</b> to
+put f.s on, cut with f.s; <b dict-key="facetizita,facetoza">-izita, -oza:</b> faceted. &mdash;
+DEFIRS
+
+<b dict-key="facio">faci-o:</b> (<i>gen.</i>) front part or view (of anything) (cf. <b
+dict-key="vizajo,averso">vizajo, averso</b>); <b dict-key="faciala">-ala:</b> facial, frontal; <b
+dict-key="mi facio">mi- -o:</b> (<i>photog.</i>) pose between full face and profile; <b
+dict-key="facio kontre facio">-o kontre- -o:</b> f. to f.; <b dict-key="avan la facio">avan la
+-o:</b> (<i>fig.</i>) in the presence of. Def.: L'avana parto di irga korpo; V-679. Ant.: <b
+dict-key="reverso,dorso">reverso, dorso.</b> &mdash; EFIS
+
+<b dict-key="facies">&laquo;facies&raquo;:</b> (<i>anat., geol., biol.</i>) facies: general aspect
+or appearance of anything.
+
+<b dict-key="facila">facil-a:</b> easy (to do), facile, not difficult; <b
+dict-key="facileso">-eso:</b> facility (quality); <b dict-key="facilajo">-ajo:</b> an e. thing; <b
+dict-key="faciligar">-igar:</b> to facilitate (<b dict-key="ulo,ad ulu">ulo, ad ulu</b>); <b
+dict-key="facile laborar">-e laborar:</b> to work easily; <b dict-key="facile komprenebla">-e
+komprenebla:</b> e. to understand; <b dict-key="facilmora muliero">-mora mulier-o:</b> a woman of
+e. virtue. &mdash; EFIS
+
+<b dict-key="facinar">facin-ar:</b> (<i>tr.</i>) to fascinate. Ex.: L'amoro facinas la okuli. On
+dicas ke la serpento facinas sua viktimi. &mdash; DEFIS
+
+<b dict-key="facionar">facion-ar:</b> (<i>intr.</i>) to be on sentry duty, mount guard; <b
+dict-key="faciono">-o:</b> sentry watch; <b dict-key="facionanto,facionero">-anto, -ero:</b> sentry
+(cf. <b dict-key="sentinelo">sentinelo</b>); <b dict-key="facionigar">-igar:</b> to post (a
+sentry); <b dict-key="chanjar la faciono">chanjar la -o:</b> to relieve the watch. Def.: Stacar en
+posteno, gardar posteno; VII-130. &mdash; F
+
+<b dict-key="faetono">faeton-o:</b> (<i>carriage</i>) phaeton; (<i>myth.</i>) Phaethon. &mdash;
+DEFIRS
+
+<b dict-key="fago">fag-o:</b> (<i>bot.</i>) beech(-tree) (genus: Fagus); <b
+dict-key="fagofrukto">-o-frukto:</b> b. nut; <b dict-key="fageyo">-eyo:</b> b. grove. &mdash; ISL
+
+<b dict-key="fagocito">fagocit-o:</b> (<i>biol.</i>) phagocyte.
+
+<b dict-key="fagocitoso">fagocitos-o:</b> (<i>biol.</i>) phagocytose.
+
+<b dict-key="fairo">fair-o:</b> (<i>also fig.</i>) fire; <b dict-key="fairoza,fairatra">-oza,
+-atra:</b> fiery, igneous; <b dict-key="faireyo">-eyo:</b> f. place, hearth (cf. <b
+dict-key="herdo">herdo</b>); <b dict-key="fairea">-ea:</b> f. colored; <b
+dict-key="fairifar">-ifar:</b> to produce f. (as by friction); <b dict-key="fairifilo">-if-ilo:</b>
+f. producer; <b dict-key="fairespruva briko">-espruva briko:</b> fireproof brick; <b
+dict-key="fairextingilo">-exting-ilo:</b> f. extinguisher; <b
+dict-key="fairoglutero">-o-glut-ero:</b> fire-eater; <b dict-key="fairogreto">-o-greto:</b> f.
+grate; <b dict-key="fairohoko">-o-hoko:</b> f. rake, (bent) poker; <b
+dict-key="fairokulto">-o-kulto:</b> f. worship; <b dict-key="fairomusho">-o-musho:</b> f. fly (cf.
+<b dict-key="luciolo,lampiro">luciolo, lampiro</b>); <b dict-key="fairopincego">-o-pinc-ego:</b> f.
+tongs; <b dict-key="fairoligno">-o-ligno:</b> f. wood; <b dict-key="pikar,suflar la fairo">pikar,
+suflar la -o:</b> to poke, to blow the f.; <b dict-key="fairpikilo">-pik-ilo:</b> poker;
+firing-bar; <b dict-key="fairoskreno">-o-skreno:</b> f. screen; <b
+dict-key="faireyaltapiso">-eyal-tapiso:</b> hearth rug; <b dict-key="fairostalo">-o-stalo:</b>
+steel for striking fire; <b dict-key="para fairo">para- -o:</b> fender, fire-guard; <b
+dict-key="palio fairo">palio- -o:</b> fire of straw; (cf. <b dict-key="incendio">incendio</b>).
+&mdash; DE
+
+<b dict-key="fako">fak-o:</b> anything portioned off, as a compartment, division (in a desk), stall
+(in a stable); branch, proper office, province, department, speciality (in a business, profession,
+government, field of knowledge); <b dict-key="faketo">-eto:</b> pigeon-hole; small specialty of
+duty, in research; <b dict-key="fakaro">-aro:</b> set or nest of drawers; <b
+dict-key="fakestro">-estro:</b> department head; <b dict-key="to ne esas en mea fako">to ne esas en
+mea -o:</b> that is out of my province; that's not in my line; <b dict-key="komprenar sua
+fako">komprenar sua fako:</b> to understand one's business. &mdash; D
+
+<b dict-key="fakiro">fakir-o:</b> fakir: Mahometan monk. &mdash; DEFIRS
+
+<b dict-key="fakochero">fakocher-o:</b> (2001) wart-hog. &mdash; FI
+
+<b dict-key="faksimilo">faksimil-o:</b> facsimile, exact copy. &mdash; DEFIRS
+
+<b dict-key="fakto">fakt-o:</b> fact; <b dict-key="fakta,faktala">-a, -ala:</b> real, relating to
+f.; <b dict-key="fakte">-e:</b> in fact; <b dict-key="faktala questiono">-ala questiono:</b> a
+question of f. &mdash; DEFIR
+
+<b dict-key="faktitivo">faktitiv-o:</b> (<i>gram.</i>) factitive: of or relating to a transitive
+verb that in some constructions requires an objective complement as well as an object.
+
+<b dict-key="faktoro">faktor-o:</b> (<i>math., metaph.</i>) factor. &mdash; DEFIRS
+
+<b dict-key="faktorio">faktori-o:</b> (<i>com.</i>) factory: trading agency. Def.: Kontoro di
+agenti di kompanio komercala en lando stranjera. &mdash; DEFIS
+
+<b dict-key="faktoriala,faktorialo">faktorial-a, -o:</b> (<i>math.</i>) factorial. &mdash; DE
+
+<b dict-key="faktotum">&laquo;faktotum&raquo;:</b> factotum: a doer of all kinds of work. &mdash;
+DEF
+
+<b dict-key="fakturo">faktur-o:</b> (<i>com.</i>) invoice, bill; <b dict-key="fakturo pagenda">-o
+pag-enda:</b> bill payable. &mdash; DFIS
+
+<b dict-key="fakultato">fakultat-o:</b> faculty, power of doing anything; (of a university)
+faculty; <b dict-key="grantar fakultato ad ulu">grantar fakultato ad ulu:</b> to grant a person the
+faculty (or power);<b dict-key="la fakultati natural"> la fakultati natural:</b> the natural
+faculties; <b dict-key="la fakultato di medicino">la fakultato di medicino:</b> the f. of medicine.
+&mdash; DEFIRS
+
+<b dict-key="fakultativa">fakultativ-a:</b> facultative, optional. &mdash; DEFIS
+
+<b dict-key="falar">fal-ar:</b> (<i>intr.</i>) to fall (down), tumble; <b
+dict-key="faletar">-etar:</b> to stumble (cf. <b dict-key="mispazar,pedbutar">mispazar,
+ped-butar</b>); <b dict-key="falanta">-anta:</b> falling; <b dict-key="falinta">-inta:</b> fallen,
+<b dict-key="faligar">-igar:</b> to cause to fall, to fell (<b dict-key="ulo,ulu">ulo, ulu</b>); <b
+dict-key="lasar falar">lasar falar:</b> to let (<b dict-key="ulo">ulo</b>) fall, drop (<b
+dict-key="ulo">ulo</b>). &mdash; DE
+
+<b dict-key="falango">falang-o:</b> (<i>anat., milit.</i>) phalanx. &mdash; DEFIRS
+
+<b dict-key="falansterio">falansteri-o:</b> (<i>sociol.</i>) phalanstery. &mdash; DEFIRS
+
+<b dict-key="falaropo">falarop-o:</b> (2001) (<i>ornit.</i>) phalarope: any of various small
+shorebirds (family Phalaropodidae) that resemble sandpipers but have lobate toes and are good
+swimmers. &mdash; EFIS
+
+<b dict-key="falbalo">falbal-o:</b> furbelow, flounce; <b dict-key="falbalizar">-izar:</b> to cover
+with f.s. &mdash; DFI
+
+<b dict-key="falco">falc-o:</b> (<i>carp.</i>) check, rebate, ledge (of a door or shutter). Def.:
+Speco de kanelo en la kadro di pordo, por recevar la bordo di ca pordo; V-621. &mdash; DR
+
+<b dict-key="falchar">falch-ar:</b> (<i>tr.</i>) to mow down (with a scythe); (<i>fig.</i>) to cut
+down, destroy; <b dict-key="falchajo">-ajo:</b> what is mowed, the crop; <b
+dict-key="falchedo">-edo:</b> swath, wind-row; <b dict-key="falchilo">-ilo:</b> scythe. &mdash; FI
+
+<b dict-key="faldar">fald-ar:</b> (<i>tr.</i>) to fold (a letter, etc.) (cf. <b
+dict-key="plisar">plisar</b>); <b dict-key="faldebla">-ebla:</b> foldable; (<i>fig.</i>) pliant
+(cf. <b dict-key="flexebla">flexebla</b>); <b dict-key="falduro">-uro:</b> a fold. &mdash; DE
+
+<b dict-key="faleno">falen-o:</b> (<i>ent.</i>) moth: genus Phalaena; (cf. <b
+dict-key="tineo">tineo</b>). &mdash; DEFIS
+
+<b dict-key="faliar">fali-ar:</b> (<i>tr., intr.</i>) to fail, miscarry, miss (an aim), not to
+succeed; (<i>com.</i>) to fail, to become insolvent without implication of disgrace (cf. <b
+dict-key="bankrotar">bankrotar</b>); <b dict-key="falio">-o:</b> failure, insolvency; <b
+dict-key="faliigar">-igar:</b> to cause to miss, to fail; to frustrate; <b
+dict-key="faliinto">-into:</b> insolvent person; <b dict-key="faliego">-ego:</b> debacle, break up,
+down-fall; <b dict-key="faliar renkontrar">-ar renkontrar:</b> fail to meet (<b
+dict-key="ulu">ulu</b>); <b dict-key="faliar ocidar su">-ar ocidar su:</b> fail to kill oneself; <b
+dict-key="me iros sen faliar">me iros sen -ar:</b> I will go without fail. &mdash; DEFIS
+
+<b dict-key="falko">falk-o:</b> (<i>nav.</i>) wash-board, weather- board. &mdash; FIS
+
+<b dict-key="falkono">falkon-o:</b> (<i>orni.</i>) falcon, hawk; <b
+dict-key="falkonarto">-arto:</b> falconry. &mdash; DEFIS
+
+<b dict-key="falsa">fals-a:</b> false, imitating in order to deceive as, f. hair, teeth, windows,
+signatures, money, jewels, drugs, etc.; not genuine, spurious; <b dict-key="falseso">-eso:</b>
+falsity; <b dict-key="falsajo">-ajo:</b> falsehood; <b dict-key="falsigar">-igar:</b> to falsify,
+pervert, adulterate (drugs) debase (coin); <b dict-key="falsamonetifisto,falsigero di
+moneti">falsa-monet-if-isto, fals-ig-ero di moneti:</b> forger, coiner; (cf. <b
+dict-key="artificala">artificala</b>). &mdash; DEFIRS
+
+<b dict-key="falseto">falset-o:</b> falsetto (voice). &mdash; DEFIRS
+
+<b dict-key="falva">falv-a:</b> fallow, fawn-colored, tawny, of a yellowish-brown color, pale red;
+<b dict-key="falva bestio">-a bestio:</b> fallow deer, stag, etc. (cf. <b
+dict-key="daimo">daimo</b>). &mdash; DF
+
+<b dict-key="famo">fam-o:</b> fame, renown; (cf. <b dict-key="reputo">reputo</b>); <b
+dict-key="famoza">-oza:</b> famous, celebrated; <b dict-key="famoz">-oz(ul)o:</b> a celebrity; <b
+dict-key="famizar">-izar:</b> to cover with fame, render illustrious. &mdash; DEFI
+
+<b dict-key="familio">famili-o:</b> (<i>also zool., bot.</i>) family, kin(dred); <b
+dict-key="familiala konsilantaro">-ala konsil-ant-aro:</b> f. counsel; <b dict-key="familiala
+simileso">-ala simil-eso:</b> family likeness; <b dict-key="vorto familio">vorto- -o:</b>
+(<i>gram.</i>) collection of words of the same root. &mdash; DEFIRS
+
+<b dict-key="familiara">familiar-a:</b> familiar, intimate; <b dict-key="familiareso">-eso:</b>
+familiarity (state), close acquaintance; <b dict-key="familiarajo">-ajo:</b> familiarity (act); <b
+dict-key="familiaraji produktas desestimo">-aji produktas des-estimo:</b> familiarities breed
+contempt; <b dict-key="familiarigar persono pri lua tasko">-igar persono pri lua tasko:</b> to
+familiarize a person with his job; <b dict-key="ne familiareskez kun male edukita personi">ne-
+-eskez kun male edukita personi:</b> do not get familiar with ill-bred people; <b
+dict-key="familiara amiko">-a amiko:</b> an intimate friend. Ex.: Lua vizajo esas familiara a me.
+Lua konduto esas tro familiara. &mdash; DEFIS
+
+<b dict-key="famino">famin-o:</b> famine. V. exp.: Ne esas hungro, mem general, ma manko di la
+maxim necesa nutrivi en tota lando o populo; IV-10 (cf. <b dict-key="indijar">indijar</b>). &mdash;
+EFI
+
+<b dict-key="fanar">fan-ar:</b> (<i>tr., agri.</i>) to winnow (grain). &mdash; DEF
+
+<b dict-key="fanatika">fanatik-a:</b> fanatical, <b dict-key="fanatik">-(ul)o:</b> a fanatic,
+bigot; <b dict-key="fanatikeso">-eso:</b> fanaticism; <b dict-key="fanatikigar">-igar:</b> to
+fanaticize (<b dict-key="ulu">ulu</b>); <b dict-key="fanatikeskar">-eskar:</b> to become a f.,
+infatuated (cf. <b dict-key="foleskar">fol-eskar</b>). Ex.: Fanatika zelo, doktrini, homi. &mdash;
+DEFIRS
+
+<b dict-key="fanerogama,fanerogamo">fanerogam-a, -o:</b> (<i>bot.</i>) phanerogamous (plant).
+&mdash; DEFIS 
+
+<b dict-key="fanfaro">fanfar-o:</b> (<i>mus.</i>) fanfare: flourish of trumpets. &mdash; DEFIR 
+
+<b dict-key="fanfaronar">fanfaron-ar:</b> (<i>intr.</i>) to bluster, boast, brag, swagger, bluff.
+V. exp.: <b dict-key="Fanfaronar">Fanfaronar</b> esas exajerar sua avantaji, sua forteso, e.c., per
+paroli od altra signi, por trompar la ceteri. <b dict-key="Ostentar">Ostentar</b> esas montrar ed
+expozar kun afektaco e superbeso sua avantaji, precipue la luxo, richaji, belaji, por ecitar
+l'admiro di la ceteri; II-647. &mdash; FIS 
+
+<b dict-key="fango">fang-o:</b> mud, mire, watery dirt as on streets, etc.; <b
+dict-key="fangoza,fangatra">-oza, -atra:</b> muddy; <b dict-key="fangeyo">-eyo:</b> mud-puddle; <b
+dict-key="fangizar">-izar:</b> to muddy, bedraggle; <b dict-key="fangizita">-iz-ita:</b>
+bespattered (with mud); <b dict-key="fangoza anmo">-oza anmo:</b> (<i>fig.</i>) base, mean soul; <b
+dict-key="sen fangigar,des fangizar">sen- -igar, des- -izar:</b> to clean (off mud); <b
+dict-key="para fango">para- -o: </b>mud-guard; <b dict-key="fangobalno">-o-balno:</b> m.bath.
+&mdash; DFI 
+
+<b dict-key="fantasmagorio">fantasmagori-o:</b> phantasmagoria, dissolving view. Def.: Arto
+produktar fantomi, t.e. ombri od imaji iluzioniganta; IV-10. &mdash; DEFIS 
+
+<b dict-key="fantastika">fantastik-a:</b> fantastical, fanciful. Def.: Qua relatas kozi od enti
+nereala o neposibla; IV-10. Ex.: La fantastika rakonti pri Hoffman da Edgar Poe. &mdash; DEFIS 
+
+<b dict-key="fantaziar">fantazi-ar:</b> (<i>tr.</i>) to have a fancy for <b
+dict-key="ulu,ulo">(ulu, ulo)</b>, to have an idea, an inclination <b dict-key="facar ulo agar
+segun sua fantazio">(facar ulo); agar segun sua -o:</b> to act according to one's fancy; <b
+dict-key="fantazieto">-eto:</b> whim, crochet; <b dict-key="fantaziajo">-ajo:</b> a f. article; <b
+dict-key="fantaziala,fantaziema">-ala, -ema:</b> fanciful; <b dict-key="fantaziemo">-emo:</b> a
+fanciful person, a crank; <b dict-key="fantaziala kostumo">-ala kostumo: </b>f. dress. Ex.: Me
+fantazias voyajar, ludar. Havar fantazii fantastika. V. exp.: <b dict-key="L">L'imaginado</b> (od
+imaginiveso) esas la psikala fakultato, formacar, imaji, t.e. reprezenti di objekti nereala; ol
+agas example en la revi, anke en l'artistala produktado; ol povas esar regulizita e racionoza. La
+<b dict-key="fantazio">fantazio</b> esas l'imaginado senregula e kapricoza, ofte arbitriala. Pluse,
+ta vorto ne aplikesas propre a fakultato (qua esas nulo altra kam l'imaginado ipsa), ma a l'agi di
+ta fakultato; on parolas pri un fantazio. Tale on nomizas fantazi(aj)i ula artistala verki, qui
+manifestas precipue libereso, spontaneso e mem kaprico; V-221. &mdash; DEFIRS 
+
+<b dict-key="fantazio">&laquo;fantazio&raquo;:</b> Def.: Sorto di distrakto, di amuzo, en qua la
+kavalieri Araba agas galope evolucioni diversa, pafante.
+
+<b dict-key="fantomo">fantom-o:</b> phantom, shade, ghost, specter, apparition; (<i>fig.</i>)
+something unreal; <b dict-key="Roma esis nur la fantomo di republiko">Roma esis nur la fantomo di
+republiko:</b> Rome was only the shadow of a republic. &mdash; DEFIRS 
+
+<b dict-key="faro">far-o:</b> lighthouse; (<i>fig.</i>) guide; <b
+dict-key="fargardisto">-gardisto:</b> l.keeper. &mdash; FIS 
+
+<b dict-key="farado">farad-o:</b> (2001) farad: the unit of capacitance equal to the capacitance of
+a capacitor between whose plates there appears a potential of one volt when it is charged by one
+coulomb of electricity. &mdash; DEFIRS
+
+<b dict-key="faradizar">faradiz-ar:</b> (<i>tr., med.</i>) to faradize, to stimulate with faradic
+electric currents. &mdash; DEF 
+
+<b dict-key="farandolo">farandol-o:</b> farandole, a dance of Provence. &mdash; DEFIS 
+
+<b dict-key="faraono">faraon-o:</b> (<i>hist.</i>) Pharaoh; <i>(card game)</i> faro. &mdash; DEFIRS 
+
+<b dict-key="farbo">farb-o:</b> paint, artificial coloring matter (cf. <b
+dict-key="fardo,pigmento">fardo, pigmento</b>); <b dict-key="farbizar">-izar:</b> to paint
+(buildings, objects; cf. <b dict-key="piktar">piktar</b>); <b dict-key="farbizuro">-iz-uro:</b> the
+paint (put on); <b dict-key="oleo farbi">oleo- -i:</b> oil paints; <b dict-key="aquo farbi">aquo-
+-i: </b>water-colors. Def.: Preparita materio por kolorizar objekti; V-660. &mdash; D 
+
+<b dict-key="farcino">farcin-o:</b> (<i>vet.</i>) farcin, farcy, a form of glanders. &mdash; EFI 
+
+<b dict-key="fardo">fard-o:</b> paint (for face or body); (<i>theat.</i>) make-up; <b
+dict-key="reda fardo">reda -o:</b> rouge; <b dict-key="fardizar">-izar:</b> to paint <b
+dict-key="ulu,su">(ulu, su)</b>. &mdash; F 
+
+<b dict-key="farino">farin-o:</b> flour, farina, <b dict-key="grosa">(grosa)</b> meal; <b
+dict-key="farinoza">-oza: </b>floury, mealy, farinacious; <b
+dict-key="farinvendisto">-vend-isto:</b> f.dealer; <b dict-key="farinigar,farinifar">-igar,
+-ifar:</b> to make, produce f.; <b dict-key="farinizar">-izar:</b> to cover, sprinkle with f.; <b
+dict-key="farinspricilo">-spric-ilo:</b> f.dredger; <b dict-key="farinmueleyo,farinerio">-muel-eyo,
+-erio:</b> f.mill. &mdash; EFIS
+
+<b dict-key="faringo">faring-o:</b> (<i>anat.</i>) pharynx.
+
+<b dict-key="faringito">faringit-o:</b> (<i>med.</i>) pharyngitis.
+
+<b dict-key="farizeo">farize-o:</b> (<i>lit. and fig.</i>) Pharisee; <b
+dict-key="farizeala">-ala:</b> pharisaical. &mdash; DEFIRS
+
+<b dict-key="farmar">farm-ar:</b> (<i>tr.</i>) to farm (land taken on lease); <b dict-key="farmo
+farm lokacar,farmprenar">farmo - lokacar, -prenar:</b> to take (land, etc.) on lease (cf. <b
+dict-key="kultivar">kultivar</b> ); <b dict-key="farmodonar,lugar">-o-donar, lugar:</b> to farm
+out, lease to, rent out to (someone for a fixed sum); <b dict-key="farmluganto">-lug-anto:</b>
+lessor (of a farm); <b dict-key="farmlokacanto">-lokac-anto:</b> lessee: tenant-farmer; <b
+dict-key="farmo">-o:</b> farming (on lease); <b dict-key="farmajo">-ajo:</b> what is farmed; a
+farm; <b dict-key="farmodomo,odomeno">-o-domo, o-domeno:</b> homestead (rented); <b
+dict-key="farmopreco">-o-preco:</b> rent of a farm; <b dict-key="farmisto">-isto:</b> tenant
+farmer, husbandman; <b dict-key="farmisto di imposto">-isto di imposto:</b> (<i>fig.</i>) farmer of
+the revenue; <b dict-key="mi farmisto">mi- -isto:</b> metayer: farmer on half shares; <b
+dict-key="farmolaborero">-o-labor-ero:</b> a farm-hand. &mdash; DEF
+
+<b dict-key="farmacio">farmaci-o:</b> (<i>art</i>) pharmacy, pharmaceutics; <b
+dict-key="farmaciisto">-isto:</b> pharmacist (cf. <b dict-key="apotekisto">apotek-isto</b>).
+&mdash; DEFIRS
+
+<b dict-key="farmakopeo">farmakope-o:</b> pharmacopoeia. &mdash; DEFIRS
+
+<b dict-key="farso">fars-o:</b> (<i>cook.</i>) farce: stuffing, forcemeat; (<i>theat. and fig.</i>)
+farce. &mdash; DEFIRS
+
+<b dict-key="fasado">fasad-o:</b> facade, the front or chief face of a building. &mdash; DEFIS
+
+<b dict-key="fascia">&laquo;fascia&raquo;:</b> (<i>biol.</i>) fascia: a sheet of connective tissue
+covering or binding together body tissues.
+
+<b dict-key="fashino">fashin-o:</b> (<i>fort.</i>) fascine. &mdash; DEFIRS
+
+<b dict-key="fashismo">fashism-o:</b> fascism. &mdash; DEFIRS
+
+<b dict-key="fasiacar">fasiac-ar:</b> (<i>bot.</i>) to fasciate; <b dict-key="fasiaco">-o:</b>
+fasciation. &mdash; EF
+
+<b dict-key="fasko">fask-o:</b> bundle, a number of things of a certain length, put together;
+sheaf; stack; bunch; (<i>opt.</i>) pencil (of luminous rays); (<i>antiq.</i>) fasces; <b
+dict-key="vergo fasko">vergo- -o:</b> faggot, bundle of sticks, rods; <b dict-key="flecho
+fasko">flecho- -o:</b> sheaf of arrows; <b dict-key="faskigar,faskifar">-igar, -ifar:</b> to bundle
+up, stack, put in sheaves. &mdash; FIS
+
+<b dict-key="fasonar">fason-ar:</b> (<i>tr.</i>) to fashion, shape, form (<b
+dict-key="ulo">ulo</b>); <b dict-key="fasono,fasonuro">-o, -uro:</b> the build, fashion, make, cut,
+workmanship. Def.: Laborar ula materio por fabrikar objekto definita (fasono di vesto, di juvelo);
+IV-165. &mdash; DEFR
+
+<b dict-key="fastar">fast-ar:</b> (<i>intr.</i>) to fast. &mdash; DE
+
+<b dict-key="fato">fat-o:</b> fate, lot (cf. <b dict-key="destino">destino</b>); <b
+dict-key="fatala">-ala:</b> fatal; <b dict-key="fatalismo">-al-ismo:</b> fatalism; <b
+dict-key="fatalisto,fatista">-al-isto, -ista:</b> fatalist(ic). Ex.: Vua fato esas kompatinda. La
+fatal horo. &mdash; DEFIRS
+
+<b dict-key="fatigar">fatig-ar:</b> (<i>tr.</i>) to fatigue, tire, weary (cf. <b
+dict-key="tedar,enoyar">tedar, enoyar</b>); <b dict-key="fatigesar">-esar:</b> to be tired; <b
+dict-key="fatigeso">-eso:</b> (<i>state</i>) weariness, lassitude; <b
+dict-key="fatiganta">-anta:</b> fatiguing, toilsome, irksome; <b dict-key="fatigegar">-egar:</b> to
+overtire, harass. &mdash; EFIS
+
+<b dict-key="fatua">fatu-a:</b> foppish (in dress); self-conceited, fatuous (in mind); <b
+dict-key="fatu">-(ul)o:</b> snob, coxcomb; <b dict-key="fatuacho">-acho:</b> puppy (person); <b
+dict-key="fatueso">-eso:</b> snobbishness, fatuity, self-conceit. &mdash; EFIS
+
+<b dict-key="fauco">fauc-o:</b> (<i>anat. and fig.</i>) (exterior) throat, gullet, fore part of
+neck (cf. <b dict-key="guturo">guturo</b>); (<i>geog.</i>) space from which something has been
+gouged, defile, ravine, deep glen; <b dict-key="faucala">-ala:</b> (<i>anat.</i>) jugular. Def.:
+Indikas <b dict-key="l">l'extera</b> ed avana parto di la kolo (do anke la laringo, ma extere
+vidata); e, pro ke ta parto formacas kava profilo (inter la mandibulo o mentono e la pektoro), la
+vorto fauco uzesas per metaforo internaciona por expresar multa formi kava, en tekniko, en
+geografio (montala fauco), e.c.; III-165. IL
+
+<b dict-key="fauno">faun-o:</b> (<i>myth.</i>) faun; <b dict-key="faunino">-ino:</b> wood goddess.
+&mdash; DEFIRS
+
+<b dict-key="favo">fav-o:</b> (<i>med.</i>) favus, ringworm (of scalp); <b
+dict-key="favoza">-oza:</b> scurvy. &mdash; L
+
+<b dict-key="favorar">favor-ar:</b> (<i>tr.</i>) to favor, treat or regard with kindness, befriend;
+<b dict-key="favoroza">-oza:</b> (<i>of persons</i>) favorable (cf. <b
+dict-key="oportuna">oportuna</b>); <b dict-key="favorat,favorat">-at(ul)-o, -at(in)-o:</b> a
+favourite; <b dict-key="favorismo">-ismo:</b> favoritism; <b dict-key="favorigar">-igar:</b> to
+propitiate, appease; <b dict-key="favoriganta">-ig-anta:</b> propitiatory; <b
+dict-key="favordii">-dii:</b> days of grace; <b dict-key="la princo e la tempo favoras nia
+projeti">la princo e la tempo favoras nia projeti:</b> the prince and the time are favorable to our
+projects; <b dict-key="omni qui konocas il esas favoroza ad il">omni qui konocas il esas favoroza
+ad il:</b> all who know him are favorably disposed toward him. &mdash; DEFIRS
+
+<b dict-key="faxar">fax-ar*:</b> (<i>tr.</i>) to fax, send by facsimile machine.
+
+<b dict-key="fayo">fay-o:</b> (<i>fabric</i>) faille, a corded silk. &mdash; DEFS
+
+<b dict-key="fayenco">fayenc-o:</b> faience, crockery ware. &mdash; DEFR
+
+<b dict-key="fazo">faz-o:</b> (<i>astron. and gen.</i>) phase. &mdash; DEFIRS
+
+<b dict-key="fazano">fazan-o:</b> (<i>orni.</i>) pheasant (genus: Phasianus). &mdash; DEFIRS
+
+<b dict-key="fazeolo">fazeol-o:</b> kidney-bean; <b dict-key="fazeolo multaflora">-o
+multaflora:</b> (<i>bot.</i>) scarlet-runner (Phaseolus multiflorus). &mdash; DI

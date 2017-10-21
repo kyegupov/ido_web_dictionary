@@ -1,0 +1,114 @@
+<b dict-key="se">se</b>: <span dict-key="если">если</span>
+
+<b dict-key="seciono">seciono</b>: <span dict-key="секция">секция</span>
+
+<b dict-key="sediciar">sediciar</b>: <span dict-key="поднять мятеж">поднять мятеж</span>
+
+<b dict-key="sedimento">sedimento</b>: <span dict-key="осадок">осадок</span>
+
+<b dict-key="seduktar">seduktar</b>: <span dict-key="совращать">совращать</span>
+
+<b dict-key="segar">segar</b>: <span dict-key="пилить">пилить</span>, <span
+dict-key="распиливать">распиливать</span>
+
+<b dict-key="seglo">seglo</b>: <span dict-key="парус">парус</span>
+
+<b dict-key="segmento">segmento</b>: <span dict-key="доля">доля</span>
+
+<b dict-key="segun">segun</b>: <span dict-key="в соответствии с">в соответствии с</span>, <span
+dict-key="согласно">согласно</span>, <span dict-key="по">по</span>
+
+<b dict-key="sejornar">sejornar</b>: <span dict-key="гостить">гостить</span>, <span
+dict-key="(временно) жить">(временно) жить</span>, <span dict-key="проживать">проживать</span>
+
+<b dict-key="sekar">sekar</b>: <span dict-key="резать">резать</span>, <span
+dict-key="разрезать">разрезать</span>
+
+<b dict-key="sekrecar">sekrecar</b>: <span dict-key="прятаться">прятаться</span>
+
+<b dict-key="sekreta">sekreta</b>: <span dict-key="тайный">тайный</span>
+
+<b dict-key="sekretario">sekretario</b>: <span dict-key="секретарь">секретарь</span>
+
+<b dict-key="sekto">sekto</b>: <span dict-key="секта">секта</span>
+
+<b dict-key="sektoro">sektoro</b>: <span dict-key="сектор">сектор</span>
+
+<b dict-key="sekundara">sekundara</b>: <span dict-key="вторичный">вторичный</span>
+
+<b dict-key="sekundo">sekundo</b>: <span dict-key="секунда (единица времени)">секунда (единица
+времени)</span>
+
+<b dict-key="selektar">selektar</b>: <span dict-key="выбирать">выбирать</span>
+
+<b dict-key="selo">selo</b>: <span dict-key="седло">седло</span>
+
+<b dict-key="semano">semano</b>: <span dict-key="неделя">неделя</span>
+
+<b dict-key="semantiko">semantiko</b>: <span dict-key="семантика">семантика</span>
+
+<b dict-key="semar">semar</b>: <span dict-key="сеять">сеять</span>
+
+<b dict-key="semblar">semblar</b>: <span dict-key="казаться">казаться</span>
+
+<b dict-key="semino">semino</b>: <span dict-key="семя">семя</span>
+
+<b dict-key="sempre">sempre</b>: <span dict-key="всегда (= omnatempe)">всегда (= omnatempe)</span>
+
+<b dict-key="sen">sen</b>: <span dict-key="без">без</span>
+
+<b dict-key="senato">senato</b>: <span dict-key="сенат">сенат</span>
+
+<b dict-key="sencesa">sencesa</b>: <span dict-key="непрерывный">непрерывный</span>
+
+<b dict-key="senco">senco</b>: <span dict-key="смысл">смысл</span>, <span
+dict-key="значение">значение</span>
+
+<b dict-key="sensuala">sensuala</b>: <span dict-key="чувственный">чувственный</span>
+
+<b dict-key="sentar">sentar</b>: <span dict-key="чувствовать">чувствовать</span>
+
+<b dict-key="sentimento">sentimento</b>: <span dict-key="чувство">чувство</span>
+
+<b dict-key="senvalora">senvalora</b>: <span dict-key="ничего не стоящий">ничего не стоящий</span>
+
+<b dict-key="sep">sep</b>: <span dict-key="семь">семь</span>, <span dict-key="7">7</span>
+
+<b dict-key="separar">separar</b>: <span dict-key="отделиться">отделиться</span>
+
+<b dict-key="septembro">septembro</b>: <span dict-key="сентябрь">сентябрь</span>
+
+<b dict-key="septilion">septilion</b>: <span dict-key="септильон = миллион в 7 степени">септильон =
+миллион в 7 степени</span>
+
+<b dict-key="sepultar">sepultar</b>: <span dict-key="погребать">погребать</span>, <span
+dict-key="хоронить">хоронить</span>
+
+<b dict-key="sequar">sequar</b>: <span dict-key="следовать">следовать</span>
+
+<b dict-key="serbia">serbia</b>: <span dict-key="сербия">сербия</span>
+
+<b dict-key="serchar">serchar</b>: <span dict-key="искать">искать</span>
+
+<b dict-key="serio">serio</b>: <span dict-key="ряд">ряд</span>
+
+<b dict-key="serioza">serioza</b>: <span dict-key="серьезный">серьезный</span>
+
+<b dict-key="serpento">serpento</b>: <span dict-key="змея">змея</span>
+
+<b dict-key="seruro">seruro</b>: <span dict-key="замок">замок</span>
+
+<b dict-key="servar">servar</b>: <span dict-key="служить">служить</span>
+
+<b dict-key="sesiono">sesiono</b>: <span dict-key="сессия">сессия</span>, <span
+dict-key="заседание">заседание</span>
+
+<b dict-key="severa">severa</b>: <span dict-key="серьезный">серьезный</span>, <span
+dict-key="резкий">резкий</span>
+
+<b dict-key="sextilion">sextilion</b>: <span dict-key="секстильон = миллион в 6 степени">секстильон
+= миллион в 6 степени</span>
+
+<b dict-key="sexuo">sexuo</b>: <span dict-key="пол (секс)">пол (секс)</span>
+
+<b dict-key="sezono">sezono</b>: <span dict-key="сезон">сезон</span>

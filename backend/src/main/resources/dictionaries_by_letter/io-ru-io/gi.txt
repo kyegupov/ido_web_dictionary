@@ -1,0 +1,13 @@
+<b dict-key="gibo">gibo</b>: <span dict-key="бугорок">бугорок</span>, <span
+dict-key="кочка">кочка</span>, <span dict-key="горб">горб</span>, <span
+dict-key="кнопка">кнопка</span>
+
+<b dict-key="giganta">giganta</b>: <span dict-key="гигант">гигант</span>, <span
+dict-key="гигантский">гигантский</span>
+
+<b dict-key="gimnastikar">gimnastikar</b>: <span dict-key="делать гимнастику">делать
+гимнастику</span>
+
+<b dict-key="gimnazio">gimnazio</b>: <span dict-key="гимназия">гимназия</span>
+
+<b dict-key="gitaro">gitaro</b>: <span dict-key="гитара">гитара</span>

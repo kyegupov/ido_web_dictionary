@@ -1,0 +1,47 @@
+<b dict-key="coo">coo: </b>(<i>intr</i>.) rukular.
+
+<b dict-key="cook">cook: </b>(<i>tr., intr.</i>) koquar; (<i>person</i>) koqu-ist-ulo, -ino.
+
+<b dict-key="cookery">cookery: </b>koqu-(ad)o; -eyo, -arto; (<i>book</i>) -libro.
+
+<b dict-key="cool">cool: </b>(plu-) kold-(et)igar; (<i>something hot</i>) des-varm-igar;
+(<i>tech.</i>) frigor-izar; <b dict-key="to grow cool">to grow c.: </b>des-varm-eskar,
+kold-(et)eskar; <b dict-key="cool down">c. down: </b>(<i>fig</i>.) kalm-igar, moderar; pac-eskar.
+
+<b dict-key="cool">cool: </b>(<i>adj.</i>) kold-(et)a; (<i>person</i>) ne-ecit-ita, kalma,
+tranquila; sen-shama.
+
+<b dict-key="cooler">cooler: </b>(<i>for fresh water</i>) (fresh-aqu-ala) frigor-iz-ilo; radiatoro.
+
+<b dict-key="cooling">cooling: </b>kold-ig-anta; (<i>refreshing</i>) fresh-ig-anta;
+(<i>refrigerating</i>) frigor-iz-iva; -if-anta.
+
+<b dict-key="coolness">coolness: </b>(<i>temperature</i>) kold-(et)eso; (<i>person</i>)
+ne-ecit-eso, tranquil-eso; (<i>self-assurance</i>) aplombo.
+
+<b dict-key="coolie">coolie: (</b><b dict-key="hist">hist.</b>) &ldquo;kuli&rdquo;.
+
+<b dict-key="coom">coom: </b>unto.
+
+<b dict-key="coon">coon: </b>(raccoon) ratono.
+
+<b dict-key="coop">coop: </b>(up) inkluzar strete; en-kaj-igar (uli, ulo); en-park-igar; esar
+restrikt-ita (quale en kajo).
+
+<b dict-key="coop">coop: </b>(<i>for hens</i>) han-eyo, han-uyo; pultro-kajo.
+
+<b dict-key="cooper">cooper: </b>barel-ifar; -isto.
+
+<b dict-key="cooperate">cooperate: </b>(<i>in a co-operative association</i>) (<i>intr.</i>)
+kooperar; (<i>in a gen. sense</i>) kun-laborar; kontributar (ad); helpar; parto-prenar.
+
+<b dict-key="cooperation">cooperation: </b>(<i>gen</i>.) kun-laborar; kooper-(ad)o.
+
+<b dict-key="cooperative">cooperative: </b>(<i>n.</i>) kooperativo; (<i>adj.</i>) kooper-ala, -anta.
+
+<b dict-key="coopt">coopt: </b>kooptar.
+
+<b dict-key="coordinate">coordinate: </b>koordin-ar; (<i>adj., n.</i>) -ata, -ato (<i>also
+geom.</i>); <b dict-key="coordination">-tion: </b>-(ad)o, -eso.
+
+<b dict-key="coot">coot: </b>fulko.

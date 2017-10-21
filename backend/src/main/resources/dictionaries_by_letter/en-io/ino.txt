@@ -1,0 +1,16 @@
+<b dict-key="inobservance">inobservance:</b> ne-obedio.
+
+<b dict-key="inoculate">inoculate:</b> (<i>med. and fig.</i>) inokular (ulo, ad ulu; ulu per ulo).
+
+<b dict-key="inodorous">inodorous:</b> sen-odora, ne-odor-anta.
+
+<b dict-key="inoffensive">inoffensive:</b> ne-ofens-iva, ne-noc-iva.
+
+<b dict-key="inoperate">inoperate:</b> ne-efik-anta, -iva, sen-efika; (<i>not workable</i>)
+ne-funcion-ig-ebla.
+
+<b dict-key="inopportune">inopportune:</b> des-, ne-oportuna, ne-konven-anta.
+
+<b dict-key="inordinate">inordinate:</b> eces-anta, -iva; ne-moder-ata, sen-mezura.
+
+<b dict-key="inorganic">inorganic:</b> ne-organika.

@@ -1,0 +1,75 @@
+<b dict-key="ul">-ul-:</b> suffix indicating the masculine of a noun. Ex.: <b dict-key="hom">
+hom-ulo:</b> male person; <b dict-key="hund">hund-ulo:</b> male dog.
+
+<b dict-key="ula">ul-a:</b> some, any: indicates a certain, but only partly defined person or
+object; (<i>semi-indefinite article</i>) a, an (used only where it is desired to emphasize
+indefiniteness); <b dict-key="ulo">ul-o:</b> something; <b dict-key="ulu">ul-u:</b> someone,
+somebody, anyone; <b dict-key="uli">ul-i:</b> some, any (persons or things); <b
+dict-key="uldie">ul-die:</b> some day; <b dict-key="ulloke,ulube">ul-loke, -ube:</b> somewhere; <b
+dict-key="ulmaniere">ul-maniere</b> (od, <b dict-key="ule">ule</b>)<b dict-key="">:</b> in some
+manner or way; <b dict-key="ulu altra">ulu altra:</b> someone else; <b dict-key="ula altra">ula
+altra:</b> some other; <b dict-key="ulfoye">ul-foye:</b> once, one time; <b
+dict-key="ultempe">ul-tempe: </b>ever, sometime(s). V. exp.: <b dict-key="Ula">Ula</b> ne indikas
+kompleta nedetermineso (quan <b dict-key="irga">irga</b> expresus plu juste), ma mi-determineso. <b
+dict-key="Ula">Ula</b> povas anke ludar la rolo di la nedfinita artiklo, se (o kande) on trovas ica
+necesa. Ex.: Me stacas avan la biblioteko di amiko (me ne dicas: di ula amiko, nam me pensas (pri)
+nula amiko partikulare o prefere); me dicas a lu: &laquo;Me deziras libro&raquo;. To signifikas:
+&laquo;Me deziras lektar, donez a me (irga) libro&raquo;. Ma se me dicas: &laquo;Me deziras <b
+dict-key="ula">ula</b> libro&raquo;, to signifikas: &laquo;Me deziras lektar partikulara libro
+(konocata da me, o ja lektita),&raquo; quan me ne povas indikar plu exacte, pro ke me obliviis
+l&rsquo;autoro, o la titulo: ma me tamen havas l&rsquo;ideo plu o min konfuza di ta libro, e ne di
+altra: adminime, di libro apartenanta ad &laquo;ula&raquo; speco o relatanta &laquo;ula&raquo;
+temo, quan me povas definar; III-28. Note: <b dict-key="Ula,irga Ula">Ula, irga: Ula</b> is used in
+a semi-indefinite sense, <b dict-key="irga">irga</b> emphasizes complete indefiniteness. Ex.: <b
+dict-key="ula maniero">ula maniero:</b> some manner or way; <b dict-key="irga maniero">irga
+maniero:</b> any manner or way whatever; <b dict-key="ula dio en la lasta monato">ula dio en la
+lasta monato:</b> one day (= a certain day, but date not specified; <b dict-key="irga dio">irga
+dio</b> would signify any day whatever); <b dict-key="ula viro decensis de Ierusalem a Ierico">ula
+viro decensis de Ierusalem a Ierico:</b> a certain man (name not specified) went down from J. to
+J.; <b dict-key="irga viro">irga viro</b> would signify any man whatever. &mdash; L
+
+<b dict-key="ulano">ulan-o:</b> uhlan: a German lancer. &mdash; DEFIRS
+
+<b dict-key="ulcero">ulcer-o:</b> ulcer; -ala, <b dict-key="ulceratra">-atra:</b> ulcerous; <b
+dict-key="ulcerifar">-ifar</b> (intr.), <b dict-key="ulcerizar">-izar</b> (tr.): to ulcerate; <b
+dict-key="ulcerifo,ulcerizo">-ifo, -izo:</b> ulceration; <b dict-key="ulcerigar">-igar:</b> to
+cause (<b dict-key="ulo">ulo</b>) to ulcerate. &mdash; EFIS
+
+<b dict-key="ulmo">ulm-o:</b> (<i>bot.</i>) elm (-tree) (genus: Ulmus). &mdash; DEFIS
+
+<b dict-key="ulno">uln-o:</b> ell: 45 or 46.5 inches. &mdash; FIS
+
+<b dict-key="ultima">ultima*:</b> the last (thing), final (thing) in a series, after which nothing
+follows.
+
+<b dict-key="ultimato">ultimat-o:</b> ultimatum. &mdash; DEFIRS
+
+<b dict-key="ultra">ultr-a:</b> ultra: beyond due limit; further, additional; <b dict-key="ultra
+zelo">-a zelo:</b> extreme, exaggerated zeal; <b dict-key="ultra,ultre royalisto">ultr-a, -e
+royal-isto:</b> ultra-royalist, royalist in an excessive degree; <b dict-key="ultre">-e:</b>
+(<i>prep., adv.</i>) besides, further, moreover, in addition (to this); <b dict-key="ultre ke">-e
+ke:</b> (<i>conj.</i>) besides (that) (followed by verb). Ex.: Ultre, me volas dicar &hellip; Ultre
+la prezenta infinitivo, Ido havas pasinta e futura infinitivo. Ultre ke, el esas richa, el esas
+bela e saja. Ultre mea patrala linguo, me savas plura altri. V. exp.: <b dict-key="Ultre,pluse
+Ultre">Ultre, pluse: Ultre</b> esas prepoziciono, qua qua signifikas: adjunte ad &hellip; Exemple:
+&laquo;Ultre mea repasto me prenis kafeo.&raquo; Do <b dict-key="ultre">ultre</b> grande diferas de
+<b dict-key="plus">plus</b>, qua indikas la kozo adjuntata. Advere de la matematikal vidpunto la
+difero ne esas grava, pro ke A + B = B + A. Ma en la komuna vivo l&rsquo;ordino ne esas
+indiferanta, sive pro la tempo, sive pro l&rsquo;importo relativa e tre neegala di
+l&rsquo;adicionendi. Exemple, l&rsquo;antea frazo equivalas: &laquo; Me prenis mea repasto <b
+dict-key="plus">plus</b> kafeo&raquo;. Esus ridinda dicar: &laquo;Me prenis kafeo <b
+dict-key="plus">plus</b> mea repasto&raquo;, kontre ke on povas dicar tre bone: &laquo;Me prenis
+kafe <b dict-key="ultre">ultre</b> mea repasto.&raquo; De to konsequas, ke on nultempe bezonas
+adverbigar <b dict-key="ultre">ultre:</b> la adverbo uzenda esas sempre <b
+dict-key="pluse">pluse,</b> qua anuncas l&rsquo;adjunto di <b dict-key="altra">altra</b> kozo a
+l&rsquo;unesma o predicita; VII-481. &mdash; DEFIS
+
+<b dict-key="ultramaro,ultramara,ultramarea">ultramar-o, -a, -ea:</b> ultramarine. &mdash; DEFIRS
+
+<b dict-key="ultramikroskopio">ultramikroskopi-o:</b> ultramicroscope. &mdash; DEF
+
+<b dict-key="ultramontana,ultramontan">ultramontan-a, -(ul)o:</b> ultramontan-e, ist; <b
+dict-key="ultramontanismo">-ismo:</b> ultramontanism. &mdash; DEFIRS
+
+<b dict-key="ulular">ulul-ar:</b> (<i>intr.</i>) to ululate: (<i>of owls</i>) to hoot; (<i>of dogs,
+wolves, etc.</i>) to howl. &mdash; DEFIS

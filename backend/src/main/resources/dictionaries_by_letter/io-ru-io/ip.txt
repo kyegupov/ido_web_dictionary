@@ -1,0 +1,4 @@
+<b dict-key="ipsa">ipsa</b>: <span dict-key="сам (непосредственно)">сам (непосредственно)</span>
+
+<b dict-key="ipse">ipse</b>: <span dict-key="сам. самостоятельно">сам. самостоятельно</span>, <span
+dict-key="лично">лично</span>

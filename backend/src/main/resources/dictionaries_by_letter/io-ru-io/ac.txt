@@ -1,0 +1,28 @@
+<b dict-key="acelerar">acelerar</b>: <span dict-key="(tr.) ускориться">(tr.) ускориться</span>
+
+<b dict-key="acendar">acendar</b>: <span dict-key="(tr.) зажечь (лампу)">(tr.) зажечь
+(лампу)</span>, <span dict-key="разжечь">разжечь</span>, <span dict-key="огонь (пожар))">огонь
+(пожар))</span>, <span dict-key="включить свет">включить свет</span>
+
+<b dict-key="acensar">acensar</b>: <span dict-key="подниматься">подниматься</span>, <span
+dict-key="повышаться">повышаться</span>
+
+<b dict-key="acento">acento</b>: <span dict-key="акцент">акцент</span>, <span
+dict-key="ударение">ударение</span>
+
+<b dict-key="aceptar">aceptar</b>: <span dict-key="принимать">принимать</span>
+
+<b dict-key="acerba">acerba</b>: <span dict-key="едкий">едкий</span>, <span
+dict-key="резкий">резкий</span>, <span dict-key="ожесточенный (также рис.)">ожесточенный (также
+рис.)</span>
+
+<b dict-key="acesar">acesar</b>: <span dict-key="получить доступ">получить доступ</span>
+
+<b dict-key="acidentar">acidentar</b>: <span dict-key="произойти несчастному случаю">произойти
+несчастному случаю</span>
+
+<b dict-key="acidento">acidento</b>: <span dict-key="несчастный случай">несчастный случай</span>
+
+<b dict-key="acido">acido</b>: <span dict-key="кислота">кислота</span>
+
+<b dict-key="aciono">aciono</b>: <span dict-key="(финансовая) доля">(финансовая) доля</span>

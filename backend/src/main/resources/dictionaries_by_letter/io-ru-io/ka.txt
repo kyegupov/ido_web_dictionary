@@ -1,0 +1,270 @@
+<b dict-key="ka,kad">ka(d)</b>: <span dict-key="слово вопроса">слово вопроса</span>, <span
+dict-key="имело обыкновение поворачивать утверждение (заявление) в вопрос)">имело обыкновение
+поворачивать утверждение (заявление) в вопрос)</span>
+
+<b dict-key="kabano">kabano</b>: <span dict-key="каюта">каюта</span>, <span
+dict-key="хижина">хижина</span>
+
+<b dict-key="kabino">kabino</b>: <span dict-key="каюта (как на судне)">каюта (как на судне)</span>
+
+<b dict-key="kablo">kablo</b>: <span dict-key="кабель">кабель</span>
+
+<b dict-key="kabo">kabo</b>: <span dict-key="(географический) мыс">(географический) мыс</span>
+
+<b dict-key="kadavro">kadavro</b>: <span dict-key="труп">труп</span>
+
+<b dict-key="kadro">kadro</b>: <span dict-key="рамка">рамка</span>
+
+<b dict-key="kafeino">kafeino</b>: <span dict-key="кофеин">кофеин</span>
+
+<b dict-key="kafeo">kafeo</b>: <span dict-key="кофе">кофе</span>
+
+<b dict-key="kaito">kaito</b>: <span dict-key="бумажный змей">бумажный змей</span>
+
+<b dict-key="kajo">kajo</b>: <span dict-key="клетка">клетка</span>
+
+<b dict-key="kakao">kakao</b>: <span dict-key="какао">какао</span>
+
+<b dict-key="kakar">kakar</b>: <span dict-key="испражняться">испражняться</span>, <span
+dict-key="очищать кишечник">очищать кишечник</span>
+
+<b dict-key="kakofonio">kakofonio</b>: <span dict-key="неблагозвучие">неблагозвучие</span>
+
+<b dict-key="kaktuso">kaktuso</b>: <span dict-key="кактус">кактус</span>
+
+<b dict-key="kalamitato">kalamitato</b>: <span dict-key="бедствие">бедствие</span>
+
+<b dict-key="kalcio">kalcio</b>: <span dict-key="кальций">кальций</span>
+
+<b dict-key="kaldiero">kaldiero</b>: <span dict-key="котел">котел</span>
+
+<b dict-key="kalemburo">kalemburo</b>: <span dict-key="игра слов">игра слов</span>, <span
+dict-key="каламбур">каламбур</span>
+
+<b dict-key="kalendario">kalendario</b>: <span dict-key="календарь">календарь</span>
+
+<b dict-key="kalidoskopo">kalidoskopo</b>: <span dict-key="калейдоскоп">калейдоскоп</span>
+
+<b dict-key="kalifornia">kalifornia</b>: <span dict-key="калифорния">калифорния</span>
+
+<b dict-key="kalkular">kalkular</b>: <span dict-key="вычислять">вычислять</span>
+
+<b dict-key="kalma">kalma</b>: <span dict-key="спокойный">спокойный</span>
+
+<b dict-key="kalmaro">kalmaro</b>: <span dict-key="кальмар">кальмар</span>
+
+<b dict-key="kalorio">kalorio</b>: <span dict-key="калория">калория</span>
+
+<b dict-key="kaloro">kaloro</b>: <span dict-key="высокая температура">высокая температура</span>
+
+<b dict-key="kalumniar">kalumniar</b>: <span dict-key="клеветать">клеветать</span>
+
+<b dict-key="kalva">kalva</b>: <span dict-key="лысый">лысый</span>
+
+<b dict-key="kalzo">kalzo</b>: <span dict-key="чулок">чулок</span>, <span
+dict-key="рукав">рукав</span>, <span dict-key="шланг">шланг</span>
+
+<b dict-key="kam">kam</b>: <span dict-key="чем (при сравнении)">чем (при сравнении)</span>
+
+<b dict-key="kamarado">kamarado</b>: <span dict-key="товарищ">товарищ</span>, <span
+dict-key="помощник">помощник</span>
+
+<b dict-key="kambiar">kambiar</b>: <span dict-key="обменивать">обменивать</span>
+
+<b dict-key="kamelo">kamelo</b>: <span dict-key="верблюд">верблюд</span>
+
+<b dict-key="kameno">kameno</b>: <span dict-key="дымоход">дымоход</span>
+
+<b dict-key="kamero">kamero</b>: <span dict-key="камера">камера</span>
+
+<b dict-key="kamiono">kamiono</b>: <span dict-key="грузовик">грузовик</span>
+
+<b dict-key="kamizo">kamizo</b>: <span dict-key="рубашка">рубашка</span>, <span
+dict-key="блуза">блуза</span>
+
+<b dict-key="kampaniar">kampaniar</b>: <span dict-key="проводить кампанию">проводить кампанию</span>
+
+<b dict-key="kampar">kampar</b>: <span dict-key="располагаться лагерем">располагаться
+лагерем</span>, <span dict-key="расквартировываться">расквартировываться</span>
+
+<b dict-key="kanada">kanada</b>: <span dict-key="канада">канада</span>
+
+<b dict-key="kanalo">kanalo</b>: <span dict-key="канал">канал</span>
+
+<b dict-key="kanapeo">kanapeo</b>: <span dict-key="диван">диван</span>
+
+<b dict-key="kanario">kanario</b>: <span dict-key="канарейка">канарейка</span>
+
+<b dict-key="kancelero">kancelero</b>: <span dict-key="канцлер">канцлер</span>
+
+<b dict-key="kancero">kancero</b>: <span dict-key="рак">рак</span>
+
+<b dict-key="kande">kande</b>: <span dict-key="когда">когда</span>
+
+<b dict-key="kandelo">kandelo</b>: <span dict-key="свеча">свеча</span>
+
+<b dict-key="kandida">kandida</b>: <span dict-key="искренний">искренний</span>, <span
+dict-key="откровенный">откровенный</span>
+
+<b dict-key="kandidato">kandidato</b>: <span dict-key="кандидат">кандидат</span>
+
+<b dict-key="kanelo">kanelo</b>: <span dict-key="канал">канал</span>
+
+<b dict-key="kanguruo">kanguruo</b>: <span dict-key="кенгуру">кенгуру</span>
+
+<b dict-key="kanibala">kanibala</b>: <span dict-key="каннибал">каннибал</span>
+
+<b dict-key="kanono">kanono</b>: <span dict-key="орудие">орудие</span>
+
+<b dict-key="kanoo">kanoo</b>: <span dict-key="каноэ">каноэ</span>
+
+<b dict-key="kansono">kansono</b>: <span dict-key="песня">песня</span>, <span
+dict-key="баллада">баллада</span>
+
+<b dict-key="kantar">kantar</b>: <span dict-key="петь">петь</span>
+
+<b dict-key="kantino">kantino</b>: <span dict-key="столовая">столовая</span>
+
+<b dict-key="kanvaso">kanvaso</b>: <span dict-key="холст">холст</span>
+
+<b dict-key="kaoso">kaoso</b>: <span dict-key="хаос">хаос</span>
+
+<b dict-key="kapabla">kapabla</b>: <span dict-key="способный">способный</span>
+
+<b dict-key="kapaca">kapaca</b>: <span dict-key="емкий">емкий</span>, <span
+dict-key="вместительный">вместительный</span>, <span dict-key="вмещающий">вмещающий</span>
+
+<b dict-key="kapelo">kapelo</b>: <span dict-key="часовня">часовня</span>
+
+<b dict-key="kapitalo">kapitalo</b>: <span dict-key="1) (финансовый) капитал,2)столица">1)
+(финансовый) капитал,2)столица</span>
+
+<b dict-key="kapo">kapo</b>: <span dict-key="голова">голова</span>
+
+<b dict-key="kapoto">kapoto</b>: <span dict-key="пальто">пальто</span>, <span dict-key="штормовое
+(ливневое) или тяжелое пальто">штормовое (ливневое) или тяжелое пальто</span>
+
+<b dict-key="kaprico">kaprico</b>: <span dict-key="каприз">каприз</span>, <span
+dict-key="прихоть">прихоть</span>
+
+<b dict-key="kapro">kapro</b>: <span dict-key="козел">козел</span>
+
+<b dict-key="kapsulo">kapsulo</b>: <span dict-key="капсула">капсула</span>
+
+<b dict-key="kaptar">kaptar</b>: <span dict-key="захватывать">захватывать</span>, <span
+dict-key="ловить (поймать)">ловить (поймать)</span>, <span dict-key="схватить">схватить</span>
+
+<b dict-key="kapuco">kapuco</b>: <span dict-key="капюшон">капюшон</span>
+
+<b dict-key="kara">kara</b>: <span dict-key="дорогой">дорогой</span>
+
+<b dict-key="karaktero">karaktero</b>: <span dict-key="характер">характер</span>
+
+<b dict-key="karamelo">karamelo</b>: <span dict-key="карамель">карамель</span>
+
+<b dict-key="karavano">karavano</b>: <span dict-key="караван">караван</span>
+
+<b dict-key="karbo">karbo</b>: <span dict-key="углерод">углерод</span>
+
+<b dict-key="karbono">karbono</b>: <span dict-key="уголь">уголь</span>
+
+<b dict-key="karcero">karcero</b>: <span dict-key="тюрьма">тюрьма</span>
+
+<b dict-key="karear">karear</b>: <span dict-key="обходиться без">обходиться без</span>
+
+<b dict-key="karelo">karelo</b>: <span dict-key="плита">плита</span>, <span
+dict-key="плитка">плитка</span>
+
+<b dict-key="karezar">karezar</b>: <span dict-key="ласкать">ласкать</span>
+
+<b dict-key="kargar">kargar</b>: <span dict-key="загружать (товары)">загружать (товары)</span>
+
+<b dict-key="kariero">kariero</b>: <span dict-key="карьера">карьера</span>
+
+<b dict-key="karitato">karitato</b>: <span dict-key="милосердие">милосердие</span>
+
+<b dict-key="karmezino">karmezino</b>: <span dict-key="темно-красный">темно-красный</span>
+
+<b dict-key="karnavalo">karnavalo</b>: <span dict-key="карнавал">карнавал</span>
+
+<b dict-key="karnivora">karnivora</b>: <span dict-key="плотоядный">плотоядный</span>
+
+<b dict-key="karno">karno</b>: <span dict-key="мясо">мясо</span>
+
+<b dict-key="karoto">karoto</b>: <span dict-key="морковь">морковь</span>
+
+<b dict-key="karpentar">karpentar</b>: <span dict-key="делать работу плотника">делать работу
+плотника</span>
+
+<b dict-key="karpo">karpo</b>: <span dict-key="запястье">запястье</span>
+
+<b dict-key="karto">karto</b>: <span dict-key="карта">карта</span>
+
+<b dict-key="kartocho">kartocho</b>: <span dict-key="патрон">патрон</span>, <span
+dict-key="гильза">гильза</span>, <span dict-key="картридж">картридж</span>
+
+<b dict-key="kartografio">kartografio</b>: <span dict-key="картография">картография</span>
+
+<b dict-key="kartono">kartono</b>: <span dict-key="картон">картон</span>
+
+<b dict-key="kasiso">kasiso</b>: <span dict-key="черная смородина">черная смородина</span>
+
+<b dict-key="kaso">kaso</b>: <span dict-key="ящик">ящик</span>, <span
+dict-key="касса">касса</span>, <span dict-key="сейф">сейф</span>
+
+<b dict-key="kasrolo">kasrolo</b>: <span dict-key="кастрюля">кастрюля</span>
+
+<b dict-key="kastelo">kastelo</b>: <span dict-key="замок">замок</span>
+
+<b dict-key="kastrar">kastrar</b>: <span dict-key="кастрировать">кастрировать</span>, <span
+dict-key="холостить">холостить</span>, <span dict-key="оскоплять">оскоплять</span>
+
+<b dict-key="kataro">kataro</b>: <span dict-key="простуда">простуда</span>
+
+<b dict-key="katastrofo">katastrofo</b>: <span dict-key="катастрофа">катастрофа</span>
+
+<b dict-key="katedralo">katedralo</b>: <span dict-key="собор">собор</span>
+
+<b dict-key="kategorio">kategorio</b>: <span dict-key="категория">категория</span>
+
+<b dict-key="kateno">kateno</b>: <span dict-key="цепь">цепь</span>
+
+<b dict-key="kato">kato</b>: <span dict-key="кот">кот</span>
+
+<b dict-key="katolika">katolika</b>: <span dict-key="католический">католический</span>
+
+<b dict-key="katologo">katologo</b>: <span dict-key="каталог">каталог</span>
+
+<b dict-key="kauchuko">kauchuko</b>: <span dict-key="каучук">каучук</span>
+
+<b dict-key="kauciono">kauciono</b>: <span dict-key="безопасность">безопасность</span>, <span
+dict-key="поручительство">поручительство</span>
+
+<b dict-key="kaudo">kaudo</b>: <span dict-key="хвост">хвост</span>
+
+<b dict-key="kaulo">kaulo</b>: <span dict-key="капуста">капуста</span>
+
+<b dict-key="kauzo">kauzo</b>: <span dict-key="причина">причина</span>
+
+<b dict-key="kava">kava</b>: <span dict-key="пустой">пустой</span>, <span
+dict-key="полый">полый</span>
+
+<b dict-key="kavaliero">kavaliero</b>: <span dict-key="рыцарь">рыцарь</span>
+
+<b dict-key="kavalkar">kavalkar</b>: <span dict-key="ехать (как на лошади)">ехать (как на
+лошади)</span>
+
+<b dict-key="kavalo">kavalo</b>: <span dict-key="лошадь">лошадь</span>
+
+<b dict-key="kavalrio">kavalrio</b>: <span dict-key="конница">конница</span>
+
+<b dict-key="kaverno">kaverno</b>: <span dict-key="пещера">пещера</span>
+
+<b dict-key="kayero">kayero</b>: <span dict-key="тетрадь">тетрадь</span>
+
+<b dict-key="kayo">kayo</b>: <span dict-key="причал">причал</span>, <span
+dict-key="платформа">платформа</span>
+
+<b dict-key="kazo">kazo</b>: <span dict-key="случай">случай</span>
+
+<b dict-key="kazuala">kazuala</b>: <span dict-key="случайный">случайный</span>

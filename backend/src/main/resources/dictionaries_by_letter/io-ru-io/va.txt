@@ -1,0 +1,47 @@
+<b dict-key="vagar">vagar</b>: <span dict-key="блуждать">блуждать</span>
+
+<b dict-key="vagono">vagono</b>: <span dict-key="вагон">вагон</span>
+
+<b dict-key="vakancar">vakancar</b>: <span dict-key="быть в отпуске">быть в отпуске</span>
+
+<b dict-key="vakar">vakar</b>: <span dict-key="быть свободным">быть свободным</span>
+
+<b dict-key="vakua">vakua</b>: <span dict-key="пустой">пустой</span>
+
+<b dict-key="valida">valida</b>: <span dict-key="действительный">действительный</span>, <span
+dict-key="имеющий силу (юр)">имеющий силу (юр)</span>
+
+<b dict-key="valo">valo</b>: <span dict-key="долина">долина</span>
+
+<b dict-key="valorar">valorar</b>: <span dict-key="иметь ценность">иметь ценность</span>, <span
+dict-key="быть ценным">быть ценным</span>
+
+<b dict-key="vampiro">vampiro</b>: <span dict-key="вампир">вампир</span>
+
+<b dict-key="vana">vana</b>: <span dict-key="тщетный">тщетный</span>, <span
+dict-key="бесплодный">бесплодный</span>
+
+<b dict-key="vango">vango</b>: <span dict-key="щека">щека</span>
+
+<b dict-key="vanilo">vanilo</b>: <span dict-key="ваниль">ваниль</span>
+
+<b dict-key="vanitato">vanitato</b>: <span dict-key="тщеславие">тщеславие</span>
+
+<b dict-key="vaporo">vaporo</b>: <span dict-key="пар">пар</span>
+
+<b dict-key="variar">variar</b>: <span dict-key="измениться">измениться</span>
+
+<b dict-key="varma">varma</b>: <span dict-key="теплый">теплый</span>, <span
+dict-key="горячий">горячий</span>
+
+<b dict-key="varo">varo</b>: <span dict-key="товар">товар</span>
+
+<b dict-key="varsar">varsar</b>: <span dict-key="наливать">наливать</span>
+
+<b dict-key="vartar">vartar</b>: <span dict-key="ждать">ждать</span>
+
+<b dict-key="vasta">vasta</b>: <span dict-key="обширный">обширный</span>
+
+<b dict-key="vaxo">vaxo</b>: <span dict-key="воск">воск</span>
+
+<b dict-key="vazo">vazo</b>: <span dict-key="ваза">ваза</span>

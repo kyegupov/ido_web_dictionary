@@ -1,0 +1,3 @@
+<b dict-key="igar">igar</b>: <span dict-key="делать">делать</span>
+
+<b dict-key="ignorar">ignorar</b>: <span dict-key="игнорировать">игнорировать</span>

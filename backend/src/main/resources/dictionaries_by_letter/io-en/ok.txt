@@ -1,0 +1,61 @@
+<b dict-key="ok">ok:</b> eight; <b dict-key="okesma">-esma:</b> (ordinal) eighth; <b
+dict-key="okopla,okoplo">-opla, -oplo:</b> eight-fold, octuple; <b dict-key="okimo">-imo:</b>
+one-eighth; <b dict-key="okadek">-a-dek:</b> eighty, fourscore; <b
+dict-key="okadekyara,oko">-a-dek-yar-a, -o:</b> octogenarian; <b dict-key="okima negro">-ima
+negro:</b> octoroon: person one-eighth black; (cf. <b dict-key="du">du</b>). &mdash; EFIS
+
+<b dict-key="okapio">okapi-o:</b> (2001) okapi: an African mammal (Okapia johnstoni) related to a
+giraffe. &mdash; DEFIRS
+
+<b dict-key="okarino">okarin-o:</b> (<i>mus. instr.</i>) ocarina. &mdash; DEF
+
+<b dict-key="okaziono">okazion-o:</b> occasion, opportunity; <b dict-key="okazione">-e:</b>
+occasionally, at times; <b dict-key="okazione di">-e di:</b> apropos (of); (cf. <b
+dict-key="kauzo">kauzo</b>). Ex.: Me kaptis la okaziono por parolar ad il. Kande okaziono prizentos
+su, ni iros. &mdash; EFIRS
+
+<b dict-key="okro">okr-o:</b> ochre; <b dict-key="reda okro">reda -o:</b> red ochre. &mdash; DEFIRS
+
+<b dict-key="okta">okta-:</b> (<i>scient. prefix</i>) octo-.
+
+<b dict-key="oktaedro">oktaedr-o:</b> (<i>geom.</i>) octahedron. &mdash; DEFIS
+
+<b dict-key="oktanto">oktant-o:</b> octant: eighth of a circle; (<i>astron. instr.</i>) octant.
+&mdash; DEFIS
+
+<b dict-key="oktavo">oktav-o:</b> (<i>mus., ch. festival, verse</i>) octave. &mdash; DEFIRS
+
+<b dict-key="oktiliono">oktilion-o:</b> (<i>English notation</i>) octillion (1,000,000 &lt;sup&gt;8
+&lt;/sup&gt;). &mdash; DEFS
+
+<b dict-key="oktobro">oktobr-o:</b> October. &mdash; DEFIRS
+
+<b dict-key="oktogono">oktogon-o:</b> (<i>geom.</i>) octagon. &mdash; DEFIS
+
+<b dict-key="oktopodo">oktopod-o:</b> octopod (having eight legs); order Octopoda; (cf. <b
+dict-key="polpo">polpo</b>). &mdash; DEFIS
+
+<b dict-key="okulo">okul-o:</b> eye; <b dict-key="okuleto">-eto:</b> small eye; (<i>tech.</i>)
+eyelet hole; <b dict-key="okulala">-ala:</b> ocular; <b dict-key="okulalo">-alo:</b> eye-piece,
+eye-glass; <b dict-key="okulisto">-isto:</b> oculist; <b dict-key="okulagar">-agar:</b>
+(<i>tr.</i>) to eye (<b dict-key="ulu,ulo">ulu, ulo</b>); <b dict-key="okulo nuda">-o nuda:</b>
+naked eye; <b dict-key="okulo po okulo">-o po -o:</b> eye for eye; <b
+dict-key="okulklapo,okulshirmilo">-klapo, -shirm-ilo:</b> eye-shade; (for horses) blinker; <b
+dict-key="okuloskrubo">-o-skrubo:</b> a staple, eyebolt: screw with ringed head. &mdash; DEFIRS
+
+<b dict-key="okulta">okult-a:</b> occult. V. exp.: vid. <b dict-key="arkana">arkana</b>. &mdash;
+DEFIS
+
+<b dict-key="okultaco">okultac-o:</b> (<i>astron.</i>) occultation; <b
+dict-key="okultacar">-ar:</b> (<i>tr.</i>) to occult. &mdash; DEFIS
+
+<b dict-key="okupar">okup-ar:</b> (<i>tr.</i>) to occupy (a place, time); <b dict-key="okupar
+su">-ar su:</b> to occupy oneself, employ oneself, be busy (<b dict-key="pri">pri</b>); <b
+dict-key="okupesar">-esar:</b> to be occupied (<b dict-key="da">da</b>); <b
+dict-key="okupeso">-eso:</b> occupancy (fact); <b dict-key="okup">-(ad)o: </b>occupying;<b
+dict-key="okupantajo,okupivo"> -ant-ajo, -ivo:</b> (that which occupies) business, work,
+occupation; <b dict-key="okupanto,okupero">-anto, -ero:</b> occupant; <b
+dict-key="okupata">-ata:</b> occupied, busy. Ex.: La lito okupas la tota spaco. La soldati okupis
+la urbo. La diskutado okupis la tempo. Ca laboro okupis dek yari di lua vivo. Il okupis su en (od,
+pri) sua gardeno. Esar sen okupeso. La okupo di la urbo da la trupi. La okup-antajo, -ivo di
+soldati, di komercisto. &mdash; DEFIS

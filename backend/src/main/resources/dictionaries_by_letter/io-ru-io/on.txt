@@ -1,0 +1,12 @@
+<b dict-key="on,onu">on(u)</b>: <span dict-key="один">один</span>, <span dict-key="люди
+вообще">люди вообще</span>
+
+<b dict-key="ondo">ondo</b>: <span dict-key="волна">волна</span>
+
+<b dict-key="onklino">onklino</b>: <span dict-key="тетя">тетя</span>
+
+<b dict-key="onklo">onklo</b>: <span dict-key="дядя или тетя">дядя или тетя</span>
+
+<b dict-key="onklulo">onklulo</b>: <span dict-key="дядя">дядя</span>
+
+<b dict-key="onyono">onyono</b>: <span dict-key="лук">лук</span>

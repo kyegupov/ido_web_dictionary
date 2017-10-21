@@ -1,0 +1,39 @@
+<b dict-key="differ">differ: </b>(<i>in kind and opinion</i>) (<i>intr.</i>) diferar;
+(<i>disagree</i>) des-konsentar, des-konkordar (pri); (<i>quarrel</i>) disputar (kun).
+
+<b dict-key="difference">difference: </b>(<i>also math.</i>) difero; eces-o, -ajo; (<i>dispute</i>)
+disputo (<i>cf</i>. kontrasto, ne-simil-eso, konflikto, distingo); <b dict-key="pay the
+difference">pay the d.: </b>komplet-igar la sumo; <b dict-key="it makes no difference">it makes no
+d.: </b>esas (tote) indifer-anta.
+
+<b dict-key="different">different: </b>(<i>in kind</i>) difer-anta; (<i>more than one; various</i>)
+diversa.
+
+<b dict-key="differential">differential: </b>(<i>maths., tech.</i>) diferencialo.
+
+<b dict-key="differentiate">differentiate: </b>(<i>math</i>.) diferencial-igar; (<i>biol.,
+social.</i>) (<i>tr., intr.</i>) diferenciar; (<i>distinguish</i>) dicernar; distingar.
+
+<b dict-key="difficult">difficult: </b>des-facila; (<i>not easy</i>) ne-facila (<i>cf</i>.
+labor-ema, fatig-anta, penig-iva, ardua); <b dict-key="difficult to say">d. to say: </b>ne-facila
+dic-ebla; <b dict-key="difficult to live with">d. to live with: </b>des-agreabla kom kun-viv-anto;
+<b dict-key="to make difficult">to make d.: </b>des-facil-igar.
+
+<b dict-key="difficulty">difficulty: </b>(<i>quality</i>) des-facil-eso, (<i>thing</i>) -ajo
+(<i>cf</i>. obstaklo, imped-ivo, -ajo; objeciono, trublo); <b dict-key="to speak with
+difficulty">to speak with d.: </b>parolar des-facile; <b dict-key="to have difficultys with
+someone">to have d.s with someone: </b>havar disputi (<i>od</i>, kontesti) kun ulu; <b
+dict-key="without difficulty">without d.: </b>sen-pen-a, -e; <b dict-key="in difficultys">in d.s
+</b>en embaras-ita stando.
+
+<b dict-key="diffidence">diffidence: </b>timid-eso, modest-eso; sen su-fido.
+
+<b dict-key="diffident">diffident: </b>timid-a, hezit-oza; dub-ema, modesta.
+
+<b dict-key="diffract">diffract: </b>difraktar.
+
+<b dict-key="diffuse">diffuse: </b>difuzar.
+
+<b dict-key="diffused">diffused: </b>difuz-ita; (<i>style</i>) prolixa, des-kinciza.
+
+<b dict-key="diffusion">diffusion: </b>difuz-o, eso; dispers(ad)o; distributo.

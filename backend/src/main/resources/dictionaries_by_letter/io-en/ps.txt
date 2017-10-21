@@ -1,0 +1,39 @@
+<b dict-key="psalmo">psalm-o:</b> psalm; <b dict-key="psalmisto">-isto:</b> psalmist; <b
+dict-key="psalmlibro,psalmaro">-libro, -aro:</b> book of psalms; psalter; psalms (<i>collect.</i>);
+<b dict-key="psalmo penitencala">-o penitenc-ala:</b> penitential psalm. &mdash; DEFIRS
+
+<b dict-key="psalmodiar">psalmodi-ar:</b> (<i>intr.</i>) to psalmodize, to sing psalms;
+(<i>tr.</i>) to drone out, recite (<b dict-key="ulo">ulo</b>) in a sing-song manner; <b
+dict-key="psalmodio">-o:</b> psalmody, psalm-singing. (<i>fig.</i>) sing-song. Def.: Psalmodio:
+maniero kantar la psalmi (aplikebla ad altro kam psalmi); IV-515. &mdash; DEFIS
+
+<b dict-key="psalterio">psalteri-o:</b> psaltery, a stringed musical instrument. &mdash; DEFIRS
+
+<b dict-key="pseudo">pseudo-:</b> a prefix signifying false, counterfeit.
+
+<b dict-key="pseudonima">pseudonim-a:</b> pseudonymous; <b dict-key="pseudonimo">-o:</b> pseudonym,
+nom de plume, alias. Def.: Aganta o skribanta kun falsa nomo. &mdash; DEFIRS
+
+<b dict-key="pseudosfero">pseudo-sfer-o:</b> (<i>geom.</i>) pseudosphere.
+
+<b dict-key="psiko">psik-o:</b> the conscious, knowing mind; <b dict-key="psikala">-ala:</b>
+psychical. Def.: La koncio fenomenala, la objekto di la &laquo;psikologio&raquo; (tale psiko esas
+plu generala kam anmo); V-32. Ex.: Psikala kauzi, qualesi, dolori.
+
+<b dict-key="psikiatrio">psikiatri-o:</b> psyschiatry. Def.: Kuracado di mentala morbi. &mdash;
+DEFIR
+
+<b dict-key="psikologo">psikolog-o:</b> psychologist. &mdash; DEFIRS
+
+<b dict-key="psikologio">psikologi-o:</b> psychology. Def.: Ta parto di filozofio qua traktas la
+mentala fakultati ed agado di la psiko. &mdash; DEFIRS
+
+<b dict-key="psikometro">psikometr-o:</b> psychrometer, hygrometer. &mdash; DEFIRS
+
+<b dict-key="psikopato">psikopat-o:</b> (2001) psychopath. &mdash; DEFIRS
+
+<b dict-key="psikoso">psikos-o:</b> (<i>psych.</i>) psychosis.
+
+<b dict-key="psit">psit!:</b> (<i>interj.</i>) psst!
+
+<b dict-key="psoaso">psoas-o:</b> (<i>anat.</i>) psoas, lumbar muscle. &mdash; DEFI

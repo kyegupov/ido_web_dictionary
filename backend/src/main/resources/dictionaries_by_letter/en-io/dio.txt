@@ -1,0 +1,17 @@
+<b dict-key="diocese">diocese: </b>diocezo.
+
+<b dict-key="dioicous">dioicous:</b> dioika.
+
+<b dict-key="diode">diode:</b> diodo.
+
+<b dict-key="diopter">diopter: </b>(<i>sight-vane</i>) dioptro; (<i>unit</i>) dioptrio.
+
+<b dict-key="dioptrics">dioptrics: </b>dioptriko.
+
+<b dict-key="diorama">diorama: </b>dioramo.
+
+<b dict-key="diorite">diorite: </b>diorito.
+
+<b dict-key="dioxide">dioxide:</b> dioxido.
+
+<b dict-key="dioxin">dioxin:</b> dioxino.

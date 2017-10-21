@@ -1,0 +1,113 @@
+<b dict-key="stabila">stabila</b>: <span dict-key="устойчивый">устойчивый</span>
+
+<b dict-key="stablo">stablo</b>: <span dict-key="стойло">стойло</span>
+
+<b dict-key="stabo">stabo</b>: <span dict-key="штат (собрание персонала)">штат (собрание
+персонала)</span>
+
+<b dict-key="stacar">stacar</b>: <span dict-key="стоять">стоять</span>
+
+<b dict-key="staciono">staciono</b>: <span dict-key="станция">станция</span>
+
+<b dict-key="stadio">stadio</b>: <span dict-key="стадион">стадион</span>
+
+<b dict-key="stagnar">stagnar</b>: <span dict-key="застаиваться">застаиваться</span>
+
+<b dict-key="stalo">stalo</b>: <span dict-key="сталь">сталь</span>
+
+<b dict-key="stampar">stampar</b>: <span dict-key="штамповать">штамповать</span>
+
+<b dict-key="standar">standar</b>: <span dict-key="быть в определенном состоянии">быть в
+определенном состоянии</span>
+
+<b dict-key="standardo">standardo</b>: <span dict-key="знамя">знамя</span>
+
+<b dict-key="stango">stango</b>: <span dict-key="брусок">брусок</span>
+
+<b dict-key="stano">stano</b>: <span dict-key="олово (металл)">олово (металл)</span>
+
+<b dict-key="starchar">starchar</b>: <span dict-key="крахмалить">крахмалить</span>
+
+<b dict-key="startar">startar</b>: <span dict-key="начинать">начинать</span>
+
+<b dict-key="statistiko">statistiko</b>: <span dict-key="статистика">статистика</span>
+
+<b dict-key="stato">stato</b>: <span dict-key="политическое состояние">политическое состояние</span>
+
+<b dict-key="statuo">statuo</b>: <span dict-key="статуя">статуя</span>
+
+<b dict-key="statuto">statuto</b>: <span dict-key="устав">устав</span>
+
+<b dict-key="stelo">stelo</b>: <span dict-key="звезда">звезда</span>
+
+<b dict-key="stenografar">stenografar</b>: <span dict-key="стенографировать">стенографировать</span>
+
+<b dict-key="stereofonio">stereofonio</b>: <span dict-key="стереофония">стереофония</span>
+
+<b dict-key="stereotipar">stereotipar</b>: <span
+dict-key="стереотипировать">стереотипировать</span>, <span dict-key="печатать со
+стереотипа">печатать со стереотипа</span>
+
+<b dict-key="sterila">sterila</b>: <span dict-key="бесплодный">бесплодный</span>, <span
+dict-key="стерильный">стерильный</span>
+
+<b dict-key="sterko">sterko</b>: <span dict-key="экскременты">экскременты</span>
+
+<b dict-key="sternutar">sternutar</b>: <span dict-key="чихать">чихать</span>
+
+<b dict-key="stifa">stifa</b>: <span dict-key="шаг">шаг</span>, <span
+dict-key="поступок">поступок</span>, <span dict-key="действие">действие</span>
+
+<b dict-key="stilo">stilo</b>: <span dict-key="стиль">стиль</span>
+
+<b dict-key="stimular">stimular</b>: <span dict-key="стимулировать">стимулировать</span>
+
+<b dict-key="stoko">stoko</b>: <span dict-key="ствол">ствол</span>
+
+<b dict-key="stomako">stomako</b>: <span dict-key="живот">живот</span>
+
+<b dict-key="stono">stono</b>: <span dict-key="камень">камень</span>, <span
+dict-key="галька">галька</span>
+
+<b dict-key="stoterar">stoterar</b>: <span dict-key="заикаться">заикаться</span>
+
+<b dict-key="strado">strado</b>: <span dict-key="улица">улица</span>
+
+<b dict-key="strangular">strangular</b>: <span dict-key="давить">давить</span>
+
+<b dict-key="stranja">stranja</b>: <span dict-key="странный">странный</span>
+
+<b dict-key="stranjera">stranjera</b>: <span dict-key="иностранный">иностранный</span>
+
+<b dict-key="strategio">strategio</b>: <span dict-key="стратегия">стратегия</span>
+
+<b dict-key="strato">strato</b>: <span dict-key="слой">слой</span>
+
+<b dict-key="streko">streko</b>: <span dict-key="удар">удар</span>
+
+<b dict-key="streta">streta</b>: <span dict-key="узкий">узкий</span>
+
+<b dict-key="strikar">strikar</b>: <span dict-key="бастовать">бастовать</span>
+
+<b dict-key="strikta">strikta</b>: <span dict-key="строгий">строгий</span>
+
+<b dict-key="strio">strio</b>: <span dict-key="полоса">полоса</span>
+
+<b dict-key="stroko">stroko</b>: <span dict-key="удар">удар</span>
+
+<b dict-key="strukturo">strukturo</b>: <span dict-key="структура">структура</span>
+
+<b dict-key="studento">studento</b>: <span dict-key="студент">студент</span>
+
+<b dict-key="studiar">studiar</b>: <span dict-key="учиться">учиться</span>
+
+<b dict-key="stulo">stulo</b>: <span dict-key="стул">стул</span>
+
+<b dict-key="stulta">stulta</b>: <span dict-key="дурацкий">дурацкий</span>, <span
+dict-key="глупый">глупый</span>
+
+<b dict-key="stupida">stupida</b>: <span dict-key="глупый">глупый</span>
+
+<b dict-key="sturmar">sturmar</b>: <span dict-key="быть неистовым">быть неистовым</span>, <span
+dict-key="быть яростным">быть яростным</span>, <span dict-key="быть бурным">быть бурным</span>,
+<span dict-key="быть буйным">быть буйным</span>

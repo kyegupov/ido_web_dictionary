@@ -1,0 +1,139 @@
+<b dict-key="obduracy">obduracy:</b> hard-eso, -esko; des-ced-em-eso; obstino; sen-repent-eso.
+
+<b dict-key="obdurate">obdurate:</b> sen-repenta; ne-flex-ebla, obstin-anta.
+
+<b dict-key="obedience">obedience:</b> obedi-(ad)o (<i>cf</i>. submiso).
+
+<b dict-key="obedient">obedient:</b> obedi-anta, -ema.
+
+<b dict-key="obeisance">obeisance:</b> reverenco (<i>cf</i>. saluto).
+
+<b dict-key="obelisk">obelisk:</b> obelisko.
+
+<b dict-key="obese">obese:</b> obeza.
+
+<b dict-key="obey">obey:</b> obediar.
+
+<b dict-key="obituary">obituary:</b> (<i>adj</i>.) mort-ala; <b dict-key="obituary notice">o.
+notice:</b> nekrolog-o, -o-notico.
+
+<b dict-key="object">object:</b> objecionar (<i>cf</i>. repugnar; refuzar).
+
+<b dict-key="object">object:</b> (<i>thing</i>) objekto; (<i>aim</i>) skopo; (<i>gram</i>.)
+komplemento; <b dict-key="object glass">o. glass:</b> objekt-alo; <b
+dict-key="objectivity">-ivity:</b> objekt-al-eso; <b dict-key="objective">-ive:</b> (<i>adj</i>.)
+objekt-ala; (<i>aim</i>) skopo; (<i>opt</i>.) objekt-alo; <b dict-key="objectless">-less:</b>
+sen-skopa.
+
+<b dict-key="objurgation">objurgation: </b>reprimando, reprocho.
+
+<b dict-key="oblation">oblation:</b> ofr-ajo.
+
+<b dict-key="obligation">obligation:</b> (<i>matter of conscience, law</i>) oblig-eso; devo;
+(<i>bond, debenture</i>) obligaciono; (<i>debt</i>) deb-o, -ajo (<i>cf</i>. devar, koaktar).
+
+<b dict-key="obligatory">obligatory:</b> (<i>incumbent</i>) oblig-ata.
+
+<b dict-key="oblige">oblige:</b> (<i>constrain by duty, honour</i>) obligar (ulu ad ulo); devar;
+(<i>constrain, compel</i>) koaktar; (<i>render a service to</i>) servar (ulu) komplezar (ad ulu),
+facar servo o komplezo (ad ulu); <b dict-key="I am much obligeed to you">I am much o.ed to you:</b>
+me multe gratitudas vu, me debas multo a vu; <b dict-key="I am not obligeed to help you">I am not
+o.ed to help you:</b> me ne devas servar vu; <b dict-key="oblige me with">o. me with:</b> voluntez
+donar ad me (ulo).
+
+<b dict-key="obliging">obliging: </b>komplez-anta, -ema; serv-ema.
+
+<b dict-key="oblique">oblique: </b>obliqua.
+
+<b dict-key="obliterate">obliterate:</b> (<i>erase</i>) efacar; (<i>cancel</i>) obliterar
+(<i>cf</i>. destruktar, domajar).
+
+<b dict-key="oblivion">oblivion:</b> (<i>state of being forgotten</i>) oblivi-eso;
+(<i>unconsciousness</i>) ne-sent-iv-eso; sen-konci-eso.
+
+<b dict-key="oblivious">oblivious:</b> oblivi-inta, -ema; sen-koncia.
+
+<b dict-key="oblong">oblong:</b> oblonga.
+
+<b dict-key="obloquy">obloquy:</b> blamo, reprocho; des-honoro, shamo.
+
+<b dict-key="obnoxious">obnoxious:</b> (<i>hurtful</i>) danjer-oza, noc-iva; (<i>odious</i>)
+odi-inda, des-agreabla, ofens-anta, -iva, -ema; (<i>reprehensible</i>) blam-inda, reprimand-inda,
+(<i>liable</i>) expozita (ad).
+
+<b dict-key="oboe">oboe:</b> hoboyo.
+
+<b dict-key="obolus">obolus:</b> obolo.
+
+<b dict-key="obscene">obscene:</b> obcena (<i>cf</i>. grosiera, sham-inda, sen-pudora).
+
+<b dict-key="obscenity">obscenity:</b> (<i>quality</i>) obcen-eso; (<i>thing, act</i>) -ajo.
+
+<b dict-key="obscurantism">obscurantism:</b> obskurant-ismo.
+
+<b dict-key="obscurantist">obscurantist: </b>obskurant-isto.
+
+<b dict-key="obscure">obscure:</b> (<i>pr. and fig.</i>) obskur-igar, -eskar; (<i>adj</i>.) -a; <b
+dict-key="obscurity">-rity:</b> -eso.
+
+<b dict-key="obsequies">obsequies:</b> funero, funer-ala ceremonio.
+
+<b dict-key="obsequious">obsequious: </b>komplez-ach-ema; <b dict-key="obsequiousness">-ness:</b>
+komplez-acho, respekt-acho.
+
+<b dict-key="observable">observable:</b> observ-ebla; (<i>appreciable</i>) evalu-ebla.
+
+<b dict-key="observance">observance:</b> (<i>fulfilment</i>) plen-igo; (<i>obedience</i>)
+obedi-(ad)o; (<i>practice</i>) praktik-(ad)o; (<i>ceremony</i>) ceremonio (<i>cf</i>. festo).
+
+<b dict-key="observant">observant: </b>observ-ema; atenc-ema.
+
+<b dict-key="observation">observation: </b>(<i>of an object</i>) observo, remarko; (<i>remark</i>)
+enunc-ajo, kelka vorti (<i>od</i>, paroli); (<i>of a holiday</i>) fest-(ad)o.
+
+<b dict-key="observatory">observatory:</b> (<i>in gen</i>.) observ-eyo; (<i>scientific</i>)
+observatorio.
+
+<b dict-key="observe">observe:</b> (<i>see</i>) observar (<i>cf</i>. remarkar, vidar);
+(<i>fulfil</i>) plen-igar; (<i>obey, follow</i>) obediar; sequar; (<i>say</i>) dicar;
+(<i>celebrate</i>) festar, celebrar.
+
+<b dict-key="obsess">obsess:</b> obsedar.
+
+<b dict-key="obsidian">obsidian:</b> obsidiano.
+
+<b dict-key="obsolescence">obsolescence:</b> obsolet-esko.
+
+<b dict-key="obsolete">obsolete:</b> obsoleta.
+
+<b dict-key="obstacle">obstacle:</b> obstaklo.
+
+<b dict-key="obstetric">obstetric</b>(<b dict-key="al">al</b>)<b dict-key="">:</b> akush-ala; <b
+dict-key="obstetrics">-s:</b> obstetriko (2001); akush-arto.
+
+<b dict-key="obstinacy">obstinacy:</b> obstin-(ad)o.
+
+<b dict-key="obstinate">obstinate:</b> obstin-anta, -ema; (<i>person</i>) -ema; <b dict-key="to be
+obstinate">to be o.:</b> (<i>intr</i>.) -ar.
+
+<b dict-key="obstreporous">obstreporous: </b>petul-ema; bruis-anta, -ema; tumult-oza.
+
+<b dict-key="obstruct">obstruct:</b> obstruktar (<i>cf</i>. inkombrar, impedar, embarasar); <b
+dict-key="obstruction">-ion:</b> -(ad)o, -eso; <b dict-key="obstructive">-ive:</b> -iva.
+
+<b dict-key="obtain">obtain: </b>(<i>get</i>) obtenar; (<i>prevail</i>) pre-valorar, existar;
+regnar.
+
+<b dict-key="obtrude">obtrude:</b> (<i>intrude</i>) intruzar; (<i>impose</i>) impozar (ulo ad ulu).
+
+<b dict-key="obtrusive">obtrusive:</b> intruz-anta, -ema; impoz-anta, ted-anta.
+
+<b dict-key="obturate">obturate:</b> obturar.
+
+<b dict-key="obtuse">obtuse: </b>(<i>lit. and fig</i>.) obtuza; (<i>sound</i>) ne-sonora, matida.
+
+<b dict-key="obverse">obverse: </b>(<i>front side</i>) averso.
+
+<b dict-key="obviate">obviate:</b> preventar, evitar, impedar (ulo).
+
+<b dict-key="obvious">obvious:</b> evidenta; sent-ebla.

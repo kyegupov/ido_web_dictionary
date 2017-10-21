@@ -1,0 +1,8 @@
+<b dict-key="xenio">xeni-o:</b> satirical epigram (first introduced by Goethe and Schiller);
+(<i>biol.</i>) xenia.
+
+<b dict-key="xenono">xenon-o:</b> (<i>chem.</i>) xenon.
+
+<b dict-key="xenofobio">xenofobi-o*:</b> xenophobia.
+
+<b dict-key="xerofito">xerofit-o:</b> (<i>bot.</i>) xerophyte.

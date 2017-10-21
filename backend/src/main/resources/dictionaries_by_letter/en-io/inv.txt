@@ -1,0 +1,97 @@
+<b dict-key="invaginate">invaginate:</b> invaginar.
+
+<b dict-key="invalid">invalid:</b> (<i>in health</i>) invalid-a, -(ul)o (<i>cf</i>. des-sana);
+(<i>not valid</i>) ne-valida, nul-valor-anta; (<i>fig</i>.) invalida; <b dict-key="invalided
+soldier or sailor">i.ed soldier or sailor:</b> invalido.
+
+<b dict-key="invalidate">invalidate:</b> ne-valid-igar, -eskar (<i>cf</i>. nihil-igar, kasacar,
+derogar).
+
+<b dict-key="invaluable">invaluable:</b> ne-evalu-ebla.
+
+<b dict-key="invariable">invariable:</b> ne-vari-anta, -inta, -iva, -ebla.
+
+<b dict-key="invariably">invariably:</b> (<i>always</i>) sempre.
+
+<b dict-key="invasion">invasion:</b> invad-(ad)o, (<i>state</i>) -eso.
+
+<b dict-key="invective">invective:</b> (<i>not in bad sense</i>) invektivo (<i>cf</i>. reprocho,
+reprimando).
+
+<b dict-key="inveigh against">inveigh against: </b>invektivar (<i>cf</i>. reprochar, reprimandar,
+deklamar).
+
+<b dict-key="inveigle">inveigle:</b> kaptacar, seduktar.
+
+<b dict-key="invent">invent:</b> invent-ar; (<i>cf</i>. imaginar, injeniar; fingar); <b
+dict-key="inventor">-or:</b> -anto, -into, -ero, -isto; <b dict-key="invention">-ion:</b>
+(<i>act</i>) -o, (<i>product</i>) -uro; (<i>quality</i>) -iv-eso, -em-eso; (<i>something
+imagined</i>) imagin-ajo; (<i>fiction, make believe</i>) fing-ajo.
+
+<b dict-key="inventory">inventory:</b> inventari-o; <b dict-key="to make an inventory of">to make
+an i. of:</b> -ar (ulo).
+
+<b dict-key="inverse">inverse:</b> inversa.
+
+<b dict-key="inversion">inversion:</b> invers-(ig)o, -ig-eso.
+
+<b dict-key="invert">invert:</b> (<i>gen</i>.) invers-igar, -eskar; (<i>upset</i>) renversar;
+(<i>change order of</i>) permutar (<i>cf</i>. trans-pozar).
+
+<b dict-key="invertase">invertase:</b> invertazo.
+
+<b dict-key="invertebrate">invertebrate:</b> sen-vertebr-a, -o.
+
+<b dict-key="invest">invest:</b> (<i>clothe</i>) vest-izar (ulu); metar (ulo); (<i>milit</i>.)
+siejar, blokusar, cernar; (<i>with authority, office</i>) investar (ulu, per ulo); (<i>money</i>)
+kolokar; (<i>attribute</i>) atribuar; <b dict-key="investment of money">-ment of money:</b>
+kolok-o, -ajo.
+
+<b dict-key="investigate">investigate:</b> explorar (<i>cf</i>. (ri-)serch-(ad)ar, inquest-(ad)ar;
+<b dict-key="investigation">-tion:</b> -(ad)o.
+
+<b dict-key="investiture">investiture:</b> invest-(ad)o.
+
+<b dict-key="investor">investor:</b> (<i>fin</i>.) kolok-anto, -ero.
+
+<b dict-key="inveterate">inveterate:</b> (<i>long-standing</i>) old-esk-inta; (<i>habitual</i>)
+kustum-ala; (<i>deep-rooted</i>) radik-iz-ita; fixa; persist-anta; invetera; (<i>med</i>.) kronika.
+
+<b dict-key="invidious">invidious:</b> ofens-ema, -iva; envidi-ema, -oza; des-agreabla; odi-inda.
+
+<b dict-key="invigorate">invigorate:</b> fort-igar, -eskar; <b dict-key="invigorating">-ting:</b>
+fort-ig-anta, -ig-iva.
+
+<b dict-key="invincible">invincible:</b> ne-vink-ebla, ne-rezist-ebla.
+
+<b dict-key="inviolable">inviolable:</b> ne-violac-ebla.
+
+<b dict-key="inviolate">inviolate:</b> ne-violac-ata, -ita; integra; pura; ne-profanac-ata, -ita.
+
+<b dict-key="invisibility">invisibility:</b> ne-vid-ebl-eso.
+
+<b dict-key="invite">invite:</b> invitar (ulu, ad ulu).
+
+<b dict-key="inviting">inviting:</b> (<i>attractive</i>) atrakt-iva, sedukt-anta.
+
+<b dict-key="invocation">invocation:</b> ad-voko (<i>see</i> <b dict-key="invoke">invoke</b>).
+
+<b dict-key="invoice">invoice: </b>fakturo; (<i>v</i>.) en-faktur-igar.
+
+<b dict-key="invoke">invoke:</b> in-vokar, ad-vokar (<i>cf</i>. apelar, pregar, demandar).
+
+<b dict-key="involucr,involucrum">involucr-e, -um:</b> involukro.
+
+<b dict-key="involuntary">involuntary:</b> ne-vol-ata, -ita; sen-vola.
+
+<b dict-key="involution">involution:</b> involuciono.
+
+<b dict-key="involve">involve:</b> (<i>enfold</i>) envolvar; (<i>as in a plot</i>) en-duktar (ulu);
+intrikar; (<i>by inference</i>) implikar; (<i>necessitate</i>) neces-igar; (<i>contain</i>)
+kontenar; (<i>of debts</i>) charjar su per debi.
+
+<b dict-key="involved">involved:</b> (<i>in debt</i>) debo-charj-ata, -ita; (<i>logically</i>)
+implik-ata, -ita; (<i>bound, constrained</i>) oblig-ata, -ita; (<i>complicated</i>) komplexa;
+komplik-ata, -ita; ne-simpla.
+
+<b dict-key="invulnerable">invulnerable:</b> ne-vund-ebla, ne-lez-ebla.

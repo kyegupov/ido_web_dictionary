@@ -1,0 +1,56 @@
+<b dict-key="ribo">ribo</b>: <span dict-key="смородина">смородина</span>
+
+<b dict-key="richa">richa</b>: <span dict-key="богатый">богатый</span>
+
+<b dict-key="ridar">ridar</b>: <span dict-key="смеяться">смеяться</span>
+
+<b dict-key="ridetar">ridetar</b>: <span dict-key="улыбаться">улыбаться</span>
+
+<b dict-key="rigida">rigida</b>: <span dict-key="твердый">твердый</span>
+
+<b dict-key="riglo">riglo</b>: <span dict-key="задвижка">задвижка</span>
+
+<b dict-key="rigoro">rigoro</b>: <span dict-key="суровость">суровость</span>
+
+<b dict-key="rikonocar">rikonocar</b>: <span dict-key="осознавать">осознавать</span>, <span
+dict-key="постигать">постигать</span>, <span dict-key="признавать">признавать</span>
+
+<b dict-key="rimborsar">rimborsar</b>: <span dict-key="возмещать">возмещать</span>
+
+<b dict-key="rimemorar">rimemorar</b>: <span dict-key="помнить">помнить</span>, <span
+dict-key="вспоминать">вспоминать</span>
+
+<b dict-key="rimeno">rimeno</b>: <span dict-key="ремень">ремень</span>, <span
+dict-key="пояс">пояс</span>
+
+<b dict-key="rimo">rimo</b>: <span dict-key="рифма">рифма</span>
+
+<b dict-key="ringo">ringo</b>: <span dict-key="кольцо">кольцо</span>
+
+<b dict-key="rinocero">rinocero</b>: <span dict-key="носорог">носорог</span>
+
+<b dict-key="rinsar">rinsar</b>: <span dict-key="ополаскивать">ополаскивать</span>
+
+<b dict-key="riskar">riskar</b>: <span dict-key="рисковать">рисковать</span>
+
+<b dict-key="rispektiva">rispektiva</b>: <span dict-key="соответствующий">соответствующий</span>
+
+<b dict-key="ritmo">ritmo</b>: <span dict-key="ритм">ритм</span>
+
+<b dict-key="rituo">rituo</b>: <span dict-key="обряд">обряд</span>, <span
+dict-key="ритуал">ритуал</span>
+
+<b dict-key="rivala">rivala</b>: <span dict-key="соперничающий">соперничающий</span>, <span
+dict-key="конкурирующий">конкурирующий</span>
+
+<b dict-key="rivero">rivero</b>: <span dict-key="река">река</span>
+
+<b dict-key="riveto">riveto</b>: <span dict-key="заклепка">заклепка</span>
+
+<b dict-key="rividar">rividar</b>: <span dict-key="видеть снова">видеть снова</span>
+
+<b dict-key="rivivigar">rivivigar</b>: <span dict-key="возродиться">возродиться</span>
+
+<b dict-key="rivo">rivo</b>: <span dict-key="берег (пляж)">берег (пляж)</span>
+
+<b dict-key="rizo">rizo</b>: <span dict-key="рис">рис</span>

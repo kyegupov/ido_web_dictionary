@@ -1,0 +1,184 @@
+<b dict-key="gear">gear:</b> (<i>apparatus</i>) aparato, utensil-aro, instrument-aro; acesor-aji;
+equip-uro; (<i>mach</i>.) ingran-ajo; rot-dent-aro; <b dict-key="to put or throw into gear">to put
+or throw into g.:</b> embragar, ingranar.
+
+<b dict-key="gecko">gecko:</b> (<i>lizard</i>) geko.
+
+<b dict-key="Gehenna">Gehenna:</b> geheno.
+
+<b dict-key="geisha">geisha:</b> &laquo;geisha&raquo;.
+
+<b dict-key="gelatine">gelatine:</b> gelatino.
+
+<b dict-key="geld">geld:</b> kastrar; <b dict-key="gelding">-ing:</b> (<i>horse</i>) kastr-ita
+kaval-ulo, ex-kaval-ulo.
+
+<b dict-key="gem">gem:</b> gemo (<i>cf</i>. lapido).
+
+<b dict-key="Gemini">Gemini: </b>jemeli.
+
+<b dict-key="gemmule">gemmule:</b> gemulo.
+
+<b dict-key="gendarme">gendarme:</b> jendarmo.
+
+<b dict-key="gender">gender:</b> (<i>gram</i>.) genro.
+
+<b dict-key="gene">gene:</b> geno; <b dict-key="genetics">genetics:</b> genetiko.
+
+<b dict-key="genealogical">genealogical:</b> genealogi-ala; <b dict-key="genealogical tree">g.
+tree:</b> -ala arboro.
+
+<b dict-key="genealog,genealogist">genealog-y, -ist:</b> genealogi-o, -isto.
+
+<b dict-key="general">general:</b> (<i>milit</i>.) generalo, arme-estro.
+
+<b dict-key="general">general:</b> gener-ala, komuna, ordinara; (<i>habitual</i>) kustum-ala; <b
+dict-key="in general">in g.:</b> gener-ale; <b dict-key="generality">-ity:</b> (<i>character</i>)
+-al-eso; (<i>objective</i>) -al-ajo; (<i>majority</i>) majoritato, plu multi; <b
+dict-key="generaly">-ly:</b> -ale, maxim ofte; <b dict-key="generalize">-ize:</b> -al-igar; <b
+dict-key="generalizing,generalization">-izing, -ization:</b> -al-ig(ad)o, -ig-uro.
+
+<b dict-key="generalissimo">generalissimo:</b> generalisimo.
+
+<b dict-key="generalship">generalship:</b> taktito, strategio.
+
+<b dict-key="generate">generate:</b> genitar; <b dict-key="generate anew">g. anew:</b> ri-genitar,
+regenerar.
+
+<b dict-key="generation">generation:</b> (<i>begetting</i>) genit-(ad)o; (<i>people, period</i>)
+generaciono; (<i>genesis</i>) genezo.
+
+<b dict-key="generative">generative:</b> (<i>begetting</i>) genit-anta, -iva,
+
+<b dict-key="generator">generator:</b> (<i>tech</i>.) generatoro.
+
+<b dict-key="generic">generic:</b> (<i>relating to a genus</i>) gener-ala; (<i>common</i>) komuna.
+
+<b dict-key="generous">generous:</b> jeneroza (<i>cf</i>. don-ema, donac-ema).
+
+<b dict-key="genesis">genesis:</b> genit-(ad)o; (<i>Bibl. and geom</i>.) genezo.
+
+<b dict-key="genet">genet:</b> jineto.
+
+<b dict-key="genetics">genetics:</b> genetiko.
+
+<b dict-key="genial">genial:</b> bon-humora, amik-eg-ala, simpati-oza; gay-ig-anta.
+
+<b dict-key="genie">genie:</b> genio.
+
+<b dict-key="genital">genital:</b> genit-ala (organi); (<i>n.</i>) genitalo*.
+
+<b dict-key="genitive">genitive:</b> (<i>gram</i>.) genitivo.
+
+<b dict-key="genius">genius:</b> genio; <b dict-key="evil genius">evil g.:</b> mala genio, demono.
+
+<b dict-key="genocide">genocide:</b> genocido*.
+
+<b dict-key="genome">genome:</b> genomo.
+
+<b dict-key="genotype">genotype:</b> genotipo.
+
+<b dict-key="genre">genre:</b> jenro.
+
+<b dict-key="gens">gens:</b> gento.
+
+<b dict-key="genteel">genteel:</b> jentila; polita; disting-ita.
+
+<b dict-key="gentian">gentian:</b> genciano.
+
+<b dict-key="gentile">gentile:</b> ne-jud-a, -ala, ne-hebrea; pagana.
+
+<b dict-key="gentle">gentle: </b>dolca;<b dict-key="gentle of birth"> g. of birth: </b>bone
+nask-inta, di bona familio.
+
+<b dict-key="gentleman">gentleman:</b> (<i>in character</i>) jentil-ulo; (<i>in gen</i>.)
+sior(ul)o; <b dict-key="gentlemanly">-ly:</b> (<i>character</i>) jentila; (<i>in manners</i>)
+polita.
+
+<b dict-key="gentry">gentry:</b> alta borgez-aro; sior-aro.
+
+<b dict-key="genuflexion">genuflexion:</b> genu-flex-o (<i>v. in</i>: -ar).
+
+<b dict-key="genuine">genuine:</b> vera, autentika, pura, reala.
+
+<b dict-key="genus">genus:</b> genero.
+
+<b dict-key="geocentric">geocentric:</b> geocentr-ala.
+
+<b dict-key="geodesy">geodesy:</b> geodezio.
+
+<b dict-key="geognosy">geognosy:</b> geognozio.
+
+<b dict-key="geographer">geographer:</b> geografo.
+
+<b dict-key="geography">geography:</b> geografio.
+
+<b dict-key="geoid">geoid:</b> geoido.
+
+<b dict-key="geology">geology:</b> geologio.
+
+<b dict-key="geomancy,to practise">geomancy, to practise:</b> (<i>intr</i>.) geomanci-ar.
+
+<b dict-key="geometrician">geometrician:</b> geometro.
+
+<b dict-key="geometry">geometry:</b> geometrio.
+
+<b dict-key="geophysics">geophysics:</b> geofiziko.
+
+<b dict-key="Georgism">Georgism:</b> georgismo.
+
+<b dict-key="geotactism">geotactism:</b> geotaktismo.
+
+<b dict-key="geotropic">geotropic:</b> geotropa.
+
+<b dict-key="geranium">geranium:</b> geranio.
+
+<b dict-key="gerfalcon,gyrfalcon">gerfalcon, gyrfalcon:</b> gerfalko.
+
+<b dict-key="germ">germ:</b> (<i>also fig</i>.) jerm-o; <b dict-key="germ plasm">g. plasm:</b>
+jerm-if-anta plasmo; (<i>in the theory of A. Weismann</i>) idanto.
+
+<b dict-key="German">German:</b> German-a, ala.
+
+<b dict-key="germane">germane:</b> relat-iva, -ata; aplik-ebla; konven-anta.
+
+<b dict-key="germanium">germanium:</b> germanio.
+
+<b dict-key="germinate">germinate:</b> jerm-ifar.
+
+<b dict-key="gerontology">gerontology:</b> gerontologio.
+
+<b dict-key="gerund">gerund:</b> gerundio.
+
+<b dict-key="gestation">gestation:</b> (<i>state</i>) gravid-eso; (<i>act</i>) -ig-(ad)o, -esko.
+
+<b dict-key="gesticulate">gesticulate:</b> (<i>intr</i>.) gest-ar; <b
+dict-key="gesticulative">-tive:</b> -ad-ema.
+
+<b dict-key="gesture">gesture:</b> gesto.
+
+<b dict-key="get">get:</b> (<i>acquire</i>) aquir-ar, prokur-ar; (<i>become</i>) -eskar; (<i>cause
+to be</i>) -igar; (<i>fetch</i>) querar; (<i>obtain</i>) obtenar; (<i>prepare, get ready</i>)
+preparar, pront-igar; <b dict-key="get along">g. along:</b> (<i>progress</i>) (<i>intr</i>.)
+progresar; <b dict-key="get away">g. away:</b> livar, (<i>intr</i>.) departar; <b dict-key="get
+back">g. back:</b> (<i>return</i>) retro-irar; <b dict-key="get down">g. down:</b> decensar; <b
+dict-key="get even">g. even:</b> (<i>intr</i>.) revanchar; <b dict-key="get in">g. in:</b>
+(<i>collect</i>.) kolektar; (<i>procure</i>) prokurar, obtenar; (<i>harvest</i>) rekoltar; <b
+dict-key="get into">g. into:</b> en-irar; (<i>open</i>) apertar; <b dict-key="get off">g. off:</b>
+liber-igar, -eskar; (<i>dismount</i>) decensar (de); <b dict-key="get on">g. on:</b> (<i>agree</i>)
+(<i>intr</i>.) konkordar; (<i>do well</i>) (<i>intr</i>.) sucesar; (<i>go foreward</i>) avan-irar
+(<i>ad</i>); <b dict-key="get on with">g. on with:</b> (<i>continue</i>) dur-igar; <b dict-key="get
+out">g. out:</b> (<i>go out</i>) ek-irar (de); (<i>prepare</i>) preparar; (<i>publish</i>) editar;
+<b dict-key="get out of">g. out of:</b> (<i>avoid</i>) evitar; <b dict-key="get over">g. over:</b>
+(<i>forget</i>) obliviar; (<i>pass over</i>) (tra-)pasar, super-pasar (ulo); trans-irar;
+(<i>overcome</i>) vinkar; (<i>re-establish</i>) ri-establisar; restaurar; (<i>sickness</i>)
+ri-san-eskar; <b dict-key="get round">g. round:</b> (<i>deceive</i>) trompar; (<i>wheedle</i>)
+flatar; karezar; <b dict-key="get through">g. through:</b> tra-irar, trans-irar; (<i>finish, carry
+out</i>) (par-)finar, plen-igar; <b dict-key="get to">g. to:</b> (<i>arrive</i>) atingar; arivar
+(ye); <b dict-key="get up">g. up:</b> (<i>arrange</i>) aranjar; (<i>arise</i>) levar su,
+stac-eskar; (<i>ascend, mount</i>) acensar; (<i>dress</i>) kostum-izar; (<i>organize</i>)
+organ-izar; (<i>prepare, get ready</i>) preparar; pront-igar.
+
+<b dict-key="gewgaw">gewgaw:</b> orn-iv-acho; bagatelo.
+
+<b dict-key="geyser">geyser:</b> &laquo;geyser&raquo;.

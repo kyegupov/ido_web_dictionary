@@ -1,0 +1,23 @@
+<b dict-key="drako">drako</b>: <span dict-key="дракон">дракон</span>
+
+<b dict-key="dramato">dramato</b>: <span dict-key="драма">драма</span>
+
+<b dict-key="drapo">drapo</b>: <span dict-key="(шерстяная) ткань">(шерстяная) ткань</span>
+
+<b dict-key="drastika">drastika</b>: <span dict-key="решительный">решительный</span>
+
+<b dict-key="drenar">drenar</b>: <span dict-key="иссушать">иссушать</span>
+
+<b dict-key="driftar">driftar</b>: <span dict-key="дрейфовать">дрейфовать</span>
+
+<b dict-key="drilo">drilo</b>: <span dict-key="сверло ручное или стационарное">сверло ручное или
+стационарное</span>
+
+<b dict-key="drinkar">drinkar</b>: <span dict-key="пить">пить</span>
+
+<b dict-key="drogo">drogo</b>: <span dict-key="препарат (наркотик)">препарат (наркотик)</span>
+
+<b dict-key="drola">drola</b>: <span dict-key="юмористический">юмористический</span>, <span
+dict-key="забавный">забавный</span>
+
+<b dict-key="dronar">dronar</b>: <span dict-key="(tr.) тонуть">(tr.) тонуть</span>

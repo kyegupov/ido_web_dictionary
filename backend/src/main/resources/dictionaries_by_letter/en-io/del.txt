@@ -1,0 +1,96 @@
+<b dict-key="delay">delay: </b>(<i>defer</i>) ajornar; (<i>make slow</i>) lent-igar;
+(<i>detain</i>) (plu-)tard-igar; halt-igar; des-fru-igar.
+
+<b dict-key="delay">delay: </b>(<i>n</i>.) (<i>postponement</i>) ajorno; (<i>tarrying</i>) tardigo,
+lent-eso; temporiso.
+
+<b dict-key="delectable">delectable: </b>delekt-anta, -iva, -oza.
+
+<b dict-key="delegate">delegate: </b>deleg-ar; (<i>n</i>.) -ato, -ito.
+
+<b dict-key="delegation">delegation: </b>(<i>act</i>) deleg-o; (<i>collect</i>.) -it-aro;
+deput-at-aro; (<i>delegation</i>) delegaciono.
+
+<b dict-key="delete">delete: </b>efacar (ulo, per); (<i>strike through</i>) tra-strek-ozar,
+sur-strek-izar.
+
+<b dict-key="deleterious">deleterious: </b>deletera, noc-iva, ne-utila, ne-salubra.
+
+<b dict-key="delftware">delftware: </b>fayenco de Delft.
+
+<b dict-key="deliberate">deliberate: </b>(<i>intr</i>.) deliberar (kun ulu, pri ulo); <b
+dict-key="deliberate together">d. together: </b>inter-konsukt-ar; (<i>hesitate</i>) hezitar (pri).
+
+<b dict-key="deliberate">deliberate: </b>(pre-)intenc-(it)a; ne-subita; konsider-ita; (<i>slow</i>)
+lenta; ne-rapid-a; <b dict-key="deliberatly">-ly: </b>(pre-)intec-(it)e, pre-pense.
+
+<b dict-key="delicacy">delicacy: </b>(<i>quality</i>) delikat-eso; (<i>object</i>) -ajo;
+(<i>fragility</i>) frajil-eso; (<i>sensitiveness</i>) sent-em-eso; (<i>of health</i>) febl-eso.
+
+<b dict-key="delicate">delicate: </b>(<i>refined</i>) delikat-a; (<i>person</i>) -(ul)o;
+(<i>weak</i>) febla, debila; (<i>sensitive</i>) sent-ema; (<i>conscientious</i>) skrupul-oza;
+(<i>dainty</i>) eleganta.
+
+<b dict-key="delicatessen">delicatessen: </b>(tablo-)delikat-aji.
+
+<b dict-key="delicious">delicious: </b>delic-oza (<i>cf</i>. charm-eg-anta; ravis-anta; bon-sapora;
+frianda; ecel-anta, bon-ega).
+
+<b dict-key="delict">delict: </b>delikto; <b dict-key="flagrante delicto">flagrante delicto:</b> en
+flagrante delikto; <b dict-key="corpus delicti">corpus delicti: </b>materio di la delikto.
+
+<b dict-key="delight">delight: </b>delektar (ulu); charm-egar, ravisar; (<i>reflexive</i>)
+delekt-esar (da); joyar; plezar (ad); (<i>fig</i>.) savurar; <b dict-key="delighted">-ed:
+</b>delekt-ita, charm-eg-ita, joy-oza; <b dict-key="delightful">-ful: </b>delic-oza, delekt-anta,
+-oza, -iva; charm-anta, -iva; ravis-anta, agreabla; am-inda; <b dict-key="delightfulness">-fulness:
+</b>delekt-eso, charmo, delic-oz-eso.
+
+<b dict-key="delimit">delimit: </b>limit-izar.
+
+<b dict-key="delineate">delineate: </b>(<i>sketch</i>) skisar (<i>cf</i>. trasar, kontur-igar,
+desegnar); (<i>describe</i>) deskriptar.
+
+<b dict-key="delinquent">delinquent: </b>(<i>offending</i>) delikt-anta, -oza; -anto, -into;
+kulp-ozo; (<i>late</i>) tarda; (<i>taxes</i>) ne-pag-ita.
+
+<b dict-key="deliquesce">deliquesce: </b>(<i>intr</i>.) deliquecar.
+
+<b dict-key="delirious">delirious: </b>delir-anta, -atra, -ema; <b dict-key="to be delirious">to be
+d.: </b>(<i>intr</i>.) -ar; (<i>intr</i>.) extravagar.
+
+<b dict-key="delirium">delirium: </b>delir-o, -ado; (<i>fig</i>.) extazo; <b dict-key="delirium
+tremens">d. tremens: </b>alkohol-deliro.
+
+<b dict-key="deliver">deliver: </b>(<i>liberate</i>) liber-igar (ulu, de ulo); (<i>hand over</i>)
+trans-donar; (<i>deliver</i>) livrar; (<i>childbirth</i>) akushar; (<i>a speech</i>) diskursar;
+parolar; dicar; (<i>rescue</i>) salvar; (<i>grant</i>) cedar; <b dict-key="deliverable">-able:
+</b>(<i>com</i>.) livr-ebla, -enda; <b dict-key="deliverance">-ance: </b>(<i>rescue</i>) liber-igo;
+salvo; akusho; livr(ad)o; <b dict-key="delivery">-y:</b> (<i>speech</i>) diciono, diskurs-maniero;
+(<i>liberation</i>) liber-igo; (<i>parturition</i>) parturo; (<i>distribution</i>) distributo; <b
+dict-key="cash on deliver">cash on d.: </b>pago ye livro; <b dict-key="deliverman">-man:
+</b>livr-isto; dirtribut-isto; <b dict-key="the thing delivered">the thing delivered: </b>livr-ajo.
+
+<b dict-key="dell">dell: </b>val-eto.
+
+<b dict-key="delocalize">delocalize: </b>des-lok-izar.
+
+<b dict-key="delphin">delphin:</b> (<i>hist., zool</i>.) delfin-(ul)o; (<i>classics</i>) -ala.
+
+<b dict-key="delphinium">delphinium:</b> delfinelo.
+
+<b dict-key="delta">delta: </b>delto.
+
+<b dict-key="deltoid">deltoid:</b> deltoido.
+
+<b dict-key="delude">delude: </b>trompar, eror-igar, iluzion-igar su; <b dict-key="deluder">-er:
+</b>trompanto, -ero.
+
+<b dict-key="deluge">deluge: </b>diluvio.
+
+<b dict-key="delusive">delusive: </b>iluzion-oza; -ig-anta, -iva; tromp-anta, -iva.
+
+<b dict-key="delve">delve: </b>spad-agar; (<i>fig</i>.) (<i>tr., intr</i>.) penetrar; (par-)studiar.
+
+<b dict-key="delapitated">delapitated: </b>kaduka; domaj-ita; ruin-oza; disip-ita.
+
+<b dict-key="delapidation">delapidation: </b>kaduk-eso, dekado, ruin-eso; deperiso; disip-eso.

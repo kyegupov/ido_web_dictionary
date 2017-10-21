@@ -1,0 +1,73 @@
+<b dict-key="foko">foko</b>: <span dict-key="центр">центр</span>
+
+<b dict-key="fola">fola</b>: <span dict-key="безумный">безумный</span>, <span
+dict-key="дурацкий">дурацкий</span>
+
+<b dict-key="folio">folio</b>: <span dict-key="лист">лист</span>
+
+<b dict-key="folkloro">folkloro</b>: <span dict-key="фольклор">фольклор</span>
+
+<b dict-key="fondar">fondar</b>: <span dict-key="основывать">основывать</span>, <span
+dict-key="учреждать">учреждать</span>
+
+<b dict-key="fonetiko">fonetiko</b>: <span dict-key="фонетика">фонетика</span>
+
+<b dict-key="fonografar">fonografar</b>: <span dict-key="делать запись на фонографе">делать запись
+на фонографе</span>
+
+<b dict-key="fonteno">fonteno</b>: <span dict-key="фонтан">фонтан</span>
+
+<b dict-key="fonto">fonto</b>: <span dict-key="источник">источник</span>
+
+<b dict-key="for">for</b>: <span dict-key="далеко от">далеко от</span>
+
+<b dict-key="forco">forco</b>: <span dict-key="сила">сила</span>
+
+<b dict-key="foresto">foresto</b>: <span dict-key="лес">лес</span>
+
+<b dict-key="forjetar">forjetar</b>: <span dict-key="отбрасывать">отбрасывать</span>
+
+<b dict-key="forketo">forketo</b>: <span dict-key="вилка (для еды)">вилка (для еды)</span>
+
+<b dict-key="forko">forko</b>: <span dict-key="вилывилка (для еды)">вилывилка (для еды)</span>
+
+<b dict-key="formacar">formacar</b>: <span dict-key="формироваться">формироваться</span>
+
+<b dict-key="formato">formato</b>: <span dict-key="формат">формат</span>
+
+<b dict-key="formo">formo</b>: <span dict-key="форма">форма</span>
+
+<b dict-key="formulario">formulario</b>: <span dict-key="форма (чтобы заполнить)">форма (чтобы
+заполнить)</span>
+
+<b dict-key="formulo">formulo</b>: <span dict-key="формула">формула</span>
+
+<b dict-key="forno">forno</b>: <span dict-key="духовка">духовка</span>
+
+<b dict-key="forsan">forsan</b>: <span dict-key="может быть">может быть</span>, <span
+dict-key="возможно">возможно</span>, <span dict-key="наверно">наверно</span>
+
+<b dict-key="forsar">forsar</b>: <span dict-key="вынуждать">вынуждать</span>
+
+<b dict-key="forta">forta</b>: <span dict-key="сильный">сильный</span>
+
+<b dict-key="fortuno">fortuno</b>: <span dict-key="удача">удача</span>
+
+<b dict-key="forumo">forumo</b>: <span dict-key="форум">форум</span>
+
+<b dict-key="fosilo">fosilo</b>: <span dict-key="окаменелость">окаменелость</span>
+
+<b dict-key="foso">foso</b>: <span dict-key="отверстие">отверстие</span>, <span
+dict-key="яма">яма</span>, <span dict-key="впадина">впадина</span>
+
+<b dict-key="fosto">fosto</b>: <span dict-key="канава">канава</span>, <span
+dict-key="траншея">траншея</span>
+
+<b dict-key="fotelo">fotelo</b>: <span dict-key="кресло">кресло</span>
+
+<b dict-key="fotografar">fotografar</b>: <span dict-key="фотографировать">фотографировать</span>
+
+<b dict-key="foxo">foxo</b>: <span dict-key="лиса">лиса</span>
+
+<b dict-key="foyo">foyo</b>: <span dict-key="время">время</span>, <span
+dict-key="случай">случай</span>

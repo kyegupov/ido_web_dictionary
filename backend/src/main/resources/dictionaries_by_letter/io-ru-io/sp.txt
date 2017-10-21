@@ -1,0 +1,59 @@
+<b dict-key="spaco">spaco</b>: <span dict-key="место">место</span>
+
+<b dict-key="sparar">sparar</b>: <span dict-key="экономить">экономить</span>, <span
+dict-key="спасать">спасать</span>
+
+<b dict-key="specala">specala</b>: <span dict-key="специальный">специальный</span>
+
+<b dict-key="specimeno">specimeno</b>: <span dict-key="экземпляр">экземпляр</span>
+
+<b dict-key="speco">speco</b>: <span dict-key="разновидность">разновидность</span>, <span
+dict-key="вид">вид</span>
+
+<b dict-key="spegulo">spegulo</b>: <span dict-key="зеркало">зеркало</span>
+
+<b dict-key="spektaklo">spektaklo</b>: <span dict-key="зрелище">зрелище</span>
+
+<b dict-key="spektar">spektar</b>: <span dict-key="наблюдать">наблюдать</span>
+
+<b dict-key="spektro">spektro</b>: <span dict-key="спектр">спектр</span>
+
+<b dict-key="spekular">spekular</b>: <span dict-key="размышлять">размышлять</span>, <span
+dict-key="раздумывать">раздумывать</span>, <span dict-key="делать предположения">делать
+предположения</span>
+
+<b dict-key="spensar">spensar</b>: <span dict-key="тратить">тратить</span>, <span
+dict-key="расходовать">расходовать</span>
+
+<b dict-key="spico">spico</b>: <span dict-key="специя">специя</span>
+
+<b dict-key="spino">spino</b>: <span dict-key="спинной хребет">спинной хребет</span>, <span
+dict-key="основа">основа</span>
+
+<b dict-key="spionar">spionar</b>: <span dict-key="шпионить">шпионить</span>
+
+<b dict-key="spiralo">spiralo</b>: <span dict-key="спираль">спираль</span>
+
+<b dict-key="splendida">splendida</b>: <span dict-key="роскошный">роскошный</span>
+
+<b dict-key="spoliar">spoliar</b>: <span dict-key="грабить">грабить</span>
+
+<b dict-key="sponjo">sponjo</b>: <span dict-key="губка">губка</span>
+
+<b dict-key="spontana">spontana</b>: <span dict-key="непосредственный">непосредственный</span>
+
+<b dict-key="sporto">sporto</b>: <span dict-key="спорт">спорт</span>
+
+<b dict-key="spozino">spozino</b>: <span dict-key="жена">жена</span>
+
+<b dict-key="spozo">spozo</b>: <span dict-key="супруг (супруга)">супруг (супруга)</span>, <span
+dict-key="муж или жена">муж или жена</span>
+
+<b dict-key="spozulo">spozulo</b>: <span dict-key="муж">муж</span>
+
+<b dict-key="spricar">spricar</b>: <span dict-key="извергать">извергать</span>, <span
+dict-key="вылиться">вылиться</span>
+
+<b dict-key="spumo">spumo</b>: <span dict-key="пена">пена</span>
+
+<b dict-key="sputar">sputar</b>: <span dict-key="плевать">плевать</span>

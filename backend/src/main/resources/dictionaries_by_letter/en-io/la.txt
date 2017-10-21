@@ -1,0 +1,500 @@
+<b dict-key="la">la:</b> (<i>mus</i>.) la.
+
+<b dict-key="labarum">labarum:</b> labaro.
+
+<b dict-key="la">la</b>(<b dict-key="b">b</b>)<b dict-key="danum">danum:</b> ladano.
+
+<b dict-key="label">label:</b> (<i>on bottles, etc</i>.) etiket-o, -izar.
+
+<b dict-key="labial">labial:</b> labi-ala.
+
+<b dict-key="labiate">labiate:</b> labi-oza.
+
+<b dict-key="laboratory">laboratory:</b> laboratorio.
+
+<b dict-key="laborious">laborious:</b> (<i>act; thing</i>) labor-oza, (<i>person</i>) -ema.
+
+<b dict-key="labo">labo</b>(<b dict-key="u">u</b>)<b dict-key="r">r:</b> (<i>work</i> ) (<i>tr.,
+intr.</i>) laborar; (<i>in childbirth</i>) parturar; (<i>take pains</i>) (<i>intr</i>.) penar;
+(<i>strive</i>) (<i>intr</i>.) esforcar; (<i>suffer</i>) sufrar (<i>cf</i>. dolorar; subisar); <b
+dict-key="labo under error">l. under error:</b> erorar.
+
+<b dict-key="labo">labo</b>(<b dict-key="u">u</b>)<b dict-key="r">r:</b> labor-(ad)o, -uro;
+travalio*; (<i>literary</i>) verk(et)o; <b dict-key="hand">hand-l.:</b> manu-labor-(ad)o; <b
+dict-key="division of labo">division of l.:</b> labor-divido; <b dict-key="forced labo">forced
+l.:</b> punis-laboro, koakt-ata laboro; <b dict-key="laboing in childbirth">l.ing in
+childbirth:</b> partur-anta.
+
+<b dict-key="labo">labo</b>(<b dict-key="u">u</b>)<b dict-key="rer">rer:</b> labor-anto, -ero,
+-emo, -isto.
+
+<b dict-key="labryinth">labryinth:</b> labirinto.
+
+<b dict-key="labyrinthodon">labyrinthodon:</b> labirintodonto.
+
+<b dict-key="lac">lac:</b> lako; <b dict-key="gum">gum-l.:</b> gum-lako; <b dict-key="lac
+varnish">l. varnish:</b> lako-verniso.
+
+<b dict-key="lace">lace:</b> dentel-o, -a, -ala, -atra; (<i>for shoe, etc</i>.) laco; (<i>gimp</i>)
+pasmento; (<i>of gold or silver; galoon</i>) galono (ora, arjenta); <b dict-key="shoe">shoe-l.:</b>
+laco di alta shuo; <b dict-key="to lace">to l.:</b> (<i>shoes, corsets, etc</i>.) lac-agar; (<i>put
+a l. in</i>) lac-izar; <b dict-key="to trim with lace">to trim with l.:</b> dentel-izar; <b
+dict-key="Brussels lace">Brussels l.:</b> dentelo de Bruxelles.
+
+<b dict-key="lacerate">lacerate:</b> lacerar.
+
+<b dict-key="lachrymal">lachrymal:</b> lakrim-ala.
+
+<b dict-key="lachrymatory">lachrymatory:</b> lakrimo-vazo.
+
+<b dict-key="lachrymose">lachrymose:</b> (<i>person</i>) plor-(et)ema, -et-anta; (<i>which causes
+tears</i>) plor-ig-anta.
+
+<b dict-key="lack">lack:</b> (<i>be deficient in a thing needed</i>) (<i>intr</i>.) mankar
+(<i>cf</i>. bezonar); (<i>to be destitute</i>) indijar; <b dict-key="because of lack of
+attention">because of l. of attention:</b> pro manko di atenco.
+
+<b dict-key="lackadaisical">lackadaisical:</b> sentiment-ema, mien-if-anta, -if-ema;
+(<i>languid</i>) langor-ema.
+
+<b dict-key="lackluster,lacklustre">lackluster, lacklustre:</b> sen-brila, matida.
+
+<b dict-key="lackey">lackey:</b> lakeo.
+
+<b dict-key="laconic">laconic:</b> lakonika.
+
+<b dict-key="laquer">laquer:</b> lak-o, -izar.
+
+<b dict-key="lactation">lactation:</b> (<i>secretion</i>) lakt-ifo; (<i>suckling</i>) alakt-(ad)o.
+
+<b dict-key="lacteal">lacteal:</b> (<i>relative to milk</i>) lakt-ala; (<i>full of milk</i>) -oza;
+(<i>resembling</i>) -atra.
+
+<b dict-key="lactiferous">lactiferous:</b> lakt-oza, lakto-dukt-anta.
+
+<b dict-key="lactometer">lactometer:</b> laktometro.
+
+<b dict-key="lactose">lactose:</b> laktoso.
+
+<b dict-key="lacuna">lacuna:</b> lakuno.
+
+<b dict-key="lacustrine">lacustrine:</b> lag-ala; (<i>inhabitant</i>) lag-ana, -o-habit-anta.
+
+<b dict-key="lad">lad:</b> yun-ulo; puer-ulo; (<i>son</i>) fili-ulo; (<i>waiter</i>) garsono
+(<i>cf</i>. kerlo).
+
+<b dict-key="ladanum">ladanum:</b> ladano.
+
+<b dict-key="ladder">ladder:</b> skalo.
+
+<b dict-key="lade">lade:</b> (<i>somebody or something with something</i>) charjar; (<i>goods</i>)
+kargar; <b dict-key="heavily laden">heavily laden:</b> grave charj-ata, -ita; charj-eg-anta,
+opres-anta.
+
+<b dict-key="lading,bill of">lading, bill of:</b> konosmento.
+
+<b dict-key="ladle">ladle:</b> kulier-eg-o; <b dict-key="ladle out">l. out:</b> ek-kulier-eg-agar.
+
+<b dict-key="lady">lady:</b> (<i>woman</i>) sior-ino; (<i>of the nobility</i>) sinior-ino;
+(<i>married or widowed</i>) damo; <b dict-key="young lady">young l.:</b> damzelo; <b
+dict-key="ladies">ladies&rsquo;-man:</b> amor-ist-ulo; favorat(ul)o di sior-ini.
+
+<b dict-key="lady,ladbug">lady-bird, -bug:</b> kocinelo.
+
+<b dict-key="lady">lady-day:</b> festo dil anunco.
+
+<b dict-key="ladylike">ladylike:</b> bon-maniera; di la eleganta modo; di mieno od aspekto
+disting-ata, -ita; sior-in-atra, -ala; sinior-in-ala, -atra.
+
+<b dict-key="lady">lady-love:</b> amor-(eg)at-ino.
+
+<b dict-key="ladyship">ladyship:</b> damo; (<i>in speaking of a l.</i>) la damo; (<i>in speaking of
+a mistress</i>) mea damo; (<i>a woman in gen.</i>) sior-ino; (<i>princesses, etc.</i>) sinior-ino.
+
+<b dict-key="lady maid">lady&rsquo;s maid: </b>chambr-ist-ino; dam-serv-ist-ino.
+
+<b dict-key="lag">lag:</b> (<i>get behindhand</i>) tard-eskar; (<i>slow down</i>) lent-eskar;
+marchar, irar lente; (<i>cause to l</i>.) lent-igar (ulu, ulo); <b dict-key="laging">-ging:</b>
+(<i>not acting rapidly</i>) lenta.
+
+<b dict-key="laggard">laggard:</b> lent-(ul)o, -ach-(ul)o.
+
+<b dict-key="lagoon">lagoon:</b> laguno.
+
+<b dict-key="laic">laic:</b> laik-a, -(ul)o; (<i>cf</i>. lea); <b dict-key="laicize">-ize:</b>
+-igar.
+
+<b dict-key="lair">lair:</b> repoz-eyo; kush-eyo; refuj-eyo, retret-eyo; kavern-eto.
+
+<b dict-key="laity">laity:</b> laik-aro.
+
+<b dict-key="lake">lake:</b> lago.
+
+<b dict-key="lama">lama: </b>lama-o; <b dict-key="lamism">-ism:</b> -ismo.
+
+<b dict-key="lamantin">lamantin:</b> lamantino.
+
+<b dict-key="Lamarckism">Lamarckism:</b> lamarckismo.
+
+<b dict-key="lamb">lamb:</b> muton-yuno; (<i>poet. and rel</i>.) agnelo; (<i>mutton meat</i>)
+muton-(yun)karno; <b dict-key="to lamb">to l.:</b> parturar (<i>a lamb</i>).
+
+<b dict-key="lambent">lambent:</b> frol-et-anta (<i>cf</i>. cintil-if-anta).
+
+<b dict-key="lambkin">lambkin:</b> (<i>lit</i>.) muton-yun-eto; (<i>fig</i>.) agnel-eto.
+
+<b dict-key="lamblike">lamblike:</b> dolca quale agnelo; agnel-atra.
+
+<b dict-key="lame">lame:</b> klaudik-anta; (<i>person</i>) -anto, -ero; <b dict-key="to be lame">to
+be l.:</b> (<i>intr</i>.) -ar; <b dict-key="to make lame">to make l.:</b> -igar (<i>cf</i>. kripla;
+infirma).
+
+<b dict-key="lamella">lamella:</b> lamelo.
+
+<b dict-key="lament">lament:</b> lamentar (pri) (<i>cf</i>. plendar); <b
+dict-key="lamentable">-able:</b> (<i>worthy of l</i>.) lament-inda; kompat-inda; mizer-oza.
+
+<b dict-key="laminate">laminate:</b> laminar.
+
+<b dict-key="laminated">laminated:</b> (<i>flattened out</i>) lamin-ita; (<i>having flakes,
+scales</i>) lamel-oza.
+
+<b dict-key="lamp">lamp:</b> lamp-o; <b dict-key="incandescent lamp">incandescent l.:</b>
+inkandeco-lampo; <b dict-key="house">house-l.:</b> oleo-lampo; <b dict-key="illumination
+lamp">illumination l.: </b>ilumino-lampo;<b dict-key=""> </b>lampiono; <b
+dict-key="safety">safety-l.:</b> sekures-lampo; <b dict-key="street">street-l.:</b>
+strado-lanterno, -lum-iz-ilo; <b dict-key="foot">foot-l.s:</b> lum-rango.
+
+<b dict-key="lampblack">lampblack:</b> fum-nigro.
+
+<b dict-key="lampoon">lampoon:</b> skribar satiro; satire mokar (ulu).
+
+<b dict-key="lamprey">lamprey:</b> lampredo.
+
+<b dict-key="lance">lance:</b> (<i>fling</i>) lansar; (<i>surg</i>.) perforar (ulo) per lance-to;
+(<i>fig</i>.) iniciar, impulsar.
+
+<b dict-key="lance">lance:</b> (<i>spear</i>) lanco.
+
+<b dict-key="lancer">lancer:</b> (<i>soldier</i>) lanc-iero.
+
+<b dict-key="lancet">lancet:</b> lanc-eto.
+
+<b dict-key="land">land:</b> (<i>as planet and ground</i>) tero; (<i>country</i>) lando;
+(<i>soil</i>) sulo; (<i>field</i>) agro (<i>cf</i>. domeno; tereno); <b dict-key="land surveyor">l.
+surveyor:</b> agro-mezur-isto.
+
+<b dict-key="land">land:</b> (<i>v</i>.) (<i>tr., intr.</i>) des-embarkar (<i>cf</i>. abordar).
+
+<b dict-key="landau">landau:</b> &laquo;landau&raquo;.
+
+<b dict-key="landaulet">landaulet:</b> &laquo;landaulet&raquo;.
+
+<b dict-key="landed property">landed property:</b> domen-o, -i; ter-hav-ajo.
+
+<b dict-key="landgrave">landgrave:</b> landgravo.
+
+<b dict-key="landholder">landholder:</b> ter-ala (<i>od</i>, domen-ala) propriet-ero.
+
+<b dict-key="landing">landing:</b> (<i>act</i>) des-embark-(ad)o, (<i>place</i>) -eyo (<i>cf</i>.
+ariv-eyo); <b dict-key="staircase landing">staircase l.:</b> fluro; <b dict-key="landing">l.-net:
+</b>sako-reto.
+
+<b dict-key="landlady">landlady:</b> (<i>owner</i>) propriet-er-ino; (<i>of inn, lodgings,
+etc</i>.) (dom-)mastr-ino.
+
+<b dict-key="landlocked">landlocked:</b> ter-inkluz-ata, -ita.
+
+<b dict-key="landlord">landlord:</b> (<i>owner</i>) ter-propriet-anto, -ero; (<i>of hotel, house,
+etc</i>.) hotel-mastro, (dom-)mastr-(ul)o.
+
+<b dict-key="landlubber">landlubber:</b> ne-mar-ala persono o viro; ne-habila nav-ano; novica
+nav-ano.
+
+<b dict-key="landmark">landmark:</b> termino; limit-punto, -stango, -stono, -marko; orient-iz-ilo;
+reper-punto; ri-konoc-, guid-marko.
+
+<b dict-key="landscape">landscape:</b> peizajo.
+
+<b dict-key="landslide">landslide:</b> ter-krul-(ad)o.
+
+<b dict-key="landsman">landsman:</b> novica mar-isto (<i>see</i> <b
+dict-key="landlubber">landlubber</b>).
+
+<b dict-key="landsturm">landsturm: </b>&laquo;landsturm&raquo;.
+
+<b dict-key="landwehr">landwehr:</b> &laquo;landwehr&raquo;.
+
+<b dict-key="lane">lane:</b> voy-eto, strad-eto; (<i>of people</i>) voyeto inter viv-anta hego;
+(<i>between rows of trees, etc</i>.) aleo.
+
+<b dict-key="language">language:</b> (<i>of a people</i>) linguo (<i>cf</i>. idiomo); (<i>manner of
+speaking</i>) parol-maniero, stilo; <b dict-key="bad language">bad l.:</b> mala stilo;
+(<i>offensive l</i>.) grosier-aji, grosiera parol-ado, -i; (<i>written</i>) grosiera vorti,
+expres-uri, .
+
+<b dict-key="languid">languid:</b> langor-anta, -ema, -oza; (<i>slow</i>) lenta; (<i>feeble</i>)
+febla.
+
+<b dict-key="languish">languish:</b> (<i>intr</i>.) langorar; <b dict-key="languishing">-ing:</b>
+(<i>of looks</i>) afektace dolca.
+
+<b dict-key="languor">languor:</b> langoro.
+
+<b dict-key="lank">lank:</b> magra; (<i>hair</i>) plata.
+
+<b dict-key="lanoline">lanoline:</b> lanolino.
+
+<b dict-key="lantana">lantana:</b> lantano.
+
+<b dict-key="lantern">lantern:</b> lanterno; <b dict-key="magic">magic-l:</b> lum-projekt-ilo; <b
+dict-key="dark">dark-l:</b> ekipso-lanterno; <b dict-key="Chinese">Chinese-l:</b> paper-lanterno
+(<i>cf</i>. lampiono).
+
+<b dict-key="lanthanum">lanthanum:</b> lantano.
+
+<b dict-key="lanuginous">lanuginous:</b> lanug-oza, -atra.
+
+<b dict-key="lanyard">lanyard:</b> tir-, kloz-, lig-kord(et)o.
+
+<b dict-key="Laos">Laos:</b> Laos.
+
+<b dict-key="lap">lap:</b> (<i>liquids with tongue</i>) lapar; (<i>lick</i>) lekar; (<i>fold</i>)
+(ri-)faldar; (<i>wrap</i>) en-velopar; en-volvar; (<i>to overlap; clinkerbuild</i>) klinar;
+(<i>plash</i>) plaud-etar.
+
+<b dict-key="lap">lap:</b> (<i>of a person sitting</i>) gremio (<i>cf</i>. genui); (<i>in a
+race</i>) rond-iro.
+
+<b dict-key="laparoscopy">laparoscopy:</b> laparoskopio.
+
+<b dict-key="laparotomy">laparotomy:</b> laparotomio.
+
+<b dict-key="lapdog">lapdog:</b> dorlot-hund-eto.
+
+<b dict-key="lapel">lapel:</b> ri-fald-uro; frako-, redingoto-panelo.
+
+<b dict-key="lapidary">lapidary: </b>lapid-ala, -ist-ala; -isto, -tali-isto.
+
+<b dict-key="lapis">lapis-lazuli:</b> lapislazulo.
+
+<b dict-key="lapse">lapse:</b> (<i>come to an end</i>) fin-ar, -eskar; (<i>fall into decadence</i>)
+dekad-ar, eskart-ar (<i>commit a fault</i>) ri-kulpar; faliar; facar mis-pazo; (<i>passing away of
+time, etc.</i>) (for-)fluar; (<i>of attention</i>) manko (di atenco); (<i>fault</i>) kulpo, eroro;
+(<i>lack</i>) manko; (<i>deviation</i>) eskarto; (<i>of time</i>) inter-tempo; (<i>of events</i>)
+marcho, sucedo.
+
+<b dict-key="lapwing">lapwing:</b> vanelo.
+
+<b dict-key="larboard">larboard:</b> sinistra.
+
+<b dict-key="larceny">larceny:</b> furt-(ad)o.
+
+<b dict-key="larch">larch:</b> larico.
+
+<b dict-key="lard">lard:</b> saimo; (<i>bacon</i>) lardo.
+
+<b dict-key="larder">larder:</b> nutr-iv-armoro, (manjo-) despenso.
+
+<b dict-key="larding,lardingneedle">larding-pin, -needle:</b> lardo-spiso.
+
+<b dict-key="lares">lares:</b> hem-dei.
+
+<b dict-key="large">large:</b> granda (<i>cf</i>. grosa; ampla; vasta; import-anta, grava,
+konsider-inda); <b dict-key="at large">at l.:</b> liber-a, -e; gener-ale; <b
+dict-key="largly">-ly:</b> (<i>in great measure</i>) granda-parte, ample, precipue; <b
+dict-key="largness">-ness:</b> grand-eso; <b dict-key="a large person">a l. person:</b> grand-(ul)o.
+
+<b dict-key="largess">largess:</b> jeneroz-a donac-(ad)o, -ajo.
+
+<b dict-key="lark">lark:</b> (<i>bird</i>)<b dict-key=""> </b>alaudo; (<i>game, joke, frolic</i>)
+amuzanta aventur(et)o; fola (<i>od</i>, yun-es-ala) stroko.
+
+<b dict-key="larva">larva:</b> larvo.
+
+<b dict-key="laryngitis">laryngitis:</b> laringito.
+
+<b dict-key="laryngoscope">laryngoscope:</b> laringoskopo.
+
+<b dict-key="laryngotomy">laryngotomy:</b> laringotomio.
+
+<b dict-key="larynx">larynx:</b> laringo.
+
+<b dict-key="lascar">lascar:</b> laskaro.
+
+<b dict-key="lascivious">lascivious:</b> laciva, ne-chasta.
+
+<b dict-key="laser">laser:</b> lazero*.
+
+<b dict-key="lash">lash:</b> (<i>whip</i>) flogar (<i>cf</i>. frapar, batar); (<i>bind</i>) ligar;
+(<i>nav</i>.) amar-agar, fix-igar (ulo) per amaro; (<i>fig</i>.) ecitar; blam-egar, kondamnar;
+(<i>n</i>.) flogo, frapo; stroko di la flogilo; rimeno, (ledro-) bendo; lig-ilo; <b
+dict-key="eye">eye-l.:</b> cilio; (<i>whip-cord</i>) kord-(et)o (<i>od</i>, pinto) di flog-ilo; <b
+dict-key="to lash the tail">to l. the tail:</b> batar la kaudo, kaud-agit-eg-ar.
+
+<b dict-key="lass">lass:</b> yun-ino, yuna homino.
+
+<b dict-key="lasso">lasso:</b> laz-o, -o-kaptar, -o-agar.
+
+<b dict-key="last">last:</b> (<i>intr</i>.) durar; (<i>adj., n.</i>) last-a, -o (<i>in time and
+space</i>); (<i>end</i>) fin-ala, -o; (<i>shoemaker&rsquo;s</i>) bot-, shu-form-iz-ilo; <b
+dict-key="at last">at l.:</b> fine, konkluze, laste, sume, tandem (implying a long wait); <b
+dict-key="lasting">-ing:</b> dur-anta, -iva, -ema; perman-anta.
+
+<b dict-key="latania">latania</b>(<b dict-key="latanipalm">-palm</b>)<b dict-key="">:</b> latanio.
+
+<b dict-key="latch">latch:</b> klink-o, -agar, -klozar.
+
+<b dict-key="latchkey">latchkey:</b> pordo-klefo (privata, generala).
+
+<b dict-key="late">late:</b> (<i>behindhand</i>) tarda; (<i>slow</i>) lenta; (<i>toward the
+end</i>) proxim la fino; tre avanc-inta; (<i>former</i>) olima (<i>cf.&nbsp; prefix; </i>ex-);
+(<i>last</i>) lasta; (<i>recent</i>) recenta; (<i>deceased</i>) mort-inta; <b dict-key="to be
+late">to be l.:</b> tard-esar; <b dict-key="latly">-ly:</b> recente, nove.
+
+<b dict-key="latent">latent:</b> latenta.
+
+<b dict-key="later">later:</b> (<i>in time</i>) posa; (<i>in space</i>) dopa (<i>cf</i>. sequ-anta,
+suced-anta, plu-tarda, plu-avanc-inta); <b dict-key="later on">l. on:</b> pose.
+
+<b dict-key="lateral">lateral:</b> later-ala, flank-ala.
+
+<b dict-key="latest">latest:</b> lasta, maxim-recenta.
+
+<b dict-key="latex">latex:</b> latex-o.
+
+<b dict-key="lath">lath:</b> lat-o, -izar.
+
+<b dict-key="lathe">lathe:</b> torn-ilo; (<i>tr. v.</i>) -ar.
+
+<b dict-key="lather">lather:</b> (<i>soap</i>) sapon-agar, -izar, -ifar; (<i>foam</i>) spum-o,
+-ifar; <b dict-key="soap">soap-l.:</b> sapon-spumo.
+
+<b dict-key="laticiferous">laticiferous:</b> laticifera.
+
+<b dict-key="Latin">Latin:</b> Latin-a; <b dict-key="Latinism">-ism:</b> (<i>idiom</i>) -ajo,
+(<i>tendency</i>) -ismo; <b dict-key="Latinist">-ist:</b> -isto; <b
+dict-key="Latininity">-inity:</b> (<i>quality</i>) -eso; <b dict-key="Latinize">-ize:</b> -igar; <b
+dict-key="the Latin language">the Latin language:</b> la Latina (linguo).
+
+<b dict-key="latitude">latitude:</b> (<i>geographical</i>) latitudo; (<i>fig</i>.) liber-eso;
+extens-eso; larj-eso.
+
+<b dict-key="latrine">latrine:</b> latrino.
+
+<b dict-key="latter">latter:</b> lasta; moderna, recenta.
+
+<b dict-key="lattice">lattice:</b> trelis-o, -izar (<i>cf</i>. lat-iz-ar, -uro; lato-greto) ; <b
+dict-key="lattice window">l. window:</b> trelis-fenestro.
+
+<b dict-key="laud">laud:</b> laud-ar; <b dict-key="laudable">-able:</b> -inda; <b
+dict-key="laudatory">-atory:</b> -anta, -oza, -ema.
+
+<b dict-key="laudanum">laudanum:</b> laudano.
+
+<b dict-key="laugh">laugh:</b> (<i>intr</i>.) rid-ar, -o; <b dict-key="laugh at">l. at:</b>
+(<i>mock</i>) mokar (ulu, ulo) (<i>cf</i>. jokar); <b dict-key="to laugh in the sleeve">to l. in
+the sleeve:</b> cel-ate ridar; <b dict-key="to laugh loudly">to l. loudly:</b> laute-ridar, -eskar;
+<b dict-key="laugh till ine cries">l. till ine cries:</b> ridar til ploro; <b
+dict-key="irrepressible laugh">irrepressible l.:</b> rido ne-repres-ebla; ne-ces-igebla rido; <b
+dict-key="laughable">-able:</b> rid-inda; <b dict-key="laughing">-ing-stock:</b> mok-ajo; <b
+dict-key="laughter">-ter:</b> rid-ado; <b dict-key="hilarious laugh">hilarious l.:</b> gay-ig-anta
+rido.
+
+<b dict-key="launch">launch:</b> lansar; (<i>boat</i>) seglo-, vapor-shalupo.
+
+<b dict-key="laundress">laundress:</b> (linjo-)lav-ist-ino.
+
+<b dict-key="laundry">laundry:</b> (linjo-)lav-erio (<i>cf</i>. lesiv-eyo).
+
+<b dict-key="laureate">laureate:</b> laureato.
+
+<b dict-key="laurel">laurel:</b> laur-o; <b dict-key="laureled">-led:</b> -iz-ita.
+
+<b dict-key="laurestine">laurestine:</b> tinlauro.
+
+<b dict-key="lava">lava:</b> lava-o; <b dict-key="lava flow">l. flow:</b> -o-flu-(ad)o, -ajo.
+
+<b dict-key="lavaret">lavaret:</b> lavareto.
+
+<b dict-key="lavatory">lavatory: </b>(<i>for washing</i>) lav-eyo, -o-chambro; (<i>w.c.</i>)
+latrino; tualet-eyo.
+
+<b dict-key="lave">lave:</b> (<i>wash</i>) lavar (<i>cf</i>. net-igar; balnar, aqu-izar).
+
+<b dict-key="lavender">lavender:</b> lavendo.
+
+<b dict-key="lavish">lavish:</b> prodig-ar, (<i>squander</i>) disipar; (<i>adj.</i>) prodig-anta,
+-ema; eces-anta, -iva.
+
+<b dict-key="law">law:</b> (<i>a l</i>.) lego; (<i>collect</i>.) yuro; (<i>science</i>) yuro-cienco
+(<i>cf</i>. jurisprudenco); <b dict-key="law court">l. court:</b> tribunal-eyo, judici-eyo; <b
+dict-key="criminal law">criminal l.:</b> la krimin-ala leg-aro; <b dict-key="military law">military
+l.:</b> la kodexo (<i>od</i>, leg-aro) milit-ala, -ist-ala; <b dict-key="go to law">go to l.:</b>
+demandar judicio; procesar; <b dict-key="in law">in l.:</b> (<i>relationship</i>) bo-; <b
+dict-key="law abiding">l. abiding:</b> leg-obedi-anta, -ema; pac-ema, tranquila.
+
+<b dict-key="lawful">lawful: </b>leg-ala, segun-lega, yur-iz-ita (<i>cf</i>. legitima; permis-ata).
+
+<b dict-key="lawfulness">lawfulness:</b> leg-al-eso, lego-konform-eso, legitim-eso, valid-eso.
+
+<b dict-key="lawgiver">lawgiver:</b> leg-if-anto, -ero, -isto.
+
+<b dict-key="lawless">lawless:</b> sen-lega; kontra-lega; (<i>of passions</i>) sen-frena;
+(<i>fig</i>.) barbar-a, -atra.
+
+<b dict-key="lawn">lawn:</b> (<i>grass plot</i>) gazon-eyo, -agro, -bedo; (<i>fabric</i>) linono
+(<i>cf</i>. batisto); <b dict-key="lawnmower">l.mower:</b> gazon-tond-ilo; <b dict-key="lawn
+tennis">l. tennis:</b> teniso.
+
+<b dict-key="lawsuit">lawsuit:</b> proceso.
+
+<b dict-key="lawyer">lawyer:</b> leg-isto, yur-isto, juris-konsulto, advokato; (<i>French</i>)
+&laquo;avou&eacute;&raquo;.
+
+<b dict-key="lax">lax:</b> (<i>not tense</i>) laxa; (<i>of flesh</i>) laxa, ne-ferma, mola;
+(<i>vague</i>) ne-preciza, konfuza; (<i>morals</i>) ne-rigor-oza, laxa; deboch-anta, -ema.
+
+<b dict-key="laxative">laxative:</b> lax-ig-iva, -ivo.
+
+<b dict-key="lay">lay:</b> (<i>put</i>) pozar; (<i>deposit</i>) depozar; (<i>as in bed</i>) kushar
+(<i>cf</i>. jacar, sternar); (<i>beat down, fell</i>) abatar; (<i>calm</i>) kalm-igar; (<i>a
+bet</i>) pariar; (<i>eggs</i>) ov-ifar, depozar (ovo); (<i>a snare</i>) preparar <i>o</i> pozar
+(kapt-ilo); (<i>a cloth</i>) pozar; (<i>make to lie down</i>) kush-igar; (<i>set in order,
+arrrange</i>) aranjar; (<i>an indictment</i>) procesar, facar, iniciar proceso; (<i>the dust</i>)
+abatar; (<i>a tax</i>) impostar; <b dict-key="lay about">l. about:</b> (<i>strike</i>) frapar
+omna-latere, cirkum-frapar; <b dict-key="lay apart">l. apart:</b> pozar aparte; <b dict-key="lay
+away">l. away:</b> for-pozar; <b dict-key="lay bare">l. bare:</b> nud-igar; expozar; des-kovrar; <b
+dict-key="lay down">l. down:</b> (<i>put down</i>) depozar; (<i>define, state</i>) pozar kom
+principo; explikar; preciz-igar; (<i>arms</i>) depozar (la armi); (<i>to give up</i>) for-lasar;
+cedar; livar; renuncar; (<i>one&rsquo;s life</i>) donar (sua vivo por); (<i>oneself down</i>)
+kushar su (<i>cf</i>. jacar, sternar); <b dict-key="lay hold of">l. hold of:</b> prenar; sizar; <b
+dict-key="lay in">l. in:</b> (<i>store</i>) provizar; amas-igar; <b dict-key="lay on">l. on:</b>
+(<i>strike</i>) frap-egar; (<i>apply</i>) sur-pozar; (<i>daub</i>) indutar; (<i>impute a fault,
+blame, etc</i>.) imputar; <b dict-key="lay out">l. out:</b> (<i>a garden, etc</i>.) trasar;
+(<i>money</i>) spensar; <b dict-key="lay over">l. over: </b>kovrar, inkrustar; (<i>cf</i>. klinar;
+trans; <i>suffix</i> -iz-); (<i>spread</i>) extensar; <b dict-key="lay up">l. up:</b> (<i>confine
+to bed</i>) en-lit-igar; (<i>amass</i>) amas-igar; (<i>ship</i>) des-equipar; des-arm-izar;
+(<i>adj</i>.) ne-equip-ita, sen-arma; <b dict-key="lay siege to">l. siege to:</b> siejar; <b
+dict-key="lay violent hands on">l. violent hands on:</b> atentar; violentar; su-ocidar; <b
+dict-key="lay in wait">l. in wait:</b> guatar; embuskar; <b dict-key="lay waste">l. waste:</b>
+devastar; spoliar.
+
+<b dict-key="lay">lay:</b> (<i>non-religious</i>) laik-a; <b dict-key="lay brother">l. brother:</b>
+lea frato; <b dict-key="layman">l.man:</b> laik-(ul)o (<i>cf</i>. lea).
+
+<b dict-key="layer">layer:</b> (<i>of sand, etc</i>.) strato; (<i>in painting</i>) indut-o, -uro;
+(<i>row</i>) rango, lineo, serio; (<i>in horticulture</i>) markot-o, -ajo; -ar.
+
+<b dict-key="lay">lay-figure:</b> manekino.
+
+<b dict-key="laying">laying:</b> (<i>of eggs</i>) ov-if-(ad)o; depoz-ado di ovi; (<i>cable</i>)
+pozar, depoz-(ad)o; (<i>l. out, as of garden</i>) tras-(ad)o; (<i>l. on of hands</i>) sur-pozar.
+
+<b dict-key="lazaretto">lazaretto:</b> lazareto.
+
+<b dict-key="lazzarone">lazzarone:</b> &laquo;lazarone&raquo;.
+
+<b dict-key="lazy">lazy:</b> (<i>person</i>) oci-era, indolenta; (<i>life</i>) indolenta;
+(<i>movements</i>) lenta; (<i>in walking</i>) flan-anta, -era; <b dict-key="lazy fellow">l.
+fellow:</b> indolent-eg(ul)o, nul-fac-anto.

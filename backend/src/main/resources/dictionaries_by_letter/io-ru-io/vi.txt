@@ -1,0 +1,69 @@
+<b dict-key="vi">vi</b>: <span dict-key="вы (множественное число)">вы (множественное число)</span>
+
+<b dict-key="vibrar">vibrar</b>: <span dict-key="вибрировать">вибрировать</span>
+
+<b dict-key="vice">vice</b>: <span dict-key="вместо">вместо</span>
+
+<b dict-key="vicee">vicee</b>: <span dict-key="вместо этого">вместо этого</span>
+
+<b dict-key="vicina">vicina</b>: <span dict-key="соседний">соседний</span>
+
+<b dict-key="vicio">vicio</b>: <span dict-key="недостаток">недостаток</span>, <span
+dict-key="плохая черта характера">плохая черта характера</span>
+
+<b dict-key="vidar">vidar</b>: <span dict-key="видеть">видеть</span>
+
+<b dict-key="vidva">vidva</b>: <span dict-key="овдовевший">овдовевший</span>
+
+<b dict-key="vigilar">vigilar</b>: <span dict-key="нести вахту">нести вахту</span>
+
+<b dict-key="vigoro">vigoro</b>: <span dict-key="сила">сила</span>, <span
+dict-key="энергия">энергия</span>
+
+<b dict-key="viktimo">viktimo</b>: <span dict-key="жертва">жертва</span>
+
+<b dict-key="vilajo">vilajo</b>: <span dict-key="деревня">деревня</span>
+
+<b dict-key="vinagro">vinagro</b>: <span dict-key="уксус">уксус</span>
+
+<b dict-key="vinkar">vinkar</b>: <span dict-key="преодолевать">преодолевать</span>, <span
+dict-key="побеждать">побеждать</span>
+
+<b dict-key="vino">vino</b>: <span dict-key="вино">вино</span>
+
+<b dict-key="vintro">vintro</b>: <span dict-key="зима">зима</span>
+
+<b dict-key="violacar">violacar</b>: <span dict-key="нарушить">нарушить</span>
+
+<b dict-key="violea">violea</b>: <span dict-key="фиолетовый">фиолетовый</span>
+
+<b dict-key="violino">violino</b>: <span dict-key="скрипка">скрипка</span>
+
+<b dict-key="violo">violo</b>: <span dict-key="фиалка">фиалка</span>
+
+<b dict-key="virga">virga</b>: <span dict-key="девственный">девственный</span>
+
+<b dict-key="viro">viro</b>: <span dict-key="мужчина">мужчина</span>
+
+<b dict-key="virtuala">virtuala</b>: <span dict-key="действительный (виртуальный)">действительный
+(виртуальный)</span>
+
+<b dict-key="viruso">viruso</b>: <span dict-key="вирус">вирус</span>
+
+<b dict-key="vishar">vishar</b>: <span dict-key="сушить">сушить</span>, <span
+dict-key="протирать">протирать</span>
+
+<b dict-key="vito">vito</b>: <span dict-key="виноградная лоза">виноградная лоза</span>
+
+<b dict-key="vitro">vitro</b>: <span dict-key="стекло">стекло</span>
+
+<b dict-key="vivaca">vivaca</b>: <span dict-key="оживленный">оживленный</span>, <span
+dict-key="живой">живой</span>
+
+<b dict-key="vivar">vivar</b>: <span dict-key="жить">жить</span>
+
+<b dict-key="vizajo">vizajo</b>: <span dict-key="лицо (человека)">лицо (человека)</span>
+
+<b dict-key="vizar">vizar</b>: <span dict-key="стремиться">стремиться</span>
+
+<b dict-key="vizitar">vizitar</b>: <span dict-key="посещать">посещать</span>

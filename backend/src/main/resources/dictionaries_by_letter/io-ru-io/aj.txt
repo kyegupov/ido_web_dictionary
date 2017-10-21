@@ -1,0 +1,9 @@
+<b dict-key="ajila">ajila</b>: <span dict-key="проворный">проворный</span>, <span
+dict-key="ловкий">ловкий</span>
+
+<b dict-key="ajornar">ajornar</b>: <span dict-key="откладывать">откладывать</span>, <span
+dict-key="прерываться">прерываться</span>
+
+<b dict-key="ajustar">ajustar</b>: <span dict-key="регулировать (приспосабливать)">регулировать
+(приспосабливать)</span>, <span dict-key="регулировать">регулировать</span>, <span
+dict-key="устанавливать">устанавливать</span>

@@ -1,0 +1,2 @@
+<b dict-key="uy">-uy-:</b> Suffix indicating: &quot;receiver, container for&quot;. Ex.: <b
+dict-key="monet">monet-uyo:</b> a purse; <b dict-key="sigar">sigar-uyo:</b> cigar case.

@@ -1,0 +1,5 @@
+<b dict-key="dexterity">dexterity: </b>habil-eso (manu-ala).
+
+<b dict-key="dexterous">dexterous: </b>habil-a, -oza.
+
+<b dict-key="dextrine">dextrine: </b>dextrino.

@@ -1,0 +1,54 @@
+<b dict-key="aparar">aparar</b>: <span dict-key="появляться">появляться</span>
+
+<b dict-key="aparato">aparato</b>: <span dict-key="аппарат">аппарат</span>, <span
+dict-key="прибор">прибор</span>
+
+<b dict-key="aparta">aparta</b>: <span dict-key="обособленный">обособленный</span>, <span
+dict-key="отдельный">отдельный</span>, <span dict-key="специфический">специфический</span>
+
+<b dict-key="apartamento">apartamento</b>: <span dict-key="квартира">квартира</span>
+
+<b dict-key="apartenar">apartenar</b>: <span dict-key="принадлежать">принадлежать</span>
+
+<b dict-key="apendico">apendico</b>: <span dict-key="приложение">приложение</span>
+
+<b dict-key="apene">apene</b>: <span dict-key="едва">едва</span>, <span dict-key="немного
+не">немного не</span>, <span dict-key="с трудом">с трудом</span>, <span
+dict-key="насилу">насилу</span>
+
+<b dict-key="apertar">apertar</b>: <span dict-key="(tr.) открыть (ся)">(tr.) открыть (ся)</span>
+
+<b dict-key="apetitar">apetitar</b>: <span dict-key="иметь аппетит (для)">иметь аппетит (для)</span>
+
+<b dict-key="aplastar">aplastar</b>: <span dict-key="сокрушить">сокрушить</span>, <span
+dict-key="сжимать">сжимать</span>, <span dict-key="раздавить">раздавить</span>
+
+<b dict-key="aplaudar">aplaudar</b>: <span dict-key="приветствовать">приветствовать</span>
+
+<b dict-key="aplikar">aplikar</b>: <span dict-key="применяться">применяться</span>
+
+<b dict-key="apogar">apogar</b>: <span dict-key="поддерживать">поддерживать</span>
+
+<b dict-key="apoteko">apoteko</b>: <span dict-key="аптека">аптека</span>
+
+<b dict-key="apreciar">apreciar</b>: <span dict-key="оценивать">оценивать</span>
+
+<b dict-key="aprentiso">aprentiso</b>: <span dict-key="подмастерье">подмастерье</span>, <span
+dict-key="ученик">ученик</span>
+
+<b dict-key="aprilo">aprilo</b>: <span dict-key="апрель">апрель</span>
+
+<b dict-key="aprobar">aprobar</b>: <span dict-key="одобрять">одобрять</span>
+
+<b dict-key="aproximar">aproximar</b>: <span dict-key="оценивать">оценивать</span>, <span
+dict-key="производить оценку">производить оценку</span>, <span dict-key="устанавливать
+цену">устанавливать цену</span>, <span dict-key="стоимость">стоимость</span>
+
+<b dict-key="apta">apta</b>: <span dict-key="подходящий">подходящий</span>, <span
+dict-key="пригодный">пригодный</span>, <span dict-key="соответствующий">соответствующий</span>
+
+<b dict-key="apud">apud</b>: <span dict-key="рядом с">рядом с</span>, <span
+dict-key="около">около</span>, <span dict-key="возле">возле</span>
+
+<b dict-key="apuntar">apuntar</b>: <span dict-key="направлять">направлять</span>, <span
+dict-key="прицеливаться в">прицеливаться в</span>

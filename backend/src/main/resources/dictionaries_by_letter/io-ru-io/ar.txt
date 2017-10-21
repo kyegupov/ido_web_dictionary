@@ -1,0 +1,81 @@
+<b dict-key="araba">araba</b>: <span dict-key="аравиец">аравиец</span>
+
+<b dict-key="arabia">arabia</b>: <span dict-key="аравия">аравия</span>
+
+<b dict-key="arachar">arachar</b>: <span dict-key="тянуть из">тянуть из</span>, <span
+dict-key="вырвать">вырвать</span>
+
+<b dict-key="araneo">araneo</b>: <span dict-key="паук">паук</span>
+
+<b dict-key="araneo-telo">araneo-telo</b>: <span dict-key="сеть паука">сеть паука</span>
+
+<b dict-key="aranjar">aranjar</b>: <span dict-key="приводить в порядок">приводить в порядок</span>,
+<span dict-key="расставлять">расставлять</span>
+
+<b dict-key="arbitriala">arbitriala</b>: <span dict-key="произвольный">произвольный</span>
+
+<b dict-key="arbitrio">arbitrio</b>: <span dict-key="добрая воля;">добрая воля;</span>
+
+<b dict-key="arboro">arboro</b>: <span dict-key="дерево">дерево</span>
+
+<b dict-key="arbusto">arbusto</b>: <span dict-key="кустарник">кустарник</span>, <span
+dict-key="куст">куст</span>
+
+<b dict-key="areno">areno</b>: <span dict-key="арена">арена</span>, <span
+dict-key="кольцо">кольцо</span>
+
+<b dict-key="areo">areo</b>: <span dict-key="область">область</span>
+
+<b dict-key="arestar">arestar</b>: <span dict-key="арестовывать">арестовывать</span>
+
+<b dict-key="argumentar">argumentar</b>: <span dict-key="спорить">спорить</span>
+
+<b dict-key="aritmetiko">aritmetiko</b>: <span dict-key="арифметика">арифметика</span>
+
+<b dict-key="arivar">arivar</b>: <span dict-key="прибывать">прибывать</span>
+
+<b dict-key="arjenta">arjenta</b>: <span dict-key="серебро">серебро</span>
+
+<b dict-key="arjentinia">arjentinia</b>: <span dict-key="аргентина">аргентина</span>
+
+<b dict-key="arkeologio">arkeologio</b>: <span dict-key="археология">археология</span>
+
+<b dict-key="arkeologo">arkeologo</b>: <span dict-key="археолог">археолог</span>
+
+<b dict-key="arkitekto">arkitekto</b>: <span dict-key="архитектор">архитектор</span>
+
+<b dict-key="arkitekturo">arkitekturo</b>: <span dict-key="архитектура">архитектура</span>
+
+<b dict-key="arkivo">arkivo</b>: <span dict-key="архив">архив</span>
+
+<b dict-key="arko">arko</b>: <span dict-key="арка">арка</span>, <span dict-key="дуга">дуга</span>
+
+<b dict-key="arktika">arktika</b>: <span dict-key="арктика">арктика</span>
+
+<b dict-key="armenia">armenia</b>: <span dict-key="армения">армения</span>
+
+<b dict-key="armeo">armeo</b>: <span dict-key="армия">армия</span>
+
+<b dict-key="armo">armo</b>: <span dict-key="рука">рука</span>
+
+<b dict-key="armoro">armoro</b>: <span dict-key="буфет">буфет</span>, <span
+dict-key="сервант">сервант</span>, <span dict-key="горка">горка</span>, <span
+dict-key="шкаф">шкаф</span>
+
+<b dict-key="aroganta">aroganta</b>: <span dict-key="заносчивый">заносчивый</span>, <span
+dict-key="высокомерный">высокомерный</span>, <span dict-key="надменный">надменный</span>
+
+<b dict-key="arogar">arogar</b>: <span dict-key="без основания приписывать (что-л. кому-л.)">без
+основания приписывать (что-л. кому-л.)</span>
+
+<b dict-key="arozar">arozar</b>: <span dict-key="увлажнять (любой жидкостью)">увлажнять (любой
+жидкостью)</span>
+
+<b dict-key="artificala">artificala</b>: <span dict-key="искусственный">искусственный</span>
+
+<b dict-key="artifico">artifico</b>: <span dict-key="изобретение;">изобретение;</span>
+
+<b dict-key="artiklo">artiklo</b>: <span dict-key="статья">статья</span>, <span dict-key="параграф
+(часть письменного текста)">параграф (часть письменного текста)</span>
+
+<b dict-key="arto">arto</b>: <span dict-key="искусство">искусство</span>

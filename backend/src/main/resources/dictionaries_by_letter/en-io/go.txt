@@ -1,0 +1,232 @@
+<b dict-key="go">go:</b> irar, (<i>in a vehicle</i>) (<i>intr</i>.) vetur-irar, -vehar;
+(<i>travel</i>) (<i>intr.</i>) voyajar; (<i>liveliness</i>) vervo; (<i>interj</i>.) irez! hop! <b
+dict-key="go about">go about:</b> turnar; (<i>ship</i>) jirar (<i>intr</i>.); <b dict-key="go
+ahead">go ahead:</b> avan-irar; <b dict-key="go on ahead">go on ahead:</b> pre-irar; <b
+dict-key="go after or next">go after or next:</b> sequar; (<i>seek</i>) serchar; <b dict-key="go
+against">go against:</b> opozar su (ad); <b dict-key="go along">go along: </b>akompanar, sequar; <b
+dict-key="go ashore">go ashore:</b> abordar; des-embarkar; (<i>ship</i>) (<i>intr</i>.) strandar;
+<b dict-key="go aside">go aside:</b> irar ad-latere; <b dict-key="go astray">go astray:</b>
+mis-irar; egarar; <b dict-key="go away">go away:</b> for-irar; ek-irar; <b dict-key="go back">go
+back:</b> retro-itrar; -marchar; (<i>of progress</i>) regresar; <b dict-key="go beyond">go
+beyond:</b> (preter-)pasar; (<i>surpass</i>) super-irar; <b dict-key="go by">go by:</b>
+preter-pasar (<i>cf</i>. devancar; trans-pasar); (<i>of time</i>) for-fluar; <b dict-key="go
+down">go down:</b> decensar; (<i>retrograde</i>) regresar, retro-irar; <b dict-key="go far">go
+far:</b> irar (ad) fore; <b dict-key="go for">go for:</b> atakar; (<i>to fetch</i>) irar por
+querar; <b dict-key="go forth">go forth:</b> ek-irar; avancar; <b dict-key="go first">go first:</b>
+pre-irar, (<i>in rank and importance</i>) precedar; <b dict-key="go from">go from:</b> livar;
+ek-irar; <b dict-key="go halves">go halves:</b> dividar du-ime kun ulu; <b dict-key="go in">go
+in:</b> en-irar; <b dict-key="go in for">go in for:</b> (<i>make practice</i>) praktikar;
+(<i>undertake</i>) entraprezar;<b dict-key="go into"> go into:</b> (<i>investigate</i>) explorar,
+inquestar; <b dict-key="go near">go near:</b> proxim-eskar (ad); <b dict-key="go off">go off:</b>
+for-, ek-irar; (<i>goods</i>) vend-(es)ar; (<i>explode shoot</i>) (<i>intr</i>.) explozar;
+fulminar; pafar; <b dict-key="go on">go on:</b> (<i>intr</i>.) procedar; durar; avancar; <b
+dict-key="go out">go out:</b> ek-irar; (<i>be extinguished</i>) exting-esar;<b dict-key="go over">
+go over:</b> tra-, trans-irar; irar, flugar, e.c. super (la mura, monto, e.c.); <b dict-key="go
+through">go through:</b> tra-irar; (<i>to end, destination</i>) par-irar; <b dict-key="go up">go
+up:</b> acensar, irar ad-monte; <b dict-key="go up to">go up to:</b> abordar ulu; acensar (ad);
+ad-irar; <b dict-key="go upon">go upon:</b> fondar; apogar sur; <b dict-key="go with">go with:</b>
+akompanar; <b dict-key="go without">go without:</b> karear (ulo).
+
+<b dict-key="goad">goad:</b> (<i>lit. and fig.</i>) pikar; (<i>fig</i>.) stimular; <b
+dict-key="goad stick">g. stick:</b> pik-bastono.
+
+<b dict-key="goal">goal:</b> (<i>aim</i>) skopo.
+
+<b dict-key="goat">goat:</b> kapr-o, -ulo, -ino; <b dict-key="goatherd">g.herd:</b> -o-gard-isto.
+
+<b dict-key="goatsucker">goatsucker:</b> kaprimulgo.
+
+<b dict-key="gobble">gobble:</b> (<i>swallow</i>) glut-(ach)-ar; (<i>turkeys</i>) gluglar
+(<i>intr</i>.) (<i>cf</i>. klukar).
+
+<b dict-key="go">go-between:</b> mediac-anto, -ero (<i>cf</i>. proxeneto).
+
+<b dict-key="goblet">goblet:</b> gobleto.
+
+<b dict-key="goblin">goblin:</b> koboldo; demon-eto; fantomo.
+
+<b dict-key="go">go-cart:</b> shov-chariot-eto.
+
+<b dict-key="God">God:</b> Deo; (<i>a g</i>.) deo; <b dict-key="g">g.ess:</b> de-ino; <b
+dict-key="g">g.head:</b> de-eso; <b dict-key="g">g.like:</b> de-atra; <b dict-key="for the love of
+God">for the love of G.:</b> pro amo a Deo; <b dict-key="thank God">thank G.:</b> danko a Deo; <b
+dict-key="oh God">oh G.:</b> ho Deo; <b dict-key="may God pardon">may G. pardon:</b> Deo pardonez;
+<b dict-key="if God wills">if G. wills:</b> se plezos a Deo; se Deo volas; <b
+dict-key="g">g.less:</b> sen-de-a; des-pia.
+
+<b dict-key="godchild">godchild:</b> bapto-filio.
+
+<b dict-key="godfather">godfather:</b> bapto-patr-ulo.
+
+<b dict-key="godly">godly:</b> pi-a.
+
+<b dict-key="godmother">godmother:</b> bapto-matro, -patr-ino.
+
+<b dict-key="godroon">godroon:</b> godrono.
+
+<b dict-key="godsend">godsend:</b> ciel-ala donac-ajo; bon-ega trov-ajo; bona hazardo.
+
+<b dict-key="godson">godson:</b> bapto-fili-ulo.
+
+<b dict-key="goggle">goggle-eyed:</b> kun okul-(eg)i sali-anta.
+
+<b dict-key="goggles">goggles:</b> (granda) (orel-) binoklo (protekt-iva); (<i>horses</i>)
+okul-klapi, -shirm-ili.
+
+<b dict-key="going">going:</b> <i>see</i> <b dict-key="go">go</b>;<b dict-key="set going"> set
+g.:</b> funcion-igar; startar; (<i>the fire is</i>) <b dict-key="going out">g. out:</b> extingar.
+
+<b dict-key="goitre">goitre:</b> strum-o; <b dict-key="goitrous person">-ous person:</b> -ika, -iko.
+
+<b dict-key="gold">gold:</b> or-o; -a, -atra; (<i>coloured</i>) -ea.
+
+<b dict-key="goldbeater skin">goldbeater&rsquo;s skin:</b> bodrucho.
+
+<b dict-key="golden">golden:</b> <i>see</i> <b dict-key="gold">gold</b>;<b dict-key="golden
+oriole"> g. oriole:</b> oriolo.
+
+<b dict-key="goldfinch">goldfinch:</b> kardelo.
+
+<b dict-key="goldfish">goldfish:</b> or-fisho (<i>cf.</i> karasino orea).
+
+<b dict-key="goldleaf">goldleaf:</b> ora-pelikulo; (<i>tinsel</i>) oripelo.
+
+<b dict-key="goldsmith">goldsmith:</b> or-forj-isto, or-labor-isto.
+
+<b dict-key="gold thread">gold thread:</b> ora filo.
+
+<b dict-key="golosh">golosh:</b> sur-shuo; (<i>with wooden sole</i>) galosho.
+
+<b dict-key="gonagra">gonagra:</b> gonagro<b dict-key="">.</b>
+
+<b dict-key="gondola">gondola:</b> (<i>also of air-ship</i>) gondol-o; <b
+dict-key="gondolier">-lier:</b> -isto.
+
+<b dict-key="gone">gone:</b> pas-inta; (<i>money</i>) spens-ita.
+
+<b dict-key="gonfalon">gonfalon:</b> gonfalono.
+
+<b dict-key="gong">gong:</b> tamtamo.
+
+<b dict-key="goniometer">goniometer:</b> goniometro.
+
+<b dict-key="goniometry">goniometry:</b> goniometrio.
+
+<b dict-key="gonorrhea">gonorrhea:</b> gonoreo.
+
+<b dict-key="good">good:</b> (<i>in gen.</i>) bon-a; (<i>person</i>) -(ul)o; (<i>thing</i>) -ajo;
+(<i>abstract</i>) -eso; lo bona; (<i>interj.</i>) bone! (<i>very</i> <i>g.</i>) -ega (<i>cf.</i>
+avantajo, profito, util-eso; benigna, konven-anta, favor-oza, -ema, valid-a; bon-konduta); <b
+dict-key="for good and all">for g. and all:</b> definitiv-a, -e; <b dict-key="as good as">as g.
+as:</b> tam bona kam; virtuale; preske; <b dict-key="to make good">to make g.:</b> reparar;
+kompensar; indemn-izar; <b dict-key="to stand or hold good">to stand or hold g.:</b> esar valida;
+valorar; <b dict-key="good for">g. for: </b>(<i>appropriate</i>) fit-anta; <b dict-key="to be
+good">to be g.:</b> (<i>of children</i>) esar bon-konduta; <b dict-key="good deal of">g. deal
+of:</b> multa; <b dict-key="be as good as">be as g. as:</b> (<i>equal</i>) valorar (<i>intr</i>.);
+<b dict-key="that is good for nothing">that is g. for nothing:</b> to ne valoras <i>od</i> valoras
+nulo; <b dict-key="this medicine is good for fever">this medicine is g. for fever:</b> ica
+medikamento valoras kontre febro; <b dict-key="to make,become good">to make, become g.:</b>
+bon-igar, -eskar; <b dict-key="goodness">g.ness:</b> (<i>abstract</i>) bon-eso; <b dict-key="have
+the goodness">have the g.ness </b>(<b dict-key="to">to</b>)<b dict-key="">: </b>komplezez; <b
+dict-key="good luck">g. luck:</b> fortuno; <b dict-key="good breeding">g. breeding:</b> polit-eso;
+(ulu) bone edukita; <b dict-key="goodbye">g.bye:</b> (<i>to say</i>) adiar; <b dict-key="goodbye
+for the present">g.bye for the present:</b> til la revido; <b dict-key="good for nothing">g. for
+nothing:</b> ne-valor-anta, -anto; <b dict-key="as good as possible">as g. as possible:</b> maxim
+bona posible; <b dict-key="G Friday">G. Friday:</b> Santa Venerdio; <b dict-key="good God">g.
+God:</b> bona Deo!; <b dict-key="to do good">to do g.:</b> bona facar (ad); <b dict-key="good
+will">g. will:</b> bon-volo; (<i>com</i>.) klient-iz-ado; <b dict-key="good
+natured,humoured,tempered">g. natured, humoured, tempered:</b> bon-humora; <b dict-key="good
+souled">g. souled:</b> bon-anma; <b dict-key="good looking">g. looking:</b> bela, bon-aspekta; <b
+dict-key="good riddance">g. riddance:</b> quanta des-charjo.
+
+<b dict-key="goods">goods:</b> (<i>commercial</i>) komerc-aj-o, -i; vari; (<i>property</i>)
+hav-aj-o, -i; mobli; posed-aji; (<i>g. bespoken</i>) komend-aj-o, -i; <b dict-key="to order
+goods">to order g.:</b> komendar (vari); <b dict-key="goods wagon">g. wagon:</b> (<i>R.R..</i>)
+(<i>covered</i>) var-vagono, (<i>open</i>) truko; (<i>vehicle</i>) charioto, kamiono;
+(<i>closed</i>) furgono.
+
+<b dict-key="goose">goose:</b> ganso; <b dict-key="bernicle goose">bernicle g.:</b> bernaklo.
+
+<b dict-key="gooseberry">gooseberry:</b> grozel-o; (<i>bush</i>) -iero.
+
+<b dict-key="goose">goose-flesh:</b> (<i>fig</i>.) ganso-pelo.
+
+<b dict-key="goose">goose-quill:</b> ganso-plumo.
+
+<b dict-key="goose">goose-step:</b> ganzo-pazo.
+
+<b dict-key="Gordian knot">Gordian knot:</b> Gordiala nodo.
+
+<b dict-key="gore">gore:</b> korno-vundar, -perforar; (<i>n</i>.) (<i>blood</i>) sango
+(<i>gen</i>.).
+
+<b dict-key="gorge">gorge:</b> (<i>with food</i>) gavar; (<i>gobble up</i>) glutar; (<i>gen</i>.)
+(super-) saturar; plen-eg-igar.
+
+<b dict-key="gorge">gorge:</b> (<i>n</i>.) (<i>ravine</i>) ravin-(eg)o; fauco.
+
+<b dict-key="gorgeous">gorgeous:</b> splendida; lux-oza; rich-ega; bel-ega; grandioza.
+
+<b dict-key="gorget">gorget:</b> gorjereto.
+
+<b dict-key="gorilla">gorilla:</b> gorilo.
+
+<b dict-key="gormandize">gormandize:</b> manj-egar, -achar (<i>cf</i>. gurmando).
+
+<b dict-key="gorse">gorse:</b> dorno-ginesto.
+
+<b dict-key="goshawk">goshawk:</b> acipitro.
+
+<b dict-key="gosling">gosling:</b> ganso-yuno.
+
+<b dict-key="gospel">gospel:</b> evangeli-o; <b dict-key="book of the gospel">book of the g.:</b>
+-o-libro; <b dict-key="preach the gospel">preach the g.: </b>predikar la -o.
+
+<b dict-key="gossamer">gossamer</b>(<b dict-key="s">s</b>)<b dict-key="">:</b> filandr-o, -i;
+araneo-telo.
+
+<b dict-key="gossip">gossip:</b> (<i>intr</i>.) babil-ar, -etar, -achar; (<i>a matter of g</i>.)
+-ajo; <b dict-key="gossiper">-er:</b> -ero, -emo, -acho.
+
+<b dict-key="got to,to have">got to, to have:</b> (<i>absolute necessity</i>) (<i>intr</i>.) mustar
+(<i>cf</i>. devar).
+
+<b dict-key="Gothic">Gothic:</b> gotika.
+
+<b dict-key="gouache">gouache:</b> gouche (paint); <b dict-key="painting">painting:</b>
+guach-pikt-ado, -uro.
+
+<b dict-key="gouge">gouge:</b> (<i>instr</i>.) kava cizelo; <b dict-key="gouge out">g. out:</b>
+ek-cizelar; (<i>the eyes</i>) arachar.
+
+<b dict-key="goulash">goulash:</b> gulyasho.
+
+<b dict-key="gourd">gourd:</b> gurdo.
+
+<b dict-key="gourmand">gourmand:</b> (<i>one fond of good living</i>) gurmando.
+
+<b dict-key="gourmet">gourmet:</b> (<i>epicure</i>) gastronomo.
+
+<b dict-key="gout">gout:</b> goto; (<i>of knee</i>) gonagro; (<i>of hands</i>) kiragro; (<i>of
+feet</i>) podagro; <b dict-key="gouty">-y:</b> -oza, -ika; (<i>person</i>) -oz-(ul)o, -iko.
+
+<b dict-key="govern">govern:</b> (<i>also gram</i>.) guvernar (<i>cf</i>. administrar, regnar,
+jerar; direktar; domtar; dominacar).
+
+<b dict-key="governess">governess: </b>guvern-ant-ino, -er-ino.
+
+<b dict-key="governing">governing:</b> (<i>act</i>) guvern-(ad)o; <b dict-key="self">self-g.:</b>
+autonoma.
+
+<b dict-key="government">government:</b> (<i>act</i>) guvern-(ad)o; (<i>the controlling power</i>)
+guvern-erio; (<i>district as in Russia</i>) guberni-o.
+
+<b dict-key="governmental">governmental:</b> guvern-ala, -eri-ala.
+
+<b dict-key="governor">governor:</b> guvern-anto, -ero, -isto; regn-anto; (<i>mechan</i>.)
+guvern-ilo; (<i>of a district</i>) guberni-estro; (<i>master</i>) mastr-(ul)o; <b
+dict-key="governorship">-ship:</b> guvern-ist-eso.
+
+<b dict-key="gown">gown:</b> robo; <b dict-key="dressing gown">dressing g.:</b> chambro-robo; <b
+dict-key="gown with train">g. with train:</b> robo kun tran-ajo; <b dict-key="low gown">low-cut
+g.:</b> robo dekolt-ita.

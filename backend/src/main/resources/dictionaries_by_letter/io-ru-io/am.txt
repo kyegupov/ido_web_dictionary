@@ -1,0 +1,43 @@
+<b dict-key="amansar">amansar</b>: <span dict-key="приручить">приручить</span>, <span
+dict-key="делать послушным">делать послушным</span>, <span dict-key="общительным (животных и
+людей)">общительным (животных и людей)</span>
+
+<b dict-key="amar">amar</b>: <span dict-key="любить (человека)">любить (человека)</span>
+
+<b dict-key="amaso">amaso</b>: <span dict-key="куча">куча</span>, <span
+dict-key="груда">груда</span>, <span dict-key="масса">масса</span>
+
+<b dict-key="amatoro">amatoro</b>: <span dict-key="любитель">любитель</span>
+
+<b dict-key="amba">amba</b>: <span dict-key="оба">оба</span>
+
+<b dict-key="ambasadisto">ambasadisto</b>: <span dict-key="посол">посол</span>
+
+<b dict-key="ambasado">ambasado</b>: <span dict-key="посольство">посольство</span>
+
+<b dict-key="ambiciar">ambiciar</b>: <span dict-key="быть честолюбивым">быть честолюбивым</span>
+
+<b dict-key="ambigua">ambigua</b>: <span dict-key="неоднозначный">неоднозначный</span>
+
+<b dict-key="ambulanco">ambulanco</b>: <span dict-key="санитарная машина">санитарная машина</span>
+
+<b dict-key="amendo">amendo</b>: <span dict-key="взыскание">взыскание</span>, <span
+dict-key="штраф">штраф</span>, <span dict-key="пеня">пеня</span>
+
+<b dict-key="amerika">amerika</b>: <span dict-key="америка">америка</span>
+
+<b dict-key="amerikana">amerikana</b>: <span dict-key="американец">американец</span>
+
+<b dict-key="amfibia">amfibia</b>: <span dict-key="земноводный">земноводный</span>, <span
+dict-key="десантный">десантный</span>
+
+<b dict-key="amiko">amiko</b>: <span dict-key="друг">друг</span>
+
+<b dict-key="amilo">amilo</b>: <span dict-key="крахмал">крахмал</span>
+
+<b dict-key="amorar">amorar</b>: <span dict-key="любить">любить</span>
+
+<b dict-key="ampla">ampla</b>: <span dict-key="вполне достаточный">вполне достаточный</span>, <span
+dict-key="полный">полный</span>
+
+<b dict-key="amuzar">amuzar</b>: <span dict-key="развлекать (ся)">развлекать (ся)</span>

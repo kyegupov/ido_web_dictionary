@@ -1,0 +1,15 @@
+<b dict-key="cad">cad: </b>raskalo, nul-valor-anto, kanalio.
+
+<b dict-key="cadastre">cadastre: </b>kadastro.
+
+<b dict-key="cadaverous">cadaverous: </b>kadavr-ala, -atra.
+
+<b dict-key="cadence">cadence: </b>kadenc-o, (<i>verb</i>) -ar.
+
+<b dict-key="cadet">cadet: </b>(<i>milit.</i>) kadeto.
+
+<b dict-key="cadmium">cadmium: </b>kadmio.
+
+<b dict-key="cadre">cadre: </b>(<i>milit.</i>) kadro.
+
+<b dict-key="caduceus">caduceus: </b>kaduceo.

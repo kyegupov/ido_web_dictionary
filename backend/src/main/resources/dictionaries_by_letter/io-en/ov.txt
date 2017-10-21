@@ -1,0 +1,24 @@
+<b dict-key="ovo">ov-o:</b> egg; <b dict-key="ovi">-i:</b> eggs; (<i>of fish</i>) roe; <b
+dict-key="ovoshelo">-o-shelo:</b> egg-shell; <b dict-key="ovuyo">-uyo:</b> egg-cup, -holder; <b
+dict-key="ovajo">-ajo:</b> an egg preparation; <b dict-key="ovifar">-ifar:</b> to lay eggs; <b
+dict-key="ovo mole o harde o mimole koquita">-o (mole o harde o mi-mole) koquita:</b> boiled egg;
+<b dict-key="ovo sur plado">-o sur plado:</b> fried egg; <b dict-key="ovo mixita">-o mixita:</b>
+scrambled egg; <b dict-key="ovo dispersita">-o dispersita:</b> poached egg; <b
+dict-key="ovvendisto">-vend-isto:</b> egg-seller; <b dict-key="ovoplanto">-o-planto:</b> egg-plant
+(Solanum ovigerum) (cf. <b dict-key="berenjeno">berenjeno</b>). &mdash; DEFIRS
+
+<b dict-key="ovacionar">ovacion-ar:</b> (<i>tr.</i>) to give an ovation to, to receive in triumph
+(<b dict-key="ulu">ulu</b>); <b dict-key="ovaciono">-o:</b> ovation. &mdash; DEFIRS
+
+<b dict-key="ovala,ovalo">oval-a, -o:</b> oval. &mdash; DEFIS
+
+<b dict-key="ovario">ovari-o:</b> (<i>anat., bot.</i>) ovary. &mdash; DEFIS
+
+<b dict-key="ovipara,oviparo">ovipar-a, -o:</b> oviparous (animal). &mdash; DEFIS
+
+<b dict-key="ovogonio">ovogoni-o:</b> (<i>biol.</i>) ovogonium.
+
+<b dict-key="ovoida">ovoid-a:</b> ovate.
+
+<b dict-key="ovulo">ovul-o:</b> (<i>physiol., bot.</i>) ovule; <b dict-key="ovulif">-if(ad)o:</b>
+ovulation. &mdash; EFIS

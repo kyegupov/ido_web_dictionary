@@ -1,0 +1,61 @@
+<b dict-key="coca">coca: </b>kokao.
+
+<b dict-key="cocaine">cocaine: </b>kokaino.
+
+<b dict-key="coccinella">coccinella: </b>(lady-bird) kocinelo.
+
+<b dict-key="coccyx">coccyx: </b>kocigo.
+
+<b dict-key="cochineal">cochineal: </b>kochenilo.
+
+<b dict-key="cochineal">cochineal-tree: </b>nopalo.
+
+<b dict-key="cochlea">cochlea: </b>kokleo.
+
+<b dict-key="cock">cock: </b>(<i>gun</i>) tensar (la hano); (<i>head</i>) trusar, (ri-)erektar (la
+kapo); (<i>as hay</i>) amas-igar (la feno).
+
+<b dict-key="cock">cock: </b>(<i>n</i>.) (<i>fowl</i>) han-ulo; (<i>male</i>) maskulo;
+(<i>champion</i>) championo; chefo; (<i>of gun</i>) hano; (<i>tap</i>) robineto; (<i>of hats</i>)
+trus-ajo; (<i>of hay, etc</i>.) garb-amaso; <b dict-key="weather cock">weather c.:
+</b>vento-flecho, -flago; <b dict-key="cock and bull story">c. and bull story: </b>fantazi-ala
+(<i>od</i>, fola) rakonto; <b dict-key="at full cock">at full c.: </b>(hano) par-tens-ita; <b
+dict-key="at half cock">at half c.: </b>mi-tens-ita; <b dict-key="cock eyed">c. eyed: </b>straba;
+<b dict-key="cock fight">c. fight: </b>han-kombato; <b dict-key="cocksure">c.sure: </b>absolute
+certa.
+
+<b dict-key="cock">cock</b>(<b dict-key="cockcrow">-crow</b>)<b dict-key="">: </b>hano-kanto
+(<i>od</i>, -krio); (<i>fig</i>.) frua matino.
+
+<b dict-key="cockade">cockade: </b>kokardo.
+
+<b dict-key="cockatoo">cockatoo: </b>kakatuo.
+
+<b dict-key="cockatrice">cockatrice: </b>bazilisko.
+
+<b dict-key="cockchafer">cockchafer: </b>melolonto.
+
+<b dict-key="cocked">cocked: </b>(<i>of arms</i>) par-tens-ita; <b dict-key="cocked hat">c. hat:
+</b>tri-korna chapelo.
+
+<b dict-key="cockerel">cockerel: </b>yuna han-ulo.
+
+<b dict-key="cockhorse">cockhorse: </b>(ligna) kaval-eto.
+
+<b dict-key="cockneyism">cockneyism: </b>London-idiotismo.
+
+<b dict-key="cockpit">cockpit: </b>hano-kombat-eyo (<i>od</i>, -areno); vund-it-eyo.
+
+<b dict-key="cockroach">cockroach: </b>blato.
+
+<b dict-key="cockscomb">cockscomb: </b>hano-kresto; (<i>fig</i>.) fatu-ulo.
+
+<b dict-key="cocky">cocky: </b>import-ant-acha, vanitat-oza, fier-acha.
+
+<b dict-key="cocoa">cocoa: </b>kaka-o, (<i>tree</i>) -iero; <b dict-key="cocoa butter">c. butter:
+</b>-o-butro.
+
+<b dict-key="cocoanut">cocoanut: </b>kokos-o, (<i>palm</i>) -iero; <b dict-key="milk of
+cocoanut">milk of c.: </b>-lakto.
+
+<b dict-key="cocoon">cocoon: </b>kokon-o; <b dict-key="to spin cocoon">to spin c.: </b>-ifar.

@@ -2,6 +2,7 @@ package org.kyegupov.dictionary.common
 
 import org.jsoup.Jsoup
 import java.io.InputStreamReader
+import java.io.BufferedReader
 import java.nio.file.*
 import java.util.*
 import java.util.stream.Collectors
@@ -32,12 +33,26 @@ fun listResources(path: String): List<Path> {
 
 fun loadDataFromAlphabetizedShards(path: String) : DictionaryOfStringArticles {
     val allArticles = mutableListOf<String>()
-    for (resource in listResources(path).sorted()) {
+    for (resource in listResources(path).sorted().filter{it.toString().endsWith(".txt")}) {
         LOG.info("Reading shard $resource")
         Files.newInputStream(resource).use {
-            val text = InputStreamReader(it).readText()
-            val articles = (YAML.load(text) as List<*>).map { it as String }
-            allArticles.addAll(articles)
+            val reader = BufferedReader(InputStreamReader(it))
+            var accumulator = ""
+            while (reader.ready()) {
+                val line = reader.readLine()
+                if (line == "") {
+                    allArticles.add(accumulator)
+                    accumulator = ""
+                } else {
+                    if (accumulator != "") {
+                        accumulator += " ";
+                    }
+                    accumulator += line
+                }
+            }
+            if (accumulator != "") {
+                allArticles.add(accumulator)
+            }
         }
     }
     LOG.info("Building index")

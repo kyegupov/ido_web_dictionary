@@ -1,0 +1,3 @@
+<b dict-key="maze">maze:</b> labirinto; (<i>fig</i>.) konfuz-eso, embaras-eso.
+
+<b dict-key="mazurka">mazurka:</b> mazurko.

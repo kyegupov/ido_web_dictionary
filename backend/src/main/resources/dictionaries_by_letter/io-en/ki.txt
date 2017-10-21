@@ -1,0 +1,77 @@
+<b dict-key="kidnapar">kidnap-ar:</b> (<i>tr.</i>) (1971) to kidnap. &mdash; EF
+
+<b dict-key="kikar">kik-ar</b><b dict-key="">:</b> (<i>intr.</i>) to kick (out behind, of horses,
+and other animals); (cf. <b dict-key="pedofrapar">pedo-frapar</b>); <b
+dict-key="kikema,kikera">-ema, -era</b><b dict-key="">:</b> kicker (tendency). &mdash; E 
+
+<b dict-key="kilo">kilo-:</b> (<i>prefix</i>) kilo-: thousand.
+
+<b dict-key="kilobaito">kilobait-o*:</b> kilobyte.
+
+<b dict-key="kilio">kili-o</b><b dict-key="">:</b> (ship's, boat's) keel. &mdash; DEFIS 
+
+<b dict-key="kiliogono">kiliogon-o:</b> (<i>geom.</i>) chiliogon.
+
+<b dict-key="kilogramo">kilogram-o</b><b dict-key="">:</b> kilogram (2.2 lbs). &mdash; DEFIRS 
+
+<b dict-key="kilogrametro">kilogrametro</b><b dict-key="">:</b> kilogrammeter (unit of energy or
+work). &mdash; DEFIRS 
+
+<b dict-key="kilolitro">kilolitr-o</b><b dict-key="">:</b> kiloliter (220 galls). &mdash; DEFIRS 
+
+<b dict-key="kilometro">kilometr-o</b><b dict-key="">:</b> kilometer (0.62 mile). &mdash; DEFIRS 
+
+<b dict-key="kilowatt">&laquo;kilowatt&raquo;:</b> (<i>elec.</i>) 1000 &laquo;watt&raquo;.
+
+<b dict-key="kilsono">kilson-o</b><b dict-key="">:</b> (<i>nav.</i>) keelson. &mdash; DER 
+
+<b dict-key="kilto">kilt-o:</b> (2001) kilt (Scottish garment). &mdash; DEFR
+
+<b dict-key="kimero">kimer-o</b><b dict-key="">:</b> (<i>pr. and fig.</i>) chimera; <b
+dict-key="kimera,kimerala,kimeratra,kimerema">-a, -ala, -atra, -ema</b><b dict-key="">:</b>
+chimerical, fanciful, visionary. &mdash; DEFIRS 
+
+<b dict-key="kimono">kimono</b>: (<i>garment</i>) kimono. 
+
+<b dict-key="kin">kin</b><b dict-key="">:</b> five (for derivations, cf. <b dict-key="du">du</b>);
+<b dict-key="kinadekyara,kino">-a-dek-yar-a, -o</b><b dict-key="">:</b> (person) 50 years old; <b
+dict-key="kinyarala">-yar-ala</b><b dict-key="">:</b> quinquennial: which takes place every five
+years; <b dict-key="kinyara,kinopa">-yar-a, -opa</b><b dict-key="">:</b> quinquennial: which lasts
+five years; <b dict-key="kinfranka peco">-franka peco</b><b dict-key="">:</b> a five-franc piece.
+&mdash; L 
+
+<b dict-key="kinazo">kinaz-o:</b> (<i>biol</i>) kinase.
+
+<b dict-key="kindo">kind-o*:</b> child (from birth to adolescence).
+
+<b dict-key="kinestezio">kinestezi-o:</b> (2001) kinesthesia, kinaesthesia. &mdash; DEFIRS
+
+<b dict-key="kiosko">kiosk-o</b><b dict-key="">:</b> kiosk; (<i>fig.</i>) news stand. &mdash;
+DEFIRS 
+
+<b dict-key="kiragro">kiragr-o</b><b dict-key="">:</b> chiragra. Def.: Goto en la manui. &mdash;
+DEFIRS 
+
+<b dict-key="kirko">kirk-o</b><b dict-key="">:</b> (building) church; (cf. <b
+dict-key="eklezio">eklezio</b>). &mdash; DE 
+
+<b dict-key="kiromanciar">kiromanci-ar</b><b dict-key="">:</b> (<i>tr.</i>) to read the hand of; <b
+dict-key="kiromancio">-o</b><b dict-key="">:</b> chiromancy, palmistry. &mdash; DEFIRS 
+
+<b dict-key="kiroptero">kiropter-o</b><b dict-key="">:</b> chiropter: bat (order: Chiroptera).
+&mdash; EFIL 
+
+<b dict-key="kirsho">kirsh-o</b><b dict-key="">:</b> kirsh (-wasser). &mdash; DEFIRS 
+
+<b dict-key="kirurgio">kirurgi-o</b><b dict-key="">:</b> chirurgery; surgery; <b
+dict-key="kirurgiala">-ala</b><b dict-key="">:</b> surgical, <b dict-key="kirurgiisto">-isto</b><b
+dict-key="">:</b> surgeon. &mdash; DEFIRS 
+
+<b dict-key="kisar">kis-ar</b><b dict-key="">:</b> (<i>tr.</i>) to kiss; <b
+dict-key="kisegar">-egar</b><b dict-key="">:</b> to give a hearty kiss to. &mdash; DE 
+
+<b dict-key="kismet">&laquo;kismet&raquo;</b>: kismet. 
+
+<b dict-key="kisto">kist-o</b><b dict-key="">:</b> (<i>med.</i>) cyst. &mdash; EFIRS 
+
+<b dict-key="kizelguro">kizelgur-o</b><i>:</i> kieselguhr. &mdash; DEFIRS 

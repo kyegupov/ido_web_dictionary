@@ -1,0 +1,7 @@
+<b dict-key="zodiako">zodiako</b>: <span dict-key="зодиак">зодиак</span>
+
+<b dict-key="zono">zono</b>: <span dict-key="зона">зона</span>
+
+<b dict-key="zoologiisto">zoologiisto</b>: <span dict-key="зоолог">зоолог</span>
+
+<b dict-key="zoologio">zoologio</b>: <span dict-key="зоология">зоология</span>

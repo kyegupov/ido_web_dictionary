@@ -1,0 +1,3 @@
+<b dict-key="Mr">Mr.:</b> (sior-o) s-ro.
+
+<b dict-key="Mrs">Mrs.:</b> (sior-ino) s-ino.

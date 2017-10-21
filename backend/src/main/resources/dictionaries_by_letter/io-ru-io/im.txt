@@ -1,0 +1,69 @@
+<b dict-key="imaginar">imaginar</b>: <span dict-key="воображать">воображать</span>
+
+<b dict-key="imajo">imajo</b>: <span dict-key="изображение (образ)">изображение (образ)</span>
+
+<b dict-key="imbecila">imbecila</b>: <span dict-key="ненормальный">ненормальный</span>, <span
+dict-key="слабоумный">слабоумный</span>
+
+<b dict-key="imensa">imensa</b>: <span dict-key="огромный">огромный</span>
+
+<b dict-key="imersar">imersar</b>: <span dict-key="погружать">погружать</span>
+
+<b dict-key="imitar">imitar</b>: <span dict-key="подражать">подражать</span>
+
+<b dict-key="imoblo">imoblo</b>: <span dict-key="недвижимость">недвижимость</span>, <span
+dict-key="недвижимое имущество">недвижимое имущество</span>, <span
+dict-key="недвижимость">недвижимость</span>
+
+<b dict-key="impedar">impedar</b>: <span dict-key="препятствовать">препятствовать</span>
+
+<b dict-key="imperar">imperar</b>: <span dict-key="направить">направить</span>, <span
+dict-key="командовать">командовать</span>
+
+<b dict-key="imperativo">imperativo</b>: <span dict-key="повелительное наклонение">повелительное
+наклонение</span>
+
+<b dict-key="imperfekto">imperfekto</b>: <span dict-key="несовершенный вид
+(грамматика)">несовершенный вид (грамматика)</span>
+
+<b dict-key="imperio">imperio</b>: <span dict-key="империя">империя</span>
+
+<b dict-key="impertinenta">impertinenta</b>: <span dict-key="дерзкий">дерзкий</span>
+
+<b dict-key="impetuo">impetuo</b>: <span dict-key="порывистость">порывистость</span>
+
+<b dict-key="implicita">implicita</b>: <span dict-key="неявный">неявный</span>
+
+<b dict-key="implikar">implikar</b>: <span dict-key="подразумевать">подразумевать</span>
+
+<b dict-key="importacar">importacar</b>: <span dict-key="импортировать">импортировать</span>
+
+<b dict-key="importanta">importanta</b>: <span dict-key="важный">важный</span>
+
+<b dict-key="importar">importar</b>: <span dict-key="быть важным">быть важным</span>
+
+<b dict-key="impostar">impostar</b>: <span dict-key="облагать налогом">облагать налогом</span>
+
+<b dict-key="impotenta">impotenta</b>: <span dict-key="бессильный">бессильный</span>, <span
+dict-key="слабый">слабый</span>
+
+<b dict-key="impotento">impotento</b>: <span dict-key="импотент">импотент</span>
+
+<b dict-key="impozar">impozar</b>: <span dict-key="наложить">наложить</span>
+
+<b dict-key="impresar">impresar</b>: <span dict-key="впечатлять">впечатлять</span>
+
+<b dict-key="impresiono">impresiono</b>: <span dict-key="работа импрессиониста">работа
+импрессиониста</span>
+
+<b dict-key="imprimar">imprimar</b>: <span dict-key="печатать">печатать</span>
+
+<b dict-key="improvizar">improvizar</b>: <span dict-key="импровизировать">импровизировать</span>
+
+<b dict-key="impulsar">impulsar</b>: <span dict-key="побуждать">побуждать</span>, <span
+dict-key="давать импульс">давать импульс</span>
+
+<b dict-key="imputar">imputar</b>: <span dict-key="приписывать">приписывать</span>
+
+<b dict-key="imuna">imuna</b>: <span dict-key="иммунный">иммунный</span>, <span
+dict-key="неуязвимый">неуязвимый</span>, <span dict-key="невосприимчивый">невосприимчивый</span>

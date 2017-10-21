@@ -1,0 +1,42 @@
+<b dict-key="or">or</b>: <span dict-key="хорошо">хорошо</span>, <span dict-key="теперь (в
+споре)">теперь (в споре)</span>
+
+<b dict-key="oranjo">oranjo</b>: <span dict-key="апельсин">апельсин</span>
+
+<b dict-key="orbito">orbito</b>: <span dict-key="орбита">орбита</span>
+
+<b dict-key="ordinar">ordinar</b>: <span dict-key="заказывать">заказывать</span>, <span
+dict-key="помещать">помещать</span>, <span dict-key="договариваться чтобы">договариваться
+чтобы</span>
+
+<b dict-key="ordinara">ordinara</b>: <span dict-key="обычный">обычный</span>, <span
+dict-key="ордтнарный">ордтнарный</span>
+
+<b dict-key="orelo">orelo</b>: <span dict-key="ухо">ухо</span>
+
+<b dict-key="orfano">orfano</b>: <span dict-key="сирота">сирота</span>
+
+<b dict-key="organismo">organismo</b>: <span dict-key="организм">организм</span>
+
+<b dict-key="organo">organo</b>: <span dict-key="орган (не музыкальный)">орган (не
+музыкальный)</span>
+
+<b dict-key="orgeno">orgeno</b>: <span dict-key="(музыкальный) орган">(музыкальный) орган</span>
+
+<b dict-key="oriento">oriento</b>: <span dict-key="восток">восток</span>
+
+<b dict-key="origino">origino</b>: <span dict-key="происхождение">происхождение</span>
+
+<b dict-key="orkestro">orkestro</b>: <span dict-key="оркестр">оркестр</span>
+
+<b dict-key="ornamento">ornamento</b>: <span dict-key="украшение">украшение</span>
+
+<b dict-key="ornar">ornar</b>: <span dict-key="украшать">украшать</span>
+
+<b dict-key="ornitologio">ornitologio</b>: <span dict-key="орнитология">орнитология</span>
+
+<b dict-key="oro">oro</b>: <span dict-key="золото">золото</span>
+
+<b dict-key="ortodoxa">ortodoxa</b>: <span dict-key="ортодокс">ортодокс</span>
+
+<b dict-key="ortografio">ortografio</b>: <span dict-key="орфография">орфография</span>

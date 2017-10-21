@@ -1,0 +1,104 @@
+<b dict-key="du">du:</b> two; <b dict-key="duo">-o:</b> a couple, pair, dyad; <b
+dict-key="duima,duimo">-ima, -imo:</b> half (N.B. but &laquo;half&raquo; in composition is
+translated by <b dict-key="mi">mi-</b> as, <b dict-key="mihoro,micirklo">mi-horo, mi-cirklo</b>);
+<b dict-key="duimigar">-im-igar:</b> to divide in half; <b dict-key="duopla,duoplo">-opla,
+-oplo:</b> double; <b dict-key="duopligar">-opl-igar:</b> to double, to duplicate; <b
+dict-key="dufoye">-foye:</b> two times, twice; <b dict-key="duala">-ala:</b> dual; <b
+dict-key="dualo">-alo:</b> dual; number in gram.; <b dict-key="dualismo">-al-ismo:</b> dualism; <b
+dict-key="dekedu">dek-e-du:</b> twelve; <b dict-key="duadek e tri">duadek e tri:</b> twenty-three;
+<b dict-key="dekeduo">dekeduo:</b> a dozen; <b dict-key="duadeko">duadeko:</b> a score; <b
+dict-key="duacenteun">duacent-e-un:</b> two hundred and one; <b
+dict-key="duacenteokadekesis">duacent-e-okadek-e-sis:</b> 286; <b
+dict-key="dekeduamil">dek-e-duamil:</b> 12,000; <b dict-key="duople kin esas dek">du-ople kin esas
+dek:</b> twice five is ten; <b dict-key="duima litro">du-ima litro:</b> half a liter; <b
+dict-key="duime aquo,duime vino">du-ime aquo, du-ime vino:</b> half water, half wine; <b
+dict-key="duime fola">du-ime fola:</b> half foolish; <b dict-key="ye duima voyo">ye duima voyo:</b>
+(at) half way, midway; <b dict-key="dividar duime kun ulu">dividar du-ime (kun ulu)</b> to go
+halves; <b dict-key="la soldati marchis duope">la soldati marchis duope:</b> the soldiers marched
+by twos; <b dict-key="omna duesma dio">omna duesma dio:</b> every second day, every other day; <b
+dict-key="la du">la du:</b> both (<i>adjectively</i>); <b dict-key="due">due:</b> both
+(<i>adverbially</i>); <b dict-key="li du iris a la staciono">li du iris a la staciono:</b> they
+both went to the station; <b dict-key="ni du konkordis">ni du konkordis:</b> we were both agreed;
+<b dict-key="omna du esis ebria">omna du esis ebria:</b> both men were drunk; <b dict-key="dumasta
+navo">du-masta navo:</b> two-masted ship; <b dict-key="plu kam duime">plu kam du-ime:</b> more than
+half; <b dict-key="il arivis ye du kloki">il arivis ye du kloki:</b> he arrived at two o'clock; <b
+dict-key="dumanua">dumanua:</b> two-handed; <b dict-key="dupartigo">du-part-igo:</b> bipartition;
+<b dict-key="dupartisana,duala">du-partis-ana, -ala:</b> bipartisan; <b
+dict-key="dusenca">du-senc-a:</b> double meaning; equivocal; <b dict-key="duajo">-ajo:</b>
+equivocation; <b dict-key="duyarala">du-yar-ala:</b> biennial (cf. <b
+dict-key="miyarala">mi-yarala</b>). &mdash; DEFIRS
+
+<b dict-key="dubitar">dubit-ar:</b> (<i>formerly</i> <b dict-key="dubar">dubar</b>) (<i>intr.</i>)
+to doubt; waver in opinion, hesitate to believe; <b dict-key="dubitala,dubitanta">-ala, -anta:</b>
+dubative; <b dict-key="dubitema,dubitinda,dubitebla">-ema, -inda, -ebla:</b> doubtful, dubious,
+ambiguous, questionable; <b dict-key="dubitanto,dubitemo">-anto, -emo:</b> doubter; <b
+dict-key="dubitemeso">-em-eso:</b> distrustfulness; <b dict-key="sen dubite">sen- -e:</b> without
+doubt, undoubtedly. Ex.: Me ne dubas, ke il venos. Dubar pri ulo. Solvar dubito. &mdash; EFIS
+
+<b dict-key="duelar">duel-ar:</b> (<i>intr.</i>) to fight a duel (<b dict-key="kun,kontre ulu">kun,
+kontre ulu</b>). &mdash; DEFIRS
+
+<b dict-key="dueno">duen-o:</b> duenna, chaperon. &mdash; DEFS
+
+<b dict-key="dueto">duet-o:</b> (<i>mus.</i>) duet, duo. &mdash; DEFIRS
+
+<b dict-key="duk">duk-(ul)o:</b> duke (<b dict-key="de">de</b>); <b dict-key="dukino">-ino:</b>
+duchess; <b dict-key="dukala">-ala:</b> ducal; <b dict-key="dukeso">-eso:</b> (rank, dignity)
+dukedom; <b dict-key="dukio">-io:</b> duchy. &mdash; EFIS
+
+<b dict-key="dukato">dukat-o:</b> (<i>coin</i>) ducat. &mdash; DEFIRS
+
+<b dict-key="duktar">dukt-ar:</b> (<i>tr.</i>) to lead, conduct, bring along (<b
+dict-key="ulu,ulo">ulu, ulo</b>). V. exp.: vid. <b dict-key="guidar">guidar.</b> &mdash; EFIS
+
+<b dict-key="duktila">duktil-a:</b> ductile. &mdash; DEFIS
+
+<b dict-key="dulkamaro">dulkamar-o:</b> (<i>bot.</i>) woody night-shade, bitter-sweet (Solanum
+dulcamara). &mdash; DEFIS
+
+<b dict-key="dum">dum:</b> (<i>prep.</i>) during (the whole period spoken of); marks interval of
+time an event has taken place in; <b dict-key="dume">-e:</b> meanwhile, in the mean time, yet,
+still; <b dict-key="dum ke">- ke</b> (<i>conj.</i>) while, whilst, during the time when. Ex.: Dum
+la nokto. Il habitis dum plura yari en mikra vilajo. La mesajo arivis dum lua absenteso. Dum ke vu
+repozos, me skribos. Dume la vetero esis varma. &mdash; L
+
+<b dict-key="duno">dun-o:</b> dune, down, sand-hill. &mdash; DEFIRS
+
+<b dict-key="dungo">dung-o:</b> manure, compost (artificial manure); <b
+dict-key="dungizar">-izar:</b> to m.; <b dict-key="dungotero">-o-tero:</b> vegetable mold; (cf. <b
+dict-key="sterko">sterko</b>). Def. Omno quon on mixas a la tero por igar ol plu fertila. On uzas
+multa minerala dungi, qui ne esas sterko; VI-248. &mdash; De
+
+<b dict-key="duodenumo">duodenum-o:</b> (<i>anat.</i>) duodenum. &mdash; DEFIS
+
+<b dict-key="dup">dup-(ul)o:</b> dupe; <b dict-key="dupigar">-igar:</b> to dupe, take in, make a
+person believe a falsehood; <b dict-key="dupiganto,dupero">-ig-anto, -ero:</b> cheat, trickster; <b
+dict-key="dupospozulo">-o-spoz-ulo:</b> cuckold. Ex. Il lasis su dupigesar (da ulu) quale stultulo.
+&mdash; DEF
+
+<b dict-key="duplexa">duplex-a:</b> (<i>telegraphy</i>) duplex: having two parts that operate in
+the same way or at the same time.
+
+<b dict-key="dupliko">duplik-o:</b> (<i>jur.</i>) rejoinder. &mdash; DFIS
+
+<b dict-key="duplikato">duplikat-o:</b> duplicate, identical copy. &mdash; DEFIRS
+
+<b dict-key="durar">dur-ar:</b> (<i>intr.</i>) to last, endure, remain, continue, hold out (cf. <b
+dict-key="permanar,kontinua">permanar, kontinua</b>); <b dict-key="duronta">-onta:</b> to be
+continued (cf. <b dict-key="pluso sequos">pluso sequos</b>). Ex.: La piramidi di Egiptia ankore
+duras. La skribado duras. Durigar diskurso, letro. Spaco e duro. Dur-iva stofi, instrumenti.
+Duranta joyi, chagreni. &mdash; DEFIRS
+
+<b dict-key="duramatro">duramatr-o:</b> (<i>anat.</i>) dura mater. &mdash; DEFIS
+
+<b dict-key="durstar">durst-ar:</b> (<i>intr., also fig.</i>) to thirst, be thirsty; <b
+dict-key="durstigar">-igar:</b> to cause t. to; <b dict-key="sen durstigar">sen- -igar:</b> to
+quench the t. of. &mdash; DE
+
+<b dict-key="dushar">dush-ar:</b> (<i>tr.</i>) to douche: give a shower bath to. &mdash; DEFIRS
+
+<b dict-key="duvo">duv-o:</b> (barrel-) stave. Def. Duvi esas planki di specala formo, ek qui on
+kompozas la bareli; III-81. &mdash; DF
+
+<b dict-key="duyongo">duyong-o:</b> dugong (Halicore dugong). Def.: Mar-hundo di la Malayal
+insularo (India-oceano, e.c.); III-230. &mdash; DEFIRS

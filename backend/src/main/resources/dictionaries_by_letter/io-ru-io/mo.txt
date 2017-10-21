@@ -1,0 +1,78 @@
+<b dict-key="moblo">moblo</b>: <span dict-key="предмет мебели">предмет мебели</span>
+
+<b dict-key="modelo">modelo</b>: <span dict-key="модель">модель</span>, <span
+dict-key="стандарт">стандарт</span>
+
+<b dict-key="moderar">moderar</b>: <span dict-key="уменьшиться">уменьшиться</span>
+
+<b dict-key="moderna">moderna</b>: <span dict-key="современный">современный</span>
+
+<b dict-key="modesta">modesta</b>: <span dict-key="скромный">скромный</span>
+
+<b dict-key="modifikar">modifikar</b>: <span dict-key="изменять">изменять</span>
+
+<b dict-key="modo">modo</b>: <span dict-key="способ">способ</span>, <span
+dict-key="мода">мода</span>, <span dict-key="стиль">стиль</span>
+
+<b dict-key="mokar">mokar</b>: <span dict-key="надсмехаться">надсмехаться</span>
+
+<b dict-key="mola">mola</b>: <span dict-key="мягкий">мягкий</span>
+
+<b dict-key="molekulo">molekulo</b>: <span dict-key="молекула">молекула</span>
+
+<b dict-key="molestar">molestar</b>: <span dict-key="досаждать">досаждать</span>
+
+<b dict-key="momento">momento</b>: <span dict-key="момент">момент</span>
+
+<b dict-key="monako">monako</b>: <span dict-key="монах">монах</span>
+
+<b dict-key="monarkio">monarkio</b>: <span dict-key="монархия">монархия</span>
+
+<b dict-key="monarko">monarko</b>: <span dict-key="монарх">монарх</span>
+
+<b dict-key="monato">monato</b>: <span dict-key="месяц">месяц</span>
+
+<b dict-key="mondo">mondo</b>: <span dict-key="мир">мир</span>
+
+<b dict-key="moneto">moneto</b>: <span dict-key="валюта">валюта</span>, <span dict-key="наличные
+деньги">наличные деньги</span>, <span dict-key="монета">монета</span>
+
+<b dict-key="monologo">monologo</b>: <span dict-key="монолог">монолог</span>
+
+<b dict-key="monopolo">monopolo</b>: <span dict-key="монополия">монополия</span>
+
+<b dict-key="monotona">monotona</b>: <span dict-key="монотонный">монотонный</span>
+
+<b dict-key="monstro">monstro</b>: <span dict-key="монстр">монстр</span>
+
+<b dict-key="monto">monto</b>: <span dict-key="гора">гора</span>
+
+<b dict-key="montrar">montrar</b>: <span dict-key="показывать">показывать</span>
+
+<b dict-key="monumento">monumento</b>: <span dict-key="памятник">памятник</span>
+
+<b dict-key="morbo">morbo</b>: <span dict-key="болезнь">болезнь</span>
+
+<b dict-key="mordar">mordar</b>: <span dict-key="кусать">кусать</span>
+
+<b dict-key="morge">morge</b>: <span dict-key="завтра">завтра</span>
+
+<b dict-key="mori">mori</b>: <span dict-key="манеры">манеры</span>, <span
+dict-key="привычки">привычки</span>
+
+<b dict-key="mortar">mortar</b>: <span dict-key="умирать">умирать</span>
+
+<b dict-key="moruo">moruo</b>: <span dict-key="треска">треска</span>
+
+<b dict-key="moskito">moskito</b>: <span dict-key="москит">москит</span>
+
+<b dict-key="motivo">motivo</b>: <span dict-key="повод">повод</span>, <span
+dict-key="причина">причина</span>
+
+<b dict-key="moto">moto</b>: <span dict-key="девиз">девиз</span>
+
+<b dict-key="motoro">motoro</b>: <span dict-key="двигатель">двигатель</span>
+
+<b dict-key="movar">movar</b>: <span dict-key="двигаться">двигаться</span>
+
+<b dict-key="moyeno">moyeno</b>: <span dict-key="средство">средство</span>

@@ -1,0 +1,21 @@
+<b dict-key="etajo">etajo</b>: <span dict-key="этаж">этаж</span>, <span dict-key="ярус">ярус</span>
+
+<b dict-key="etato">etato</b>: <span dict-key="подтверждение">подтверждение</span>, <span
+dict-key="заявление (счета и т.д.)">заявление (счета и т.д.)</span>
+
+<b dict-key="eterna">eterna</b>: <span dict-key="вечный">вечный</span>
+
+<b dict-key="etiketo">etiketo</b>: <span dict-key="ярлык">ярлык</span>
+
+<b dict-key="etiko">etiko</b>: <span dict-key="этика">этика</span>
+
+<b dict-key="etimologio">etimologio</b>: <span dict-key="этимология">этимология</span>
+
+<b dict-key="etiopia">etiopia</b>: <span dict-key="эфиопия">эфиопия</span>
+
+<b dict-key="etiopiano">etiopiano</b>: <span dict-key="эфиоп">эфиоп</span>
+
+<b dict-key="etuyo">etuyo</b>: <span dict-key="коробочка">коробочка</span>, <span
+dict-key="коробка">коробка</span>, <span dict-key="ящик">ящик</span>, <span
+dict-key="контейнер">контейнер</span>, <span dict-key="кофр">кофр</span>, <span
+dict-key="футляр">футляр</span>

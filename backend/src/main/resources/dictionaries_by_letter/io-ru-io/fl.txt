@@ -1,0 +1,62 @@
+<b dict-key="flago">flago</b>: <span dict-key="флаг">флаг</span>
+
+<b dict-key="flakono">flakono</b>: <span dict-key="фляга">фляга</span>
+
+<b dict-key="flamo">flamo</b>: <span dict-key="пламя">пламя</span>
+
+<b dict-key="flandria">flandria</b>: <span dict-key="фландрия">фландрия</span>
+
+<b dict-key="flandriana">flandriana</b>: <span dict-key="фламандский">фламандский</span>
+
+<b dict-key="flanko">flanko</b>: <span dict-key="сторона">сторона</span>, <span
+dict-key="фланг">фланг</span>
+
+<b dict-key="flarar">flarar</b>: <span dict-key="пахнуть">пахнуть</span>
+
+<b dict-key="flatar">flatar</b>: <span dict-key="льстить">льстить</span>
+
+<b dict-key="flava">flava</b>: <span dict-key="желтый">желтый</span>
+
+<b dict-key="flecho">flecho</b>: <span dict-key="стрелка">стрелка</span>
+
+<b dict-key="flegar">flegar</b>: <span dict-key="ухаживать">ухаживать</span>, <span
+dict-key="заботиться">заботиться</span>
+
+<b dict-key="flexar">flexar</b>: <span dict-key="сгибать">сгибать</span>, <span
+dict-key="гибаться">гибаться</span>
+
+<b dict-key="flexiono">flexiono</b>: <span dict-key="окончание (грамматика)">окончание
+(грамматика)</span>
+
+<b dict-key="flirtar">flirtar</b>: <span dict-key="флиртовать">флиртовать</span>
+
+<b dict-key="floko">floko</b>: <span dict-key="ряд">ряд</span>
+
+<b dict-key="florkaulo">florkaulo</b>: <span dict-key="цветная капуста">цветная капуста</span>
+
+<b dict-key="floro">floro</b>: <span dict-key="цветок">цветок</span>
+
+<b dict-key="flotacar">flotacar</b>: <span dict-key="плавать">плавать</span>
+
+<b dict-key="floto">floto</b>: <span dict-key="флот">флот</span>
+
+<b dict-key="fluanta">fluanta</b>: <span dict-key="текущий">текущий</span>
+
+<b dict-key="fluar">fluar</b>: <span dict-key="течь">течь</span>
+
+<b dict-key="flugar">flugar</b>: <span dict-key="лететь">лететь</span>
+
+<b dict-key="fluida">fluida</b>: <span dict-key="жидкость">жидкость</span>
+
+<b dict-key="fluktuar">fluktuar</b>: <span dict-key="колебаться">колебаться</span>
+
+<b dict-key="fluorecar">fluorecar</b>: <span dict-key="флуоресцировать">флуоресцировать</span>
+
+<b dict-key="fluro">fluro</b>: <span dict-key="лестничная площадка">лестничная площадка</span>
+
+<b dict-key="fluto">fluto</b>: <span dict-key="флейта">флейта</span>
+
+<b dict-key="fluvio">fluvio</b>: <span dict-key="(большая) река">(большая) река</span>
+
+<b dict-key="fluxo">fluxo</b>: <span dict-key="высокий поток">высокий поток</span>, <span
+dict-key="прилив">прилив</span>

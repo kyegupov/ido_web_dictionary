@@ -1,0 +1,9 @@
+<b dict-key="edifico">edifico</b>: <span dict-key="здание">здание</span>, <span dict-key="большое
+здание">большое здание</span>
+
+<b dict-key="editar">editar</b>: <span dict-key="издавать">издавать</span>
+
+<b dict-key="edro">edro</b>: <span dict-key="лицо">лицо</span>, <span dict-key="внешняя
+поверхность">внешняя поверхность</span>
+
+<b dict-key="edukar">edukar</b>: <span dict-key="обучать">обучать</span>

@@ -1,0 +1,63 @@
+<b dict-key="coach">coach: </b>(specale) instruktar; (<i>travel</i>) karos-, dilijenc-vehar.
+
+<b dict-key="coach">coach: </b>(<i>n</i>.) (<i>private</i>) karoso; (<i>stage</i>) dilijenco;
+(<i>hackney</i>) fiakro; (<i>R.R</i>.) vagono; (<i>tutor</i>) spec-ala instrukt-isto; <b
+dict-key="coach box">c. box: </b>vetur-isto-sid-ilo; <b dict-key="coachman">c.man: </b>vetur-isto,
+fiakr-isto.
+
+<b dict-key="coactive">coactive: </b>(<i>coercive</i>) koakt-anta, -iva.
+
+<b dict-key="coadjutor">coadjutor: </b>koadjutoro.
+
+<b dict-key="coagent">coagent: </b>kun-agento, kun-ag-anto.
+
+<b dict-key="coagulate">coagulate: </b>(<i>tr., intr</i>.) koagular.
+
+<b dict-key="coal">coal: </b>karbon-izar; kargar karbono, charjar (navo e.c.) per karbono; <b
+dict-key="to become coal">to become c.: </b>karbon-eskar.
+
+<b dict-key="coal">coal: </b>(<i>n</i>.) karbono; <b dict-key="hard coal">hard c.: </b>antracito;
+<b dict-key="bituminous coal">bituminous c.: </b>ter-karbono, bitum-oza karbono; <b dict-key="brown
+coal">brown c.: </b>lignito; <b dict-key="coal heaver">c. heaver: </b>karbon-port-isto; <b
+dict-key="coal hod">c. hod: </b>karbon-port-ilo; karbon-sitelo; <b dict-key="coal oil">c. oil:
+</b>(<i>for lamps</i>) keroseno; <b dict-key="coal tar">c. tar: </b>koaltaro; <b dict-key="coal
+clinker">c. clinker: </b>eskabilo; <b dict-key="coal mine">c. mine:</b> karbon-min-eyo; <b
+dict-key="to carry coals to Newcastle">to carry c.s to Newcastle: </b>portar aquo a la rivero; <b
+dict-key="to haul over the coals">to haul over the c.s: </b>reprimandar; <b dict-key="coal dust">c.
+dust: </b>karbon-pulvero; <b dict-key="coal merchant">c. merchant: </b>karbon-vend-isto; <b
+dict-key="live coals">live c.s: </b>(<i>embers</i>) brez-o, -i; <b dict-key="coal fish">c. fish:
+</b>karbonario.
+
+<b dict-key="coalesce">coalesce: </b>(<i>intr</i>.) koalisar; unionar; kun-fuzar.
+
+<b dict-key="coalition">coalition: </b>koalis-o, -uro; feder-o, -uro; <b dict-key="to form a
+coalition">to form a c.: </b>koalisar (kun).
+
+<b dict-key="coaming">coaming: </b>bordo-mur-eto.
+
+<b dict-key="coarse">coarse: </b>des-delikata; grosa, granda, ne-mikra; (<i>manners</i>) grosiera;
+ne-polita; ruda; (<i>uneven</i>) des-glata; (<i>to touch</i>) aspera; <b
+dict-key="coarsen">coarsen: </b> -igar, -eskar; <b dict-key="coarseness">c.ness: </b> -eso (<i>for
+quality, for act</i>.) -ajo.
+
+<b dict-key="coast">coast: </b>(<i>nav</i>.) riv-navigar; along-irar; (<i>glide down</i>) glitar
+ad-infre, glit-decens-ar.
+
+<b dict-key="coast">coast: </b>rivo; mar-bordo; (<i>beach</i>) plajo; (<i>shore region</i>) litoro;
+<b dict-key="coast guard">c. guard: </b>rivo-gard-ero, -isto; <b dict-key="coasting">c.ing:
+</b>rivo-navigado.
+
+<b dict-key="coat">coat: </b>(<i>tech</i>.) indutar; (<i>gen</i>.) kovrar; (<i>anoint</i>)
+uncionar; (<i>plaster</i>) krepisar; (<i>with clothes</i>) vest-izar.
+
+<b dict-key="coat">coat: </b>(<i>n</i>.) kovr-ajo; (<i>tech</i>.) indut-uro; (<i>animals</i>) felo;
+furo; (<i>also anat</i>.) tuniko; (<i>anat</i>.) parieto; <b dict-key="frock coat">frock c.:
+</b>redingoto; <b dict-key="evening dress coat">evening dress c.: </b>(swallow-tail) frako;
+(<i>jacket without tails, as for waiters</i>) vestio; <b dict-key="short coat">short c.:
+</b>vestono; <b dict-key="overc">overc.: </b>surtuto; paltoto; (<i>milit</i>.) kapoto; <b
+dict-key="waistc">waistc.: </b>jileto; <b dict-key="box coat">box c.: </b>kariko; <b dict-key="long
+coat">long c.: </b>(<i>of peasant</i>) kuto; <b dict-key="coat of mail">c. of mail: </b>mash-kuto;
+<b dict-key="coat of arms">c. of arms: </b>blazono; <b dict-key="coattail">c.tail: </b>basko.
+
+<b dict-key="coax">coax: </b>preg-et-ad-ar; demand-ad-ar (jentile); (<i>animals</i>) lurar,
+seduktar; <b dict-key="coaxing">-ing: </b>karez-ema.

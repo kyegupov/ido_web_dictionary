@@ -1,0 +1,50 @@
+<b dict-key="cedar">cedar</b>: <span dict-key="уступать">уступать</span>
+
+<b dict-key="celar">celar</b>: <span dict-key="скрывать">скрывать</span>
+
+<b dict-key="celebrar">celebrar</b>: <span dict-key="праздновать">праздновать</span>
+
+<b dict-key="celulo">celulo</b>: <span dict-key="ячейка">ячейка</span>
+
+<b dict-key="cemento">cemento</b>: <span dict-key="цемент">цемент</span>
+
+<b dict-key="ceno">ceno</b>: <span dict-key="сцена">сцена</span>
+
+<b dict-key="cent">cent</b>: <span dict-key="сто">сто</span>, <span dict-key="100">100</span>
+
+<b dict-key="centigrado">centigrado</b>: <span dict-key="стоградусный">стоградусный</span>, <span
+dict-key="со стоградусной шкалой">со стоградусной шкалой</span>, <span dict-key="со шкалой
+цельсия">со шкалой цельсия</span>
+
+<b dict-key="centimetro">centimetro</b>: <span dict-key="сантиметр">сантиметр</span>
+
+<b dict-key="cento">cento</b>: <span dict-key="одна сотня">одна сотня</span>
+
+<b dict-key="centro">centro</b>: <span dict-key="центр">центр</span>
+
+<b dict-key="cerealo">cerealo</b>: <span dict-key="хлебный злак">хлебный злак</span>
+
+<b dict-key="cerebro">cerebro</b>: <span dict-key="мозг">мозг</span>
+
+<b dict-key="ceremonio">ceremonio</b>: <span dict-key="церемония">церемония</span>
+
+<b dict-key="cerizo">cerizo</b>: <span dict-key="вишня">вишня</span>
+
+<b dict-key="certa">certa</b>: <span dict-key="уверенный">уверенный</span>
+
+<b dict-key="certena">certena</b>: <span dict-key="доподлинно известный">доподлинно известный</span>
+
+<b dict-key="certifikar">certifikar</b>: <span dict-key="удостоверять">удостоверять</span>
+
+<b dict-key="cervino">cervino</b>: <span dict-key="олениха">олениха</span>
+
+<b dict-key="cervo">cervo</b>: <span dict-key="олень (ср. род)">олень (ср. род)</span>
+
+<b dict-key="cervulo">cervulo</b>: <span dict-key="олень самец">олень самец</span>
+
+<b dict-key="cervyuno">cervyuno</b>: <span dict-key="олененок">олененок</span>
+
+<b dict-key="cesar">cesar</b>: <span dict-key="прекращаться">прекращаться</span>
+
+<b dict-key="cetero">cetero</b>: <span dict-key="остальное">остальное</span>, <span
+dict-key="прочее">прочее</span>, <span dict-key="e (d) etere и прочее">e (d) etere и прочее</span>

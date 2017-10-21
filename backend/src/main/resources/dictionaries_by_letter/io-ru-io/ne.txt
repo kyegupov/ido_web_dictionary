@@ -1,0 +1,56 @@
+<b dict-key="ne">ne</b>: <span dict-key="не (отрицательное наречие)">не (отрицательное
+наречие)</span>
+
+<b dict-key="nebular">nebular</b>: <span dict-key="туманиться">туманиться</span>
+
+<b dict-key="nebuloso">nebuloso</b>: <span dict-key="туманность">туманность</span>
+
+<b dict-key="necesa">necesa</b>: <span dict-key="необходимый">необходимый</span>
+
+<b dict-key="nederlandana">nederlandana</b>: <span dict-key="голландский язык">голландский
+язык</span>
+
+<b dict-key="nederlando">nederlando</b>: <span dict-key="нидерланды">нидерланды</span>
+
+<b dict-key="negar">negar</b>: <span dict-key="отрицать">отрицать</span>
+
+<b dict-key="negativo">negativo</b>: <span dict-key="отрицательный (математика., фотография.,
+ele.)">отрицательный (математика., фотография., ele.)</span>
+
+<b dict-key="neglijar">neglijar</b>: <span dict-key="пренебрегать">пренебрегать</span>
+
+<b dict-key="negociar">negociar</b>: <span dict-key="торговать">торговать</span>
+
+<b dict-key="negra">negra</b>: <span dict-key="негр">негр</span>
+
+<b dict-key="nek">nek</b>: <span dict-key="тоже не">тоже не</span>
+
+<b dict-key="nek&hellip; nek&hellip;">nek&hellip; nek&hellip;</b>: <span dict-key="ни&hellip;
+ни&hellip;">ни&hellip; ни&hellip;</span>
+
+<b dict-key="neologismo">neologismo</b>: <span dict-key="неологизм">неологизм</span>
+
+<b dict-key="neono">neono</b>: <span dict-key="неон">неон</span>
+
+<b dict-key="nepotino">nepotino</b>: <span dict-key="внучка">внучка</span>
+
+<b dict-key="nepoto">nepoto</b>: <span dict-key="внук или внучка">внук или внучка</span>
+
+<b dict-key="nepotulo">nepotulo</b>: <span dict-key="внук">внук</span>
+
+<b dict-key="nervo">nervo</b>: <span dict-key="нерв">нерв</span>
+
+<b dict-key="nesto">nesto</b>: <span dict-key="гнездо">гнездо</span>
+
+<b dict-key="neta">neta</b>: <span dict-key="чистый">чистый</span>
+
+<b dict-key="neutra">neutra</b>: <span dict-key="нейтральный">нейтральный</span>
+
+<b dict-key="nevino">nevino</b>: <span dict-key="племянница">племянница</span>
+
+<b dict-key="nevo">nevo</b>: <span dict-key="племянник или племянница">племянник или
+племянница</span>
+
+<b dict-key="nevroso">nevroso</b>: <span dict-key="невроз">невроз</span>
+
+<b dict-key="nevulo">nevulo</b>: <span dict-key="племянник">племянник</span>

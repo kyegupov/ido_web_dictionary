@@ -1,0 +1,55 @@
+<b dict-key="febla">febla</b>: <span dict-key="слабый">слабый</span>
+
+<b dict-key="febrar">febrar</b>: <span dict-key="иметь лихорадку">иметь лихорадку</span>
+
+<b dict-key="februaro">februaro</b>: <span dict-key="февраль">февраль</span>
+
+<b dict-key="federar">federar</b>: <span dict-key="объединять (ся) на федеративных
+началах">объединять (ся) на федеративных началах</span>
+
+<b dict-key="feko">feko</b>: <span dict-key="экскременты">экскременты</span>
+
+<b dict-key="fekunda">fekunda</b>: <span dict-key="плодовитый">плодовитый</span>
+
+<b dict-key="feldo">feldo</b>: <span dict-key="поле (электрическое, магнитное, оптическое)">поле
+(электрическое, магнитное, оптическое)</span>
+
+<b dict-key="felica">felica</b>: <span dict-key="счастливый">счастливый</span>
+
+<b dict-key="fenco">fenco</b>: <span dict-key="забор">забор</span>
+
+<b dict-key="fendar">fendar</b>: <span dict-key="раскалываться">раскалываться</span>, <span
+dict-key="идти в разрез">идти в разрез</span>, <span dict-key="раскалывать">раскалывать</span>
+
+<b dict-key="fenestro">fenestro</b>: <span dict-key="окно">окно</span>
+
+<b dict-key="feno">feno</b>: <span dict-key="сено">сено</span>
+
+<b dict-key="fenomeno">fenomeno</b>: <span dict-key="явление">явление</span>
+
+<b dict-key="feo">feo</b>: <span dict-key="фея">фея</span>
+
+<b dict-key="ferio">ferio</b>: <span dict-key="базар">базар</span>, <span
+dict-key="рынок">рынок</span>
+
+<b dict-key="ferma">ferma</b>: <span dict-key="крепкий">крепкий</span>, <span
+dict-key="прочный">прочный</span>, <span dict-key="твердый">твердый</span>
+
+<b dict-key="fermentacar">fermentacar</b>: <span dict-key="бродить">бродить</span>
+
+<b dict-key="fero">fero</b>: <span dict-key="железо">железо</span>
+
+<b dict-key="feroca">feroca</b>: <span dict-key="свирепый">свирепый</span>, <span
+dict-key="жестокий">жестокий</span>
+
+<b dict-key="fertila">fertila</b>: <span dict-key="плодородный">плодородный</span>
+
+<b dict-key="fervorar">fervorar</b>: <span dict-key="быть пылким (для)">быть пылким (для)</span>
+
+<b dict-key="fervoyo">fervoyo</b>: <span dict-key="железная дорога">железная дорога</span>
+
+<b dict-key="festar">festar</b>: <span dict-key="торжественно праздновать">торжественно
+праздновать</span>
+
+<b dict-key="festinar">festinar</b>: <span dict-key="пировать">пировать</span>, <span
+dict-key="праздновать">праздновать</span>

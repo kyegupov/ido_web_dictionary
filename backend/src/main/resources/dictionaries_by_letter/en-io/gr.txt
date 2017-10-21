@@ -1,0 +1,407 @@
+<b dict-key="grace">grace:</b> (<i>honour</i>) honor-izar, favorar; (<i>ornament</i>) ornar.
+
+<b dict-key="grace">grace:</b> (<i>gracefulness</i>) gracio; (<i>theological</i>) graco; (<i>one of
+the three Graces</i>) Gracio; (<i>before meals</i>) &laquo;benedicite&raquo;; (<i>favor</i>) favoro.
+
+<b dict-key="graceful">graceful:</b> (<i>in apppearance</i>) graci-oza; gracila; (<i>affable</i>)
+afabla, komplez-ema.
+
+<b dict-key="grace">grace-note:</b>&nbsp;fiorituro.
+
+<b dict-key="gracile">gracile:</b> gracila.
+
+<b dict-key="gracious">gracious:</b> afabla; komplez-ema; (<i>indulgent</i>) indulg-ema; klementa.
+
+<b dict-key="gradation">gradation:</b> (<i>degree</i>) grado; (<i>grading</i>) grad-iz-o, -uro.
+
+<b dict-key="grade">grade:</b> grad-o, -izar.
+
+<b dict-key="gradient">gradient:</b> (<i>downward</i>) pento, (<i>upward</i>) rampo; inklino;
+(<i>meteorological</i>) gradiento.
+
+<b dict-key="gradual">gradual:</b> grad-oza, -opa; <b dict-key="gradualy">-ly:</b> -oze, -ope.
+
+<b dict-key="graduate">graduate:</b> (<i>an instrument; confer a degree</i>) grad-izar, obtenar
+grado o diplomo; diplom-izar, -izesar; (<i>person</i>) grad-iz-ito.
+
+<b dict-key="graft">graft:</b> (<i>trees</i>) greft-ar; -ajo, -uro, -o-sproso; (<i>finan</i>.)
+(<i>intr</i>.) konkusion-ar, -o.
+
+<b dict-key="grain">grain:</b> (<i>of corn, of coffee, of leather, etc.</i>) grano (<i>cf</i>.
+semino; -uno; veino; filo); (<i>wheat</i>) frumento (<i>cf</i>. maizo; cerealo).
+
+<b dict-key="grain beetle">grain beetle:</b> milbo.
+
+<b dict-key="gram">gram</b>(<b dict-key="me">me</b>)<b dict-key="">:</b> gramo.
+
+<b dict-key="gramineous">gramineous </b>(<b dict-key="plant">plant</b>)<b dict-key="">:</b>
+gramin-a, -o.
+
+<b dict-key="graminivorous">graminivorous:</b> herbivor-a, -o.
+
+<b dict-key="grammar">grammar:</b> gramatiko; <b dict-key="grammar school">g. school:</b> liceo,
+gimnazio; (<i>U.S.</i>) puer-ala skolo; <b dict-key="that is bad grammar">that is bad g.:</b> to
+esas ne korekta.
+
+<b dict-key="grammarian">grammarian:</b> gramatik-isto, -ero.
+
+<b dict-key="grammatical">grammatical:</b> gramatik-ala.
+
+<b dict-key="gramophone">gramophone:</b> (<i>record player, phonograph</i>) gramofono.
+
+<b dict-key="granary">granary:</b> gran-eyo, garb-eyo; (<i>attic</i>) granario.
+
+<b dict-key="grand">grand:</b> (<i>great</i>) granda (<i>cf</i>. superba; nobla; sublima;
+grandioza; bon-ega); <b dict-key="grandee">-ee:</b> grand-(ul)o; granda sinioro; <b
+dict-key="grandly">-ly:</b> -e; <b dict-key="grandness">-ness:</b> -eso; <b dict-key="grand
+object">g. object:</b> -ajo.
+
+<b dict-key="grandchild">grandchild:</b> nepot-o, -ulo,-ino (<i>cf</i>. nevo).
+
+<b dict-key="grandeur">grandeur:</b> (<i>quality</i>) grand-eso, grandioz-eso, majesto.
+
+<b dict-key="grand,grandsire">grand-father, -sire:</b> av-ulo.
+
+<b dict-key="grandiloquent">grandiloquent:</b> ostente (<i>od</i>, superbe) parol-anta; pompoz-acha.
+
+<b dict-key="grandiose">grandiose:</b> grandioz-a.
+
+<b dict-key="grandmother">grandmother:</b> av-ino.
+
+<b dict-key="grand">grand-nephew:</b> pos-nev-ulo.
+
+<b dict-key="grandparent">grandparent:</b> avo; <b dict-key="great">great-g.:</b> pre-avo; <b
+dict-key="great,great">great, great-g.:</b> tri-esma avo.
+
+<b dict-key="grandson">grandson:</b> nepot-ulo; <b dict-key="great">great-g.:</b> pos-nepot-ulo.
+
+<b dict-key="grandstand">grandstand:</b> tribuno.
+
+<b dict-key="granite">granite:</b> granit-o; -a, -ala, -atra.
+
+<b dict-key="grant">grant:</b> grantar (<i>cf</i>. koncesionar; supozar; exaucar; permisar;
+konsentar); grant-o, -ajo, -uro; (<i>public</i>) koncesiono; (<i>of money</i>) subvenciono; <b
+dict-key="granted">-ed:</b> (<i>agreed</i>) grant-ita; agnosk-ita (kom vera); (<i>that</i>)
+supoz-ita ke; <b dict-key="grant amnesty to">g. amnesty to:</b> amnestiar.
+
+<b dict-key="grantee">grantee:</b> koncesion-ario; grant-ario; donac-ario; ced-(aj)ario.
+
+<b dict-key="granular">granular:</b> gran-ala, -atra, -o-forma; (<i>med</i>.) granul-ala, -oza.
+
+<b dict-key="granulate">granulate:</b> (<i>form or collect into grains</i>) gran-(et)igar,
+-et-eskar; <b dict-key="granulatd">-d:</b> (<i>gen</i>.) gran-ala, -oza, -ig-ita; (<i>med</i>.)
+granul-ala, -oza; -ig-ita.
+
+<b dict-key="granulation">granulation:</b> gran(et)aro; gran-et-ig(ad)o; (<i>med</i>.) granul-aro;
+-igo, -esko.
+
+<b dict-key="granule">granule:</b> (<i>bot</i>.) grano; (<i>med</i>.) granulo.
+
+<b dict-key="granuloma">granuloma:</b> granulomo.
+
+<b dict-key="grape">grape:</b> vit-bero; <b dict-key="Muscatel grape">Muscatel g.:</b> Muskat-bero;
+<b dict-key="to tread grapes">to tread g.s:</b> fular (vit-beri); <b dict-key="a bunch of grapes">a
+bunch of g.s:</b> vito-grapo; <b dict-key="grape vine">g. vine:</b> vit-bero, vito.
+
+<b dict-key="grapeshot">grapeshot:</b> mitralio.
+
+<b dict-key="graph">graph:</b> grafik-o; <b dict-key="graphic arts">-ic arts:</b> -a arti; <b
+dict-key="graphic account">g.ic account:</b> pitoreska deskripto.
+
+<b dict-key="graphite">graphite:</b> grafito.
+
+<b dict-key="graphology">graphology: </b>grafologio.
+
+<b dict-key="graphometer">graphometer:</b> grafometro.
+
+<b dict-key="grapnel">grapnel:</b> grapino.
+
+<b dict-key="grapple">grapple:</b> (<i>hook on</i>) akrochar; (<i>begin to struggle</i>)
+(<i>intr</i>.) lukt-eskar (kun).
+
+<b dict-key="grappling">grappling-iron:</b> grapino.
+
+<b dict-key="grasp">grasp:</b> (<i>also fig</i>.) sizar; (<i>comprehend</i>) komprenar, intelektar
+(<i>cf</i>. manukaptar; tenar; prenar); <b dict-key="to lose one grasp">to lose one&rsquo;s g.:</b>
+des-prenar; (<i>fig</i>.) posedo; povo.
+
+<b dict-key="grasping">grasping:</b> (<i>miserly</i>) avara.
+
+<b dict-key="grass">grass:</b> herb-o, -i; (<i>bot</i>.) gramin-o, -i; <b dict-key="grass sod or
+turf">g. sod or turf:</b> gazono; <b dict-key="grass plot">g. plot:</b> gazon-eyo, -agro, -bedo; <b
+dict-key="blade of grass">blade of g.:</b> herbo-stip-eto; <b dict-key="dog grass,couch grass">dog
+g., couch g.:</b> hundo-herbo; <b dict-key="grassy">-y:</b> herb-ala, -atra, -oza.
+
+<b dict-key="grasshopper">grasshopper:</b> akrido, lokusto, cikado.
+
+<b dict-key="grate">grate:</b> (<i>as a nutmeg</i>) raspar; (<i>of noise</i>) grincar (per la
+denti); gratar; (<i>creak</i>) (<i>intr</i>.) stridar; (<i>as from a stove</i>) greto.
+
+<b dict-key="grateful">grateful:</b> gratitud-oza, -ema; (<i>pleasing</i>) agreabla; plez-anta; <b
+dict-key="to be grateful for">to be g. for:</b> gratitudar (ulu, pro ulo).
+
+<b dict-key="grater">grater:</b> rasp-ilo.
+
+<b dict-key="gratify">gratify:</b> kontent-igar, -eskar, plezar (ad), komplezar.
+
+<b dict-key="gratin">gratin:</b> (<i>cook</i>) gratin-o; <b dict-key="au gratin">&laquo;au
+g.&raquo;:</b> -iz-ita.
+
+<b dict-key="grating">grating:</b> (<i>of bars</i>) greto (<i>cf</i>. gicheto); (<i>of sounds</i>)
+<i>see</i> <b dict-key="grate">grate.</b>
+
+<b dict-key="gratis">gratis:</b> gratuit-a, -e; sen-pag-a; -e.
+
+<b dict-key="gratitude">gratitude:</b> gratitudo (<i>cf</i>. danko).
+
+<b dict-key="gratuitous">gratuitous:</b> (<i>free, gratis</i>) gratuita, sen-paga;
+(<i>supposition</i>) sen-motiva; sen-kauza.
+
+<b dict-key="gratuity">gratuity:</b> (<i>tip</i>) gratifik-uro; <b dict-key="to bestow">to
+bestow:</b> -ar (ulu); (<i>gift</i>) donac-ajo.
+
+<b dict-key="grave">grave:</b> (<i>precious stones, medals</i>) gliptar (<i>cf</i>. grabar);
+(<i>tomb</i>) tombo; sepult-eyo; (<i>sedate</i>) serioza; (<i>important</i>) grava; (<i>accent</i>)
+grava; <b dict-key="graveyard">g.yard:</b> tomb-eyo; <b dict-key="gravedigger">g.digger:</b>
+tomb-isto; <b dict-key="gravestone">g.stone:</b> tombo-petro.
+
+<b dict-key="gravel">gravel:</b> (<i>pebbles</i>) gravio (<i>cf</i>. stono); (<i>med</i>.) gravelo;
+<b dict-key="to gravel">to g.:</b> (<i>roads, etc</i>.) gravi-izar, ston(et)izar.
+
+<b dict-key="graving">graving-dock:</b> repar-doko.
+
+<b dict-key="graving">graving-tool:</b> grab-ilo; glipt-ilo.
+
+<b dict-key="gravitate">gravitate:</b> (<i>phys. and fig</i>.) (<i>intr</i>.) gravitar.
+
+<b dict-key="gravity">gravity:</b> (<i>gravitating</i>) gravit-(ad)o; (<i>weight; importance</i>)
+grav-eso; <b dict-key="centre of gravity">centre of g.:</b> baricentro, pez-centro; <b
+dict-key="the law of gravity">the law of g.:</b> la lego di gravit-ado; <b dict-key="specific
+gravity">specific g.:</b> specifika grav-eso; (<i>sedateness</i>) serioz-eso.
+
+<b dict-key="gravy">gravy:</b> (karno-) suko <i>od</i> sauco.
+
+<b dict-key="gray">gray:</b> griz-a; (<i>the colour</i>) -o; <b dict-key="gray haired man">g.
+haired man:</b> griz-ulo, griz-hara, -barba, -kapa hom-ulo; <b dict-key="to become,turn gray">to
+become, turn g.:</b> -eskar; <b dict-key="graness">-ness:</b> -eso; <b dict-key="graish">-ish:</b>
+-eta, -atra.
+
+<b dict-key="graze">graze:</b> (<i>beasts</i>) pasturar; (<i>touch lightly</i>) frolar;
+(<i>scratch</i>) skrachar.
+
+<b dict-key="grease">grease:</b> gras-o; <b dict-key="to grease">to g.:</b> -izar (<i>cf</i>.
+lubrifikar); <b dict-key="greasy">-y:</b> -a, -oza, -atra; <b dict-key="grease spot">g. spot:</b>
+graso-makulo; <b dict-key="to remove the grease from">to remove the g. from:</b> des-gras-izar; <b
+dict-key="old cart">old cart-g.:</b> unto.
+
+<b dict-key="great">great:</b> (<i>dimensions and fig</i>.) granda; (<i>thick and long</i>) grosa;
+<b dict-key="greatly">-ly:</b> multe, grand-e; <b dict-key="greatness">-ness:</b> -eso;
+(<i>object</i>) -ajo; (<i>person</i>) -(ul)o; <b dict-key="greater than">g.er than:</b> supere
+(ad); <b dict-key="to make greater">to make g.er:</b> plu-grand-igar, (<i>become</i>) -eskar; <b
+dict-key="greatest">g.est:</b> maxim granda; <b dict-key="greatest care">g.est care:</b> maxim
+sorgo; <b dict-key="greatest possible">g.est possible:</b> maxim granda posible.
+
+<b dict-key="greatcoat">greatcoat:</b> surtuto.
+
+<b dict-key="great">great-grandchild:</b> pos-nepot-ulo.
+
+<b dict-key="great">great-grandfather:</b> pre-av-ulo.
+
+<b dict-key="great">great-uncle:</b> pre-onkl-ulo.
+
+<b dict-key="greave">greave:</b> (<i>Gr. antiq.</i>) knemido*.
+
+<b dict-key="grebe">grebe:</b> (<i>ornit.</i>) grebo.
+
+<b dict-key="Grecian">Grecian:</b> Greka.
+
+<b dict-key="greed">greed:</b> (<i>avarice</i>) avar-eso; (<i>avidity</i>) avid-eso; <b
+dict-key="greedy">-y:</b> avara; avida; gan-ema; (<i>of food</i>) glut-ema; gurmand-a, -atra;
+manj-eg-anta; hungr-eg-anta; <b dict-key="to eat greedily">to eat g.ily:</b> devorar.
+
+<b dict-key="Greek">Greek:</b> Grek-a.
+
+<b dict-key="green">green:</b> verd-a; (<i>colour</i>) -o; (<i>object</i>) -ajo; (<i>turn</i>)
+-eskar; (<i>inexperienced</i>) novica; <b dict-key="green wood">g. wood:</b> ne-sika ligno.
+
+<b dict-key="greenfinch">greenfinch:</b> verdron-o.
+
+<b dict-key="greengrocer">greengrocer:</b> legum-, frukto-vend-isto.
+
+<b dict-key="greenhorn">greenhorn:</b> novic-(ul)o; naiva yun-(ul)o.
+
+<b dict-key="greenhouse">greenhouse:</b> teplico.
+
+<b dict-key="greenish">greenish:</b> verd-atra, -eta.
+
+<b dict-key="greenness">greenness:</b> verd-eso; manko di experienco; ne-expert-eso.
+
+<b dict-key="greenroom">greenroom:</b> foyero.
+
+<b dict-key="greens">greens:</b> legum-i, -aro (verda).
+
+<b dict-key="greensickness">greensickness:</b> kloroso.
+
+<b dict-key="greenstone">greenstone:</b> diabaso.
+
+<b dict-key="greensward">greensward:</b> gazon-eyo, -agro.
+
+<b dict-key="greet">greet</b>(<b dict-key="ing">ing</b>)<b dict-key="">:</b> salut-ar, -o.
+
+<b dict-key="gregarious">gregarious:</b> trup-ala, -atra, -ema; kun-ven-ema.
+
+<b dict-key="Gregorian">Gregorian:</b> Gregori-ala.
+
+<b dict-key="gremial">gremial:</b> gremi-alo.
+
+<b dict-key="grenade">grenade:</b> (<i>hand</i>) grenado.
+
+<b dict-key="grenadier">grenadier:</b> (<i>fig</i>.) grenad-isto.
+
+<b dict-key="grenadine">grenadine:</b> (<i>fabric</i>) silka barejo; (<i>syrup</i>) grenad-sirupo.
+
+<b dict-key="grey">grey: </b><i>see</i> <b dict-key="gray">gray.</b>
+
+<b dict-key="greyhound">greyhound:</b> levrier-o, -ulo, -ino, -yuno.
+
+<b dict-key="gribene">gribene:</b> gribo.
+
+<b dict-key="griddle">griddle:</b> (<i>frying pan</i>) padelo; (<i>grating</i>) greto.
+
+<b dict-key="gridiron">gridiron:</b> gril-ilo.
+
+<b dict-key="grief">grief:</b> chagreno (<i>cf</i>. trist-eso, aflikt-eso, dezol-eso).
+
+<b dict-key="grievance">grievance:</b> plend-ajo, ne-yust-ajo.
+
+<b dict-key="grieve">grieve:</b> (<i>have sorrow</i>) (<i>intr</i>.) chagren-ar, (<i>tr</i>.) -igar
+(<i>cf</i>. dolorar; deplorar; dezolar; trist-igar, -eskar; afliktar; lamentar).
+
+<b dict-key="grevious">grevious: </b>opresanta, charj-eg-anta; aflikt-anta, -iva, pen-oza,
+dolor-ig-anta, chagren-ig-anta; trista; grav-ega; dezol-anta.
+
+<b dict-key="griffon">griffon:</b> grifono.
+
+<b dict-key="grill">grill:</b> (<i>boil</i>) grilar; (<i>put grate on</i>) gret-izar;
+(<i>intr</i>.) gril-ilo.
+
+<b dict-key="grim">grim:</b> severa; pavor-ig-anta; <b dict-key="grimness">-ness:</b> sever-eso;
+feroc-eso.
+
+<b dict-key="grimace">grimace:</b> (<i>intr</i>.) grimas-ar, -o.
+
+<b dict-key="grime">grime:</b> sordid-eso, -ajo; fango; (<i>soot</i>) fuligino.
+
+<b dict-key="grin">grin:</b> rid-et-achar; &laquo;rictus&raquo;.
+
+<b dict-key="grind">grind:</b> (<i>of noise, as teeth, door</i>) (<i>intr</i>.) grincar; (<i>as on
+a grindstine</i>) grindar; (<i>in a mill</i>) muelar; (<i>sharpen</i>) akut-igar; (<i>g. down</i>)
+triturar.
+
+<b dict-key="grinder">grinder:</b> (<i>tooth</i>) molara (dento).
+
+<b dict-key="grindstone">grindstone:</b> grind-o-petr-(eg)o.
+
+<b dict-key="grip">grip</b>(<b dict-key="pe">pe</b>)<b dict-key="">:</b> (<i>med</i>.) gripo,
+influenzo; (<i>colic</i>) koliko; (<i>person sick with</i>) -ika, -iko.
+
+<b dict-key="grip">grip:</b> sizar, kaptar, prenar (ferme); <b dict-key="gripping power">gripping
+power: </b>pugno-fort-eso; (<i>to have colic</i>) kolikar.
+
+<b dict-key="gristle">gristle:</b> kartilago.
+
+<b dict-key="grit">grit:</b> (<i>sand</i>) sablo; gravio; (<i>pluck</i>) kurajo; <b
+dict-key="grity">-ty:</b> gravi-atra.
+
+<b dict-key="grizzly">grizzly:</b> (<i>grey</i>) griz-a; (<i>becoming grey</i>) griz-esk-anta; <b
+dict-key="grizzly bear">g. bear:</b> griza urso.
+
+<b dict-key="groan">groan:</b> (<i>intr</i>.) jem-ar, -o.
+
+<b dict-key="groats">groats:</b> (<i>oatmeal</i>) gruelo.
+
+<b dict-key="grocer">grocer:</b> spic-(o-vend)isto.
+
+<b dict-key="groceries">groceries:</b> spic-aro.
+
+<b dict-key="grog">grog:</b> grogo; <b dict-key="grog blossom">g. blossom:</b> kuperoso.
+
+<b dict-key="groin">groin:</b> (<i>anat</i>.) inguino; (<i>arch</i>.) aristo.
+
+<b dict-key="groom">groom:</b> grumo, kaval-sorg-isto; (<i>v</i>.) net-igar.
+
+<b dict-key="groomsman">groomsman:</b> honor-kompan-ulo.
+
+<b dict-key="groove">groove:</b> kanel-(et)o, -iz-uro; (<i>square cut</i>) ranur-o; (<i>for
+something to slide</i>) kuliso; (<i>v</i>.) -izar.
+
+<b dict-key="grope">grope:</b> (<i>intr</i>.) tastar.
+
+<b dict-key="gross">gross:</b> (<i>thick and long</i>) grosa; (<i>12 dozen</i>) grosdekeduo;
+(<i>without delicacy</i>) grosiera; (<i>of weight</i>) kun-tara; (<i>entire</i>) integra; plena;
+(<i>fig</i>.) flagr-anta.
+
+<b dict-key="grotesque">grotesque:</b> groteska.
+
+<b dict-key="grotto">grotto:</b> groto.
+
+<b dict-key="ground">ground:</b> (<i>assertions, reasons</i>) apogar; motiv-izar; (<i>a system,
+establishment</i>) fondar; (<i>train in first principles</i>) fundament-izar; (<i>elec., as a
+wire</i>) en-ter-igar; (<i>run ashore</i>) (<i>intr.</i>) strandar; <b dict-key="ground arms">g.
+arms:</b> abasez la armi; (<i>lay down</i>) depozar armi.
+
+<b dict-key="ground">ground:</b> (<i>soil</i>) sulo; (<i>for building, tilling</i>) tereno;
+(<i>earth</i>) tero (<i>cf</i>. <i>suffix</i>-eyo); (<i>estate</i>) domeno; (<i>background</i>)
+fundo; (<i>grounds of an estate</i>) parko, teren-aji, gardeni; (<i>basis</i>) bazo, fundamento,
+fundo, apog-ajo; (<i>motive</i>) motivo; <b dict-key="groundless">-less:</b> sen-; <b dict-key="on
+the grounds that">on the g.s that:</b> pro ke.
+
+<b dict-key="ground">ground-cypress:</b> santolino.
+
+<b dict-key="ground floor">ground floor:</b> ter-etajo.
+
+<b dict-key="ground">ground-hog:</b> (<i>woodchuck</i>) marmoto.
+
+<b dict-key="grounds">grounds:</b> (<i>dregs</i>) sedimento.
+
+<b dict-key="groundwork">groundwork:</b> fundament-o, -i.
+
+<b dict-key="group">group:</b> grupo (<i>cf</i>. trupo, bando); (<i>v</i>.) grup-ifar, -igar,-e
+dispozar; <b dict-key="to walk in a group">to walk in a g.:</b> trupe marchar; <b dict-key="member
+of a group">member of a g.:</b> -ano (<i>cf</i>. <i>suffix</i> -ar-).
+
+<b dict-key="grouse">grouse:</b> gruzo (<i>cf</i>. tetraso, urogalo); (<i>v</i>.) grumblar.
+
+<b dict-key="grove">grove:</b> bosk(et)o.
+
+<b dict-key="grovel">grovel:</b> (<i>intr</i>.) rept-achar; abasar su.
+
+<b dict-key="grow">grow:</b> (<i>esp. of living things</i>) kresk-ar, (<i>tr</i>.) -igar,
+(<i>start</i>) -eskar; (<i>cf</i>. kultivar) (<i>increase</i>) augmentar; (<i>get bigger</i>)
+plu-grand-eskar; (<i>become</i>) divenar (<i>cf</i>. <i>suffix</i> -esk-); (<i>develop</i>)
+developar;<b dict-key="grow up"> g. up:</b> matur-eskar; kreskar.
+
+<b dict-key="growl">growl:</b> (<i>intr</i>.) grondar, grun-ar, -achar.
+
+<b dict-key="growth">growth:</b> kresk-o, -ajo (<i>see</i> <b dict-key="grow">grow</b>);
+(<i>progress</i>) progreso; (<i>excrescence</i>) sur-kresk-ajo.
+
+<b dict-key="grub">grub:</b> larvo; (<i>pupa</i>) krizalido; (<i>worm</i>) vermo; lombriko;
+(<i>food</i>) manj-aj-o, -i; <b dict-key="grub up">g. up:</b> arachar (<i>roots, etc</i>.).
+
+<b dict-key="grubby">grubby:</b> des-neta, sordida.
+
+<b dict-key="grudge">grudge:</b> (<i>to have a, feel a g</i>.) (<i>intr</i>.) rankorar;
+(<i>tr</i>.) envidiar; (<i>n</i>.) rankoro, envidio, mala volo; <b dict-key="they obeyed
+grudgeingly">they obeyed g.ingly:</b> li obediis kontre-vole.
+
+<b dict-key="gruel">gruel:</b> (<i>oatmeal</i>) gruel-o (-supo).
+
+<b dict-key="gruff">gruff:</b> des-afabla, bruska; (<i>of voice; husky</i>) rauka; <b dict-key="a
+gruff reply">a g. reply:</b> bruska repliko.
+
+<b dict-key="grumble">grumble:</b> (<i>intr</i>.) plend-achar; (<i>fig</i>.) grunar.
+
+<b dict-key="grume">grume:</b> (<i>clot</i>) grumelo.
+
+<b dict-key="grunt">grunt:</b> (<i>intr</i>.) grun-ar, -achar; -(ad)o.

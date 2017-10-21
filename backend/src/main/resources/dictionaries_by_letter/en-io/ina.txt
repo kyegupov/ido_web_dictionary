@@ -1,0 +1,65 @@
+<b dict-key="inability">inability:</b> ne-povo, nepotent-eso, ne-kapabl-eso; ne-habil-eso.
+
+<b dict-key="inaccessible">inaccessible: </b>ne-aces-ebla.
+
+<b dict-key="inaccuracy">inaccuracy:</b> ne-exakt-eso, -ajo; (<i>of a person</i>) ne-akurat-eso.
+
+<b dict-key="inaccurate">inaccurate:</b> (<i>of things</i>) ne-exakta; (<i>persons</i>) ne-akurata.
+
+<b dict-key="inaction">inaction:</b> ne-ago, ne-aktiv-eso, repozo; (<i>tendency</i>) ne-ag-em-eso
+(<i>cf</i>. torporo, letargio, inert-eso).
+
+<b dict-key="inactive">inactive:</b> ne-ag-anta, ne-aktiva; (<i>tendency</i>) ne-ag-ema, indolenta;
+(<i>inert</i>) inerta.
+
+<b dict-key="inadequacy">inadequacy: </b>ne-sufic-o, -ant-eso.
+
+<b dict-key="inadequate">inadequate:</b> ne-sufic-anta.
+
+<b dict-key="inadmissable">inadmissable:</b> ne-admis-ebla.
+
+<b dict-key="inadvertence">inadvertence:</b> ne-atenco, (<i>act</i>) sen-atenc-ajo;<b dict-key="by
+inadvertence"> by i.:</b> pro ne-atenco; (<i>unintentionally</i>) sen-intence.
+
+<b dict-key="inadvertent">inadvertent:</b> ne-atenc-oza, -ema, neglij-anta, -ema.
+
+<b dict-key="inalienable">inalienable:</b> ne-alien-ebla; <b dict-key="inalienable from">i.
+from:</b> ne-separ-ebla.
+
+<b dict-key="inalterable">inalterable: </b>ne-alterebla.
+
+<b dict-key="inane">inane:</b> vakua (de); sen-raciona; fola, absurda. 
+
+<b dict-key="inanimate">inanimate:</b> sen-anma, sen-viva.
+
+<b dict-key="inanition">inanition:</b> inaniciono.
+
+<b dict-key="inanity">inanity:</b> van-eso; frivol-eso (<i>see</i> <b dict-key="inane">inane</b>).
+
+<b dict-key="inapplicable">inapplicable:</b> ne-aplik-ebla.
+
+<b dict-key="inappreciable">inappreciable:</b> ne-mezur-ebla; ne-evalu-ebla; ne-sent-ebla.
+
+<b dict-key="inappropriate">inappropriate:</b> ne-apta, ne-konven-anta (ad), ne-oportuna.
+
+<b dict-key="inapt">inapt:</b> ne-apta.
+
+<b dict-key="inaptitude">inaptitude:</b> ne-apt-eso.
+
+<b dict-key="inarticulate">inarticulate:</b> (<i>of pronunciation</i>) ne-artikul-ata, -ita
+(<i>cf</i>. muta, tac-ema); (<i>of joints</i>) ne-artik-iz-ata, -ita.
+
+<b dict-key="inattention">inattention:</b> ne-atenco (<i>see</i> <b
+dict-key="inadvertence">inadvertence</b>).
+
+<b dict-key="inattentive">inattentive:</b> ne-atenca-oza, -ema; neglij-anta, -ema; distrakt-ata,
+-ita; ne-sorg-ema.
+
+<b dict-key="inaudible">inaudible:</b> ne-aud-ebla.
+
+<b dict-key="inaugural">inaugural:</b> inaugur-ala.
+
+<b dict-key="inaugurate">inaugurate:</b> inaugurar; (<i>install</i>) instalar.
+
+<b dict-key="inauspicious">inauspicious:</b> mal-augur-oza, ne-favor-oza, ne-oportuna;
+(<i>baleful</i>) funesta.

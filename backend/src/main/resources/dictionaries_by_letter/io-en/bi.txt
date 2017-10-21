@@ -1,0 +1,258 @@
+<b dict-key="bi">bi-:</b> (<i>prefix</i>) signifying two. Ex.: <b dict-key="bikapa">bi-kapa:</b>
+bicephalous; <b dict-key="biloba">bi-loba:</b> bilobate.
+
+<b dict-key="biblo">bibl-o:</b> Bible; <b dict-key="biblala">-ala:</b> Biblical; <b
+dict-key="biblocitajo">-o-citajo:</b> passage from the B.; <b dict-key="biblexperta">-experta:</b>
+versed in the B. &mdash; DEFIRS
+
+<b dict-key="bibliofilo">bibliofil-o:</b> bibliophile: book-lover. &mdash; DEFIRS
+
+<b dict-key="bibliografio">bibliografi-o:</b> bibliography; <b
+dict-key="bibliografiisto">-isto:</b> bibliographer. &mdash; DEFIRS
+
+<b dict-key="bibliomanio">bibliomani-o:</b> bibliomania; <b dict-key="bibliomaniiko">-iko:</b>
+bibliomaniac. &mdash; DEFIRS
+
+<b dict-key="biblioteko">bibliotek-o: </b>(<i>ediface</i>) library; (<i>furniture</i>) book-case;
+(cf. <b dict-key="libraro">libr-aro</b>); <b dict-key="bibliotekisto">-isto:</b> librarian; <b
+dict-key="biblioteko publika">-o publika:</b> public l.; <b dict-key="biblioteko vitrizita">-o
+vitrizita:</b> glassed book-case; <b dict-key="planko di biblioteko">planko di -o:</b> book shelf.
+&mdash; DEFIRS
+
+<b dict-key="bicepso">biceps-o:</b> (<i>anat.</i>) biceps. &mdash; DEFIS
+
+<b dict-key="biciklo">bicikl-o:</b> bicycle; <b dict-key="biciklego">-ego:</b> a large b.; the
+old-fashioned, high b.; <b dict-key="biciklisto,biciklero">-isto, -ero:</b> cyclist; <b
+dict-key="viral,mulieral biciklo">viral-, mulieral- -o:</b> a man's. a woman's b.; <b
+dict-key="biciklirar">-irar:</b> to bicycle. &mdash; DEFIRS
+
+<b dict-key="bidenta">bi-denta:</b> (<i>anat.</i>) bidentate; two-toothed.
+
+<b dict-key="bideto">bidet-o:</b> (furniture) bidet; a kind of Sitz bath. &mdash; DEFIRS
+
+<b dict-key="bidono">bidon-o:</b> can (for oil etc.); (<i>milit.</i>) canteen. Def.: Ladovazo
+klozita por oleo, petrolo, benzino, e.c. qua kontenas de un til 10 litri; gurdatra kontenilo ek
+lado, quan la soldato portas; III-198. &mdash; FIRS
+
+<b dict-key="bielo">biel-o:</b> (<i>mach.</i>) connecting-, side-rod; <b dict-key="kuplo
+bielo">kuplo- -o:</b> coupling-rod; <b dict-key="bielkapo">-kapo:</b> cross-head. Def.: Stango qua
+ligas un peco ad altra, generale, stango di pistono a manivelo, e transformas movo rektolinea a
+movo rotaca; II-641. &mdash; FIS
+
+<b dict-key="bifsteko">bifsteko:</b> beefsteak. &mdash; DEFIRS
+
+<b dict-key="bifurkar">bifurk-ar:</b> (<i>tr., intr.</i>) to bifurcate, branch off (from), fork <b
+dict-key="ek,kun bifurko,bifurkeyo">(ek, kun) -o, -eyo:</b> bifurcation, crotch (of a tree); <b
+dict-key="bifurkilo">-ilo:</b> (<i>R.R.</i>) point, switch; <b
+dict-key="bifurkostationo">-o-stationo:</b> R. R. junction; <b
+dict-key="bifurkeyo,bifurkovoyo">-eyo, -o-voyo:</b> junction of two roads; <b
+dict-key="bifurkanta">-anta:</b> forked. &mdash; DEFIS
+
+<b dict-key="bigama">bigam-a:</b> bigamous; <b dict-key="bigameso">-eso:</b> bigamy; <b
+dict-key="bigam">-(ul)o:</b> bigamist. &mdash; DEFIRS
+
+<b dict-key="bigota">bigot-a:</b> bigoted; <b dict-key="bigot">-(ul)o:</b> a b.; <b
+dict-key="bigoteso">-eso:</b> bigotry; <b dict-key="bigotesar">-esar:</b> to be b. &mdash; DEFI
+
+<b dict-key="bikapa">bi-kap-a:</b> bicephalous; two-headed.
+
+<b dict-key="bikinio">bikini-o*:</b> bikini.
+
+<b dict-key="bikolora">bi-kolor-a:</b> bi-colored.
+
+<b dict-key="bikonkava">bi-konkav-a:</b> bi-concave.
+
+<b dict-key="bikorna">bi-korn-a:</b> bi-cornous: two horned; <b dict-key="bia chapelo">-a
+chapelo:</b> bicornered hat.
+
+<b dict-key="bikotiledono,bia">bi-kotiledon-o, -a:</b> dicotyledon(ous).
+
+<b dict-key="bikursala,bikursalo">bikursal-a, -o:</b> <i>(math.)</i> bicursal. &mdash; DEFI
+
+<b dict-key="bikuspid dento">bikuspid-a (dento):</b> bicuspid. &mdash; DEFIS
+
+<b dict-key="bilo">bil-o:</b> bile, gall (fluid); <b dict-key="bilala vaskuli">-ala vaskuli:</b> b.
+ducts; <b dict-key="biloveziko">-o-veziko:</b> gall-bladder; <b dict-key="biloza">-oza:</b>
+bilious; <b dict-key="bilkalkolo">-kalkolo:</b> gallstone. &mdash; DEFIS
+
+<b dict-key="bilanco">bilanc-o:</b> (<i>com., fin.</i>) balance, balance-sheet; <b dict-key="facar
+bilanco di">facar- -o di:</b> to b., draw a b. of (an account). &mdash; DEFIRS
+
+<b dict-key="bilatera">bi-later-a:</b> bi-lateral.
+
+<b dict-key="bilboketo">bilboket-o:</b> cup and ball (used in a game). &mdash; DFIR
+
+<b dict-key="bilgo">bilg-o:</b> (<i>nav.</i>) bilge, lower part of a hold, well. &mdash; DE
+
+<b dict-key="biliardo">biliard-o:</b> (<i>game</i>) billiards; <b dict-key="biliardeyo">-eyo:</b>
+b. hall or room; <b dict-key="biliardobastono">-o-bastono:</b> b. cue; <b
+dict-key="biliardotablo">-o-tablo:</b> b. table; <b dict-key="biliardobulo">-o-bulo:</b> b. ball.
+&mdash; DEFIRS
+
+<b dict-key="bilieto">biliet-o:</b> a written order or ticket; <b dict-key="banko bilieto">banko-
+-o:</b> bank-note; <b dict-key="teatro bilieto">teatro- -o:</b> theater ticket; <b
+dict-key="fervoyala bilieto">fervoyala -o:</b> railway-ticket; <b dict-key="bilieto kun
+retroveno">-o kun retro-veno:</b> return trip ticket; <b dict-key="komercala bilieti">komercala
+-i:</b> commercial paper: notes in hand, promissory notes, bills of exchange; <b dict-key="lojo
+bilieto">lojo- -o:</b> (<i>milit.</i>) official requisition on a person for lodging; <b
+dict-key="lojio bilieto">lojio- -o:</b> box ticket (theater); <b dict-key="gratuita
+bilieto">gratuita -o:</b> free-pass; <b dict-key="kontrol bilieto">kontrol- -o:</b> check
+(theater). &mdash; DEFIRS
+
+<b dict-key="bilingua">bi-lingu-a:</b> bilingual.
+
+<b dict-key="biliono">bilion-o:</b> (Br., Fr.) billion, (U.S.) trillion:
+10&lt;sup&gt;12&lt;/sup&gt;; a million millions: (1,000,000,000,000) N. B. not as in U.S.: a
+thousand millions. &mdash; DEFIRS
+
+<b dict-key="biloba">bi-lob-a:</b> (<i>bot.</i>) bilobate.
+
+<b dict-key="bilorneto">bi-lorn-eto:</b> opera-glass, (double) field-glass.
+
+<b dict-key="bimanua">bi-manu-a:</b> (<i>zool.</i>) bimanous; bimanual.
+
+<b dict-key="bimetalismo">bi-metal-ismo:</b> bimetalism; <b dict-key="bia,biala">-a, -ala:</b>
+bimetallic.
+
+<b dict-key="binara">binar-a:</b> (<i>math., mus., chem.</i>) binary. &mdash; DEFIS
+
+<b dict-key="bindar">bind-ar:</b> (<i>tr.</i>) to bind (books); <b dict-key="bind">-(ad)o:</b>
+binding (act); <b dict-key="binduro">-uro:</b> binding (result); <b dict-key="bindisto">-isto:</b>
+book-binder; <b dict-key="ne bindita">ne- -ita:</b> unbound; <b dict-key="karton bindar">karton-
+-ar:</b> to bind in boards; <b dict-key="ledro binduro">ledro- -uro:</b> leather binding. &mdash; DE
+
+<b dict-key="bineto">binet-o:</b> (garden-) hoe; <b dict-key="binetagar">-agar:</b> to hoe. &mdash;
+FS
+
+<b dict-key="binoklo">binokl-o:</b> double eye-glass; <b dict-key="binokl">-(if)isto:</b> eye-glass
+maker, optician; <b dict-key="naz binoklo">naz- -o:</b> nose-glasses; <b dict-key="orel
+binoklo">orel- -o:</b> spectacles; <b dict-key="manu binoklo">manu- -o:</b> glasses with handle; <b
+dict-key="etuyo di binoklo">etuyo di -o:</b> case for eye-glasses. Def.: Du okulvitri solidara.
+V-I. &mdash; DEFIRS
+
+<b dict-key="binokulara">binokular-a:</b> (<i>opt.</i>) binocular. &mdash; DEFIRS
+
+<b dict-key="binomio,binomiala">binomi-o, -ala:</b> (<i>math.</i>) binomial. &mdash; DEFIRS
+
+<b dict-key="biodinamiko">biodinamik-o:</b> biodynamics. &mdash; DEFIRS
+
+<b dict-key="biofiziko">biofizik-o:</b> (2001) biophysics. &mdash; DEFIRS
+
+<b dict-key="biogenezo">biogenez-o:</b> biogenesis. &mdash; DE
+
+<b dict-key="biografio">biografi-o:</b> biography; <b dict-key="biografiala">-ala:</b>
+biographical; <b dict-key="biografiero,biografiisto">-ero, -isto:</b> biographer. &mdash; DEFIRS
+
+<b dict-key="biokemio">biokemi-o:</b> biochemistry. &mdash; DEFIRS
+
+<b dict-key="biologio">biologi-o:</b> biology; <b dict-key="biologiisto">-isto:</b> biologist.
+&mdash; DEFIRS
+
+<b dict-key="biomaso">biomas-o:</b> (2001) biomass. &mdash; DEFIRS
+
+<b dict-key="biomekaniko">biomekanik-o:</b> biomechanics. &mdash; DEFIRS
+
+<b dict-key="bioniko">bionik-o:</b> (2001) bionics. &mdash; DEFIRS
+
+<b dict-key="biopsio">biopsi-o:</b> (2001) biopsy. &mdash; DEFIRS
+
+<b dict-key="bioritmo">bioritm-o:</b> (2001) biorhythm. &mdash; DEFIRS
+
+<b dict-key="biosfero">biosfer-o:</b> (2001) biosphere. &mdash; DEFIRS
+
+<b dict-key="bioteknologio">bioteknologi-o:</b> (2001) biotechnology. &mdash; DEFIRS
+
+<b dict-key="bipeda,bio">bi-ped-a, -o:</b> biped.
+
+<b dict-key="biplano">bi-plan-o:</b> (<i>aeron.</i>) biplane.
+
+<b dict-key="bipunto">bi-punto:</b> (<i>typo., print.</i>) colon.
+
+<b dict-key="biquadrata">bi-quadrat-a:</b> (<i>math.</i>) biquadratic.
+
+<b dict-key="biro">bir-o:</b> beer; <b dict-key="birifar">-ifar:</b> to brew; <b
+dict-key="biriferio">-if-erio:</b> brewery; <b dict-key="birifisto">-if-isto:</b> brewer; <b
+dict-key="bir">-(vend)-erio:</b> beer selling establ.; <b dict-key="biroglaso">-o-glaso:</b> beer
+glass; <b dict-key="glaso de biro">glaso de -o:</b> a glass of beer. &mdash; DEFI
+
+<b dict-key="birefraktar">bi-refrakt-ar:</b> (<i>intr.</i>) to be birefracting, birefringent.
+
+<b dict-key="biremo">birem-o:</b> bireme. &mdash; DEFIRS
+
+<b dict-key="bireto">biret-o:</b> biretta: (<i>R.C.</i>) ecclesiastic square cap; <b
+dict-key="kardinal bireto">kardinal- -o:</b> cardinal's b. &mdash; DEFIRS
+
+<b dict-key="birko">birk-o:</b> birch-tree (genus: Betula); <b dict-key="birkoligno">-o-ligno:</b>
+b. wood. &mdash; DE
+
+<b dict-key="bis">bis:</b> twice; (<i>in theaters</i>) encore! repeat! <b dict-key="klamar
+bis">klamar bis:</b> to encore (<i>repetition of numbers</i>); <b dict-key="No bis">No. 3 bis:</b>
+No. 3 twice or again; <b dict-key="bis">bis:</b> (<i>mus.</i>) B sharp. &mdash; DFIRS
+
+<b dict-key="biso">bis-o:</b> (<i>fabric, zool., bot.</i>) byssus. &mdash; DEFIRS
+
+<b dict-key="bisako">bi-sak-o:</b> (<i>beggar's</i>) double-wallet, -pouch.
+
+<b dict-key="bisekar">bi-sek-ar:</b> (<i>tr.</i>) to bisect (geom.)
+
+<b dict-key="bisextila">bisextil-a:</b> bisextile; <b dict-key="bisextila yaro">-a yaro:</b>
+leap-year. &mdash; DEFIS
+
+<b dict-key="bisexua">bi-sexu-a:</b> bisexual.
+
+<b dict-key="bisidilo">bi-sid-ilo:</b> seat for two persons, small sofa.
+
+<b dict-key="bisilaba">bi-silab-a:</b> dissyllabic.
+
+<b dict-key="bisko">bisk-o:</b> bisk (soup). &mdash; DEF
+
+<b dict-key="biskoto">biskot-o:</b> rusk, zwieback. Def.: Loncho de pano rostita o grilita;
+III-633. &mdash; FIS
+
+<b dict-key="bismuto">bismut-o:</b> bismuth. &mdash; DEFIRS
+
+<b dict-key="bisquito">bisquit-o:</b> (U. S.) cracker; (England) biscuit; <b
+dict-key="bisquitiferio">-if-erio:</b> cracker bakery; <b dict-key="bisquito navala">-o navala:</b>
+hardtack. &mdash; DEFIRS
+
+<b dict-key="bistra,bistro">bistr-a, -o:</b> bistre: a dark-brown pigment. &mdash; DEFR
+
+<b dict-key="bisturio">bisturi-o:</b> (<i>surg.</i>) bistoury. &mdash; DEFIRS
+
+<b dict-key="bisulfato">bisulfat-o:</b> (2001) bisulphate. &mdash; DEFIRS
+
+<b dict-key="bisulfito">bisulfit-o:</b> (2001) bisulphite, bisulfite. &mdash; DEFIRS
+
+<b dict-key="bito">bit-o:</b> (<i>nav.</i>) bitt; (<i>comp.</i>) bit (binary digit). &mdash; DEFIRS
+
+<b dict-key="bitra">bitr-a:</b> (<i>lit. and fig.</i>) bitter: hot and acid; sharp, poignant;
+biting; acrimonious; <b dict-key="bitreso">-eso:</b> bitterness; <b dict-key="bitrajo">-ajo:</b> a
+b. thing; <b dict-key="bitrigar">-igar:</b> to make <b dict-key="ulo">(ulo)</b> bitter;
+(<i>fig.</i>) to embitter; <b dict-key="absinto esas bitra">absinto esas -a:</b> absinth (wormwood)
+is bitter; <b dict-key="bitre plorar">-e plorar:</b> to cry bitterly; <b dict-key="reprocho
+bitra">reprocho -a:</b> sharp, severe reproach; <b dict-key="bitra mandeli">-a mandeli</b> bitter
+almonds; <b dict-key="bitra quale bilo">-a quale bilo:</b> a b. as gall. Ant. <b
+dict-key="sukra,dolcega">sukra, dolc-ega.</b> &mdash; DE
+
+<b dict-key="bitumo">bitum-o:</b> bitumen (cf. <b dict-key="asfalto">asfalto</b>). &mdash; DEFIRS
+
+<b dict-key="bivakar">bivak-ar:</b> (<i>intr.</i>) to bivouac; <b dict-key="bivakeyo">-eyo:</b> a
+b. (place). V. exp.: <b dict-key="Bivakar">Bivakar</b> esas <b dict-key="kampar">kampar</b> sen
+tendi, sub la cielo (generale cirkum fairi), nun por un nokto; II-645. &mdash; DEFIRS
+
+<b dict-key="bivalva,bio">bi-valv-a, -o:</b> bivalve.
+
+<b dict-key="bizancala,bizancatra,bizancana">bizanc-ala, -atra, -ana:</b> diletante (in
+discussion); <b dict-key="bizancano">-ano:</b> quibbler. Def.:Qua prizas perdar sua tempo en
+diskutar subtilaji neutila; IV-258. &mdash; F
+
+<b dict-key="bizantina">bizantin-a:</b> (<i>fig.</i>) Byzantine. &mdash; DEFIRS
+
+<b dict-key="bizara">bizar-a:</b> (2001) bizarre. &mdash; DEFI
+
+<b dict-key="bizelo">bizel-o:</b> (<i>carp.</i>) beveled-edge, feather-edge, chamfer; <b
+dict-key="bizelizar">-izar:</b> to bevel; <b dict-key="bizelizita">-izita:</b> beveled; <b
+dict-key="bizelizo,bizeluro">-izo, -uro:</b> beveling; <b dict-key="bizelizilo">-iz-ilo:</b> a
+bevel. Def.: Bordo (di planko, cizelilo, e.c.) tranchita oblique. &mdash; FS
+
+<b dict-key="bizono">bizon-o:</b> (<i>zool.</i>) bison (Bos americanus). &mdash; DEFIRS

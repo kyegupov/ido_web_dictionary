@@ -1,0 +1,189 @@
+<b dict-key="man">man:</b> vir-equipar, equipar per viri, per mar-isti, per nav-ani (<i>cf</i>.
+-izar).
+
+<b dict-key="man">man:</b> (<i>human being</i>) homo; (<i>a male</i>) hom-ulo (<i>cf</i>. maskul-a,
+-o); (<i>adult male</i>) viro (<i>in composition</i> -ulo); (<i>in games</i>) (ludo-)peco
+(<i>cf</i>. piono; damo); (<i>servant</i>) serv-ist-ulo; (<i>workman</i>) labor-isto; employ-ato;
+(<i>waiter</i>) garsono; <b dict-key="young man">young man:</b> yun-ulo; <b dict-key="man of
+action">m. of action:</b> ag-em-ulo, ag-er-ulo; <b dict-key="honest man">honest m.:</b> honest-ulo;
+<b dict-key="man of the world">m. of the world:</b> mond-um-an-ulo; <b dict-key="man of straw">m.
+of straw:</b> nomo-prest-anto; <b dict-key="sportsman">sportsman:</b> sport-ist-(ul)o; <b
+dict-key="become a man">become a m.:</b> vir-eskar; <b dict-key="army of,men">army of 30,000
+men:</b> armeo de tria-deka-mil viri; <b dict-key="I am your man">I am your man:</b> me apartenas a
+vu, me esas en vua dispono; <b dict-key="you are my man">you are my m.:</b> vu konvenas (<i>od</i>,
+plezas) a me; <b dict-key="to dress like a man">to dress like a m.:</b> vest-izar (su) quale
+hom-ulo; <b dict-key="horseman">horseman:</b> kavalk-isto, -ero; <b dict-key="head man">head
+m.:</b> chef-(ul)o; <b dict-key="man">m.-of-war:</b> milit-navo; <b
+dict-key="mechant">mechant-m.:</b> komerco-navo, var-navo; (<i>in gen</i>.) navo.
+
+<b dict-key="manacle">manacle:</b> (<i>handcuff</i>) manot-o; (<i>v</i>.) -izar, -ligar;
+(<i>cf</i>. katen-o, -izar).
+
+<b dict-key="manage">manage:</b> (<i>direct, control</i>) direktar; (<i>for an owner</i>) jerar
+(<i>cf</i>. guvernar; administrar; regnar); (<i>handle</i>) manu-agar, manipular; (<i>troops,
+ships, guns, etc</i>.) manovrar; (<i>husband</i>) sparar; (<i>subdue</i>) dresar; domtar; <b
+dict-key="I know how to manage it">I know how to m. it:</b> me savas quale aranjar ol, facar ol,
+agar, sucesar.
+
+<b dict-key="manageable">manageable:</b> direkt-ebla; manu-ag-ebla; (<i>child, etc</i>.) docila,
+dukt-ebla.
+
+<b dict-key="management">management:</b> direkt-ado, manovr-ado, manipul-ado, manu-ag-ado;
+administr-ado; (<i>com</i>.) jer-ado; (<i>body of officials</i>) administr-ant-aro; jer-ant-aro.
+
+<b dict-key="manager">manager:</b> direkt-anto, -ero, -isto; administr-anto, -ero, -isto; jer-anto,
+-ero, -isto; (<i>steward</i>) ekonom-(ul)o.
+
+<b dict-key="manchineel">manchineel:</b> manzanilo.
+
+<b dict-key="mandarin">mandarin:</b> mandareno; <b dict-key="mandarin orange">m. orange:</b>
+mandarino.
+
+<b dict-key="mandate">mandate:</b> (imper-anta, oblig-anta) komiso (<i>cf</i>. prokuraco);
+(<i>money order</i>) mandato; (<i>command</i>) komando, impero.
+
+<b dict-key="mandatory">mandatory:</b> (<i>obligatory</i>) oblig-anta, -ata; preskript-ata.
+
+<b dict-key="mandible">mandible:</b> mandibulo.
+
+<b dict-key="mandolin">mandolin</b>(<b dict-key="e">e</b>)<b dict-key="">:</b> mandolino.
+
+<b dict-key="mandore">mandore:</b> mandoro.
+
+<b dict-key="mandragora">mandragora:</b> mandragoro.
+
+<b dict-key="mandrake">mandrake:</b> mandragoro.
+
+<b dict-key="mandrel,mandril">mandrel, mandril:</b> mandrelo (<i>cf</i>. mandrino).
+
+<b dict-key="mane">mane:</b> krin-aro.
+
+<b dict-key="manege">manege:</b> (<i>riding school</i>) manejo (<i>cf</i>. kaval-dres-ado).
+
+<b dict-key="manes">manes:</b> mani.
+
+<b dict-key="manganese">manganese:</b> mangano.
+
+<b dict-key="mange">mange:</b> skabio.
+
+<b dict-key="mangel">mangel-wurzel:</b> betravo.
+
+<b dict-key="manger">manger:</b> manjo-trogo, kripo.
+
+<b dict-key="mangle">mangle:</b> (dis-)lacerar; mutilar; (<i>linen</i>) kalandr-ar, (<i>instr</i>.)
+-ilo.
+
+<b dict-key="mango">mango:</b> (<i>fruit</i>) mang-o, (<i>tree</i>) -iero.
+
+<b dict-key="mangrove">mangrove:</b> (<i>fruit</i>) mangl-o, (<i>tree</i>) -iero.
+
+<b dict-key="mangy">mangy:</b> skabi-oza, -ika.
+
+<b dict-key="manhole">manhole:</b> hom-truo; (<i>for inspecting</i>) regardo-truo.
+
+<b dict-key="manhood">manhood:</b> vir-eso, vir-atr-eso; (<i>courage</i>) kurajo; <b
+dict-key="manhood suffrage">m. suffrage:</b> univers-ala vot-ado.
+
+<b dict-key="mania">mania:</b> manio.
+
+<b dict-key="maniac">maniac:</b> frenezi-iko; (<i>fig</i>.) mani-iko; <b
+dict-key="maniacal">-al:</b> frenezi-oza, -ika.
+
+<b dict-key="Manichaeism">Manichaeism:</b> manikeismo*.
+
+<b dict-key="manicure">manicure:</b> manikur-ar.
+
+<b dict-key="manifest">manifest: </b>(<i>reveal</i>) manifestar (<i>cf</i>. revelar); (<i>adj</i>.)
+evidenta, vid-ebla, notora; (<i>n</i>.) publika deklaro; karg-ajo-deklaro.
+
+<b dict-key="manifestation">manifestation: </b>manifest-(ad)o.
+
+<b dict-key="manifesto">manifesto:</b> publika deklaro.
+
+<b dict-key="manifold">manifold:</b> mult-opla, grand-nombra; (<i>diverse</i>) diversa,
+multa-sorta, multa-speca; (<i>multigraph</i>) poligrafo.
+
+<b dict-key="manikin">manikin:</b> (<i>lay figure</i>) manekino.
+
+<b dict-key="manioc">manioc:</b> manioko.
+
+<b dict-key="maniple">maniple:</b> maniplo.
+
+<b dict-key="manipulate">manipulate:</b> manipular, manu-agar.
+
+<b dict-key="manito">manito:</b> supera ento (<i>od</i>, de-ajo).
+
+<b dict-key="mankind">mankind:</b> hom-aro, hom-ala speco.
+
+<b dict-key="manliness">manliness:</b> vir-eso, vir-atr-eso (<i>cf</i>. respekt-inda mieno);
+(<i>courage</i>) kurajo; brav-eso.
+
+<b dict-key="manly">manly:</b> (<i>virile</i>) vir-ala, -atra; (<i>full of dignity</i>)
+respekt-inda; (<i>noble</i>) nobla; (<i>manlike</i>) vir-atra, hom-ul-atra.
+
+<b dict-key="manna">manna:</b> manao.
+
+<b dict-key="mannered">mannered: </b>kondut-ala, -anta.
+
+<b dict-key="manner">manner:</b> maniero; (<i>fashion, style</i>) modo (<i>cf</i>. kustumo); <b
+dict-key="in such a manner">in such a m.:</b> tale, tal-maniere; <b dict-key="in this manner">in
+this m.:</b> ca-, ta-maniere, tale; <b dict-key="manner of speech">m. of speech:</b> parol-maniero;
+<b dict-key="all manner of things">all m. of things:</b> omna speci o sorti di kozi; <b
+dict-key="good,bad manners">good, bad m.s:</b> bona, mala manieri; <b dict-key="in like manner">in
+like m.:</b> same, sam-maniere; <b dict-key="what manner of man is he">what m. of man is he:</b>
+quala viro esas il?
+
+<b dict-key="mannerism">mannerism:</b> maniero; (<i>affection</i>) afektac-ajo, -maniero.
+
+<b dict-key="mannerliness">mannerliness:</b> jentil-eso.
+
+<b dict-key="manners">manners:</b> (<i>good or bad behaviour</i>) manieri; kondut-(ad)o;
+(<i>politeness</i>) polit-eso, -ajo; jentil-eso; (<i>general customs</i>) mori; kustumi (<i>cf.</i>
+<b dict-key="etiquette">etiquette</b>).
+
+<b dict-key="man">man&oelig;uvre:</b> (<i>tr., intr.</i>) manovrar.
+
+<b dict-key="manometer">manometer:</b> manometro.
+
+<b dict-key="manor">manor:</b> (<i>estate</i>) domeno (di sinioro); <b dict-key="manor house">m.
+house:</b> domen-domo, kastel-eto.
+
+<b dict-key="manse">manse:</b> pastor-ala domo; (<i>of cur&eacute;, vicar or rector</i>) parok-eyo.
+
+<b dict-key="mansion">mansion:</b> (<i>eleganta</i>) dom-ego (<i>cf</i>. kastelo).
+
+<b dict-key="manslaughter">manslaughter:</b> hom-ocido (sen-intenca).
+
+<b dict-key="mantel">mantel: </b>(<i>garment and arch</i>.) mantelo; <b
+dict-key="mantel">m.-piece:</b> mantelo o chapo di kameno.
+
+<b dict-key="mantilla">mantilla:</b> mantilio.
+
+<b dict-key="mantissa">mantissa:</b> mantiso.
+
+<b dict-key="mantle">mantle:</b> (<i>cloak</i>) mantelo; (<i>of blood rushing to the face</i>)
+acensar a al vizajo.
+
+<b dict-key="manual">manual:</b> (<i>book</i>) lerno-libro, manu-libro; (<i>adj</i>.) manu-ala; <b
+dict-key="manual labour">m. labour:</b> manu-laboro.
+
+<b dict-key="manufactory">manufactory:</b> manufakturo, fabrik-erio.
+
+<b dict-key="manufacture">manufacture:</b> fabrik-ar, -(ad)o; (<i>by hand</i>) manu-fabrikar.
+
+<b dict-key="manufacturer">manufacturer:</b> fabrik-isto, -ero, -anto; manufaktur-isto, -estro;
+industri-isto.
+
+<b dict-key="manure">manure:</b> sterk-o, -izar; (<i>compost</i>) dung-o, -izar.
+
+<b dict-key="manuscript">manuscript:</b> (<i>n</i>.) manuskript-o; (<i>adj</i>.) -a, -ala; (<i>hand
+written</i>) manu-skrib-ita.
+
+<b dict-key="many">many: </b>mult-a, -i; grand-nombro; <b dict-key="many of us">m. of us: </b>multe
+de ni; <b dict-key="many among them">m. among them:</b> multi ek (<i>od</i>, inter, de) li; <b
+dict-key="many men">m. men:</b> multa homi; <b dict-key="how many times">how m. times:</b>
+quanta-foye;<b dict-key="how many died"> how m. died:</b> quanti mortis? <b dict-key="many a
+time">m. a time:</b> ofte, mult-foye; <b dict-key="many kinds">m. kinds:</b> multa-sorta, -speca;
+<b dict-key="too many">too m.:</b> tro multa; <b dict-key="many more">m. more:</b> multa- atri; <b
+dict-key="so many soldiers">so m. soldiers:</b> tante multa soldati; <b dict-key="many coloured">m.
+coloured:</b> multa-kulora.

@@ -1,0 +1,124 @@
+<b dict-key="ek">ek:</b> (<i>prep., general sense</i>) out; (<i>indicating motion</i>) <b
+dict-key="adportez stulo ek ta chambro">adportez stulo ek ta chambro:</b> bring a chair out of that
+room; <b dict-key="lu prenis ca folio ek la tirkesto">lu prenis ca folio ek la tir-kesto:</b> he
+took this leaf from the drawer (N.B. not to be confounded with <b dict-key="de">de</b> where point
+of departure is to be indicated: <b dict-key="letro de Boston">letro de Boston,</b> letter from
+Boston); (<i>indicating the material a thing is made of, extracted from</i>) <b dict-key="vazo ek
+oro">vazo ek oro:</b> a gold vase; <b dict-key="ek quo esas ta tasi li esas ek porcelano">ek quo
+esas ta tasi? li esas ek porcelano:</b> what are the cups made of? they are made of china;
+(<i>indicating fractional parts</i>) <b dict-key="nonadek ek cent">nonadek ek cent:</b> 90 out of
+100 (90%); <b dict-key="en ca armeo,ek esas ocidita,ek vundita">en ca armeo, 5 ek 100 esas ocidita,
+10 ek 100 vundita:</b> in this army, five out of (every) 100 were killed, and ten per cent were
+wounded.
+
+<b dict-key="eko">ek-o:</b> echo; <b dict-key="ekigar">-igar:</b> to echo. Ex.: La vakua chambri
+ekigis nia pedopazi; (<i>fig.</i>) Kelki ekigas stultaji di altri. &mdash; DEFIRS
+
+<b dict-key="ekarte">&laquo;ekarte&raquo;:</b> (<i>card game</i>) ecarte.
+
+<b dict-key="ekfluar">ek-fluar:</b> (<i>intr.</i>) to flow out; <b dict-key="ekeyo">-eyo:</b>
+outlet; <b dict-key="ekanta">-anta:</b> effluent.
+
+<b dict-key="ekidno">ekidn-o:</b> (<i>zool.</i>) echidna (genus: Echidna, sp. Hystrix). Def.:
+Australiana mamifero sendenta, qui ovifas, nutras su per insekti; V-484. &mdash; DEFIS
+
+<b dict-key="ekimoso">ekimos-o:</b> (<i>med.</i>) ecchymosis; black and blue spot. &mdash; DEFIS
+
+<b dict-key="ekino">ekin-o:</b> (<b dict-key="zool">zool.</b>) echinus, -oid; sea-urchin. &mdash;
+EIL
+
+<b dict-key="ekinodermo">ekinoderm-o:</b> (<i>zool.</i>) echinoderm. &mdash; DEFIS
+
+<b dict-key="ekirar">ek-ir-ar:</b> (<i>intr.</i>) to go out, get out, walk out; <b
+dict-key="ekigar">-igar:</b> to make (<b dict-key="ulu">ulu</b>) go out from; to remove (<b
+dict-key="ulu">ulu</b>) from one place to another.
+
+<b dict-key="ekkargar">ekkarg-ar*:</b> download: (<i>comp.</i>) to bring a file or program from the
+internet to a personal computer device.
+
+<b dict-key="eklampsio">eklampsi-o:</b> (<i>med.</i>) eclampsia. Def.: Specala konvulso dum
+infanteso, uremio o parturo-stando; VI-480. &mdash; DEFIS
+
+<b dict-key="eklansar">ek-lans-ar:</b> <i>(tr.)</i> to fling out, send forth.
+
+<b dict-key="eklektika">eklektik-a:</b> eclectic. &mdash; DEFIRS
+
+<b dict-key="eklezio">eklezi-o:</b> church (as an institution; cf. <b dict-key="kirko">kirko</b>);
+<b dict-key="ekleziano">-ano:</b> church-member. &mdash; EFIRS
+
+<b dict-key="eklipsar">eklips-ar:</b> (<i>tr., astron. and fig.</i>) to eclipse. &mdash; EFIRS
+
+<b dict-key="ekliptiko">ekliptik-o:</b> (<i>astron.</i>) ecliptic. &mdash; DEFIRS
+
+<b dict-key="eklogo">eklog-o:</b> eclogue. &mdash; DEFIRS
+
+<b dict-key="ekmigrar">ek-migr-ar:</b> (<i>intr.</i>) to emigrate. Ant.: <b
+dict-key="enmigrar">en-migr-ar</b>.
+
+<b dict-key="ekmodigar">ek-mod-igar:</b> (<i>tr.</i>) to cause to go out of fashion; <b
+dict-key="ekeskar">-eskar:</b> to become out of fashion; <b dict-key="eka">-a:</b> old-fashioned.
+
+<b dict-key="ekologio">ekologi-o:</b> (1927) ecology. &mdash; DEFIRS
+
+<b dict-key="ekonom">ekonom-(ul)o:</b> steward. &mdash; DFIRS
+
+<b dict-key="ekonomio">ekonomi-o:</b> economy; pecuniary management, administration (not saving,
+cf. <b dict-key="sparo">sparo</b>). Def.: La administrado financala di domo, societo o stato;
+metafore on parolas pri l'ekonomio di organismo, konsiderante lua gani (nutrado) e spensi (perdi di
+materio e di energio); VII-399. Ex.: On parolas pri ekonomio hemala (menajala), urbala, rurala,
+nacionala. &mdash; DEFIRS
+
+<b dict-key="ekonomiko">ekonomik-o:</b> (1924) economics (science of); <b
+dict-key="ekonomikala">-ala:</b> economic (theory); <b dict-key="ekonomikisto">-isto:</b>
+(political) economist; <b dict-key="nacionala ekonomiko">nacionala -o:</b> political economy. Def.:
+La cienco o teorio dil ekonomio. La ciencisti qui okupas su pri la teorio nomesas
+&quot;ekonomisti&quot;; VII-398. &mdash; DEFIRS
+
+<b dict-key="ekosistemo">ekosistem-o*:</b> (<i>ecol.</i>) ecosystem.
+
+<b dict-key="ekosmoso">ek-osmos-o:</b> (<i>phys.</i>) exosmosis.
+
+<b dict-key="ekprenar">ek-pren-ar:</b> (<i>tr.</i>) to take out, withdraw (money, etc.).
+
+<b dict-key="ekpresar">ek-pres-ar:</b> (<i>tr.</i>) to squeeze out, press out.
+
+<b dict-key="ekpulsar">ek-puls-ar:</b> to expel, thrust out, turn out; <b
+dict-key="ekala,ekanta">-ala, -anta:</b> expulsive, expelling; <b dict-key="ekar de la patrio">-ar
+de la patrio:</b> to expatriate; (cf. <b dict-key="expirar">expirar</b>).
+
+<b dict-key="ekrano">ekran-o*:</b> screen (of movie theatre, television, monitor, etc.).
+
+<b dict-key="ekreligar">ek-rel-igar:</b> to derail; <b dict-key="ekirar">-irar:</b> to go off the
+track.
+
+<b dict-key="ekritar">ekrit-ar:</b> (<i>tr., com.</i>) to write into an account book the credits
+and debits of accounts. &mdash; F
+
+<b dict-key="eksekrecar">ek-sekrec-ar:</b> (<i>tr.</i>) to excrete.
+
+<b dict-key="ekspricar">ek-spric-ar:</b> (<i>intr.</i>) to spurt out, ejaculate.
+
+<b dict-key="eksuflar">ek-sufl-ar:</b> (<i>tr.</i>) to blow out.
+
+<b dict-key="ekterigar">ek-ter-igar:</b> to exhume, dig out, disinter, unearth.
+
+<b dict-key="ekteritoria">ek-teritori-a:</b> exter-, extraterritorial.
+
+<b dict-key="ektirar">ek-tir-ar:</b> (<i>tr.</i>) to draw out.
+
+<b dict-key="ektodermo">ektoderm-o:</b> (<i>biol.</i>) ectoderm.
+
+<b dict-key="ektopio">ektopi-o:</b> (2001) ectopia. &mdash; DEFIRS
+
+<b dict-key="ektoplasmo">ektoplasm-o:</b> (<i>biol., occult</i>) ectoplasm.
+
+<b dict-key="ektranchar">ek-tranch-ar:</b> to cut off, amputate, cut off, excise (cf. <b
+dict-key="amputar">amputar</b>).
+
+<b dict-key="ekumenika">ekumenik-a:</b> (<i>relig.</i>) ecumenical. &mdash; DEFIS
+
+<b dict-key="ekvarsar">ek-vars-ar:</b> (<i>tr.</i>) to empty out, pour off, spill.
+
+<b dict-key="ekvokar">ek-vok-ar:</b> (<i>tr.</i>) to call out or up (<b dict-key="ulu">ulu</b>).
+
+<b dict-key="ekzemo">ekzem-o:</b> (<i>med.</i>) eczema. &mdash; DEFIRS

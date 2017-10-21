@@ -1,0 +1,887 @@
+<b dict-key="sea">sea: </b>maro (<i>cf</i>. oceano); (<i>wave</i>) (mar-)ondo; (<i>large
+quantity</i>) multitudo; <b dict-key="beyond the seas">beyond the s.s: </b>trans la maro; <b
+dict-key="half seas over">half s.s over: </b>mi-ebria, ebri-eta; <b dict-key="to ship a sea">to
+ship a s.: </b>abord-esar da ond-ego; <b dict-key="rough sea">rough s.: </b>maro agit-ata; <b
+dict-key="on the high seas">on the high s.s</b>: en <i>o</i> sur la meza <i>o</i> larja maro; <b
+dict-key="to go to sea">to go to s.: </b>divenar mar-isto; <b dict-key="to put to sea">to put to
+s.: </b>voyaj-eskar.
+
+<b dict-key="sea">sea-anemone: </b>aktinio.
+
+<b dict-key="sea">sea-coast: </b>litoro.
+
+<b dict-key="sea">sea-eagle: </b>maro-aglo.
+
+<b dict-key="seafaring">seafaring: </b>(<i>person</i>) mar-ista, -isto; nav-ana.
+
+<b dict-key="sea">sea-fight: </b>kombato nav-ala.
+
+<b dict-key="sea">sea-fish: </b>mar-fisho.
+
+<b dict-key="sea">sea-foam:</b> maro-spumo.
+
+<b dict-key="sea">sea-fog: </b>mar-ala nebulo.
+
+<b dict-key="sea">sea-girt: </b>cirkond-ita da maro.
+
+<b dict-key="sea">sea-green: </b>mar-verda.
+
+<b dict-key="seagull">seagull: </b>muevo.
+
+<b dict-key="sea">sea-horse: </b>hipokampo.
+
+<b dict-key="seal">seal: </b>(<i>with a seal, also fig.</i>) siglar; (<i>fasten</i>) klozar;
+fix-igar; (<i>wall up with brick, etc.</i>) masonar; (<i>ratify</i>) ratifikar; konfirmar; <b
+dict-key="his fate is sealed">his fate is s.ed: </b>lua fato esas certa <i>o</i> decid-ita; <b
+dict-key="sealing">-ing: </b>sigl-(ad)o.
+
+<b dict-key="seal">seal: </b>(<i>imprint</i>) sigl-uro, (<i>instr</i>.)&nbsp; -ilo; (<i>animal</i>)
+mar-hundo.
+
+<b dict-key="sea,to have">sea-legs, to have:</b> povar stacar bone sur navo.
+
+<b dict-key="sealer">sealer: </b>(<i>with wax</i>) sigl-anto, -isto; (<i>for animals</i>)
+kapt-isto, -ero di mar-hundi.
+
+<b dict-key="sealing wax">sealing wax: </b>siglo-vaxo.
+
+<b dict-key="sea">sea-lion: </b>mar-leono.
+
+<b dict-key="sealskin">sealskin:</b> mar-hundo-fel-a, -o.
+
+<b dict-key="seal">seal-ring: </b>siglo-ringo.
+
+<b dict-key="seam">seam: </b>sut-uro, steb-uro; (<i>of mines, etc</i>.) strato; veino;
+(<i>scar</i>) cikatro; <b dict-key="seamed">-ed: </b>(<i>furrowed</i>) sulk-iz-ita, rug-iz-ita
+(<i>of face</i>).
+
+<b dict-key="seaman">seaman:</b> mar-isto, nav-ano.
+
+<b dict-key="seamanship">seamanship:</b> navig-arto; konoco pri la navig-arto; navig-ado.
+
+<b dict-key="seamless">seamless:</b> sen-sutura.
+
+<b dict-key="seamstress">seamstress:</b> talior-ino.
+
+<b dict-key="seamy">seamy: </b>(<i>disreputable</i>) des-estim-inda, mala.
+
+<b dict-key="seance">seance: </b>(<i>meeting</i>) kun-sido.
+
+<b dict-key="sea">sea-nettle: </b>meduzo.
+
+<b dict-key="sea">sea-nymph:</b> ocean-nimfo, Nere-ido, sireno.
+
+<b dict-key="sea">sea-plant:</b> mar-ala planto, mar-planto.
+
+<b dict-key="seaport">seaport: </b>portuo, mar-portuo.
+
+<b dict-key="sear">sear: </b>(<i>cauterize</i>) kauter-izar (<i>see</i> <b
+dict-key="scorch">scorch</b>); <b dict-key="seared">-ed: </b>(<i>hardened</i>) hard-esk-inta;
+(<i>withered</i>) velk-inta.
+
+<b dict-key="search">search: </b>serch-ar, -o; (<i>by police</i>) per-quizitar; (<i>at the
+customs</i>) inspektar (<i>cf</i>. explorar, furet-umar; examenar, inquestar); <b dict-key="search
+through">s. through: </b>tra-serchar; <b dict-key="searching">-ing: </b>(<i>look, etc</i>.)
+penetr-anta; <b dict-key="search warrant">s. warrant: </b>mandato-perquizito; <b
+dict-key="search">s.-light: </b>sercho-lumo.
+
+<b dict-key="sea">sea-room: </b>mar-ampl-eso.
+
+<b dict-key="sea">sea-route:</b> mar-voyo.
+
+<b dict-key="sea">sea-rover: </b>pirato, korsaro.
+
+<b dict-key="sea">sea-serpent: </b>mar-serpento.
+
+<b dict-key="sea">sea-shell: </b>konko.
+
+<b dict-key="sea">sea-shore: </b>(<i>coastal region</i>) litoro; (<i>beach</i>) plajo;
+(<i>coast</i>) (mar-) rivo; (<i>gen</i>.) mar-bordo.
+
+<b dict-key="seasick">seasick: </b>mar-malad-a, (<i>person</i>) -(ul)o; <b
+dict-key="seasickness">-ness: </b>mar-malad-eso, mar-ala nauzeo.
+
+<b dict-key="season">season: </b>(<i>in cooking</i>) spic-izar, kondiment-izar (ulo, per); (<i>to
+temper</i>) temperar, moderar; (<i>imbue</i>) impregnar; (<i>acclimatize</i>) aklimatar;
+(<i>wood</i>) sik-igar.
+
+<b dict-key="season">season: </b>(<i>of years</i>) sezono; (<i>fig</i>.) tempo (oportuna),
+okaziono, oportun-ajo; <b dict-key="out of season">out of s.: </b>(<i>fig</i>.) ne-oportuna; <b
+dict-key="seasonable">-able: </b>(<i>fig</i>.) oportuna; <b dict-key="seasoned">-ed:
+</b>(<i>hardened, dried</i>) hard-esk-inta, sik-ig-ita; <b dict-key="seasoning">-ing:
+</b>(<i>act</i>) spic-izo, kondiment-izo; (<i>substance</i>) spico, kondimento.
+
+<b dict-key="seat">seat:</b> (<i>sit, be seated</i>) (<i>intr</i>.) sid-ar, (<i>tr</i>.) -igar;
+(<i>take a s</i>.) -eskar; (<i>fig</i>.) fix-igar; instalar; <b dict-key="please be seated">please
+be s.ed:</b> voluntez sidar; <b dict-key="this hall seats a thousand persons">this hall s.s a
+thousand persons: </b>esas plasi (<i>od</i>, spaco) en ta chambro por mil personi; <b dict-key="to
+seat">to s.: </b>(<i>bottom</i>) sund-izar (ulo).
+
+<b dict-key="seat">seat: </b>(<i>furniture</i>) sid-ilo; (<i>bench, form</i>) benko; (<i>abode</i>)
+rezid-eyo (<i>cf</i>. kastelo, sid-eyo); (<i>sitting place</i>) sid-eyo, plaso; (<i>site</i>) loko,
+spaco; (<i>hinder part of body</i>) sedo; (<i>riding</i>) sido-posturo; <b dict-key="to have a seat
+in parliament">to have a s. in parliament: </b>sidar en parlamento, havar parlament-ala plaso
+<i>o</i> sid-ilo; <b dict-key="to vacate one seat">to vacate one&rsquo;s s.: </b>(<i>parl</i>.)
+demisionar (de); <b dict-key="take a seat">take a s.: </b>(<i>at the table</i>) sid-eskar, prenar
+plaso an tablo; <b dict-key="the seat of war">the s. of war: </b>la teatro di milito; <b
+dict-key="seat of trousers">seat of trousers: </b>pantalon-sedo, -fundo; <b
+dict-key="double">double-s.ed: </b>sid-ilo kun du plasi.
+
+<b dict-key="sea">sea-urchin: </b>ekino.
+
+<b dict-key="seaward">seaward:</b> vers la maro.
+
+<b dict-key="seaweed">seaweed:</b> also, fuko.
+
+<b dict-key="seaworthiness">seaworthiness:</b> navig-ebl-eso.
+
+<b dict-key="seaworthy">seaworthy:</b> en bona stando por navigar, mar-konven-anta.
+
+<b dict-key="sebaceous">sebaceous:</b> seb-ala, -if-anta.
+
+<b dict-key="seacant">seacant:</b> sek-anta, -anto.
+
+<b dict-key="secede">secede:</b> des-asociar; apostat-eskar; abandonar, demisionar, separar (su).
+
+<b dict-key="seclude">seclude:</b> (<i>intr</i>.) retretar (ek <i>o</i> for); restriktar (su a
+chambro, e.c.); <b dict-key="to live secludeed life">to live s.ed life: </b>vivar en retreto; <b
+dict-key="a secludeed life">a s.ed life: </b>vivo retret-ala; <b dict-key="a secludeed place">a
+s.ed place: </b>loko izol-ita (<i>od</i>, aparta).
+
+<b dict-key="seclusion">seclusion:</b> retreto, solitar-eso; refuj-eyo.
+
+<b dict-key="second">second:</b> (<i>a resolution</i>) sekondar; (<i>aid</i>) helpar, suportar.
+
+<b dict-key="second">second:</b> (<i>adj</i>.) du-esma; (<i>inferior</i>) inferiora; <b
+dict-key="to live on the second floor">to live on the s. floor:</b> lojar sur la du-esma etajo; <b
+dict-key="every second day">every s. day: </b>(ye) omna du-esma dio; <b dict-key="a second Nero">a
+s. Nero: </b>altra Neron; <b dict-key="second">s.-cousin: </b>sekondara kuzo; <b
+dict-key="second">s.-lieutenant: </b>sub-lietnanto; <b dict-key="to be second to none">to be s. to
+none: </b>esar inferiora a nulo; (<i>s. of time</i>) sekundo; (<i>in a duel</i>) sekond-anto; <b
+dict-key="second hand">s. hand: </b>(<i>of a watch</i>) sekundo-agulo, -indexo; (<i>inferior</i>)
+inferiora, ne-nova, ne-fresha; (<i>of news</i>) ne-direta; <b dict-key="second goods">s.-hand
+goods: </b>(<i>to deal in</i>) brokant-ar (<i>intr</i>.); <b dict-key="second dealer">s.-hand
+dealer: </b>-isto, -ero; <b dict-key="the second">the s.: </b>du-esmo; <b dict-key="secondly">s.ly:
+</b>du-esme.
+
+<b dict-key="secondary">secondary: </b>sekundara; acesora; min-grava; du-esma-grada.
+
+<b dict-key="second">second-rate: </b>inferiora, du-esma-grada.
+
+<b dict-key="second">second-sight:</b> okulta <i>o</i> mistika vido.
+
+<b dict-key="secrecy">secrecy: </b>sekret-eso.
+
+<b dict-key="secret">secret:</b> (<i>adj</i>.) sekreta (<i>cf</i>. cel-ita, privata); (<i>n</i>.)
+sekret-ajo; <b dict-key="secretly">-ly: </b>sekret-e; <b dict-key="to tell in secret">to tell in
+s.:</b> konfidencar ulo ad ulu; <b dict-key="to ask,promise secrecy">to ask, promise secrecy:
+</b>demandar, promisar la sekret-eso (pri ulo); <b dict-key="to work in secret">to work in s.:</b>
+laborar en sekret-eso; <b dict-key="to share a secret">to share a s.: </b>konocar <i>o</i>
+parto-prenar la sekret-ajo; <b dict-key="to keep a secret">to keep a s.: </b>gardar <i>o</i>
+konservar la sekret-ajo (di ulu); mantenar sekret-eso (pri); <b dict-key="secret service funds">s.
+service funds: </b>pekunio por sekreta servado.
+
+<b dict-key="secretary">secretary: </b>(<i>person</i>) sekretario; (<i>furniture</i>) skrib-tablo,
+-moblo; <b dict-key="secretarship">-ship: </b>sekretari-eso; <b dict-key="secretary of war">s. of
+war: </b>ministro di milito.
+
+<b dict-key="secrete">secrete: </b>(<i>physiol</i>.) sekrecar; (<i>hide</i>) celar; <b
+dict-key="secretion">-tion: </b>(<i>product</i>) sekrec-uro; <b dict-key="secretory">-tory:
+</b>-ala.
+
+<b dict-key="secretive">secretive: </b>cel-ema.
+
+<b dict-key="sect">sect: </b>sekt-o; <b dict-key="sectarian">-arian: </b>-ana, -ano; <b
+dict-key="arianism">arianism: </b>sekt-an-eso, sekt-em-eso.
+
+<b dict-key="section">section:</b> (<i>surg</i>.) sek-o, -uro; (<i>geom</i>.) seciono;
+(<i>division, part</i>) segmento; (<i>milit</i>.) pelotono; (<i>s.al drawing</i>) secion-ala
+desegn-uro; profil-mapo; <b dict-key="sectional">-al: </b>(<i>local</i>) region-ala (sentimento,
+e.c.).
+
+<b dict-key="sector">sector:</b> sektoro.
+
+<b dict-key="secular">secular:</b> (<i>opp. to religious</i>) sekular-a (<i>cf</i>. laika); <b
+dict-key="secularize">-ize: </b>-igar.
+
+<b dict-key="secure">secure:</b> (<i>to make safe</i>) sekur-igar, protektar, shirmar; ferm-igar;
+(<i>make certain</i>) cert-igar; (<i>to insure</i>) asekurar (su), garantiar; (<i>make fast</i>)
+ferm-igar, fix-igar, barar; (<i>capture</i>) kaptar, sizar; (<i>acquire</i>); obtenar, aquirar;
+(<i>hire, rent in advance</i>) pre-lokacar.
+
+<b dict-key="secure">secure:</b> sekura; (<i>certain</i>) certa.
+
+<b dict-key="securities">securities:</b> (publika, stat-ala) valori, renti, paperi.
+
+<b dict-key="security">security:</b> (<i>safety</i>) sekur-eso; (<i>pledge</i>) gajo, garanti-o,
+-ajo; (<i>legal</i>) kauciono; (<i>guarantor</i>) garanti-anto, -ero.
+
+<b dict-key="sedan">sedan-chair:</b> porto-stulo.
+
+<b dict-key="sedate">sedate:</b> kalm-a, tranquil-a; <b dict-key="sedatness">-ness: </b>-eso.
+
+<b dict-key="sedative">sedative:</b> kalm-ig-anta, -iva; (<i>n</i>.) kalm-ig-ivo.
+
+<b dict-key="sedentary">sedentary:</b> sedentaria.
+
+<b dict-key="sedge">sedge: </b>karico.
+
+<b dict-key="sediment">sediment:</b> sedimento (<i>cf</i>. lizo).
+
+<b dict-key="sedition">sedition:</b> sedic-o; <b dict-key="seditionious">-ious: </b>-ema, -anta,
+-iva.
+
+<b dict-key="seduce">seduce:</b> seduktar (<i>cf</i>. trompar, misduktar, koruptar).
+
+<b dict-key="seduction">seduction:</b> sedukt-o, -eso, -ivo; <b dict-key="seductiontive">-tive:
+</b>-anta, -iva.
+
+<b dict-key="sedulous">sedulous:</b> asidua, diligenta.
+
+<b dict-key="sedum">sedum:</b> (<i>bot.</i>) sedumo.
+
+<b dict-key="see">see:</b> vid-ar (ulu, ulo) (<i>cf</i>. observar, remarkar, notar); <b
+dict-key="to be seen">to be seen: </b>esar vid-ebla, vid-esar; <b dict-key="to see anyone off">to
+see anyone off: </b>akompanar ulu a la pordo, a la staciono, a la navo (<i>cf</i>. guidar, duktar);
+<b dict-key="to see a thing out">to see a thing out: </b>par-vidar ulo ad al fino; <b dict-key="I
+will see to it">I will see to it: </b>me sorgos to, me atencos to; <b dict-key="I saw him through
+his difficulties">I saw him through his difficulties: </b>me liber-igis il de lua embaras-aji; <b
+dict-key="fit to be seen">fit to be seen: </b>prezent-abla, -inda; <b dict-key="that is to be
+seen">that is to be seen: </b>forsan on vidos ol; <b dict-key="to see about">to see about:
+</b>pensar, konsiderar, reflektar pri; <b dict-key="to see to">to see to: </b>sorgar (ulu, ulo),
+atencar; <b dict-key="to see through something">to see through something: </b>komprenar; <b
+dict-key="seeing is believing">s.ing is believing: </b>vidar es kredar; <b dict-key="seeing
+that">s.ing that: </b>konsider-ite ke; pro ke.
+
+<b dict-key="see">see: </b>(<i>jurisdiction of a bishop</i>) episkop-io, (<i>residence</i>) -eyo;
+<b dict-key="Holy See">Holy See: </b>Santa Sideyo.
+
+<b dict-key="seed">seed:</b> semin-o, -i; (<i>of animals</i>) spermo; (<i>of vegetables</i>) grano;
+(<i>fig</i>.) semino, raso; <b dict-key="to run to seed">to run to s.: </b>(<i>produce s</i>.)
+gran-ifar; (<i>to become decadent</i>) dekad-eskar; <b dict-key="to sow seed">to sow s.: </b>semar,
+(<i>fig</i>.) dis-semar; <b dict-key="seed cake">s. cake: </b>anizo-kuko (<i>cf</i>. turto); <b
+dict-key="seedling">seedling: </b>sem-plant(et)o, mikra planto; <b dict-key="seedsman">s.sman:
+</b>gran-vend-isto; <b dict-key="seed time">s. time: </b>sem-sezono, -tempo.
+
+<b dict-key="seedy">seedy:</b> (<i>full of seeds</i>) gran-oza; (<i>worn out</i>) frot-ita,
+konsum-ita; (<i>persons</i>) en mala stando, fatig-ita, malad-eta, -ema.
+
+<b dict-key="seek">seek:</b> (<i>be in quest of</i>) serchar; (<i>want desire</i>) dezirar; (<i>go
+to</i>) irar (querar ad); (<i>try</i>) esforcar; (<i>ask</i>) demandar; <b dict-key="to seek the
+life of">to s. the life of: </b>meditar l&rsquo;ocido di; <b dict-key="to seek in marriage">to s.
+in marriage: </b>demandar (ulu) kom spoz(in)o; <b dict-key="to seek to">to s. to: </b>dezirar,
+esforcar, volar (facar, e.c.); <b dict-key="seeker">s.er: </b>serch-anto, -ero; (<i>instr</i>.)
+-ilo.
+
+<b dict-key="seem">seem: </b>(<i>intr</i>.) semblar (<i>cf</i>. aspektar, simular); <b
+dict-key="how does this plan seem to you">how does this plan s. to you?: </b>quon vu opinionas
+<i>o</i> quale vu judikas pri ta projeto?; <b dict-key="it seems to me">it s.s to me: </b>semblas a
+me; <b dict-key="as it would seem">as it would s.: </b>segun semblo.
+
+<b dict-key="seeming">seeming:</b> apar-anta; vid-ebla; (ver-) sembl-anta; (<i>sham</i>) fing-ita,
+simul-ita.
+
+<b dict-key="seemly">seemly: </b>dec-anta, konven-anta.
+
+<b dict-key="seer">seer:</b> profeto; divin-anto, -ero.
+
+<b dict-key="see">see-saw:</b> (<i>intr</i>.) baskul-ar; (<i>n</i>.) -ilo.
+
+<b dict-key="seethe">seethe: </b>(<i>boil</i>) boli-igar, (<i>stew</i>) stufar; <b
+dict-key="seething crowd">-ing crowd: </b>turbo formik-um-anta <i>od</i>, esam-if-anta.
+
+<b dict-key="segment">segment:</b> segmento (<i>cf</i>. peco, fragmento, porciono).
+
+<b dict-key="segregate">segregate:</b> segregacar (<i>cf</i>. separar, apart-igar, izolar).
+
+<b dict-key="seigneurial">seigneurial:</b> sinior-ala.
+
+<b dict-key="seine">seine:</b> (granda) fish-reto.
+
+<b dict-key="seismic">seismic</b>(<b dict-key="al">al</b>)<b dict-key="">:</b> sism-ala.
+
+<b dict-key="seismograph">seismograph:</b> sismografo.
+
+<b dict-key="seismology">seismology: </b>sismologio.
+
+<b dict-key="seismometer">seismometer:</b> sismometro.
+
+<b dict-key="seismoscope">seismoscope:</b> sismoskopo.
+
+<b dict-key="seizable">seizable:</b> (<i>legal</i>) embarg-ebla.
+
+<b dict-key="seize">seize:</b> sizar (<i>cf</i>. prenar, manu-kaptar); (<i>capture</i>) kaptar;
+(<i>legal</i>) konfiskar, embargar; (<i>understand</i>) komprenar.
+
+<b dict-key="seizure">seizure:</b> (<i>capture</i>) kapto; (<i>confiscation</i>) konfisko;
+(<i>distrain</i>) embargo; (<i>med</i>.) atako, aceso.
+
+<b dict-key="seldom">seldom:</b> rare.
+
+<b dict-key="select">select:</b> selektar (<i>cf</i>. preferar; elektar; asortar); (<i>adj</i>.)
+selekt-ita, disting-ita, eminenta, elita; <b dict-key="selection">-tion: </b>(<i>act</i>)
+selekt-(ad)o, (<i>thing</i>) -ajo; <b dict-key="selected">-ed: </b>selekt-ita (vari, e.c.);
+elekt-ita (persono); <b dict-key="selectness">-ness: </b>bon-selekt-eso, ecelo.
+
+<b dict-key="selenium">selenium:</b> selenio.
+
+<b dict-key="selenography">selenography:</b> selenografio.
+
+<b dict-key="self">self:</b> (<i>reflex. pronoun, third person</i>) su; (<i>in connection with
+personal pronouns and things</i>) ipsa; <b dict-key="he washed hims">he washed hims.: </b>il lavis
+su: <b dict-key="they washed themselves">they washed themselves: </b>li lavis su; <b dict-key="I
+washed myself">I washed myself.: </b>me lavis me; <b dict-key="I myself">I myself: </b>me ipsa; <b
+dict-key="the thing its">the thing its.: </b>la kozo ipsa; <b dict-key="each for hims">each for
+hims.: </b>singlu por su (ipsa); <b dict-key="he hurt hims">he hurt hims.: </b>il nocis su (ipsa);
+<b dict-key="another self">another s.: </b>altra ipso, sozio; <b dict-key="he lives by hims">he
+lives by hims.: </b>il vivas sole <i>o</i> solitare; <b dict-key="he works by hims">he works by
+hims.: </b>il laboras sole <i>o</i> sen helpo; (<b dict-key="as">as</b>) <b dict-key="for
+myself">for myself: </b>pri me; por me ipsa.
+
+<b dict-key="self">self-acusing:</b> su-akuz-anta.
+
+<b dict-key="self">self-acting:</b> automata.
+
+<b dict-key="self">self-aggrandisement:</b> su-( plu-)grand-igo.
+
+<b dict-key="self">self-assured:</b> aplomb-oza.
+
+<b dict-key="self">self-centered:</b> ego-ista; su-centr-al-ig-ita.
+
+<b dict-key="self,self">self-command, self-control:</b> su-impero, impero a su ipsa;
+sango-kalm-eso; aplombo; su-fido.
+
+<b dict-key="self">self-complacement:</b> su-kontenta.
+
+<b dict-key="self">self-conceit:</b> fier-ach-eso, alta opiniono pri su, vanitato, propr-amo; <b
+dict-key="selfed">-ed: </b>fier-acha, vanitat-oza, superba.
+
+<b dict-key="self">self-confidence:</b> su-fido, fido a su (ipsa), aplombo.
+
+<b dict-key="self">self-contradictory:</b> su-kontre-dic-anta.
+
+<b dict-key="self">self-deceived:</b> iluzion-ig-ita (da); su-dup-ig-ita.
+
+<b dict-key="self">self-denial:</b> abnego, renunco.
+
+<b dict-key="self">self-denying:</b> abneg-anta, -ema.
+
+<b dict-key="self">self-destruction:</b> su-ocido.
+
+<b dict-key="self">self-educated:</b> su-instrukt-inta, auto-didakt-a.
+
+<b dict-key="self">self-esteem:</b> su-estimo, fier-eso (<i>see</i> <b
+dict-key="self">self-conceit</b>).
+
+<b dict-key="self">self-evident: </b>evidenta per su (ipsa).
+
+<b dict-key="self">self-examination:</b> exameno di koncienco.
+
+<b dict-key="self">self-flattery:</b> su-flat-(ach)-(ad)o.
+
+<b dict-key="self">self-government:</b> autonom-eso, ne-depend-o, su-guvern-ado (<i>see</i> <b
+dict-key="self">self-command</b>).
+
+<b dict-key="self">self-importance:</b> egotismo, ego-ismo, fier-ach-eso, superb-eso.
+
+<b dict-key="self">self-imposture:</b> iluziono, su-dup-igo.
+
+<b dict-key="self">self-interest:</b> person-ala <i>o</i> ego-ista interesto <i>od</i> avantajo
+<i>o</i> profito.
+
+<b dict-key="selfish">selfish:</b> ego-ista, person-ala, interest-oza, -ema; <b
+dict-key="selfishness">-ness: </b>ego-ismo.
+
+<b dict-key="self">self-love:</b> propr-amo.
+
+<b dict-key="self man">self-made man:</b> &laquo;selfmademan&raquo;.
+
+<b dict-key="self">self-possessed:</b> aplomb-oza; <b dict-key="selfsion">-sion: </b>-eso;
+sango-kalm-eso.
+
+<b dict-key="self">self-praise:</b> su-laudo.
+
+<b dict-key="self">self-preservation:</b> su-konserv-(ad)o.
+
+<b dict-key="self">self-regulating:</b> automata, su-aganta, -mov-anta; su-regul-anta.
+
+<b dict-key="self">self-reliance:</b> su-fido.
+
+<b dict-key="self">self-reproach:</b> su-reprocho, -kondamno.
+
+<b dict-key="self">self-restrained:</b> rezerv-ema.
+
+<b dict-key="self">self-restraint:</b> (su-) rezerv-em-eso.
+
+<b dict-key="self">self-sacrificing:</b> abneg-anta, su-renunc-anta.
+
+<b dict-key="self">self-same:</b> identa, tote sama.
+
+<b dict-key="self">self-seeking:</b> ego-ista, interest-avida; (<i>avaricious</i>) avara.
+
+<b dict-key="self">self-styled:</b> su-dic-anta; (<i>pretended</i>) asert-ita.
+
+<b dict-key="self">self-sufficient: </b>su-sufic-anta.
+
+<b dict-key="self">self-supporting: </b>ne-depend-anta, su-manten-anta; (<i>in the needs of
+life</i>) su-entraten-anta.
+
+<b dict-key="self">self-taught: </b>autodidakt-a, -(ul)o.
+
+<b dict-key="self">self-willed:</b> obstin-anta; -ema; (<i>person</i>) -emo.
+
+<b dict-key="sell">sell:</b> vendar (ulo ad ulu); (<i>betray</i>) trahizar; livrar; trompar; <b
+dict-key="to sell someone as a slave">to s. someone as a slave: </b>vendar ulu kom sklavo; <b
+dict-key="to sell one life dearly">to s. one&rsquo;s life dearly: </b>pag-igar sua vivo po multo;
+<b dict-key="to sell to the highest bidder">to s. to the highest bidder: </b>vendar aucione; <b
+dict-key="to sell out">to s. out: </b>(<i>liquidate</i>) liquidacar; <b dict-key="seller">-er:
+</b>vend-anto, -ero, -isto; (<i>n</i>.) (<i>an imposture</i>) tromp-o.
+
+<b dict-key="selvage,selvedge">selvage, selvedge:</b> bord-umo, drapo-bendo; paspelo.
+
+<b dict-key="semantics">semantics:</b> semantiko.
+
+<b dict-key="semaphore">semaphore:</b> semafor-o; (<i>v</i>.) -agar.
+
+<b dict-key="semblance">semblance:</b> (<i>likeness</i>) simil-eso (ad); (<i>appearance</i>)
+semblo; (<i>simulation</i>) simul-ado, -eso.
+
+<b dict-key="semen">semen:</b> (<i>animal</i>) spermo; (<i>bot</i>.) semino.
+
+<b dict-key="semester">semester:</b> semestro.
+
+<b dict-key="semi">semi-:</b> mi- (<i>cf</i>. -atra).
+
+<b dict-key="semi">semi-annual:</b> mi-yar-a, -ala; semestr-ala.
+
+<b dict-key="semibreve">semibreve:</b> plen-noto.
+
+<b dict-key="semicircle">semicircle:</b> mi-cirklo.
+
+<b dict-key="semicolon">semicolon:</b> komo-punto.
+
+<b dict-key="seminal">seminal:</b> (<i>bot</i>.) semin-ala, -a; (<i>animal</i>) sperm-ala, -a.
+
+<b dict-key="seminar">seminar:</b> seminaro.
+
+<b dict-key="seminarist">seminarist:</b> seminari-ano.
+
+<b dict-key="seminary">seminary:</b> (<i>eccl</i>.) seminario; (<i>school</i>) privata eduk-erio
+<i>o</i> skolo, alta skolo privata.
+
+<b dict-key="semi">semi-official:</b> mi-ofic-ala.
+
+<b dict-key="semiotics">semiotics:</b> semiotiko.
+
+<b dict-key="semiquaver">semiquaver:</b> dek-e-sis-ima noto, du-ima ok-ima-noto.
+
+<b dict-key="Semitic">Semitic:</b> Sem-id-ala.
+
+<b dict-key="semi">semi-weekly:</b> mi-seman-ala.
+
+<b dict-key="semolina">semolina: </b>semolo.
+
+<b dict-key="sempiternal">sempiternal:</b> perpetua, sempra, sen-cesa.
+
+<b dict-key="sempstress">sempstress:</b> talior-ino; sut-ist-ino.
+
+<b dict-key="senate">senate:</b> senat-o; <b dict-key="senates house">s.s house:</b> -eyo, -domo,
+-chambro.
+
+<b dict-key="senator">senator:</b> senat-ano; <b dict-key="senatorship">-ship: </b>-an-eso; <b
+dict-key="senatorial">-ial: </b>-ala, -an-ala.
+
+<b dict-key="senatus">senatus-consultum:</b> senatuskonsulto.
+
+<b dict-key="send">send:</b> sendar (<i>cf</i>. expediar); (<i>diffuse</i>) difuzar; (<i>hurl</i>)
+ek-lansar; (<i>bestow</i>) grantar (<i>cf</i>. exaucar); <b dict-key="send to fetch">s. to fetch:
+</b>sendar, ir-igar, querar; <b dict-key="send away">s. away: </b>for-sendar; <b dict-key="send
+back">s. back: </b>retro-sendar; <b dict-key="send down">s. down: </b>decens-igar; <b
+dict-key="send forth">s. forth: </b>pro-duktar; (ek-)lansar; spricar; (<i>roots</i>) radik-ifar;
+(<i>a cry, groan</i>) emisar; <b dict-key="to send for">to s. for: </b>igar querar; ven-igar (ulu);
+<b dict-key="to send in">to s. in: </b>(<i>deliver</i>) livrar (ulo); (<i>a person</i>) en-ir-igar
+(ulu, en); <b dict-key="send off">s. off: </b>for-sendar, expediar; (<i>emit</i>) emisar; <b
+dict-key="to mis">to mis-s.: </b>mis-sendar; <b dict-key="send to seek">s. to seek: </b>sendar
+serchar.
+
+<b dict-key="sender">sender:</b> send-anta, -into; expedi-anto, -ero.
+
+<b dict-key="senescence">senescence:</b> old-esk-(ad)o; <b dict-key="senescencent">-cent:
+</b>old-esk-anta; dekad-anta.
+
+<b dict-key="seneschal">seneschal:</b> seneshalo.
+
+<b dict-key="senile">senile:</b> senil-a; <b dict-key="senility">-lity:</b> -eso. 
+
+<b dict-key="senior">senior:</b> senior-a, (ul)o; <b dict-key="seniority">-ity:</b> -eso
+(<i>cf</i>. chefa, superiora, anciena).
+
+<b dict-key="senna">senna: </b>&laquo;senna&raquo;.
+
+<b dict-key="sensation">sensation:</b> (<i>excitement</i>) sensaciono; (<i>feeling</i>) sento; <b
+dict-key="to make a sensation">to make a s.: </b>(<i>news, etc</i>.) produktar sensaciono; (<i>make
+sensitive</i>) sent-iv-igar; (<i>impress</i>) impresar; <b dict-key="sensational">-al: </b>(<i>of
+news, etc</i>.) sencacion-ala; impres-anta, -iva.
+
+<b dict-key="sense">sense: </b>(<i>one of the five sense</i>s) senso; (<i>perception</i>)
+sent-(ad)o; (<i>geom.: one of two opposite directions</i>) sinso; (<i>signification</i>) senco,
+signifiko; (<i>emotion</i>) sentimento; (<i>prudence</i>) prudent-eso; (<i>intellect</i>) raciono;
+<b dict-key="common sense">common s.:</b><i> </i>la komuna raciono; <b dict-key="a man of sense">a
+man of s.: </b>saja viro; <b dict-key="to regain one senses">to regain one&rsquo;s s.s:
+</b>ri-trovar koncio, ri-konciar; <b dict-key="moral sense">moral s.: </b>etik-ala sentimento; <b
+dict-key="to possess practical sense">to possess practical s.: </b>havar praktik-ala mento; <b
+dict-key="sense of the beautiful">s. of the beautiful: </b>sentimento pri lo bela; <b
+dict-key="double sense">double s.: </b>du-senc-eso, -ajo; <b dict-key="improper sense">improper s.:
+</b>ne-justa senco (di vorto); <b dict-key="to drive anyone out of his senses">to drive anyone out
+of his s.s:</b> igar ulu perdar sua raciono; <b dict-key="to talk sense">to talk s.: </b>parolar
+inteligente; <b dict-key="to lose one senses">to lose one&rsquo;s s.s: </b>perdar raciono;
+(<i>swoon</i>) esvanar, perdar la koncio.
+
+<b dict-key="senseless">senseless:</b> (<i>meaningless</i>) sen-senca; (<i>unconscious</i>)
+sen-koncia; (<i>without feeling</i>) sen-senta, ne-sent-iva (<i>cf</i>. sen-raciona, dementa, fola).
+
+<b dict-key="sensibility">sensibility:</b> (<i>sensitiveness</i>) sent-iv-eso, impres-ebl-eso;
+(<i>faculty</i>) sent-ado; (<i>tendency</i>) sent-em-eso.
+
+<b dict-key="sensible">sensible:</b> (<i>wise</i>) saja, inteligenta, racion-oza; (<i>perceptible
+by the senses</i>) sent-ebla; (<i>sensitive</i>) sent-iva, -ema; <b dict-key="to be sensible of">to
+be s. of: </b>sentar.
+
+<b dict-key="sensitive">sensitive:</b> (<i>easly affected</i>) sent-ema, -iva; (<i>touchy</i>)
+facile ofens-ebla; (<i>impressionable</i>) impres-ebla; <b dict-key="sensitive plant">s. plant:
+</b>sensitivo.
+
+<b dict-key="sensitize">sensitize:</b> sent-iv-igar impres-ebl-igar; <b dict-key="sensitized
+paper">s.d paper: </b>impres-ebla papero.
+
+<b dict-key="sensor">sensor:</b> (<i>device that responds to a physical stimulus and transmits a
+resulting impulse</i>) sensoro*.
+
+<b dict-key="sensorial">sensorial:</b> sens-ala.
+
+<b dict-key="sensorium">sensorium:</b> sent-eyo, sento-centro.
+
+<b dict-key="sensual">sensual:</b> (<i>voluptuous</i>) sensual-a; (<i>of or relating to the
+senses</i>) sens-a, -ala <b dict-key="sensualism">-ism: </b>(<i>of appetites</i>) sensual-ismo;
+(<i>philos</i>.) sens-al-ismo; <b dict-key="sensualist">-ist: </b>sensual-(ul)o, -isto; <b
+dict-key="sensuality">-ity: </b>sensual-eso, (<i>act</i>) -ajo, volupto.
+
+<b dict-key="sensuous">sensuous:</b> (<i>relaing to senses</i>) sens-ala.
+
+<b dict-key="sentence">sentence: </b>enuncar la judiko, facar verdikto (kontre ulu); kondamnar (ulu
+ad).
+
+<b dict-key="sentence">sentence:</b> (<i>gram</i>.) frazo; (<i>judgement</i>) judicio, verdikto; <b
+dict-key="to pass sentence of death on">to pass s. of death on: </b>kondamnar ulu a morto; enuncar
+morto-puniso kontre ulu.
+
+<b dict-key="sententious">sententious: </b>sentenc-ema, -atra; lakonika.
+
+<b dict-key="sentient">sentient:</b> (<i>sensitive</i>) sent-iva.
+
+<b dict-key="sentiment">sentiment:</b> (<i>emotion as opposed to physical feeling</i>) sentimento;
+(<i>opinion</i>) opiniono, pens-ajo; <b dict-key="such are my sentiments">such are my s.s: </b>tala
+esas mea opiniono, <b dict-key="sentimental">-al: </b>(<i>relative to s</i>.) sentiment-ala,
+(<i>person</i>) -ema, -emo; <b dict-key="sentimentality">-ality: </b>em-eso, -ach-ajo, -em(ach)-eso.
+
+<b dict-key="sentinel,sentry">sentinel, sentry:</b> sentinel-o (<i>cf</i>. vedeto); <b dict-key="to
+stand sentinel">to stand s.: </b>sentinel-esar, facion-ar; <b dict-key="sentinel box">s. box:
+</b>garito.
+
+<b dict-key="sepal">sepal:</b> sepalo.
+
+<b dict-key="separable">separable:</b> separ-ebla.
+
+<b dict-key="separate">separate:</b> separar (ulo de ulo) (<i>cf</i>. dividar; des-union-ar,
+des-juntar); (<i>adj</i>.) separ-ata, -ita; aparta; singla; des-junt-ita; <b
+dict-key="separatly">-ly: </b>-ite; (<i>distinct</i>) aparte; (<i>one by one</i>) single; <b
+dict-key="separating">-ting:</b> separ-anta, -iva; <b dict-key="separation">-tion: </b>separ-o,
+-eso.
+
+<b dict-key="sepia">sepia:</b> (<i>cuttlefish</i>) sepio; (<i>pigment; colo(u)r</i>) sepi-ajo,
+-koloro; <b dict-key="sepia drawing">s. drawing: </b>sepio-desegn-o, -uro.
+
+<b dict-key="sepsis">sepsis:</b> sept-eso.
+
+<b dict-key="September">September:</b> septembro.
+
+<b dict-key="septenary">septenary:</b> (<i>composed of seven</i>) yar-sepo.
+
+<b dict-key="septennial">septennial: </b>(<i>lasting seven years</i>) sep-yara; (<i>seventh</i>)
+sep-esma (anivers-ario, e.c.).
+
+<b dict-key="septet">septet:</b> septeto.
+
+<b dict-key="septic">septic:</b> septa.
+
+<b dict-key="septicemia">septicemia:</b> (blood poisoning) septicemio.
+
+<b dict-key="septuagenarian">septuagenarian:</b> sepa-dek-yar(ul)o; (<i>adj</i>.) -yara.
+
+<b dict-key="septuagesima">septuagesima:</b> (<i>relig.</i>) septuagesimo.
+
+<b dict-key="septuple">septuple:</b> sep-opla.
+
+<b dict-key="sepulchral">sepulchral:</b> tomb-ala, -atra; profunda.
+
+<b dict-key="sepulchre">sepulchre:</b> tombo (<i>cf</i>. sarkofago).
+
+<b dict-key="sepulture">sepulture:</b> (<i>act</i>) sepult-(ad)o; (<i>result</i>) -uro;
+(<i>place</i>) -eyo.
+
+<b dict-key="sequel">sequel:</b> (<i>continuation</i>) sequo; (<i>end</i>) fino; (<i>result</i>)
+konsequ-anta-ajo, rezult-o, -ajo.
+
+<b dict-key="sequence">sequence:</b> (<i>series, succession</i>) serio, (inter-)sequo, sucedo;
+(<i>consequence</i>) konsequ-ant-ajo; rezult-ajo, (<i>relation</i>) konsequo; (<i>Cath. lit</i>.)
+sequencio; <b dict-key="in sequence">in s.: </b>inter-seque.
+
+<b dict-key="sequestar">sequestar:</b> (<i>property</i>) sequestrar; (<i>shut up</i>) inkluzar
+(<i>see</i> <b dict-key="seclude">seclude</b>); (<i>put aside</i>) apart-igar; <b
+dict-key="sequestared">-ed:</b> (<i>legally</i>) sequestr-ata; <b dict-key="sequestared life">s.ed
+life:</b> vivo retret-ala.
+
+<b dict-key="sequestrate">sequestrate:</b> (<i>legally</i>) sequestrar.
+
+<b dict-key="sequin">sequin:</b> sekino.
+
+<b dict-key="sequoia">sequoia:</b> sequoyo.
+
+<b dict-key="seraglio">seraglio:</b> serayo (<i>cf</i>. haremo).
+
+<b dict-key="seraph">seraph</b>(<b dict-key="im">im</b>)<b dict-key="">:</b> seraf-o, -i; <b
+dict-key="seraphic">-ic:</b> -ala, -atra.
+
+<b dict-key="serenade">serenade:</b> serenad-ar, -o.
+
+<b dict-key="serene">serene:</b> seren-a; <b dict-key="serenity">-nity: </b>-eso; <b dict-key="S
+Highness">S. Highness: </b>(<i>title</i>) &laquo;serenissimus&raquo;.
+
+<b dict-key="serf">serf:</b> serf-(ul); <b dict-key="serfdom">-dom: </b>-eso (<i>cf</i>. sklav-eso).
+
+<b dict-key="serge">serge:</b> serjo.
+
+<b dict-key="sergeant">sergeant:</b> serjento; <b dict-key="sergeant">s.-major: </b>serjent-mayoro,
+chefa serjento.
+
+<b dict-key="serial">serial:</b> seri-ala; (<i>n</i>.) period-ala (<i>od</i>, seri-ala) edit-uro.
+
+<b dict-key="seriatim">seriatim:</b> serie, regul-oze.
+
+<b dict-key="series">series:</b> serio.
+
+<b dict-key="serious">serious:</b> (<i>solemn, earnest</i>) serioza; (<i>important, grave</i>)
+grava; <b dict-key="seriousness">-ness: </b>-eso.
+
+<b dict-key="sermon">sermon:</b> predik-o; <b dict-key="sermonize">-ize: </b>-ar.
+
+<b dict-key="seroon">seroon:</b> serono.
+
+<b dict-key="serpent">serpent:</b> serpento.
+
+<b dict-key="serpentine">serpentine:</b> (<i>adj</i>.) (<i>sinuous</i>) sinuoza; (<i>rock</i>)
+serpentino.
+
+<b dict-key="serpolet">serpolet:</b> serpolo.
+
+<b dict-key="serrated">serrated:</b> dent-et-oza, dent-iz-ita; krenel-iz-ita.
+
+<b dict-key="serried">serried:</b> densa.
+
+<b dict-key="serum">serum:</b> (<i>natural</i>) sero; (<i>artificial</i>) serumo.
+
+<b dict-key="serval">serval:</b> servalo.
+
+<b dict-key="servant">servant:</b> serv-ist(ul), -anto, -ero; <b dict-key="your servant">your s.:
+</b>(<i>polite phrase</i>) vua serv-anto; <b dict-key="servant of all work">s. of all work:
+</b>gener-ala serv-isto.
+
+<b dict-key="serve">serve:</b> (<i>tr., intr.</i>) servar (<i>a person, a machine</i>); (<i>be
+employed</i>) uz-esar (<i>cf</i>. util-esar); (<i>render a service, procure an advantage for
+someone by one's private intervention</i>) serviar*; (<i>a writ, a warrant</i>) notifikar (ulo ad
+ulu); prizentar; (<i>suffice</i>) suficar (ad, por), esar sufic-anta; satisfacar; plen-igar
+(<i>cf</i>. saciar); (<i>an apprenticeship</i>) aprentis-esar; (<i>as a priest, as a clergyman for
+a living</i>) deservar; (<i>to comply with</i>) adaptar su ad; obediar; <b dict-key="serve out">s.
+out: </b>dis-donar, distributar; <b dict-key="this piece of furniture serves me as a table">this
+piece of furniture s.s me as a table: </b>ica moblo uz-esas da me kom tablo; <b dict-key="serve a
+dish">s. a dish: </b>prizentar disho; <b dict-key="serve a drink">s. a drink: </b>donar por drinkar
+(ad ulu); <b dict-key="serve mass">s. mass: </b>mes-respondar; <b dict-key="dinner is
+serveed">dinner is s.ed: </b>la tablo esas pronto; <b dict-key="to serve a customer">to s. a
+customer: </b>servar kliento; <b dict-key="to serve in the army">to s. in the army: </b>servar en
+l&rsquo;armeo; <b dict-key="to serve as a secretary">to s. as a secretary: </b>servar ulu <i>od</i>
+util-esar ad ulu kom sekretario; <b dict-key="serve a rope">s. a rope: </b>futer-izar kordo.
+
+<b dict-key="service">service:</b> (<i>serving, act</i>) serv-(ad)o; (<i>favo(u)r</i>) favoro;
+(<i>use</i>) util-eso; helpo; avant-ajo; (<i>bidding</i>) impero, komando; (<i>worship</i>) oficio;
+(<i>military duty</i>) dejuro; (<i>table dishes</i>) servico; (<i>of a writ</i>) notifiko; (<i>of a
+rope</i>) futero; (<i>homage</i>) homajo; <b dict-key="Divine S">Divine S.:</b> (deo-) oficio; <b
+dict-key="a tea service">a tea s.: </b>teo-servico; <b dict-key="secret service money">secret s.
+money: </b>stat-ala pekunio sekreta; <b dict-key="in service">in s.: </b>(<i>of servants</i>) esar
+en la serv-ado di ulu, esar employ-ata da ulu; <b dict-key="out of service">out of s.:
+</b>des-engaj-ita; <b dict-key="the service">the s.: </b>l&rsquo;armeo la milit-nav-ala serv-ado;
+<b dict-key="of service">of s.: </b>utila; <b dict-key="on service">on s.: </b>(<i>duty</i>)
+dejurar; <b dict-key="on active service">on active s.: </b>en aktiva serv-ado; <b dict-key="to
+render a service to">to render a s. to: </b>facar servo ad ulu, helpar ulu; <b dict-key="to be in
+the service of">to be in the s. of: </b>servar (ulu), esar serv-isto (di ulu); <b dict-key="I am at
+your service">I am at your s.: </b>me esas (tote) pronta servar vu; <b dict-key="administrative
+service">administrative s.: </b>administr-ala serv-ado; <b dict-key="service of a machine">s. of a
+machine: </b>serv-ado di machino; <b dict-key="a machine in service">a machine in s.: </b>mashino
+funcion-anta; <b dict-key="a machine out of service">a machine out of s.: </b>mashino
+ne-funcion-iva; <b dict-key="service of glass">s. of glass: </b>kristala servico.
+
+<b dict-key="serviceable">serviceable:</b> (<i>of things</i>) utila, avantaj-oza; (<i>of
+persons</i>) help-ema, -iva; serv-ema.
+
+<b dict-key="service">service-book:</b> ritu-libro.
+
+<b dict-key="service">service-free:</b> sorb-iero.
+
+<b dict-key="serviette">serviette:</b> (<i>napkin</i>) boko-tuko.
+
+<b dict-key="servile">servile:</b> sklav-ala, -atra, -ema; <b dict-key="servility">-lity:
+</b>sklav-atra, -eso, -em-eso; komplez-em-ach-eso.
+
+<b dict-key="serving">serving-maid:</b> serv-ist-ino.
+
+<b dict-key="servitude">servitude:</b> (<i>state of slavery</i>) sklav-eso; (<i>submission,
+dependence</i>) submis-eso (ad); dependo (de); (<i>legal of property</i>) servitudo; <b
+dict-key="penal servitude">penal s.: </b>punis-laboro (dum vivo, e.c.).
+
+<b dict-key="sesame">sesame:</b> sezamo.
+
+<b dict-key="session">session:</b> (<i>period</i>) sesiono; (<i>single meeting</i>) kun-sido.
+
+<b dict-key="set">set:</b> (<i>place, set, put</i>) pozar; (<i>a person at a place</i>) plas-izar;
+(<i>fix</i>) fix-igar; aranjar; (<i>plant</i>) plantacar; (<i>appoint</i>) indikar; (<i>become
+firm</i>) ferm-eskar; hard-eskar; (<i>regulate</i>) regul-izar, ajustar; (<i>tools</i>) akut-igar,
+pront-igar; (<i>oppose</i>) opozar; rezistar; (<i>an example</i>); (<i>incite</i>) incitar; (<i>a
+bone</i>) (ri-)inkastrar, des-luxacar; (<i>of precious stones</i>) inkastrar; (<i>a hen</i>)
+kov-igar; (<i>to music</i>) instrument-izar; adaptar (a muziko); (<i>offer, present</i>) prizentar;
+(<i>a clock</i>) regul-izar, ajustar; just-igar; (<i>sun, moon</i>) sub-irar; (<i>a task</i>)
+donar, impozar; <b dict-key="set about">s. about: </b>preparar, komencar; <b dict-key="to set in
+motion">to s. in motion: </b>igar movar; igar funcionar <i>od</i> agar; iniciar; igar departar; <b
+dict-key="to set aside">to s. aside: </b>eskartar, apart-igar; (<i>annul</i>) kasacar;
+(<i>reject</i>) refuzar; <b dict-key="to set at">to s. at: </b>(<i>a dog</i>) ecitar (kontre); <b
+dict-key="to set by">to s. by: </b>(<i>put aside</i>) pozar aparte, for-pozar; (<i>save</i>)
+sparar; <b dict-key="to set by the ears">to s. by the ears: </b>des-konkord-igar, -eskar; <b
+dict-key="to set down">to s. down: </b>depozar, pozar (ulo sur); (<i>in writing</i>) skribar;
+(<i>establish</i>) establisar; instalar; (<i>relate</i>) raport-ar; (<i>from a vehicle</i>)
+decens-igar; <b dict-key="to set down as">to s. down as:</b> (<i>consider</i>) konsiderar, judikar
+kom; <b dict-key="to set forth">to s. forth: </b>(<i>present</i>) prizentar; (<i>announce</i>)
+enuncar; asertar; publik-igar; (<i>start</i>) ek-irar, ir-eskar; <b dict-key="set forward">s.
+forward: </b>avancar; (<i>promote</i>) favorar; <b dict-key="set off">s. off: </b>ornar,
+plu-bel-igar; kontrastar favor-oze (kun, ad); (<i>compensate</i>) kompensar ; <b dict-key="to be
+set on">to be s. on: </b>(<i>determined</i>) obstinar (en, pri); <b dict-key="set on edge">s. on
+edge: </b>agacar; <b dict-key="to set on fire">to s. on fire: </b>(<i>light</i>) acendar;
+(<i>maliciously</i>) incendiar; (<i>fig.</i>) ardor-igar; <b dict-key="set out">s. out:
+</b>(<i>start</i>) ek-irar, departar (ek, de); (<i>commence</i>) komencar; (<i>intend</i>)
+intencar; (<i>adorn</i>) plu-bel-igar; <b dict-key="to set up">to s. up: </b>erektar; establisar;
+fondar; (<i>in type</i>) kompostar; <b dict-key="set up a laugh">s. up a laugh: </b>rid-eskar, igar
+ridar; <b dict-key="set up its back">s. up its back: </b>(<i>of a cat</i>) heris-igar la hari; <b
+dict-key="to set up a reaction">to s. up a reaction: </b>igar, efekt-igar, produktar reakto; <b
+dict-key="to set up in business">to s. up in business: </b>establisar (su); <b dict-key="set at
+ease">s. at ease: </b>komfort-igar, tranquil-igar, -eskar; <b dict-key="to set to music">to s. to
+music: </b>muzik-igar, instrument-izar; <b dict-key="to set sail">to s. sail: </b>hisar la segli;
+(<i>start</i>) departar; preparar departo; <b dict-key="set in order">s. in order:</b> aranjar;
+ordinar; <b dict-key="set free">s. free: </b>liber-igar (<i>cf</i>. quit-igar); <b dict-key="set
+one heart on">s. one&rsquo;s heart on: </b>dezirar ardor-oze; <b dict-key="set oneself to">s.
+oneself to: </b>aplikar su; injeniar; <b dict-key="set on foot">s. on foot: </b>iniciar, produktar;
+<b dict-key="set right">s. right: </b>(ri-)rekt-igar; korekt-igar, emendar; <b dict-key="to set the
+fashion">to s. the fashion: </b>en-mod-igar; <b dict-key="set at defiance">s. at defiance:
+</b>defiar; <b dict-key="to set a trap for">to s. a trap for: </b>insidiar; <b dict-key="to set
+eyes on">to s. eyes on: </b>(<i>see</i>) vidar (ulu, ulo), remarkar (ulo); <b dict-key="to set at
+variance">to s. at variance: </b>des-konkord-eskar (kun); <b dict-key="the sun sets">the sun s.s:
+</b>la suno sub-ir(esk)as <i>o</i> kushas su; <b dict-key="winter has set in">winter has s. in:
+</b>vintro komencas, vintr-eskas.
+
+<b dict-key="set">set:</b> (<i>adj</i>.) poz-ita, plas-iz-ita; (<i>in row</i>) rang-iz-ita;
+(<i>regular</i>) regul-oza, ordin-ita; (<i>fixed</i>) rigida, fixa, sen-mova; (<i>firm</i>) ferma;
+(<i>formal</i>) form-ala; (<i>prepared</i>) prepar-ita; (<i>prescribed</i>) preskriptita; (<i>of
+phrases</i>) fixa, kustum-ala; (<i>purpose</i>) fixa, obstin-anta, explicita, deliber-ala, -ita; <b
+dict-key="set fair">s. fair: </b>(<i>of barometer</i>) dur-ante serena.
+
+<b dict-key="set">set:</b> (<i>collection</i>) kolekt-o, -ajo (de) (<i>cf</i>. <i>suffix</i> -aro);
+(<i>the whole, the collectivity</i>) ensemblo; (<i>of china, etc.</i>) servico; (<i>assortment</i>)
+sort-aro, asort-ajo, -uro; (<i>ornamental appendages</i>) garnituro; ornamento; (ek); (<i>of
+clothes</i>) tali-uro (di vesti); (<i>social circle</i>) trupo, bando, kolekt-ajo; asembl-ajo,
+-uro; <b dict-key="to make a dead set upon">to make a dead s. upon: </b>akular; atakar feroce; <b
+dict-key="set of teeth">s. of teeth: </b>dent-aro (artific-ala); <b dict-key="as a set">as a
+s.-off: </b>kom kompenso (kontre), kompense.
+
+<b dict-key="seton">seton:</b> setono.
+
+<b dict-key="settee">settee:</b> (apog-)benko.
+
+<b dict-key="setting">setting:</b> (<i>in theater</i>) en-cen-igo; (<i>putting down</i>) pozo;
+(<i>of a precious stone, a bone</i>) inkastr-o, -uro (<i>cf</i>. munto); <b dict-key="setting
+off">s. off: </b>departo (<i>see</i> <i>verb</i> <b dict-key="set">set</b>, <i>also</i> <b
+dict-key="scenery">scenery</b>).
+
+<b dict-key="settle">settle:</b> (<i>fix</i>) fix-igar, establisar; (<i>determine</i>) determinar,
+decidar; (<i>colonize</i>) koloni-igar, -izar; popul-izar; (<i>tranquilize</i>) tranquil-igar;
+(<i>a problem</i>) solvar, decidar; (<i>a person in office</i>) instalar; (<i>take a lodging</i>)
+loj-eskar; (<i>pay</i>) pagar (<i>cf</i>. quit-igar, saldar); (<i>a quarrel</i>) aranjar,
+adjust-igar; (<i>of lees, etc</i>.) depozar; sediment-ifar; (<i>of ground, etc., to subside</i>)
+sinkar; (<i>of birds</i>) perch-igar; (<i>of persons, things</i>) pozar (su, ulo, sur); (<i>become
+compact</i>) ferm-eskar, hard-eskar; <b dict-key="to settle money on">to s. money on: </b>asignar,
+donar pensiono <i>o</i> rento ad; <b dict-key="to settle up">to s. up: </b>(<i>a business,
+property, etc.</i>) liquid-acar; <b dict-key="settle down">s. down:</b><i> </i>establisar su,
+fix-igar (su, ulo); (<i>get married</i>) mariajar su, spoz-igar; (<i>apply oneself</i>) aplikar su
+(<i>cf</i>. regul-izar).
+
+<b dict-key="settled">settled: </b>fixa, establis-ita, kalma, tranquila, perman-anta; fakt-ala;
+radik-iz-ita; decid-ita (<i>see</i> <b dict-key="settle">settle</b>).
+
+<b dict-key="settlement">settlement:</b> (<i>arrangement</i>) aranj-o, -uro; (<i>decision</i>)
+decid-o, -uro; (<i>assignment</i>) asigno; (<i>of an account</i>) saldo; (<i>subsidence</i>) sinko;
+(<i>small colony or town</i>) koloni-eto; urb-eto; (<i>solution</i>) solv-o, -uro;
+(<i>conclusion</i>) konkluzo (<i>see</i> <b dict-key="settle">settle</b>).
+
+<b dict-key="settler">settler:</b> (<i>who colonizes</i>) koloni-isto, -ero; (<i>inhabitant</i>)
+-ano.
+
+<b dict-key="set">set-to:</b> disput-(ad)o, inter-bato.
+
+<b dict-key="seven">seven:</b> sep; <b dict-key="sevenfold">-fold: </b>-opl-a, -e, -o; <b
+dict-key="seventeen">-teen: </b>dek-e-sep; <b dict-key="seventh">-th: </b>sep-esma,
+(<i>fraction</i>) -ima, -imo; <b dict-key="seventy">-ty: </b>sepa-dek.
+
+<b dict-key="sever">sever:</b> (<i>separate</i>) separar (ulo de ulo); (<i>disjoin</i>) des-juntar;
+(<i>excise</i>) de-tranchar; (<i>cut through</i>) tra-tranchar.
+
+<b dict-key="several">several:</b> (<i>in number</i>) plura; (<i>divers</i>) diversa;
+(<i>different</i>) difer-anta; <b dict-key="severaly">-ly: </b>(<i>one by one</i>) single,
+individu-ale.
+
+<b dict-key="severe">severe:</b> severa (<i>cf</i>. rigor-oza, violent-oza); (<i>austere</i>)
+austera; <b dict-key="severity">-ity: </b>-eso.
+
+<b dict-key="sevitia">sevitia:</b> (<i>juris.</i>) domestic cruelty.
+
+<b dict-key="sew">sew:</b> sutar; (<i>with a machine</i>) stebar, mashin-sutar; (<i>of books</i>)
+broshar; <b dict-key="sewing machine">s.ing machine: </b>steb-mashino, sut-mashino; <b
+dict-key="sew together">s. together: </b>kun-sutar.
+
+<b dict-key="sewage">sewage:</b> kloak-ajo, exkrement-ajo-aquo.
+
+<b dict-key="sewer">sewer:</b> (<i>for sewage</i>) kloak-o (dren-tubo); (<i>for water drainage</i>)
+aquo-dren-ilo <i>o</i> dren-tubo.
+
+<b dict-key="sex">sex:</b> sexuo; <b dict-key="the fair sex">the fair s.: </b>la bela sexuo; la
+hom-in-aro; <b dict-key="sexless">-less: </b>sen-sexua.
+
+<b dict-key="sexagenarian">sexagenarian:</b> sisa-sek-yar-a, -(ul)o.
+
+<b dict-key="sexagesima">sexagesima:</b> sexagezimo.
+
+<b dict-key="sextant">sextant:</b> sextanto.
+
+<b dict-key="sextet">sextet: </b>sexteto.
+
+<b dict-key="sextic">sextic:</b> sextiko.
+
+<b dict-key="sexton">sexton:</b> (<i>sacristan</i>) sakristo.
+
+<b dict-key="sextuple">sextuple:</b> sis-opl-a, -o.
+
+<b dict-key="sexual">sexual:</b> sexu-ala; <b dict-key="sexuality">-ity: </b>-al-eso.

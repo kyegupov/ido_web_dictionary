@@ -1,0 +1,46 @@
+<b dict-key="caucus">caucus:</b> (<i>U.S.</i>) privata (<i>od</i>, preliminar-a) kunveno
+politik-ala; (<i>England</i>) direkt-anta komitato politik-ala.
+
+<b dict-key="caudal">caudal:</b> kaud-ala.
+
+<b dict-key="caught">caught:</b> kapt-ita (<i>cf. </i><b dict-key="catch">catch</b>).
+
+<b dict-key="cauliflower">cauliflower:</b> flor-kaulo.
+
+<b dict-key="cause">cause:</b> efekt-igar, produktar, obligar; igar (<i>cf. suffix</i> -ig-); <b
+dict-key="cause sorrow to">c. sorrow to:</b> chagren-igar (ulu); <b dict-key="cause to be
+punished">c. to be punished:</b> punis-igar; <b dict-key="cause abortion">c. abortion:</b>
+abort-igar; <b dict-key="cause injury to">c. injury to:</b> detriment-ar.
+
+<b dict-key="cause">cause:</b> (n.) (<i>which produces an effect</i>) kauzo; (<i>affair</i>) afero;
+(<i>origin</i>) origin-o, fundamento; motivo; (<i>undertaking</i>) entraprezo; (<i>law</i>)
+proceso, afero; <b dict-key="first cause">first c.:</b> prima kauzo; <b dict-key="act without
+cause">act without c.:</b> agar sen-motive; <b dict-key="to make common cause with">to make common
+c. with:</b> federar su kun; <b dict-key="to show cause">to show c.:</b> expozar la neces-eso
+(<i>od</i>, motivo); <b dict-key="cause to believe">c. to believe: </b>motivo por la supozo, igar
+kredar; <b dict-key="cause a thing to be done">c. a thing to be done:</b> igar ulu facar, fac-igar
+ulo (da ulu).
+
+<b dict-key="causal,causative">causal, causative:</b> kauz-ala, -ig-anta.
+
+<b dict-key="causality">causality:</b> kauz-eso, -aleso.
+
+<b dict-key="causation">causation:</b> efekt-igo, kauz-igo, -esko.
+
+<b dict-key="causeless">causeless:</b> sen-kauza, sen-motiva.
+
+<b dict-key="causeway">causeway:</b> choseo.
+
+<b dict-key="caustic">caustic:</b> (<i>adj</i>.) kaustika (<i>also fig</i>.); mord-ema, korod-iva;
+<b dict-key="caustic curve">c. curve:</b> kaustiko; (<i>noun</i>) korod-ivo, kaustik-ajo; <b
+dict-key="lunar caustic">lunar c.:</b> arjent-o-nitrato.
+
+<b dict-key="cauterize">cauterize:</b> kauter-izar.
+
+<b dict-key="cautery">cautery:</b> kautero.
+
+<b dict-key="caution">caution:</b> (<i>to warn</i>) avertar, exhortar; (<i>prudence</i>)
+prudent-eso, pre-sorgo; (<i>security, bail</i>) kaucion-o(-sumo); <b
+dict-key="cautionary">-ary:</b> exhort-ema, avert-ema; <b dict-key="cautiontious">-tious:</b>
+cirkonspekta, pre-sorg-anta, -ema, -oza; <b dict-key="to be cautious">to be cautious:</b>
+pre-sorgar.

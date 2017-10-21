@@ -1,0 +1,18 @@
+<b dict-key="majestic">majestic:</b> majest-oza.
+
+<b dict-key="majesty">majesty:</b> (<i>quality</i>) majesto; (<i>title</i>) Sinioro (la rejo, e.c.).
+
+<b dict-key="majolica">majolica:</b> mayoliko.
+
+<b dict-key="major">major:</b> (<i>army</i>) mayoro; <b dict-key="major">m.-general:</b>
+mayor-generalo; brigad-generalo; <b dict-key="sergeant">sergeant-m.:</b> serjent-mayoro;
+(<i>greater</i>) (la) plu-multo; (<i>mus., logic</i>) major-a, -o.
+
+<b dict-key="majorat">majorat:</b> majorato.
+
+<b dict-key="majordomo">majordomo:</b> majordomo, domo-chefo.
+
+<b dict-key="majority">majority:</b> (<i>age</i>) major-eso; (<i>more than half</i>) majoritato,
+plu-multo; (<i>rank of a major</i>) mayor-eso.
+
+<b dict-key="majuscule">majuscule:</b> (<i>capital letter</i>) mayuskulo.

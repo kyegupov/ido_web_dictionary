@@ -1,0 +1,54 @@
+<b dict-key="us">us:</b> <i>see</i> <b dict-key="we">we</b>.
+
+<b dict-key="usage">usage:</b> (<i>treatment</i>) trakt-(ad)o; (<i>employment, custom</i>)
+uz-(ad)o, (<i>habitual</i>) kustumo; (<i>habits manners</i>) mori; (<i>polite manners</i>) polita
+manieri; (<i>tradition</i>) tradiciono.
+
+<b dict-key="use">use:</b> (<i>make use of</i>) uzar; (<i>treat</i>) traktar; (<i>utilize</i>)
+uzar, util-igar; <b dict-key="use up">use up:</b> (par-) konsumar, exhaustar.
+
+<b dict-key="use">use:</b> (<i>using</i>) uz-(ad)o; (<i>utility</i>) util-eso; (<i>utilising</i>)
+util-igo; (<i>custom</i>) kustumo; (<i>advantage</i>) util-eso, avantajo, profito;
+(<i>treatment</i>) trakt-ado; (<i>usufruct</i>) uzufrukto; <b dict-key="of use">of u.:</b> utila,
+uz-ebla; <b dict-key="to be of use">to be of u.:</b> util-esar (ad); <b dict-key="of no use">of no
+u.:</b> ne-utila, ne-uzata; <b dict-key="in use">in u.:</b> uz-ata, kustum-ala; <b dict-key="out of
+use">out of u.:</b> ne-uz-ata, obsoleta; <b dict-key="what is the use of that">what is the u. of
+that? </b>quale to esos utila? quo esas l&rsquo;util-eso <i>o</i> profito di <i>od</i> en to? <b
+dict-key="to make use of">to make u. of:</b> util-igar, uzar; <b dict-key="to have use for">to have
+u. for: </b>povar uzar <i>od</i> util-igar, bezonar; <b dict-key="to have the use of">to have the
+u. of:</b> uzar; (<i>legal</i>) uzufruktar.
+
+<b dict-key="used">used:</b> (<i>of words, implements, etc.</i>) uz-(ad)-ata, -ita; <b
+dict-key="not used">not u.:</b> ne-uz-ata; (<i>not habitual</i>) ne-kustum-ata; (<i>obsolete</i>)
+obsoleta; <b dict-key="to be used to">to be u. to:</b> (<i>be in the habit of</i>) (<i>intr</i>.)
+kustumar; <b dict-key="he used to say">he u. to say:</b> il kustumis dicar; <b dict-key="he used to
+live">he u. to live:</b> il olim habitas <i>o</i> lojis hike; <b dict-key="we used to walk
+together">we u. to walk together:</b> ni kustumis marchar kune.
+
+<b dict-key="useful">useful:</b> utila (ad); <b dict-key="to make oneself useful">to make oneself
+u.:</b> igar su utila (ad); util-esar (ad); <b dict-key="usefulness">-ness:</b> util-eso, avantajo,
+profito.
+
+<b dict-key="useless">useless:</b> ne-utila; (<i>fig</i>.) vana.
+
+<b dict-key="usher">usher:</b> (<i>especially at ceremonies</i>) bedelo; (<i>bailiff</i>) ushero;
+(<i>in schools</i>); suba mastro, sub-instrukt-isto.
+
+<b dict-key="usher in">usher in:</b> en-duktar; pre-irar.
+
+<b dict-key="usual">usual:</b> ordinara, komuna, kustum-ala, -ata; uz-ata; vulgara; omna-dia.
+
+<b dict-key="usucaption">usucaption: </b>uzukapto.
+
+<b dict-key="usufruct">usufruct:</b> uzufrukt-o; <b dict-key="to have the usufruct of">to have the
+u. of:</b> -ar (ulo).
+
+<b dict-key="usurer">usurer:</b> uzur-isto, -ero, -anto.
+
+<b dict-key="usurious">usurious:</b> uzur-ala, -oza, -atra.
+
+<b dict-key="usurp">usurp:</b> uzurp-ar (ulo de ulu); <b dict-key="usurpation">-ation:</b> -(ad)o;
+<b dict-key="usurper">-er:</b> -anto, -into, -ero.
+
+<b dict-key="usury">usury:</b> uzur-o; <b dict-key="to practise usury">to practise u.:</b>
+(<i>intr</i>.) -ar.

@@ -1,0 +1,34 @@
+<b dict-key="unwarranted">unwarranted:</b> ne-justifik-ebla; gratu-ita.
+
+<b dict-key="unwary">unwary:</b> ne-atenc-ema, ne-prudenta.
+
+<b dict-key="unwashed">unwashed:</b> ne-lav-ita, sordida; <b dict-key="the great unwashed">the
+great u.:</b> la prolatari-(ach)aro, la popul-acho.
+
+<b dict-key="unwavering">unwavering:</b> (<i>also fig</i>.) ne-shancel-anta.
+
+<b dict-key="unwearied">unwearied:</b> ne-fatig-ebla.
+
+<b dict-key="unweave">unweave:</b> des-texar; (<i>fig</i>.) des-intrikar.
+
+<b dict-key="unwelcome">unwelcome:</b> des-agreabla, mal-ven-inta, -anta; ne-oportuna.
+
+<b dict-key="unwell">unwell:</b> malad-(et)a, ne-sana.
+
+<b dict-key="unwieldy">unwieldy:</b> ne-manu-ag-ebla (facile); pez-oza; des-facile move-ebla.
+
+<b dict-key="unwilling">unwilling:</b> ne-volunt-anta, -ema; (<i>unfavo(u)rably disposed</i>)
+(esar) des-favor-oza (ad ulo).
+
+<b dict-key="unwind">unwind:</b> (<i>thread, etc</i>.) des-spular; (<i>windlass</i>) des-vindar;
+(<i>fig</i>.) des-volvar.
+
+<b dict-key="unwomanly">unwomanly:</b> ne-digna de hom-ino, ne-hom-in-atra.
+
+<b dict-key="unwrap">unwrap:</b> des-envelop-ar; des-vel-izar; liber-igar; (<i>unroll</i>)
+des-volvar.
+
+<b dict-key="unwrinkled">unwrinkled:</b> (<i>face</i>) sen-ruga.
+
+<b dict-key="unwritten">unwritten:</b> ne-skrib-ita; <b dict-key="unwritten law">u. law:
+</b>ne-skrib-ita leg-o, -aro.

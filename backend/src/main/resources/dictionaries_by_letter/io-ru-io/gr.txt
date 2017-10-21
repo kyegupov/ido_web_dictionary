@@ -1,0 +1,84 @@
+<b dict-key="grabar">grabar</b>: <span dict-key="гравировать">гравировать</span>
+
+<b dict-key="gracio">gracio</b>: <span dict-key="изящество (любезность)">изящество
+(любезность)</span>, <span dict-key="изящность">изящность</span>, <span
+dict-key="элегантность">элегантность</span>
+
+<b dict-key="grado">grado</b>: <span dict-key="градус (степень)">градус (степень)</span>, <span
+dict-key="сорт">сорт</span>
+
+<b dict-key="grafika">grafika</b>: <span dict-key="графический">графический</span>
+
+<b dict-key="gramatiko">gramatiko</b>: <span dict-key="грамматика">грамматика</span>
+
+<b dict-key="gramo">gramo</b>: <span dict-key="грамм">грамм</span>
+
+<b dict-key="granda">granda</b>: <span dict-key="большой">большой</span>, <span
+dict-key="великий">великий</span>
+
+<b dict-key="grandioza">grandioza</b>: <span dict-key="грандиозный">грандиозный</span>
+
+<b dict-key="grano">grano</b>: <span dict-key="зерно (песка и т.д.)">зерно (песка и т.д.)</span>
+
+<b dict-key="grantar">grantar</b>: <span dict-key="предоставлять">предоставлять</span>, <span
+dict-key="позволять">позволять</span>
+
+<b dict-key="grapo">grapo</b>: <span dict-key="связка">связка</span>, <span
+dict-key="охапка">охапка</span>, <span dict-key="множество плодов или цветов">множество плодов или
+цветов</span>
+
+<b dict-key="graso">graso</b>: <span dict-key="жир">жир</span>
+
+<b dict-key="gratar">gratar</b>: <span dict-key="царапать">царапать</span>
+
+<b dict-key="gratitudar">gratitudar</b>: <span dict-key="быть благодарным">быть благодарным</span>
+
+<b dict-key="gratuita">gratuita</b>: <span dict-key="свободный">свободный</span>, <span
+dict-key="бесплатный">бесплатный</span>
+
+<b dict-key="gratular">gratular</b>: <span dict-key="поздравлять">поздравлять</span>
+
+<b dict-key="grava">grava</b>: <span dict-key="серьезный">серьезный</span>, <span
+dict-key="веский">веский</span>, <span dict-key="важный">важный</span>
+
+<b dict-key="gravida">gravida</b>: <span dict-key="беременная">беременная</span>
+
+<b dict-key="gravio">gravio</b>: <span dict-key="гравий">гравий</span>
+
+<b dict-key="gravitar">gravitar</b>: <span dict-key="стремиться">стремиться</span>
+
+<b dict-key="greka">greka</b>: <span dict-key="греческий">греческий</span>
+
+<b dict-key="grekia">grekia</b>: <span dict-key="греция">греция</span>
+
+<b dict-key="grelar">grelar</b>: <span dict-key="приветствовать">приветствовать</span>
+
+<b dict-key="gremio">gremio</b>: <span dict-key="колени (сидящего человека)">колени (сидящего
+человека)</span>
+
+<b dict-key="grenlando">grenlando</b>: <span dict-key="остров гренландия">остров гренландия</span>
+
+<b dict-key="grilar">grilar</b>: <span dict-key="жариться">жариться</span>
+
+<b dict-key="grimasar">grimasar</b>: <span dict-key="гримасничать">гримасничать</span>
+
+<b dict-key="grincar">grincar</b>: <span dict-key="скрежетать (зубами)">скрежетать (зубами)</span>
+
+<b dict-key="grindar">grindar</b>: <span dict-key="размолоть">размолоть</span>
+
+<b dict-key="gripo">gripo</b>: <span dict-key="грипп">грипп</span>
+
+<b dict-key="griza">griza</b>: <span dict-key="серый">серый</span>
+
+<b dict-key="grondar">grondar</b>: <span dict-key="реветь">реветь</span>, <span
+dict-key="грохотать">грохотать</span>
+
+<b dict-key="grosa">grosa</b>: <span dict-key="толстый и длинный">толстый и длинный</span>
+
+<b dict-key="grosiera">grosiera</b>: <span dict-key="грубый">грубый</span>, <span
+dict-key="невежливый">невежливый</span>, <span dict-key="невоспитанный">невоспитанный</span>
+
+<b dict-key="groteska">groteska</b>: <span dict-key="гротескный">гротескный</span>, <span
+dict-key="абсурдный">абсурдный</span>, <span dict-key="нелепый">нелепый</span>
+
+<b dict-key="grupo">grupo</b>: <span dict-key="группа">группа</span>

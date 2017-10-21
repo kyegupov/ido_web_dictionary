@@ -1,0 +1,47 @@
+<b dict-key="atachar">atachar</b>: <span dict-key="прилагать приаттачивать">прилагать
+приаттачивать</span>
+
+<b dict-key="atakar">atakar</b>: <span dict-key="нападать">нападать</span>
+
+<b dict-key="ateismisto">ateismisto</b>: <span dict-key="атеист">атеист</span>
+
+<b dict-key="ateismo">ateismo</b>: <span dict-key="атеизм">атеизм</span>
+
+<b dict-key="ateliero">ateliero</b>: <span dict-key="ателье">ателье</span>, <span
+dict-key="цех">цех</span>, <span dict-key="студия">студия</span>
+
+<b dict-key="atencar">atencar</b>: <span dict-key="обращать внимание на">обращать внимание на</span>
+
+<b dict-key="atentar">atentar</b>: <span dict-key="покушаться">покушаться</span>, <span
+dict-key="делать преступную попытку">делать преступную попытку</span>
+
+<b dict-key="atestar">atestar</b>: <span dict-key="засвидетельствовать">засвидетельствовать</span>,
+<span dict-key="сертифицировать">сертифицировать</span>
+
+<b dict-key="atingar">atingar</b>: <span dict-key="достигать">достигать</span>
+
+<b dict-key="atitudo">atitudo</b>: <span dict-key="позиция">позиция</span>, <span
+dict-key="отношение к чему-л">отношение к чему-л</span>
+
+<b dict-key="atlantiko">atlantiko</b>: <span dict-key="атлантический (океан)">атлантический
+(океан)</span>
+
+<b dict-key="atlaso">atlaso</b>: <span dict-key="атлас">атлас</span>
+
+<b dict-key="atleto">atleto</b>: <span dict-key="атлет">атлет</span>
+
+<b dict-key="atmosfero">atmosfero</b>: <span dict-key="атмосфера">атмосфера</span>
+
+<b dict-key="atomo">atomo</b>: <span dict-key="атом">атом</span>
+
+<b dict-key="atraktar">atraktar</b>: <span dict-key="привлекать">привлекать</span>
+
+<b dict-key="atrapar">atrapar</b>: <span dict-key="поймать в ловушку">поймать в ловушку</span>,
+<span dict-key="запутать">запутать</span>, <span dict-key="обмануть">обмануть</span>, <span
+dict-key="завлечь">завлечь</span>
+
+<b dict-key="atribuar">atribuar</b>: <span dict-key="назначать">назначать</span>, <span
+dict-key="давать">давать</span>, <span dict-key="дарить">дарить</span>, <span dict-key="ассигновать
+(размещать)">ассигновать (размещать)</span>
+
+<b dict-key="aturdar">aturdar</b>: <span dict-key="ошеломить">ошеломить</span>

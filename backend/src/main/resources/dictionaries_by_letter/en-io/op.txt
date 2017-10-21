@@ -1,0 +1,143 @@
+<b dict-key="opacity">opacity:</b> opak-eso.
+
+<b dict-key="opal">opal: </b>opalo.
+
+<b dict-key="opalesce">opalesce:</b> opalecar (<i>intr</i>.).
+
+<b dict-key="opalescence">opalescence: </b>opalec-(ad)o.
+
+<b dict-key="opalescent">opalescent:</b> opalec-anta, opal-atra; <b dict-key="opalescent glass">o.
+glass: </b>opalec-anta vitro.
+
+<b dict-key="opaline">opaline: </b>opal-atra.
+
+<b dict-key="opaque">opaque: </b>opaka.
+
+<b dict-key="open">open: </b>apertar (<i>cf</i>. des-klozar); (<i>a ball, dance, fire</i>) komencar
+(<i>cf</i>. inaugurar); (<i>a bottle</i>) des-stopar.
+
+<b dict-key="open">open: </b>(<i>not shut</i>) apert-ita, des-kloz-ita; (<i>frank</i>) sincera;
+(<i>free, unrestricted</i>) libera; (<i>of a question</i>) ne-decid-ita; (<i>of weather</i>)
+ne-severa, dolca; (<i>exposed</i>) expoz-ita (ad); <b dict-key="open">o.-handed: </b>jeneroza; <b
+dict-key="open">o.-hearted:</b> grand-anma; sincera; <b dict-key="open">o.-eyed:</b> vigil-anta; <b
+dict-key="open">o.-mouthed:</b> be-anta-a, -e; kun boko apert-ita; <b dict-key="open to an
+engagement">o. to an engagement: </b>libera por engajar su; <b dict-key="half">half-opened:
+</b>mi-apert-ita; <b dict-key="wide open">wide o.:</b> tote apert-ita; <b dict-key="in the open
+air">in the o. air: </b>en libera aero; <b dict-key="in the open sea">in the o. sea: </b>en meza
+<i>o</i> larja maro; <b dict-key="in the open day">in the o. day:</b> en meza jorno, en granda
+lumo; <b dict-key="open shame">o. shame: </b>publika shamo; <b dict-key="to keep open house">to
+keep o. house: </b>havar la hemo, la domo apertita por (<i>od</i>, ad) la publiko.
+
+<b dict-key="opener">opener: </b>(<i>instr</i>.) apert-ilo; (<i>person</i>) -isto.
+
+<b dict-key="opening">opening: </b>(<i>chapter, etc</i>.) un-esma; komenc-anta.
+
+<b dict-key="opening">opening: </b>(<i>act of o.</i>) apert-o; (<i>aperture</i>) apert-uro
+(<i>cf</i>. brecho; fend-uro; truo); (<i>commencement</i>) komenco; (<i>first appearance</i>)
+debuto; (<i>opportunity</i>) okaziono; chanco; (<i>for sale of goods</i>) debit-eyo.
+
+<b dict-key="openly">openly: </b>aperte, ne-cel-ate, sincere, honeste, kandide.
+
+<b dict-key="opera">opera: </b>oper-o; <b dict-key="opera house">o. house: </b>-teatro; <b
+dict-key="opera glass">o. glass:</b> bi-lorn-eto.
+
+<b dict-key="operate">operate: </b>(<i>surg., finan., milit.</i>) operacar; (<i>work</i>)
+(<i>intr</i>.) agar, efikar, funcionar; (<i>in stock markets</i>) spekular.
+
+<b dict-key="operation">operation: </b>(<i>math., surg., milit., fin.</i>) operaco; (<i>in
+gen</i>.) ago, efiko, funcion-ado, procedo.
+
+<b dict-key="operative">operative: </b>(<i>n</i>.) mestier-isto, labor-isto, fabrik-anto, -isto;
+(<i>adj</i>.) ag-iva; (<i>efficacious</i>) efik-anta, -iva, -ema.
+
+<b dict-key="operculum">operculum: </b>operkulo.
+
+<b dict-key="operetta">operetta: </b>oper-eto.
+
+<b dict-key="ophicleide">ophicleide: </b>ofikleido.
+
+<b dict-key="ophite">ophite: </b>ofito.
+
+<b dict-key="opthalmia">opthalmia: </b>oftalmio; <b dict-key="opthalmimic">-mic: </b>okul-ala.
+
+<b dict-key="opthalmology">opthalmology: </b>oftalmologio.
+
+<b dict-key="opthalmoscope">opthalmoscope: </b>oftalmoskopo.
+
+<b dict-key="opiate">opiate:</b> opiato, narkot-ig-ivo.
+
+<b dict-key="opine">opine: </b>(<i>intr</i>.) opinionar, expresar (sua) opiniono.
+
+<b dict-key="opinion">opinion: </b>opinion-o; <b dict-key="to be of the opinion">to be of the o.:
+</b>-ar, havar ta opiniono; <b dict-key="to have high opinion of">to have high o. of: </b>bone
+<i>o</i> favore opinionar pri (ulu, ulo); <b dict-key="in the opinion of">in the o. of: </b>segun
+la opiniono di.
+
+<b dict-key="opinionated">opinionated: </b>obstin-anta, -ema.
+
+<b dict-key="opium">opium: </b>opiumo.
+
+<b dict-key="opodeldoc">opodeldoc: </b>opodeldoko.
+
+<b dict-key="opossum">opossum: </b>sarigo.
+
+<b dict-key="opponent">opponent: </b>antagonisto, adverso; opoz-anto, -ero; (<i>collect</i>.)
+-ant-aro.
+
+<b dict-key="opportune">opportune: </b>oportuna; <b dict-key="opportuness">-ness: </b>-eso.
+
+<b dict-key="opportunism">opportunism: </b>oportun-ismo.
+
+<b dict-key="opportunist">opportunist: </b>oportun-isto, -ista.
+
+<b dict-key="opportunity">opportunity: </b>(<i>occasion</i>) okaziono; (<i>favo(u)rable
+circumstance</i>) oportun-ajo; (<i>chance, luck</i>) chanco; <b dict-key="take,seize the
+opportunity">take, seize the o.: </b>prenar, kaptar la okaziono; <b dict-key="opportunity makes the
+thief">o. makes the thief: </b>l&rsquo;okaziono facas la furt-anto, <i>od</i>, l&rsquo;okaziono
+sugestas krimino.
+
+<b dict-key="oppose">oppose: </b>(<i>put in opposition</i>) opozar (ulu ad ulu, ulo ad ulo); (<i>to
+resist</i>) rezistar, kombatar; <b dict-key="opposed to">opposed to:</b> (<i>prep</i>.) kontre;
+(<i>verbal form</i>) opoz-ata, -ita (ad).
+
+<b dict-key="opposite">opposite: </b>opoz-ita; <b dict-key="oppositly">-ly:</b> -ite; (<i>cf</i>.
+trans).
+
+<b dict-key="opposition">opposition: </b>(<i>contrast</i>) opoz-eso; (<i>act of placing
+opposite</i>) opoz-o; (<i>resistance</i>) rezist-(ad)o, -emeso, -ivo; (<i>opponents collect</i>.)
+opoz-ant-aro (<i>cf</i>. obstaklo; konkurenco; repugn-eso).
+
+<b dict-key="oppress">oppress: </b>opres-ar; <b dict-key="oppression">-ion: </b>-(ad)o;
+(<i>state</i>) -eso; <b dict-key="oppressive">-ive: </b>-anta, -iva, -ema; <b
+dict-key="oppressor">-or: </b>-anto, -ero.
+
+<b dict-key="opprobrious">opprobrious:</b> infam-ig-anta; insult-anta, -ema, -oza; ofens-anta, -ema.
+
+<b dict-key="opprobrium">opprobrium: </b>des-honoro, infam-eso.
+
+<b dict-key="oppugn">oppugn: </b>atakar.
+
+<b dict-key="optative">optative </b>(<b dict-key="mood">mood</b>)<b dict-key="">: </b>optativo.
+
+<b dict-key="optic">optic: </b>(<i>eye</i>) okulo; <b dict-key="optical">-al: </b>(<i>relative to
+the eye</i>) okul-ala; (<i>relative to vision</i>) vid-ala; (<i>relative to optics</i>) optik-ala;
+<b dict-key="optician">-ian: </b>optik-isto (<i>cf</i>. okul-isto; <i>eye-doctor</i>).
+
+<b dict-key="optics">optics: </b>(<i>science of</i>) optiko.
+
+<b dict-key="optimism">optimism: </b>optim-ismo.
+
+<b dict-key="optimist">optimist: </b>optim-isto; -<b dict-key="ic">ic: </b>-ista.
+
+<b dict-key="optimize optimise">optimize (optimise):</b> optimizar*.
+
+<b dict-key="option">option: </b>selekto; <b dict-key="optional">-al: </b>fakultiva, selekt-ebla.
+permis-ata.
+
+<b dict-key="optometry">optometry:</b> optometrio.
+
+<b dict-key="opulence">opulence: </b>rich-eg-eso, lux-ego.
+
+<b dict-key="opulent">opulent: </b>rich-ega, lux-ego.
+
+<b dict-key="opuscule">opuscule: </b>verk-eto, libr-eto.

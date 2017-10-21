@@ -1,0 +1,433 @@
+<b dict-key="thalassaemia,thalasemia">thalassaemia, thalasemia:</b> talasemio.
+
+<b dict-key="thallium">thallium:</b> talio.
+
+<b dict-key="thallophyte">thallophyte:</b> talofito.
+
+<b dict-key="thallus">thallus:</b> talo.
+
+<b dict-key="thalveg">thalveg:</b> talvego.
+
+<b dict-key="than">than:</b> (plu, min, tam, multe) kam; <b dict-key="more than a hundred">more t.
+a hundred:</b> plu kam cent; <b dict-key="rather than">rather t.: </b>prefere kam; <b
+dict-key="another than I">another t. I:</b> altru kam me; <b dict-key="he is bigger than you">he is
+bigger t. you: </b>il esas plu granda kam vu; <b dict-key="more than a half">more t. a half:
+</b>plu kam du-imo; <b dict-key="more wine than water">more wine t. water: </b>plu multa vino kam
+quo.
+
+<b dict-key="thank">thank: </b>dankar (ulu, pri ulo) (<i>cf</i>. gratitudar); <b
+dict-key="thankful">-ful: </b>gratitud-oza, -ema; <b dict-key="thankless">-less: </b>sen-danka,
+sen-gratituda; <b dict-key="I thank you">I t. you: </b>me dankas vu; <b dict-key="thanks">thanks:
+</b>danko! <b dict-key="to give thanks">to give t.s: </b>dank-ar (ulu); <b dict-key="a vote of
+thanks">a vote of t.s: </b>expreso di gratitudo, di danki (ad); <b
+dict-key="thanksgiving">t.sgiving: </b>dank-expreso.
+
+<b dict-key="that">that:</b> (<i>adj</i>.) (i)ta; (<i>object</i>) (i)to; (<i>who which</i>) qua;
+qui; quo; (<i>conj</i>.) ke; (<i>of that kind</i>) tala; <b dict-key="that can">t. can: </b><i>see
+suffix</i> -iv-; <b dict-key="that must be">t. must be: </b><i>se suffix</i> -enda; <b
+dict-key="that is not easy">t. is not easy: </b>to ne esas facila; <b dict-key="to do that">to do
+t.: </b>facar to; <b dict-key="after that,he left">after t., he left: </b>pos to, <i>o</i> pose, il
+departis; <b dict-key="that is to say">t. is to say: </b>to esas; <b dict-key="what is that">what
+is t.?:</b> quo esas to?; <b dict-key="take that book">take t. book: </b>prenez ta libro; <b
+dict-key="the book that I gave you">the book t. I gave you: </b>la libro quan me donis a vu; <b
+dict-key="after that">after t.: </b>pose; <b dict-key="besides that">besides t.: </b>ultre to; <b
+dict-key="instead of that he">instead of t. he ...: </b>vice ke il ...; <b dict-key="so that">so
+t.: </b>(<i>in such a way t</i>.) tale ke; <b dict-key="he spoke so that I believed him">he spoke
+so t. I believed him: </b>lu parolis tale (<i>od</i>, tal-maniere) ke me kredis lu; <b
+dict-key="until that time">until t. time: </b>til ta tempo; <b dict-key="some time after that">some
+time after t.: </b>kelke pose; <b dict-key="in order that">in order t.: </b>por ke (<i>with
+imperative</i>); <b dict-key="I tell you now that you may be prepared">I tell you now t. you may be
+prepared:</b> me dicas ol a vu nun, por ke vu esez preparita (<i>od</i> pronta). <b dict-key="NOTE
+taken from the Hugon Ido Grammar">NOTE (taken from the Hugon-Moore Ido Grammar):</b> The word
+&quot;that&quot; is very often omitted in English, but should never be omitted in Ido: (1) <b
+dict-key="The book I gave you the book that or which I gave you">The book I gave you (= the book
+that (or which) I gave you):</b> la libro quan me donis a vu (<i>in this case &ldquo;that&rdquo; is
+a pronoun</i>); (2) <b dict-key="I think he will come I think that he will come">I think he will
+come (= I think that he will come):</b> Me opinionas, ke il venos (<i>in this case
+&ldquo;that&rdquo; is a conjunction</i>). It is generally omitted in English after verbs like
+&quot;to think&quot;, &quot;to hope&quot;, &quot;to wish&quot;, &quot;to believe&quot;. It is
+impossible to pay too much attention to this rule, as the correct use of the word &quot;ke&quot; is
+the key to a good international style for English-speaking students.
+
+<b dict-key="thatch">thatch:</b> palio-tekto; (<i>v</i>.) kovrar per palio; <b dict-key="a house
+with a thatched roof">a house with a t.ed roof: </b>domo kun tekto pali-iz-ita <i>o</i> kun
+palio-tekto.
+
+<b dict-key="thaumaturgist">thaumaturgist:</b> taumaturgo.
+
+<b dict-key="thaumaturgy">thaumaturgy:</b> taumaturgio.
+
+<b dict-key="thaw">thaw:</b> (<i>intr</i>.) des-frost-ar, (<i>tr</i>.) -igar; (<i>n</i>.) -o.
+
+<b dict-key="the">the:</b> l(a) (le, <i>plural only to be used when there is no other sign of the
+plural, e.g.</i> <b dict-key="the ayes and the nayes">the ayes and the nayes: </b>le yes e le no;
+lo, <i>is used to refer to the contents of the previous sentence, also with adjectives not followed
+by nouns to indicate a quality</i>); <b dict-key="the good">the good:</b> lo bona. <i>The
+&ldquo;a&rdquo; of the article may be elided after the prepositions</i> a, da, de, di, <i>as:</i>
+<b dict-key="of the author">of the author:</b> dil autoro; <b dict-key="the more the more">the more
+... t. more: </b>quante plu ... tante plu.
+
+<b dict-key="theater,theatre">theater, theatre:</b> teatr-o (<i>cf</i>. amfiteatro, ceno,
+spektaklo); <b dict-key="theaterical">-rical: </b>teatr-ala; <b dict-key="theatericals">-ricals:
+</b>amator-ala teatr-aji.
+
+<b dict-key="thee">thee:</b> tu.
+
+<b dict-key="theft">theft:</b> (<i>act</i>) furt-o, -eto (<i>cf</i>. rapto).
+
+<b dict-key="their">their: </b>lia; (<i>when necessary to indicate gender</i>) ilia, elia, olia;
+(<i>pl. forms: </i>lii, ilii, elii, olii, <i>rarely used</i>); (<i>reflex pronoun</i>) sua
+(<i>pl</i>. sui); <b dict-key="they and their friends">they and t. friends: </b>li e lia amiki; <b
+dict-key="this house is theirs">this house is t.s: </b>ca domo esas lia, co esas lia domo.
+
+<b dict-key="theism">theism:</b> teismo.
+
+<b dict-key="theist">theist:</b> teisto.
+
+<b dict-key="theme">theme:</b> (<i>topic subject</i>) temo; (<i>gram., mus.</i>) temato.
+
+<b dict-key="themselves">themselves:</b> su (ipsa); <b dict-key="they wash themselves">they wash
+t.: </b>li lavas su; <b dict-key="they harm only themselves">they harm only t.: </b>li nocas nur su
+ipsa; <b dict-key="the soldiers defended themselves bravely">the soldiers defended t. bravely:
+</b>la soldati defensis su brave; <b dict-key="to make themselves feared">to make t. feared:
+</b>igar su tim-esar (da).
+
+<b dict-key="then">then:</b> (<i>at that time</i>) lore; (<i>adj</i>.) lora; (<i>so, therefore</i>)
+do, konseque; (<i>afterwards</i>) pose, seque; <b dict-key="till then">till t.:</b> til lore; <b
+dict-key="now and then">now and t.: </b>de tempo a tempo, tempope; <b dict-key="since then">since
+t.: </b>de-pos(e) (ta tempo).
+
+<b dict-key="thence">thence:</b> (<i>from there</i>) de-ibe; (<i>of time</i>) de-lore, de-pose;
+(<i>therefore</i>) do; <b dict-key="thenceforth">t.forth: </b>depos ta tempo, de-pose, de-lore.
+
+<b dict-key="theocracy">theocracy:</b> teokratio.
+
+<b dict-key="theocrat">theocrat:</b> teokrato.
+
+<b dict-key="theocratic">theocratic:</b> teokrati-ala, teokrat-atra.
+
+<b dict-key="theodicy">theodicy:</b> teodiceo.
+
+<b dict-key="theodolite">theodolite:</b> teodolito.
+
+<b dict-key="theogony">theogony:</b> teogonio.
+
+<b dict-key="theologian">theologian:</b> teoligi-isto.
+
+<b dict-key="theological">theological:</b> teologi-ala.
+
+<b dict-key="theology">theology:</b> teologio.
+
+<b dict-key="theorbo">theorbo:</b> teorbo.
+
+<b dict-key="theorem">theorem:</b> teoremo.
+
+<b dict-key="theoretic">theoretic</b>(<b dict-key="al">al</b>)<b dict-key="">:</b> teori-ala, -a.
+
+<b dict-key="theorist">theorist:</b> teori-isto, -emo.
+
+<b dict-key="theorize">theorize:</b> teori-ifar (pri), spekular (pri).
+
+<b dict-key="theory">theory:</b> teori-o; <b dict-key="in theory">in t.: </b>-e.
+
+<b dict-key="theosophist">theosophist:</b> teozofi-isto.
+
+<b dict-key="theosophy">theosophy:</b> teozofio.
+
+<b dict-key="therapeutic">therapeutic:</b> terapi-ala, -a; <b dict-key="therapeutics">-s:</b> -o.
+
+<b dict-key="there">there:</b> (<i>in that place</i>) ibe (<i>cf</i>. yen); (<i>with motion</i>)
+ad-ibe; <b dict-key="here and there">here and t.: </b>hike ed ibe; <b dict-key="in there">in t.:
+</b>en to, interne; <b dict-key="on there">on t.: </b>sur to; <b dict-key="under there">under t.:
+</b>sub to, sube, infre; <b dict-key="there he is">t. he is: </b>yen (ibe) lu! <b dict-key="there
+are many persons">t. are many persons: </b>esas multa homi (qui); <b dict-key="stop there">stop
+t.:</b> haltez ibe! <b dict-key="up there">up t.: </b>ibe supre.
+
+<b dict-key="thereabouts">thereabouts:</b> proxim ibe; <b dict-key="a hundred or thereabouts">a
+hundred or t.: </b>cirkume cent.
+
+<b dict-key="thereafter">thereafter:</b> pose, de-pose; pos to.
+
+<b dict-key="thereat">thereat:</b> ye ta instanto, quik kande.
+
+<b dict-key="thereby">thereby:</b> per to, per ta moyeno.
+
+<b dict-key="therefore">therefore:</b> do, konseque.
+
+<b dict-key="thereupon">thereupon:</b> <i>see</i> <b dict-key="thereat">thereat</b>.
+
+<b dict-key="thermal">thermal:</b> term-ala.
+
+<b dict-key="thermochemistry">thermochemistry:</b> termokemio.
+
+<b dict-key="thermodynamics">thermodynamics:</b> termodinamiko.
+
+<b dict-key="thermoelectricity">thermoelectricity:</b> termoelektro.
+
+<b dict-key="thermograph">thermograph:</b> termografo.
+
+<b dict-key="thermology">thermology:</b> termologio.
+
+<b dict-key="thermoluminescence">thermoluminescence:</b> termoluminecenco*.
+
+<b dict-key="thermometer">thermometer:</b> termometro.
+
+<b dict-key="thermometry">thermometry:</b> termometrio.
+
+<b dict-key="thermoscope">thermoscope:</b> termoskopo.
+
+<b dict-key="thermostat">thermostat:</b> termostato*.
+
+<b dict-key="thermotaxis">thermotaxis:</b> termotaktismo.
+
+<b dict-key="thermotherapy">thermotherapy:</b> termoterapio.
+
+<b dict-key="thermotropism">thermotropism:</b> termotropismo.
+
+<b dict-key="these">these:</b> (i)ci (<i>cf</i>. ti); (<i>followed by noun</i>) (i)ca; (<i>when
+necessary to indicate gender</i>) il-ci, il-ca, el-ci, el-ca, ol-ci, ol-ca; il-ti, e.c.
+
+<b dict-key="thesis">thesis:</b> tezo.
+
+<b dict-key="theurgy">theurgy: </b>teurgio.
+
+<b dict-key="they">they: </b>(i)li, (e)li, (o)li.
+
+<b dict-key="thick">thick:</b> (<i>dimensions</i>) dika; (<i>t. and long, bulky</i>) grosa;
+(<i>dense</i>) densa (<i>liquids, vapour, etc.</i>); (<i>frequent</i>) frequa; (<i>numerous</i>)
+granda-nombra, mult-(eg)a; <b dict-key="thickness">-ness: </b>dik-, gros-, dens-eso.
+
+<b dict-key="thicken">thicken:</b> (plu-)dik-igar, -eskar; (<i>a liquid etc.</i>) (plu-)dens-igar,
+-eskar; (plu-)gros-igar, -eskar; (<i>in numbers</i>) (plu-)mult-igar, -eskar, augmentar; <b
+dict-key="thickening">-ing: </b>dik-igo, -esko; dens-igo, -esko.
+
+<b dict-key="thicket">thicket:</b> (densa) kopso, busho.
+
+<b dict-key="thief">thief:</b> furt-anto, -ero, -isto.
+
+<b dict-key="thieve">thieve:</b> furtar.
+
+<b dict-key="thievish">thievish:</b> furt-ema, -anta; <b dict-key="thievishness">-ness: </b>-em-eso.
+
+<b dict-key="thigh">thigh:</b> kruro; <b dict-key="thigh bone">t. bone: </b>femuro.
+
+<b dict-key="thigmotropism">thigmotropism:</b> (<i>biol.</i>) tigmotropismo.
+
+<b dict-key="thimble">thimble:</b> fingro-chapo
+
+<b dict-key="thin">thin:</b> (<i>make, become less dense</i>) min-dens-igar, -eskar; (<i>reduce the
+thickness</i>) din-igar, -eskar; tenu-eskar, magr-eskar.
+
+<b dict-key="thin">thin: </b>(<i>one dimension</i>)<b dict-key=""> </b>dina; (<i>thin and long</i>)
+tenua; (<i>lean</i>) magra, sen-grasa; (<i>in space</i>) des-densa (<i>air, etc</i>.).
+
+<b dict-key="thine">thine:</b> tua.
+
+<b dict-key="thing">thing:</b> kozo (<i>cf</i>. objekto, substanco; animalo; afero; <i>suffix</i>
+-ajo); <b dict-key="anyt">anyt.: </b>ulo; <b dict-key="earthly things">earthly t.s: </b>la ter-ala
+kozi.
+
+<b dict-key="think">think:</b> (<i>tr., intr.</i>) pensar (<i>cf</i>. judikar, opinionar, kredar,
+imaginar); <b dict-key="that makes me think">that makes me t.: </b>to igas me reflektar <i>o</i>
+pensar (pri); (<i>remember</i>) to igas me memorar (ulo); <b dict-key="think badly of">t. badly of:
+</b>male opinionar (pri ulu, ulo); <b dict-key="think over">t. over: </b>konsiderar, meditar; <b
+dict-key="I thought that perhaps I might fall">I thought that perhaps I might fall:</b> me imaginis
+ke me (forsan) falus; <b dict-key="think much of">t. much of: </b>grande prizar (ulo); havar bona
+opiniono (pri); <b dict-key="I can think of it">I can&rsquo;t t. of it: </b>me ne povas
+(ri-)memorar; <b dict-key="to think of it">to t. of it: </b>(<i>doing something</i>) intencar;
+esperar; <b dict-key="I was thinking of you">I was t.ing of you:</b> me pensis pri vu.
+
+<b dict-key="thinker">thinker:</b> pens-anto, -ero, -emo; <b dict-key="free thinker">free t.:
+</b>liber-pens-anto.
+
+<b dict-key="thinking">thinking:</b> pens-ado.
+
+<b dict-key="thinly">thinly:</b> (<i>not plentifully</i>) skarse.
+
+<b dict-key="thin">thin-skinned:</b> <i>see</i> <b dict-key="sensitive">sensitive</b>.
+
+<b dict-key="third">third:</b> tri-esma, -esmo; (<i>fraction</i>) tri-imo, -ima; (<i>mus</i>.)
+terco.
+
+<b dict-key="thirst">thirst:</b> durst-o; <b dict-key="be thirsty">be t.y: </b>-ar; <b
+dict-key="thirsty">-y: </b>-anta, -ema.
+
+<b dict-key="this">this:</b> i(ca) (<i>cf</i>. ta); <b dict-key="this and that">t. and that:
+</b>ica ed ita.
+
+<b dict-key="thistle">thistle:</b> kardono.
+
+<b dict-key="thither">thither:</b> (ad-)ibe (<i>cf</i>. ad, vers).
+
+<b dict-key="tholepin">tholepin:</b> rem-pinglo.
+
+<b dict-key="thong">thong:</b> rimeno.
+
+<b dict-key="thoracic">thoracic:</b> torak-ala.
+
+<b dict-key="thorax">thorax:</b> torako.
+
+<b dict-key="thorium">thorium:</b> torio.
+
+<b dict-key="thorn">thorn:</b> dorn-o; <b dict-key="thorny">-y:</b> -oza; <b dict-key="thorn tree
+or bush">t. tree or bush: </b>dorn-oza arbusto, espino; <b dict-key="thorn">t.-apple: </b>daturo.
+
+<b dict-key="thorough">thorough:</b> kompleta; tota; (<i>perfect</i>) perfekta; <b
+dict-key="thoroughbred">t.bred: </b>di pura samgo <i>o</i> raso; <b dict-key="thorough going">t.
+going: </b>suci-oza, -ema, sorg-oza; preciza; ecel-anta; <b dict-key="thoroughly">-ly:</b>
+komplete, tote; (<i>prefix</i>) par-; absolute; <b dict-key="thoroughness">-ness:</b> sorg-(ed)o;
+(<i>quality</i>) -em-eso.
+
+<b dict-key="thoroughfare">thoroughfare:</b> (<i>passage, road</i>) voyo;
+(<i>org.yk4ever.dictionary.main road</i>) choseo.
+
+<b dict-key="those">those:</b> (i)ti; (<i>adj</i>.) (i)ta; (<i>see</i> <b
+dict-key="these">these</b>).
+
+<b dict-key="thou">thou:</b> tu.
+
+<b dict-key="though">though:</b> (<i>although</i>) quankam; (<i>even if</i>) mem se; (<i>in spite
+of that</i>) malgre to; (<i>yet, nevertheless</i>) tamen; <b dict-key="as though">as t.: </b>quale
+se.
+
+<b dict-key="thought">thought:</b> (<i>act</i>) pens-(ad)o; (<i>what one thinks</i>) -ajo;
+(<i>idea</i>) ideo, koncepto; (<i>opinion</i>) opiniono; (<i>intention</i>) intenco, projeto; <b
+dict-key="on second thoughts">on second t.s: </b>pos reflektir; <b dict-key="to collect one
+thoughts">to collect one&rsquo;s t.s: </b>kalme meditar; (<i>rel. sense</i>) rekolecar; <b
+dict-key="thoughtful">-ful: </b>reflekt-ema, pens-ema; (<i>attentive</i>) atenc-ema, suci-ema,
+sorg-oza; (<i>anxious</i>) des-quieta (pri); <b dict-key="thoughtless">-less: </b>ne-reflekt-ema,
+ne-suciema; (<i>senseless</i>) stulta.
+
+<b dict-key="thousand">thousand:</b> mil; <b dict-key="thousandfold">-fold: </b>-opla, -ople; <b
+dict-key="thousandth">-th: </b>-esma, (<i>fraction</i>) -imo, -ima.
+
+<b dict-key="thraldom">thraldom:</b> sklav-eso, (<i>cf</i>. submis-eso) (ad), dependo (de)
+(<i>fig</i>. servitudo). 
+
+<b dict-key="thrash">thrash:</b> (<i>thresh</i>) drashar; (<i>beat</i>) bat-(eg)ar; <b
+dict-key="thrash out">t. out: </b>(<i>a question</i>) par-diskutar; par-explorar; <b
+dict-key="thrasher">-er:</b> (<i>machine</i>) drash-ilo, -mashino.
+
+<b dict-key="thread">thread:</b> (lina, lana, kotona, e.c.); filo; (<i>filament</i>) filamento; <b
+dict-key="to thread">to t.:</b> (<i>a needle</i>) fil-izar; (<i>one&rsquo;s way</i>)&nbsp;irar
+serpent-atre; <b dict-key="threadbare">t.bare: </b>frot-ita; par-uz-ita.
+
+<b dict-key="threat">threat:</b> minac-o; <b dict-key="threaten">-en: </b>-ar; <b
+dict-key="threatening">-ening: </b>-anta, -oza.
+
+<b dict-key="three">three:</b> tri; <b dict-key="rule of three">rule of t.: </b>regulo de tri; <b
+dict-key="three percent">t. percent: </b>tri po cento; <b dict-key="three">t.-quarters: </b>tri
+quar-imi; <b dict-key="he is three">he is t.: </b>il evas 3 yari; <b dict-key="it is three o">it is
+t. o&rsquo;clock: </b>esas tri kloki; <b dict-key="three">t.-fold: </b>tri-opla, -oplo; <b
+dict-key="three hat">t.-cornered hat: </b>tri-korna chapelo; <b dict-key="three">t.-cornered:
+</b>triangula; <b dict-key="three">t.-master: </b>tri-masta; <b dict-key="three">t.-score:
+</b>sisa-dek; <b dict-key="three and ten">t.-score and ten: </b>sepa-dek.
+
+<b dict-key="threshold">threshold:</b> solio.
+
+<b dict-key="thrice">thrice:</b> (<i>triple</i>) tri-opla; (<i>on three occasions</i>) tri-foya, -e.
+
+<b dict-key="thrift">thrift:</b> spar-ado, (<i>quality</i>) -em-eso; <b
+dict-key="thriftless">-less: </b>prodig-anta, -ema, -acha; <b dict-key="thrifty">-ty:
+</b>spar-ema,&nbsp;frugala.
+
+<b dict-key="thrill">thrill:</b> (<i>intr</i>.) tresayar (de, pro); (tra-)vibrar; penetrar; <b
+dict-key="thrilling">-ing: </b>tresay-anta; kapt-anta; penetr-anta.
+
+<b dict-key="thrive">thrive:</b> (<i>intr</i>.) prosper-ar; <b dict-key="thriving">-ving: </b>-anta.
+
+<b dict-key="throat">throat:</b> (<i>interior</i>) guturo; (<i>exterior</i>) fauco (<i>also
+fig</i>.).
+
+<b dict-key="throb">throb:</b> (<i>intr</i>.) palpit-ar, pulsar; <b dict-key="throbing">-bing:
+</b>(<i>of heart, etc</i>.) puls-ado, palpit-ado; (<i>adj</i>.) -anta.
+
+<b dict-key="throe">throe:</b> dolor-egi, angoro.
+
+<b dict-key="thrombin">thrombin:</b> trombino.
+
+<b dict-key="thrombocyte">thrombocyte:</b> (<i>physio., platelet</i>) trombocito.
+
+<b dict-key="thrombus">thrombus:</b> trombuso.
+
+<b dict-key="throne">throne:</b> trono.
+
+<b dict-key="throng">throng:</b> plen-igar, formik-umar (per); inkombrar, en-irar turbe, amas-eskar.
+
+<b dict-key="throng">throng:</b> (<i>n</i>.) turbo; <b dict-key="thronged">-ed: </b>plen-ig-ita.
+
+<b dict-key="throttle">throttle:</b> strangular (ulu) (<i>cf</i>. sufokar).
+
+<b dict-key="throttle">throttle:</b> (<i>valve</i>) sekur-es-valvo, vapor-regul-valvo.
+
+<b dict-key="through">through: </b>(<i>prep</i>.) tra; (<i>by means of</i>) per; (<i>by reason
+of</i>) pro; (<i>from beginning to end</i>) de un extrem-ajo a l&rsquo;altra; (<i>without
+stopping</i>) direta (ad); <b dict-key="through with a task">t. with a task: </b>parfin-ita tasko,
+par-fin-ir tasko; <b dict-key="to bore through a board">to bore t. a board: </b>borar, perforar
+planko; <b dict-key="to go through a door">to go t. a door: </b>tra-irar pordo; <b dict-key="to
+understand through the senses">to understand t. the senses:</b> komprenar per la sensi; <b
+dict-key="through ambition">t. ambition: </b>pro ambicio; <b dict-key="to go through to Paris">to
+go t. to Paris: </b>voyajar direte ad Paris.
+
+<b dict-key="throughout">throughout:</b> omna-parte, en omna parto di (ulo); tote; <b
+dict-key="throughoutout the night">t.out the night: </b>dum la tota nokto; <b
+dict-key="throughoutout my body">t.out my body: </b>en <i>o</i> tra mea tota korpo. 
+
+<b dict-key="throw">throw:</b> jetar (<i>cf</i>. lansar, spricar, projektar, precipitar); <b
+dict-key="throwaway">t.away: </b>for-jetar; <b dict-key="throw a shadow">t. a shadow: </b>projektar
+ombro; <b dict-key="throw out roots">t. out roots: </b>radik-ifar; <b dict-key="throw into
+prison">t. into prison: </b>inkluzar en karcero; <b dict-key="throw down">t. down:
+</b>(<i>upset</i>) renversar (<i>cf</i>. abatar); <b dict-key="throw open">t. open: </b>apertar
+subite; <b dict-key="throw over">t. over: </b>(<i>abandon</i>) abandonar; <b dict-key="throw up">t.
+up: </b>(<i>vomit</i>) vomar; <b dict-key="to throw off the scent">to t. off the scent:
+</b>eror-igar (ulu) pri la traci; <b dict-key="to throw oneself into">to t. oneself into:</b>
+(<i>work, etc</i>.) atakar (<i>od</i>, persequar) obstin-ege <i>o</i> furi-oze; abandonar su (ad la
+plezuri, e.c.).
+
+<b dict-key="thrush">thrush:</b> (<i>bird</i>) turdo; (<i>med</i>.) aft-o, -i.
+
+<b dict-key="thrust">thrust:</b> (<i>push</i>) (<i>tr., intr</i>.) pulsar; (<i>shove along</i>)
+shovar; (<i>intrude</i>) intruzar ( <i>cf</i>. sinkar, tampar; forsar); <b dict-key="thrust a stake
+into the ground">t. a stake into the ground:</b> stekar paliso en la sulo; <b dict-key="thrust one
+hand into his pocket">t. one&rsquo;s hand into his pocket:</b> stekar <i>o</i> pozar sua manuo
+ad-en sua posho; <b dict-key="thrust out of the room">t. out of the room: </b>pulsar (ulu) ek la
+chambro.
+
+<b dict-key="thrust">thrust:</b> (<i>single move, as with a sword. pen, etc.</i>) pulso;
+(<i>push</i>) pulso; (<i>piercing</i>) perforo, steko.
+
+<b dict-key="thud">thud:</b> fal-bruiso, matida-sono; (<i>beat</i>) bato-, pulso-sono.
+
+<b dict-key="thuja tree">thuja tree:</b> tuyo.
+
+<b dict-key="thumb">thumb:</b> polexo; <b dict-key="rule of thumb">rule of t.: </b>regulo
+empirik-ala; <b dict-key="under one thumb">under one&rsquo;s t.: </b>en lua povo, sub lua
+autoritato; <b dict-key="thumbscrew">t.screw: </b>polexo-lig-ilo; fingro-klem-ilo; (<i>tech.</i>)
+preso-skrubo.
+
+<b dict-key="thump">thump:</b> frap-egar, batar.
+
+<b dict-key="thunder">thunder:</b> (<i>intr</i>.) tondrar; <b dict-key="thunderstorm">t.storm:</b>
+sturmo.
+
+<b dict-key="thunderstruck">thunderstruck:</b> surpriz-ig-ita, aston-eg-ita; konstern-ig-ita.
+
+<b dict-key="Thursday">Thursday:</b> jovdio.
+
+<b dict-key="thus">thus:</b> tal-e, -maniere; (<i>consequently</i>) do; <b dict-key="thus far">t.
+far: </b>til nun, til hike; <b dict-key="thus much">t. much: </b>tanta.
+
+<b dict-key="thwack">thwack:</b> frapar, batar.
+
+<b dict-key="thwart">thwart:</b> (<i>stop</i>) barar; (<i>hinder, prevent</i>) impedar.
+
+<b dict-key="thwart">thwart:</b> (<i>lying across</i>) transversa; (<i>slanting</i>) obliqua;
+(<i>in a boat</i>) rem-benko.
+
+<b dict-key="thy">thy:</b> tua.
+
+<b dict-key="thyme">thyme:</b> timiano; <b dict-key="wild thyme">wild t.: </b>serpolo.
+
+<b dict-key="thyroid">thyroid:</b> tiroido, tiroida glando, kartilago.
+
+<b dict-key="thrysus">thrysus:</b> tirso.

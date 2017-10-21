@@ -1,0 +1,17 @@
+<b dict-key="zygoma">zygoma:</b> zigomato.
+
+<b dict-key="zygomorphic">zygomorphic:</b> zigomorfa.
+
+<b dict-key="zygospore">zygospore:</b> zigosporo.
+
+<b dict-key="zygote">zygote:</b> zigoto.
+
+<b dict-key="zymase">zymase:</b> zimaso.
+
+<b dict-key="zymogen">zymogen:</b> zimogeno.
+
+<b dict-key="zymology">zymology:</b> zimologio.
+
+<b dict-key="zymosimeter">zymosimeter:</b> zimosimetro.
+
+<b dict-key="zymotechnies">zymotechnies:</b> zimotekniko.

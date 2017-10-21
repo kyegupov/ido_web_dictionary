@@ -1,0 +1,86 @@
+<b dict-key="job">job:</b> task-(et)o; travalio* (<i>cf</i>. labor-ajo, ofico, devo, afero).
+
+<b dict-key="jobber">jobber:</b> (<i>worker by job</i>) tasko-labor-isto; (<i>sub-contractor</i>)
+sub-entraprez-isto; (<i>stock-j</i>.) ajiot-ero, -isto. 
+
+<b dict-key="jobbery">jobbery:</b> (<i>cheating</i>) fraud-ado, komerc-acho.
+
+<b dict-key="jockey">jockey:</b> jokeo.
+
+<b dict-key="jocular">jocular:</b> jok-ema, -oza.
+
+<b dict-key="jocund">jocund:</b> jok-oza, -ema, gaya.
+
+<b dict-key="jog">jog:</b> (<i>push</i>) puls(et)ar; (<i>shake</i>) sukus(et)ar; (<i>trot
+slowly</i>) trot(et)ar; (<i>walk</i>) <i>marchar</i>, promenar; (<i>n</i>.) (lejera) sukuso
+<i>o</i> pulso-frapo; <b dict-key="jog the memory">j. the memory:</b> (ri-)memor-igar (ulo da ulu),
+atenc-igar (ulo da ulu); <b dict-key="jog trot">j. trot:</b> trot(et)ado.
+
+<b dict-key="join">join:</b> (<i>physically, place in contiguity</i>) juntar (<i>cf</i>. ligar);
+(<i>immaterial sense</i>) unionar; (<i>overtake</i>) rajuntar; (<i>be in contact</i>) tushar,
+apud-esar.
+
+<b dict-key="joiner">joiner:</b> (<i>fine carpenter</i>) menuz-isto (<i>cf</i>. eben-isto); <b
+dict-key="to do joiner work">to do j.&rsquo;s work:</b> (<i>intr</i>.) -ar.
+
+<b dict-key="joint">joint:</b> juntar; artik-izar.
+
+<b dict-key="joint">joint:</b> junt-o, -uro, -eyo; (<i>anat</i>.) artiko; (<i>hinge</i>) charniro;
+<b dict-key="cardan joint">cardan j.:</b> kardano; <b dict-key="ball and socket joint">ball and
+socket j.:</b> rotulo; <b dict-key="universal joint">universal j.:</b> universala charniro; <b
+dict-key="put out of joint">put out of j.:</b> dislokar, (<i>surg</i>.) luxacar; (<i>common</i>)
+komuna; <b dict-key="jointed">-ed:</b> (<i>joined</i>) junt-ita; (<i>anat., bot.</i>) artik-oza,
+-iz-ita; <b dict-key="joint stock">j. stock:</b> komuna capitala ad acioni; <b dict-key="joint
+stock company">j. stock company:</b> komandit-ala soci-eto, acion-kompanio.
+
+<b dict-key="jointly">jointly:</b> union-ite, kune, solidare.
+
+<b dict-key="joint">joint-tenant:</b> kun-okup-anto, -ero; kun-lokac-anto, -ero.
+
+<b dict-key="jointure">jointure:</b> (<i>marriage settlement</i>) doario.
+
+<b dict-key="joist">joist:</b> trab(et)o.
+
+<b dict-key="joke">joke:</b> (<i>tr., intr.</i>) jok-ar, (<i>n</i>.) -o, -ajo; <b dict-key="coarse
+joke">coarse j.:</b> laciva joko; mal-gusta joko; <b dict-key="to play practical jokes on">to play
+practical j.s on:</b> molestar.
+
+<b dict-key="jollification">jollification:</b> fest-ado.
+
+<b dict-key="jollity">jollity:</b> gay-eso, joy-eso.
+
+<b dict-key="jolly">jolly:</b> joy-oza, -ema; gaya.
+
+<b dict-key="jolly">jolly-boat:</b> yolo, kanot-eto.
+
+<b dict-key="jolt">jolt:</b> sukusar (<i>cf</i>. tresayar; <i>see</i> <b dict-key="jog">jog</b>).
+
+<b dict-key="jonquil">jonquil:</b> jonquilo.
+
+<b dict-key="Jordan">Jordan:</b> (<i>river</i>) Jordan.
+
+<b dict-key="Jordan">Jordan:</b> (<i>country</i>) Jordania.
+
+<b dict-key="jostle">jostle:</b> shok-pulsar, (<i>with elbow</i>) kud-pulsar; (<i>shake, jerk</i>)
+sukusar; (<i>one another</i>) inter-pulsar.
+
+<b dict-key="jot">jot:</b> &laquo;iota&raquo;; <b dict-key="jot down">j. down:</b> notar; <b
+dict-key="not a jot">not a j.:</b> tote ne.
+
+<b dict-key="journal">journal:</b> (<i>periodical, newspaper</i>) jurnalo; (<i>tech</i>.) pivoto;
+(<i>day-book</i>) dio-libro, di-ala memorialo; <b dict-key="journalism">-ism:</b> jurnal-ist-eso;
+<b dict-key="journalist">-ist</b>(<b dict-key="ic">ic</b>)<b dict-key="">:</b> -isto, -ista.
+
+<b dict-key="journey">journey:</b> (<i>intr</i>.) voyaj-ar; (<i>n</i>.) voyajo (<i>cf</i>. turo,
+exkurso); <b dict-key="to start on a journey">to start on a j.:</b> voyaj-eskar; <b dict-key="life
+journey">life&rsquo;s j.:</b> vivo-voyajo.
+
+<b dict-key="joust">joust:</b> (<i>intr</i>.) turnir-ar, -o.
+
+<b dict-key="jovial">jovial:</b> joy-ema, gaya, bon-humor-a; <b dict-key="joviality">-ity:</b>
+joy-em-eso, bon-humoro.
+
+<b dict-key="jowl">jowl:</b> vang(eg)o.
+
+<b dict-key="joy">joy:</b> joy-o; <b dict-key="jous,joful">-ous, -ful:</b> -oza, -ema; <b
+dict-key="to fill with joy">to fill with j.:</b> -igar (ulu).

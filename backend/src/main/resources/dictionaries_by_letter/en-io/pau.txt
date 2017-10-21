@@ -1,0 +1,12 @@
+<b dict-key="paucity">paucity: </b>mikr-eso, mikra nombro <i>o</i> quant-eso, pok-eso.
+
+<b dict-key="paunch">paunch: </b>pancho (<i>cf</i>. ventro).
+
+<b dict-key="pauper">pauper:</b> indij-ant-o, -a.
+
+<b dict-key="pauperism">pauperism: </b>pauperismo, indij-(eg)eso, -(ad)o.
+
+<b dict-key="pauperize">pauperize: </b>indij-igar.
+
+<b dict-key="pause">pause: </b>(<i>intr</i>.) pauz-ar, -o (<i>cf</i>. halto, intervalo,
+inter-tempo, repozo; vartar).

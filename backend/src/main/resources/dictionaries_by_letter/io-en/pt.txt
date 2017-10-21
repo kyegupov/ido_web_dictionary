@@ -1,0 +1,7 @@
+<b dict-key="pterigoida">pterigoid-a:</b> (<i>anat.</i>) pterigoid, wing-shaped.
+
+<b dict-key="pterodaktilo">pterodaktil-o:</b> (2001) psterodactyl. &mdash; DEFIRS
+
+<b dict-key="pteropodo">pteropod-o:</b> pteropod. &mdash; EFIS
+
+<b dict-key="ptomaino">ptomain-o:</b> (<i>chem.</i>) ptomaine. &mdash; DEFIS

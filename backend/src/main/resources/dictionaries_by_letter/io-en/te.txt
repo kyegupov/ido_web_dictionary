@@ -1,0 +1,456 @@
+<b dict-key="teo">te-o:</b> (<i>leaves and infusion</i>) tea; <b dict-key="teiero">-iero:</b> t.
+bush; <b dict-key="teuyo">-uyo:</b> t. holder, t. caddy; <b dict-key="tekrucho">-krucho:</b> t.pot;
+<b dict-key="teasemblo,tepartio">-asemblo, -partio:</b> t. party. &mdash; DEFIS
+
+<b dict-key="teatro">teatr-o:</b> theater; theatre; <b dict-key="teatrala">-ala:</b> theatrical; <b
+dict-key="teatrajo">-ajo:</b> play (at t.); <b dict-key="teatrostroko">-o-stroko:</b> unforseen
+event (in a play); (<i>fig.</i>) striking event. &mdash; DEFIRS
+
+<b dict-key="tebaido">tebaid-o:</b> desert, lonely solitude. V. exp.: Nomo (Thebaid) propra
+(geografiala) diveninta komuna per metaforo. &mdash; DFIS
+
+<b dict-key="tedar">ted-ar:</b> (<i>tr.</i>) to bore; (<i>fig.</i>) tire, weary (the spirit); <b
+dict-key="tedanto,tedero">-anto, -ero:</b> tedious person, bore. Def.: Esar desagreabla ad ulu per
+neoportuna o tro longa agado od asisto (vizitanto tedis me); fatigar per repeto o per neinteresanta
+kozo (la koncerto, la spektaklo tedis me). (On povas esar jenanta e mem tedanta nevole e nekoncie);
+III-35. &mdash; EIS
+
+<b dict-key="tegar">teg-ar:</b> (<i>tr.</i>) to cover (a bed, a piece of furniture, etc.); to
+caparison; <b dict-key="tegilo">-ilo:</b> cover (for bed, etc.), horse-cloth, caparison; <b
+dict-key="tegtelo">-telo:</b> cloth cover; tarpaulin. &mdash; L
+
+<b dict-key="tegulo">tegul-o:</b> (roof-) tile; <b dict-key="tegulizar">-izar:</b> to cover (<b
+dict-key="ulo">ulo</b>) with t.s. &mdash; IL
+
+<b dict-key="tegumento">tegument-o:</b> (<i>anat., bot., and gen.</i>) (in) tegument. &mdash; DEFIS
+
+<b dict-key="teismo">teism-o:</b> theism. &mdash; DEFIRS
+
+<b dict-key="teisto">teist-o:</b> theist. &mdash; DEFIRS
+
+<b dict-key="teko">tek-o:</b> (<i>bot.</i>) teak-tree (genus: Tectona); <b
+dict-key="tekligno">-ligno: </b>t. wood. &mdash; DEFIRS
+
+<b dict-key="tekniko">teknik-o:</b> technic(s); <b dict-key="teknikala">-ala:</b> technical. Ex.:
+La tekniko di la pikt-arto. Teknikala termini. &mdash; DEFIRS
+
+<b dict-key="teknologio">teknologi-o:</b> technology. &mdash; DEFIRS
+
+<b dict-key="tekto">tekt-o:</b> roof; (of carriages, autom.) top; <b
+dict-key="tektajo,tektero">-ajo, -ero:</b> roofing; <b dict-key="tektizar">-izar:</b> to roof (a
+house, etc.); <b dict-key="tektokanalo">-o-kanalo:</b> (eaves-) gutter. &mdash; FIS
+
+<b dict-key="telo">tel-o:</b> linen cloth or fabric; <b dict-key="tela tuko">-a tuko:</b> linen
+sheet(ing); <b dict-key="telizar">-izar: </b>to mount, paste, sew, put (<b dict-key="ulo">ulo</b>)
+on cloth; <b dict-key="gudro telo">gudro- -o:</b> tarpaulin; <b dict-key="metal telo">metal-
+-o:</b> wire-gauze; <b dict-key="araneo telo">araneo- -o:</b> spiderweb.
+
+<b dict-key="telefonar">telefon-ar:</b> <i>(tr.)</i> to telephone (<b dict-key="ulo ad ulu">ulo ad
+ulu</b>); (cf. <b dict-key="telegrafar">telegrafar</b>). &mdash; DEFIRS
+
+<b dict-key="telegonio">telegoni-o:</b> (<i>biol.</i>) telegony. &mdash; DEFIS
+
+<b dict-key="telegrafar">telegraf-ar:</b> (<i>tr.</i>) to telegraph; (<b dict-key="ulo ad ulu">ulo
+ad ulu</b>)<b dict-key="">:</b> (cf. <b dict-key="radiotelegrafar">radio-telegrafar</b>); <b
+dict-key="telegraf">-</b>(<b dict-key="ad">ad</b>)<b dict-key="o">o:</b> telegraphing; <b
+dict-key="telegrafuro">-uro:</b> (= <b dict-key="telegramo">telegramo</b>) a telegram; <b
+dict-key="telegrafilo">-ilo:</b> telegraph; <b dict-key="telegrafeyo,telegrafkontoro">-eyo,
+-kontoro:</b> t. office; <b dict-key="telegrafala">-ala:</b> telegraphic; <b
+dict-key="telegrafisto">-isto:</b> telegrapher. &mdash; DEFIRS 
+
+<b dict-key="telegramo">telegram-o:</b> telegram: telegraphic message (cf. <b
+dict-key="telegrafuro">telegraf-uro</b>). &mdash; DEFIRS
+
+<b dict-key="telekomuniko">telekomunik-o:</b> (1979) telecommunication. &mdash; DEFIRS
+
+<b dict-key="teleologio">teleologi-o:</b> (<i>philos.</i>) teleology. &mdash; DEFIRS
+
+<b dict-key="telepatio">telepati-o:</b> telepathy. &mdash; DEFIRS
+
+<b dict-key="teleskopo">teleskop-o:</b> telescope; <b dict-key="teleskopala">-ala:</b> telescopic;
+<b dict-key="teleskopumar">-umar:</b> to drive together trains, etc., so that one or both slides
+over the other. &mdash; DEFIRS
+
+<b dict-key="televiziono">televizion-o:</b> (1958) television. &mdash; EFIS
+
+<b dict-key="telofazo">telofazo:</b> (<i>biol.</i>) Final phase of mitosis.
+
+<b dict-key="telolecito">telolecito:</b> (<i>biol.</i>) Telolecithal, also known as macrolecithal,
+refers to the uneven distribution of yolk in the cytoplasm of ovums found in birds, reptiles, fish,
+and monotremes. The yolk is concentrated at one pole of the egg separate from the developing embryo.
+
+<b dict-key="teluro">telur-o:</b> (<i>chem.</i>) tellurium.
+
+<b dict-key="temo">tem-o:</b> topic, subject, theme (treated of); <b dict-key="traktar
+temo">traktar -o:</b> to treat a subject; <b dict-key="temo Latina">-o Latina:</b> Latin exercise
+or theme; <b dict-key="kompozar temo">kompozar -o:</b> to write a theme; <b dict-key="temo de la
+konverso">temo de la konverso:</b> subject of the conversation. &mdash; DEFIRS
+
+<b dict-key="temato">temat-o:</b> (<i>gram., mus.</i>) theme; <b dict-key="tematala">-ala:</b>
+thematic. &mdash; DEFIRS
+
+<b dict-key="temerara,temerar">temerar-a, -(ul)o:</b> rash, reckless, foolhardy (person); <b
+dict-key="temerareso">-eso:</b> temerity; <b dict-key="temerarajo">-ajo:</b> rash, venturesome act.
+&mdash; EFIS
+
+<b dict-key="tempo">temp-o:</b> time: part of duration (cf. <b dict-key="foyo">foyo</b>);
+(<i>gram.</i>) tense (of a verb); (<i>mus.</i>) tempo, time; <b dict-key="tempe">-e:</b> for the
+time, temporarily; <b dict-key="tempala">-ala:</b> temporal, temporary, transient; <b
+dict-key="tempope">-ope:</b> from time to time, now and then, at times; <b
+dict-key="tatempe">ta-tempe:</b> at that time; <b dict-key="nuntempe">nun-tempe:</b> meanwhile; <b
+dict-key="justatempe">justa-tempe:</b> at the proper time; on time; <b
+dict-key="samtempe">sam-tempe:</b> at the same time, at once; <b
+dict-key="irgatempe">irga-tempe:</b> at any time (whatever); <b
+dict-key="kelketempe">kelke-tempe:</b> sometimes; <b dict-key="nultempe">nul-tempe:</b> never; <b
+dict-key="pasar la tempo ociante">pasar la tempo oci-ante:</b> to kill time; <b dict-key="signo di
+tempo">signo di tempo:</b> sign of the times; <b dict-key="qua tempo esas">qua tempo esas?</b> what
+time is it? (cf. <b dict-key="kloko">kloko</b>). Ex.: Havar tempo (libera) por facar ulo. Selektar
+oportuna tempo. Pasar gaye la tempo. En la anciena tempo. Esar nun-tempa (od, moderna). &mdash; EFIS
+
+<b dict-key="temperar">temper-ar:</b> (<i>tr., also mus.</i>) to temper: moderate, allay, mollify;
+(cf. <b dict-key="hardigar">hard-igar</b>); <b dict-key="tempereskar">-eskar:</b> to become
+temperate, moderate; <b dict-key="tempero">-o:</b> tempering, moderating; <b
+dict-key="temperemeso">-em-eso:</b> temperance, moderation. Ex.: La kolda aero temperas la varmeso.
+Temperar la acideso per sukro. Temperar (E. <i>cool</i>) la sango, la pasioni. Temperar la legi
+segun la tempo. &mdash; DEFIS
+
+<b dict-key="temperamento">temperament-o:</b> (<i>of persons</i>) temperament; <b
+dict-key="temperamento partikulara,singulara">-o partikulara, singulara:</b> idiosyncrasy. Def.:
+Stando fiziologiala, konstitucionala partikulare di la korpo. &mdash; DEFIRS
+
+<b dict-key="temperaturo">temperatur-o:</b> temperature: degree of heat. &mdash; DEFIRS
+
+<b dict-key="tempestar">tempest-ar:</b> (<i>intr. of weather and fig.</i>) to storm: blow with
+violence, blow a gale; (<i>fig.</i>) to make a great noise, rage, bluster (cf. <b
+dict-key="furiar,bruisar">furiar, bruisar</b>); <b dict-key="tempesto">-o:</b> tempest, gale,
+violent storm (with noise of elements) (cf. <b dict-key="sturmo,uragano">sturmo, uragano</b>); <b
+dict-key="tempestoza">-oza:</b> tempestuous; (<i>fig.</i>) boisterous. Ex.:<i> </i>La vento
+tempestas. (<i>fig.</i>) Lu tempestis pri la konduto di sua pueri. Navo batita da la tempesto.
+Tempesti di pasiono. V. ex.: vid. <b dict-key="sturmo">sturmo</b>. &mdash; EFIS
+
+<b dict-key="templo">templ-o:</b> temple; <b dict-key="templano">-ano:</b> member of a t.;
+(<i>fig.</i>) knight templar. &mdash; DEFIS
+
+<b dict-key="temporo">tempor-o:</b> (<i>anat.</i>) temple; <b dict-key="temporala
+osto,temporalo">-ala osto, -alo:</b> temporal bone. &mdash; EFIS
+
+<b dict-key="temporisar">temporis-ar:</b> (<i>intr.</i>) to temporize; <b
+dict-key="temporisema,temporisera temporisemo,temporisero">-ema, -era; -emo, -ero:</b>
+procrastinating, temporizing (person). V. exp.: La senco ne esas simple ajornar o vartar, ma plu
+komplexa: ajornar o tardigar ago, vartante okaziono oportuna. La tipo di temporisero esas Fabius
+Cunctator; V-676. &mdash; DEFIS
+
+<b dict-key="temprar">tempr-ar:</b> (<i>tr.</i>) to (paint in) distemper. &mdash; DEFIS
+
+<b dict-key="tenar">ten-ar:</b> (<i>tr.</i>) to hold, have hold of, hold on; to keep in a given
+situation or position; <b dict-key="tenilo">-ilo:</b> handle; <b dict-key="tenar ulu per la
+manuo">-ar ulu per la manuo:</b> to hold someone by the hand; <b dict-key="tenar ulu ye la
+brakio">-ar ulu ye la brakio:</b> to hold someone by (at) the shoulder; <b dict-key="tenar libro en
+la manuo">-ar libro en la manuo:</b> to hold a book in the hand; <b dict-key="tenar ridante sua la
+kosti">-ar ridante sua la kosti:</b> to hold one&rsquo;s sides laughing; <b dict-key="tenar su per
+la pasamano">-ar su per la pasamano:</b> to hold (support) oneself by the railing; <b
+dict-key="tenar su rekta">-ar su rekta:</b> to hold oneself erect, stand straight; <b
+dict-key="suteno">su-teno:</b> bearing, carriage, appearance (of a person). &mdash; FIS
+
+<b dict-key="tenaca">tenac-a:</b> (<i>tech.</i>) tenacious: strongly adhering or cohering; tough;
+(cf. <b dict-key="persistema">persist-ema</b>); <b dict-key="tenaceso">-eso:</b> toughness,
+tenacity. Ex.: Pecho, metalo, e.c. esas tenaca. &mdash; EFIS
+
+<b dict-key="tenalio">tenali-o:</b> (hinged) pincers, pliers, nippers; <b
+dict-key="tenaliagar">-agar:</b> (<i>tr.</i>) to use p. on (<b dict-key="ulo">ulo</b>); to hold (<b
+dict-key="ulo">ulo</b>) with p. V. exp.: vid. <b dict-key="pinco">pinco</b>. &mdash; FIS
+
+<b dict-key="tenaro">tenar-o:</b> (<i>anat.</i>) thenar: ball of hand or foot. &mdash; EFIS
+
+<b dict-key="tencho">tench-o:</b> (<i>ichth.</i>) tench (genus: Tinca vulgaris). &mdash; EFIS
+
+<b dict-key="tendo">tend-o:</b> tent; (of carriage) hood; <b dict-key="tendeto">-eto: </b>small
+tent, awning, canopy, screen; <b dict-key="erektar,establisar,stacigar tendo">erektar, establisar,
+stac-igar -o:</b> to put up, pitch a tent; <b dict-key="tendaro">-aro:</b> (<i>collect.</i>) camp.
+&mdash; EFIS
+
+<b dict-key="tendencar">tendenc-ar:</b> (<i>intr.</i>) to tend: be directed to an object or
+purpose; be inclined, lead to; (cf. <b dict-key="vizar">vizar</b>); <b dict-key="tendenco">-o:</b>
+(<i>of motion</i>) tendency; (mental) leaning, inclination; <b
+dict-key="tendencanta,tendencoza,tendencema">-anta, -oza, -ema:</b> tending, inclined, biassed,
+prone, disposed. Ex.: La fairo tendencas adsupre, la stono adinfre. Ca malado tendencas a morto.
+Tendenco ad egoismo. &mdash; DEFIRS
+
+<b dict-key="tendino">tendin-o:</b> (<i>anat.</i>) tendon, sinew; (cf. <b
+dict-key="ligamento">ligamento</b>); <b dict-key="Akil tendino">Akil- -o:</b> t. of Achilles.
+&mdash; EFIS
+
+<b dict-key="tendro">tendr-o:</b> tender (of a locomotive). &mdash; DEFIRS
+
+<b dict-key="tenebro">tenebr-o:</b> darkness, gloom: (<i>pl., R.C. rel.</i>) tenebr&aelig;; <b
+dict-key="tenebroza">-oza:</b> tenebrous: dark, gloomy; <b dict-key="tenebroepoko">-o-epoko:</b>
+dark ages. Def.: Manko di lumo; obskureso profunda; (<i>fig.</i>) nul-savo, nul-certeso. Ex.:
+tenebro di la nokto. Tenebro di nulsavo. Princo di tenebro. &mdash; EFIS
+
+<b dict-key="tenera">tener-a:</b> tender, susceptible to love or kindness, loving (person, heart);
+<b dict-key="tenereso">-eso:</b> tenderness (of heart). &mdash; EFIS
+
+<b dict-key="tenio">teni-o:</b> t&aelig;nia: tapeworm. &mdash; EFIS
+
+<b dict-key="teniso">tenis-o:</b> (lawn-) tennis; <b dict-key="tenis,tenisisto">-(lud)ero,
+-isto:</b> t. player; <b dict-key="ludar teniso">ludar -o:</b> to play t. &mdash; DEFIS
+
+<b dict-key="tenono">tenon-o:</b> (<i>carp.</i>) tenon. Def.: Extremajo di peco ek ligno, metalo,
+e.c., qua eniras mortezo. &mdash; EF
+
+<b dict-key="tenoro">tenor-o:</b> (<i>voice and person</i>) tenor. &mdash; DEFIRS
+
+<b dict-key="tensar">tens-ar:</b> (<i>tr.</i>) to stretch: draw in length; to strain, tense; (a
+gun) to cock; <b dict-key="tensar su">-ar su:</b> to strain, stiffen oneself; <b
+dict-key="tenso,tenseso">-o, -eso:</b> (<i>act, state</i>) stretching, strain, tension, tenseness
+(physical, mental, social); <b dict-key="tensata tensita">-ata: -ita:</b> tense, strained; <b
+dict-key="tensanto">-anto:</b> one who stretches; (<i>anat.</i>) tensor (muscle); <b
+dict-key="tensilo">-ilo:</b> stretching instrument. Ex.: Tensar kordo, la fingri. Tenso di la
+muskuli, di la mento. Elektrala tenso. (<i>fig.</i>) To tensas la situeso. &mdash; EFIS
+
+<b dict-key="tensoro">tensor-o*:</b> (<i>math.</i>) tensor. &mdash; DEFIRS
+
+<b dict-key="tentar">tent-ar:</b> (<i>tr.</i>) to tempt, entice; <b dict-key="tentesar">-esar:</b>
+to be tempted (<b dict-key="facar">facar,</b> <b dict-key="da">da</b>); <b
+dict-key="tento,tenteso">-o, -eso:</b> temptation; <b dict-key="tentanta,tentiva">-anta, -iva:
+</b>tempting; <b dict-key="tentanto,tentero">-anto, -ero:</b> temptor; <b
+dict-key="tentantino">-ant-ino:</b> temptress. Ex.: Deo tentis Abraham. Me lasis me tentesar da
+glorio. Rezistar tento. Tenteso ridar. &mdash; EFIS
+
+<b dict-key="tentakulo">tentakul-o:</b> (<i>zool.</i>) feeler (of insects), tentacle. &mdash; EFIS
+
+<b dict-key="tenua">tenu-a:</b> tenuous, thin, spare, fine: thin and long; <b
+dict-key="tenueso">-eso:</b> tenuity; <b dict-key="tenuigar">-igar: </b>to thin, make spare (cf. <b
+dict-key="mingrosigar">min-gros-igar</b>); <b dict-key="tenuigo">-igo:</b> attenuation. Def.:
+Desgrosa; qua havas mikra periferio; qua havas nur la du dimensioni: dina e longa. Ex.: Tenua filo,
+vaporo, kolono, gambi, voco. V. exp.: vid. <b dict-key="dika">dika</b>. Ant.: <b
+dict-key="grosa">grosa</b>. &mdash; EFIS
+
+<b dict-key="teodiceo">teodice-o:</b> (<i>philos.</i>) theodicy. &mdash; DEFIRS
+
+<b dict-key="teodolito">teodolit-o:</b> (<i>measuring instrument</i>) theodolite. &mdash; DEFIR
+
+<b dict-key="teogonio">teogoni-o:</b> theogony. &mdash; DEFIRS
+
+<b dict-key="teokrato">teokrat-o:</b> theocrat. V. exp.: Ne partisano di la teokratio, ma chefo di
+teokratio; (cf. <b dict-key="teokratio">teokratio</b>); IV-643. &mdash; DEFS
+
+<b dict-key="teokratio">teokrati-o:</b> theocracy; <b dict-key="teokratiala">-ala:</b> theocratic.
+&mdash; DEFIRS
+
+<b dict-key="teologala">teologal-a:</b> divine (virtue). Ex.: Fido, espero, karitato esas la tri
+teologala vertui. &mdash; FIS
+
+<b dict-key="teologio">teologi-o:</b> theology, divinity (doctrine); (cf.<b dict-key="deigo">
+de-igo</b>); <b dict-key="teologiala">-ala:</b> theological: <b dict-key="teologiisto">-isto:</b>
+theologian, divine. &mdash; DEFIRS
+
+<b dict-key="teorbo">teorb-o:</b> (<i>mus.</i>) theorbo, archlute. &mdash; DEFIRS
+
+<b dict-key="teoremo">teorem-o:</b> theorem. &mdash; DEFIRS
+
+<b dict-key="teorio">teori-o:</b> theory; (cf. <b dict-key="spekular">spekular</b>); <b
+dict-key="teoria,teoriala">-a, -ala:</b> theoretic(al); <b dict-key="teorie">-e:</b> theoretically;
+<b dict-key="teoriisto">-isto:</b> theorist; <b dict-key="teoriemo">-emo:</b> (tendency) theorizer.
+&mdash; DEFIRS
+
+<b dict-key="teozofio">teozofi-o: </b>theosophy; <b dict-key="teozofiisto">-isto:</b> theosophist.
+&mdash; DEFIRS
+
+<b dict-key="tepalo">tepal-o:</b> (<i>bot.</i>) tepal. 
+
+<b dict-key="tepida">tepid-a:</b> tepid, lukewarm; (<i>fig.</i>) indifferent; <b
+dict-key="tepidajo">-ajo:</b> something t. (as a tepid drink); <b dict-key="tepideso">-eso:</b>
+lukewarmness; <b dict-key="tepideskar">-eskar:</b> to become t. V. Exp.: La radiko <b
+dict-key="tepida">tepida</b> esas necesa por indikar to quo ne esas kolda: <b
+dict-key="varmeta">varm-eta</b> e <b dict-key="koldeta">kold-eta</b> esas nejusta od neklara. La
+metaforal uzado di la vorti esas utila en etiko teologio; II-712. &mdash; EFI 
+
+<b dict-key="teplico">teplic-o:</b> (<i>for plants</i>) hothouse, greenhouse conservatory. &mdash; R
+
+<b dict-key="tero">ter-o:</b> earth (as a planet and as ground; cf. <b dict-key="sulo,tereno">sulo,
+tereno</b>); <b dict-key="tera vazo">-a vazo:</b> earthen vessel; <b dict-key="terala">-ala:</b>
+earthly, terrestrial; <b dict-key="terglobo">-globo:</b> terrestrial globe; <b
+dict-key="teroza">-oza:</b> earthy; <b dict-key="terajo,amaso">-ajo, amaso: </b>piece of e., object
+made from e., earhtwork; <b dict-key="terajisto,terlaboristo">-aj-isto, -laboristo:</b> e. worker;
+<b dict-key="terano">-ano:</b> inhabitant of e.; (<i>fig.</i>) landholder; <b
+dict-key="terizar,terplenigar">-izar, -plenigar:</b> to cover, to fill (<b dict-key="ulo">ulo</b>)
+with e.; <b dict-key="terplenajo">-plen-ajo:</b> <i>(fort.)</i> terreplein; <b
+dict-key="terocilo,tertremo">-ocilo, -tremo:</b> e. shake, earthquake (cf. <b
+dict-key="sismo">sismo</b>); <b dict-key="tertruo">-truo:</b> burrow; <b
+dict-key="teretajo">-etajo:</b> ground floor (of a house); <b dict-key="terpomo">-pomo:</b> potato;
+<b dict-key="terhavajo">-hav-ajo:</b> real estate; <b dict-key="enterigar">en-ter-igar:</b> to
+inter, put in the e.; <b dict-key="tervenar">-venar:</b> to (come to) land. &mdash; EFIS.
+
+<b dict-key="tera">tera-:</b> (<i>prefix</i>) (2001) tera-: (million-million). &mdash; DEFIRS
+
+<b dict-key="terakoto">terakot-o:</b> terra-cotta: baked clay; <b dict-key="terakotajo">-ajo:</b> a
+piece of earthenware. &mdash; DEFIRS
+
+<b dict-key="terapio">terapi-o:</b> (<i>med.</i>) therapeutics, therapy. &mdash; DEFIRS
+
+<b dict-key="terario">terari-o:</b> terrarium. &mdash; EF
+
+<b dict-key="teraso">teras-o:</b> terrace: raised bank; <b dict-key="terastekto">-tekto:</b> flat
+roof (of a house); <b dict-key="terasigar,terasizar">-igar, -izar:</b> to t., to arrange in t.s.
+&mdash; DEF
+
+<b dict-key="teratogenezo">teratogenez-o*</b> (<i>med.</i>) teratogeny. &mdash; DEFIS
+
+<b dict-key="teratologio">teratologi-o</b> (<i>biol.</i>) teratology: study of abnormalities of
+physiological development. &mdash; DEFIS
+
+<b dict-key="terbio">terbi-o:</b> (2001) terbium. &mdash; DEFIRS
+
+<b dict-key="terco">terc-o:</b> (<i>astron., math.</i>) 1/60 of a second; (<i>mus., cards,
+fencing</i>) tierce. &mdash; DEFIRS
+
+<b dict-key="tercerono">terceron-o</b> terceron (octaroon).
+
+<b dict-key="terceto">tercet-o:</b> (<i>mus., poetry</i>) terzetto, trio; terza-rima. &mdash; DEFIR
+
+<b dict-key="tercian febro">tercian-a (febro):</b> tertain (fever). &mdash; DEFIS
+
+<b dict-key="terciara">terciar-a:</b> (<i>geol., med.</i>) tertiary. &mdash; DEFIS
+
+<b dict-key="terebinto">terebint-o:</b> (<i>bot.</i>) terebinth, turpentine tree (genus: Pistacia
+Terebinthus). &mdash; DEFIRS
+
+<b dict-key="tereno">teren-o:</b> terrain: small piece of ground, viewed as to its fitness for some
+purpose, as for a building, a battle, etc. &mdash; DEFIS
+
+<b dict-key="teriako">teriak-o:</b> (<i>pharm.</i>) theriac(a). Def.: Anciena medikamento kontre
+veneno. &mdash; DEFIRS
+
+<b dict-key="teriero">terier-o:</b> terrier (dog). &mdash; DEF
+
+<b dict-key="terino">terin-o:</b> deep, earthen dish, tureen. &mdash; DEFI
+
+<b dict-key="teritorio">teritori-o:</b> territory; <b dict-key="teritorialano">-al-ano:</b>
+(<i>fig.</i>) territorial: militiaman. &mdash; DEFIRS
+
+<b dict-key="termo,termi">term-o, -i:</b> thermal (or, hot) spring or spa; <b
+dict-key="termala">-ala:</b> thermal; <b dict-key="termaleso">-al-eso:</b>quality, character of
+thermal waters. &mdash; DEFIS
+
+<b dict-key="termino">termin-o:</b> (<i>gram., math., log.</i>) term (cf. <b
+dict-key="periodo">periodo</b>); boundary), boundary mark, landmark; (<i>of R.R.</i>) terminus;
+(<i>gen.</i>) the farthermost point; <b dict-key="terminaro">-aro:</b> terminology; bounds (to
+which one may go); <b dict-key="terminala">-ala:</b> terminal; <b dict-key="terminizar">-izar:</b>
+to bound, set bounds, set landmarks; <b dict-key="komparo termini">komparo- -i:</b> terms of
+comparison. Ex.: Teknikala, ciencala termini. Expresar su per justa termini. Esas interdikta
+forprenar la termini di ula domeno. Pagar debajo ante la termino. V. exp.: <b
+dict-key="Termino">Termino</b> ne esas <b dict-key="limito">limito</b> (o <b
+dict-key="frontiero">frontiero</b>), ma ulo (stono, stango, e.c.) qua indikas la limito. Ol ne esas
+extremajo, nam la termini esas sur omna lateri, e ne nur ye l&rsquo;extremaji. La primitiva senco
+di la vorto esas la L. <i>terminus</i>, de qua venas la cetera, metafora senci (gramatikal,
+logikal, matematikal termino). L&rsquo;antiqui deigis la <i>Termini</i>, e pro to la vorto restis
+en arkitekturo, por indikar mi-korpa statuo sur pilastro. Fine, la vorto <b
+dict-key="terminus">terminus</b> esas EF for indikar extremaji di fervoyal lineo; II-712. &mdash;
+DEFIS
+
+<b dict-key="termito">termit-o:</b> (<i>ent.</i>) termite, white-ant (Thermes). &mdash; DEFRS
+
+<b dict-key="termodinamiko">termodinamik-o:</b> thermodynamics. &mdash; DEFIRS
+
+<b dict-key="termoelektro">termoelektr-o:</b> thermoelectricity. &mdash; DEFIRS
+
+<b dict-key="termografo">termograf-o:</b> thermograph. &mdash; DEIR
+
+<b dict-key="termokemio">termokemi-o:</b> thermochemistry. &mdash; DEFIRS
+
+<b dict-key="termologio">termologi-o:</b> thermology: science or theory of heat. &mdash; DEFIS
+
+<b dict-key="termoluminecenco">termoluminecenc-o*:</b> thermoluminescence.
+
+<b dict-key="termometro">termometr-o:</b> thermometer. &mdash; DEFIRS
+
+<b dict-key="termometrio">termometri-o:</b> thermometry. &mdash; DEFIRS
+
+<b dict-key="termoskopo">termoskop-o:</b> thermoscope. &mdash; DEFIS
+
+<b dict-key="termostato">termostat-o*</b> (<i>tech.</i>) thermostat. &mdash; EF
+
+<b dict-key="termotaktismo">termotaktism-o:</b> thermotaxis. &mdash; DEFIS
+
+<b dict-key="termoterapio">termoterapi-o:</b> thermotherapy. &mdash; DEFIS
+
+<b dict-key="termotropismo">termotropism-o:</b> thermotropism. &mdash; DEFIS
+
+<b dict-key="ternara">ternar-a:</b> (<i>math.</i>) ternary. &mdash; DEFIS
+
+<b dict-key="terniono">ternion-o*:</b> (<i>math.</i>) ternion, ternary: a form having three
+variables. &mdash; DEFIS
+
+<b dict-key="terorar">teror-ar:</b> (<i>intr.</i>) to be terrified, be frightened (cf. <b
+dict-key="trepidar">trepidar</b>); <b dict-key="teroro">-o:</b> terror, fright; <b
+dict-key="terorigar">-igar:</b> to terrify, scare, terrorize, dismay; <b
+dict-key="terorigo">-igo:</b> terrorizing; <b dict-key="teroriganta,teroriva">-ig-anta, -iva:</b>
+terrible, dreadful, awful, terrifying; <b dict-key="terorismo">-ismo:</b> terrorism; <b
+dict-key="teroristo terrorist">-isto: terrorist.</b> V.exp.: vid. <b
+dict-key="pavorar">pavorar</b>. &mdash; DEFIS
+
+<b dict-key="terpentino">terpentin-o*:</b> abietine (resin); <b dict-key="terpentinoleo">-oleo:</b>
+oil of turpentine; (cf. <b dict-key="terebinto">terebinto</b>). &mdash; DE
+
+<b dict-key="terpleno">terplen-o</b> (<i>milit.</i>) a platform of earth joined to and supported by
+parapets of masonry. &mdash; F
+
+<b dict-key="terpomo">ter-pom-o:</b> potato; <b dict-key="tero en shelo">-o en shelo:</b> p. with
+jacket on.
+
+<b dict-key="testo">test-o:</b> a witness; <b dict-key="la testo donis sua atesto">la testo donis
+sua atesto:</b> the witness gave his testimony; <b dict-key="prenar ulu kom testo">prenar ulu kom
+testo:</b> to take a person to (or, call a person as) witness; <b dict-key="testesar">-esar:</b> to
+be a witness (cf. <b dict-key="atestar">atestar</b>). &mdash; IS 
+
+<b dict-key="testacea">testace-a:</b> testaceous: covered with hard shell; <b
+dict-key="testaceo">-o:</b> t. animal. &mdash; DEFIS
+
+<b dict-key="testamentar">testament-ar:</b> (<i>intr.</i>) to make one&rsquo;s will; <b
+dict-key="testamento">-o:</b> testament, will; <b dict-key="testamentala">-ala:</b> testamentary;
+<b dict-key="testamentanto,testamentinto">-anto, -into:</b> testator; <b dict-key="testamentala
+exekutero">-ala exekut-ero:</b> executor of a will; <b dict-key="mortar sen testamente">mortar sen-
+-e:</b> to die intestate (cf. <b dict-key="intestata">intestata</b>). V. exp.: vid. <b
+dict-key="legacar">legacar</b>. &mdash; DEFIS
+
+<b dict-key="testiero">testier-o*:</b> head-stall (of a bridle).
+
+<b dict-key="testikulo">testikul-o:</b> (<i>anat.</i>) testicle. &mdash; EFIS
+
+<b dict-key="testosterono">testosteron-o:</b> (2001) testosterone. &mdash; DEFIRS
+
+<b dict-key="tetanar">tetan-ar:</b> (<i>intr., med.</i>) to have tetanus, lockjaw; <b
+dict-key="tetano">-o:</b> tetanus; (cf. <b dict-key="trismo">trismo</b>). &mdash; DEFIS
+
+<b dict-key="tetrado">tetrad-o</b> (<i>biol.</i>) tetrad.
+
+<b dict-key="tetraedro">tetraedr-o:</b> (<i>geom.</i>) tetrahedron. &mdash; DEFIS
+
+<b dict-key="tetraedroido">tetraedroid-o:</b> A solid in the form of a tetrahedron. &mdash; DEFIS
+
+<b dict-key="tetragona,tetragono">tetragon-a, -o:</b> (<i>geom.</i>) tetragon(al). &mdash; DEFIS
+
+<b dict-key="tetralogio">tetralogi-o:</b> tetralogy. &mdash; DEFIRS
+
+<b dict-key="tetrarko">tetrark-o:</b> tetrarch; <b dict-key="tetrarkio">-io:</b> (<i>domain</i>)
+tetrarchy; <b dict-key="tetrarkeso">-eso:</b> (<i>office</i>) tetrarchate. &mdash; DEFIRS
+
+<b dict-key="tetraso">tetras-o:</b> (<i>orni.</i>) grouse (Tetrao tetrix).
+
+<b dict-key="tetrasporo">tetraspor-o:</b> (<i>biol.</i>) tetraspore: red algae spore.
+
+<b dict-key="teurgio">teurgi-o:</b> theurgy. &mdash; DEFIRS
+
+<b dict-key="texar">tex-ar:</b> (<i>tr.</i>) to weave (cotton, wool, etc.); <b
+dict-key="tex">-(ad)o:</b> weaving; <b dict-key="texuro">-uro:</b> texture; <b dict-key="texuro
+lana">-uro lana:</b> wool fabric; <b dict-key="texisto">-isto:</b> weaver; <b
+dict-key="texala">-ala:</b> textile; <b dict-key="texilo,mashino">-ilo, mashino:</b> loom. &mdash;
+EFIS 
+
+<b dict-key="texto">text-o:</b> text; <b dict-key="textala,segun texta">-ala, segun texta:</b>
+textual, word for word; <b dict-key="segun texte">segun texte:</b> verbatim; (cf. <b
+dict-key="vortope">vort-ope</b>). &mdash; DEFIRS
+
+<b dict-key="tezo">tez-o:</b> thesis; proposition, theme supported by argument;
+undergraduate&rsquo;s essay. &mdash; DEFIRS

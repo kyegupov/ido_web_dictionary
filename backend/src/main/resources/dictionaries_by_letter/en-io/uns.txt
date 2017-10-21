@@ -1,0 +1,106 @@
+<b dict-key="unsaddle">unsaddle:</b> sen-sel-igar (kavalo); (<i>person</i>) ek-sel-igar.
+
+<b dict-key="unsafe">unsafe:</b> ne-sekura, danjer-oza, risk-oza.
+
+<b dict-key="unsatisfactory">unsatisfactory:</b> ne-kontent-ig-anta; ne-sufic-anta; ne-konvink-anta.
+
+<b dict-key="unsatisfied">unsatisfied:</b> ne-kontenta; (<i>of debts</i>) ne-pag-ita,
+ne-quit-ig-ita.
+
+<b dict-key="unsavo">unsavo</b>(<b dict-key="u">u</b>)<b dict-key="ry">ry:</b> sen-sapora;
+mal-sapora; insipida; des-agreabla; nauza-ig-anta, -iva; (<i>evil-smelling</i>) mal-odor-anta.
+
+<b dict-key="unsay">unsay:</b> retraktar.
+
+<b dict-key="unscathed">unscathed:</b> ne-vund-ita, ne-lez-ita; sana e sekura.
+
+<b dict-key="unscholarly">unscholarly:</b> ne-erud-ita; ne-cienc-oza.
+
+<b dict-key="unscrew">unscrew:</b> (<i>a screw, a nut</i>) des-visar; (<i>a box, etc</i>.)
+des-skrub-agar; <b dict-key="to become,be unscrewed">to become, be u.ed:</b> des-vis-esar, -eskar.
+
+<b dict-key="unscrupulous">unscrupulous:</b> sen-skrupula, ne-skrupul-ema; sen-koncienca.
+
+<b dict-key="unseal">unseal:</b> des-siglar, apertar.
+
+<b dict-key="unsearchable">unsearchable:</b> ne-explor-abla; ne-kompren-ebla; ne-penetr-ebla.
+
+<b dict-key="unseasonable">unseasonable:</b> (<i>of fruits, etc</i>.) ne-sezon-ala;
+(<i>untimely</i>) ne-oportuna; (<i>of hours</i>) des-, ne-komoda.
+
+<b dict-key="unseat">unseat:</b> des-plas-izar (ulu, ulo, sid-ilo <i>o</i> loko); renversar (ulu,
+ulo de sid-ilo); (<i>from horseback</i>) ek-sel-igar; (<i>member of parliament, etc</i>.)
+nihil-igar <i>od</i> ne-valid-igar l&rsquo;elekto (di ulu); privacar (ulu de sid-eyo).
+
+<b dict-key="unseemly">unseemly:</b> des-, ne-dec-anta.
+
+<b dict-key="unsettle">unsettle:</b> des-ordinar, des-aranjar; agitar; trublar;
+des-quiet-igar,-eskar.
+
+<b dict-key="unsettled">unsettled:</b> ne-fix-a, -ig-ita; ne-establis-ita; (<i>not firm</i>)
+ne-ferma; shancel-anta; (<i>in mind</i>) trubl-ita, konfuza, des-quieta; hezit-ema, -anta; (<i>not
+determined</i>) ne-determin-ita, ne-certa; (<i>of bills</i>) ne-pag-ita, ne-sald-ita; (<i>of the
+weather</i>) vari-ema; chanj-anta, -ema; pluv-ema; (<i>of abode</i>) sen fixa domicilo;
+vag-anta;&nbsp;(<i>land, country</i>) ne-habit-ata, -ita.
+
+<b dict-key="unsex">unsex:</b> kastrar; igar (ulu) sen-sexua; des-maskul-igar; des-famin-igar,
+-eskar; sen-sexu-igar, -eskar.
+
+<b dict-key="unshackle">unshackle:</b> des-entravar, des-katen-izar; liber-igar, emancipar.
+
+<b dict-key="unshapely,unshapen">unshapely, unshapen:</b> sen-forma; mis-formac-ita.
+
+<b dict-key="unsheathe">unsheathe:</b> ek-gain-igar, ek-tirar (espado).
+
+<b dict-key="unship">unship:</b> (<i>goods</i>) des-kargar, des-embarkar; (<i>a rudder, etc</i>.)
+des-muntar; (<i>oars</i>) de-prenar rem-ili de rem-il-uyi, en-nav-igar la rem-ili.
+
+<b dict-key="unshod">unshod:</b> sen-shua, nud-peda.
+
+<b dict-key="unshrinkable">unshrinkable:</b> ne-kontrakt-ebla, -ema (<i>cloth, etc</i>.).
+
+<b dict-key="unsightly">unsightly:</b> leda, male aspekt-anta; male formac-ita.
+
+<b dict-key="unskilled">unskilled:</b> sen-experienca, ne-experta, ne-habila, novica; <b
+dict-key="unskilled labo">u. labo</b>(<b dict-key="u">u</b>)<b dict-key="r">r: </b>manu-ala
+<i>o</i> korp-ala labor-(ad)o, (<i>persons</i>) -isti, -ist-aro.
+
+<b dict-key="unslaked">unslaked:</b> (<i>of lime</i>) sen-aqua (kalko), ne-aqu-iz-ita; (<i>thirst,
+etc</i>.) ne-saci-ata, -ita.
+
+<b dict-key="unsoldierly">unsoldierly:</b> ne-soldat-atra; ne-milit-ist-ala.
+
+<b dict-key="unsophisticated">unsophisticated:</b> (<i>ingenuous</i>) naiva.
+
+<b dict-key="unsound">unsound:</b> (<i>health</i>) ne-sana, ne-robusta, malada; (<i>rotten</i>)
+putr-inta; (<i>religious belief</i>) ne-ortodoxa, heterodoxa; (<i>disloyal</i>) des-loyala; (<i>in
+mind</i>) ne-sana ment; (<i>principle, setc</i>.) eror-a, oza, mala, ne-justa, ne-sincera;
+(<i>project</i>) ne-sekura, mala, hazard-oza, risk-oza; (<i>business firm</i>) ne-solventa;
+ne-establis-ita; (<i>credit</i>) ne-bona, mala, ne-stabila; (<i>cracked</i>) fend-(et)ita;
+(<i>sleep</i>) ne-profunda; (<i>having defects</i>) defekt-oza.
+
+<b dict-key="unsparing">unsparing:</b> ne-spar-ema, prodig-anta; jener-oza; (<i>not merciful</i>)
+sen-kompata, ne-indulg-ema.
+
+<b dict-key="unspeakable">unspeakable:</b> ne-dic-ebla, ne-expres-ebla.
+
+<b dict-key="unsportsmanlike">unsportsmanlike:</b> ne-digna de sport-isto, -ero (<i>see</i> <b
+dict-key="unfair">unfair</b>).
+
+<b dict-key="unstable">unstable:</b> ne-stabila (<i>see</i> <b dict-key="unsteady">unsteady</b>).
+
+<b dict-key="unsteady">unsteady:</b> ne-stabila, ne-ferma; shancel-anta; ne-certa; ne-konstanta;
+(<i>irresolute</i>) hezit-ema, ne-decid-ema; (<i>changeable</i>) chanj-ema, vari-ema, ne-regul-ala,
+-oza; (<i>character</i>) libertina; deboch-ema.
+
+<b dict-key="unstinted">unstinted:</b> prodig-anta, -ema, ne-restrikt-ata, -ita; sen-limita,
+abund-anta.
+
+<b dict-key="unstring">unstring:</b> des-tensar, lax-igar; des-kord-izar; des-ligar.
+
+<b dict-key="unsubstantial">unsubstantial:</b> sen-substanca; ne-materi-a; ne-reala; ne-solida;
+(<i>of food</i>) ne-nutr-iva.
+
+<b dict-key="unsullied">unsullied:</b> sen-makula, virga, pura.
+
+<b dict-key="unswerving">unswerving:</b> ne-deviac-anta.

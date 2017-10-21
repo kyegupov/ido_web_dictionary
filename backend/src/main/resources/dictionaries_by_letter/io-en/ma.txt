@@ -1,0 +1,740 @@
+<b dict-key="ma">ma:</b> (<i>conj.</i>) but. &mdash; FIS
+
+<b dict-key="macedonio">macedoni-o:</b> macedoine: a dish consisting of a medley of fruit and
+vegetables; (<i>fig.</i>) medley, hodgepodge. &mdash; EFIS
+
+<b dict-key="macerar">macer-ar:</b> (<i>tr., intr.</i>) to macerate: soften by steeping. &mdash;
+DEFIS
+
+<b dict-key="macfarlane">&laquo;macfarlane&raquo;:</b> macfarlane: a kind of overcoat without
+sleeves and with a mantle.
+
+<b dict-key="mackintosh">&laquo;mackintosh&raquo;:</b> mackintosh: a watertight overcoat.
+
+<b dict-key="madapolam">&laquo;madapolam&raquo;:</b> (<i>fabric</i>) madapollam.
+
+<b dict-key="madeleno">madelen-o:</b> madeline: a small rich cake. &mdash; DEFIS
+
+<b dict-key="madono">madon-o:</b> madonna: a picture or statue of the Virgin Mary. &mdash; DEFIRS
+
+<b dict-key="madras">&laquo;madras&raquo;:</b> bandana handkerchief.
+
+<b dict-key="madreporo">madrepor-o:</b> madrepore, stony coral (genus: Madrepora). &mdash; DEFIS
+
+<b dict-key="madrigalo">madrigal-o:</b> madrigal: a part-song or glee; a little amorous poem.
+&mdash; DEFIRS
+
+<b dict-key="maestro,maestrulo,maestrino">maestr-o, -ulo, -ino:</b> maestro: a teacher of eminence,
+or one eminently skilled in some art or science; <b dict-key="maestrverko">-verko:</b>
+master-piece. &mdash; DEFIRS
+
+<b dict-key="mago,magi">mag-o, -i:</b> (<i>biblical</i>) magian, magi. &mdash; DEFIS
+
+<b dict-key="magazino">magazin-o:</b> (<i>com.</i>) warehouse, storehouse; (<i>nav.</i>) storeroom;
+(<i>milit.</i>) magazine. &mdash; DEFIR
+
+<b dict-key="magiar">magi-ar:</b> (<i>intr.</i>) to practise magic; <b dict-key="magiala
+kanto,dicajo">-ala kanto, dicajo:</b> incantation; (cf. <b
+dict-key="eskamotar,sorcar,divinar,nekromanciar">eskamotar, sorcar, divinar, nekromanciar</b>).
+&mdash; DEFIS
+
+<b dict-key="magnato">magnat-o:</b> magnate: a nobleman of Poland or Hungary. &mdash; DEFIRS
+
+<b dict-key="magneto">magnet-o:</b> magnet; <b dict-key="magnetopetro">-o-petro:</b> loadstone; <b
+dict-key="magnetigar">-igar:</b> to magnetize; <b dict-key="magneta agulo">-a agulo:</b> magnetic
+needle; <b dict-key="magneteso">-eso:</b> (<i>property</i>) magnetism. &mdash; DEFIRS
+
+<b dict-key="magnetizar">magnetiz-ar:</b> (<i>tr.</i>) to mesmerize (<b dict-key="ulu">ulu</b>); <b
+dict-key="magnetiz">-(ad)o:</b> mesmerizing; animal magnetism; <b dict-key="magnetizala">-ala:</b>
+mesmeric (cf. <b dict-key="hipnotar">hipnotar</b>). &mdash; DEFIRS
+
+<b dict-key="magnezo">magnez-o:</b> (<i>chem.</i>) magnesium. &mdash; DEFIRS
+
+<b dict-key="magnezio">magnezi-o:</b> (<i>chem.</i>) magnesia: magnesium oxide. &mdash; DEFIRS
+
+<b dict-key="magnolio">magnoli-o:</b> (<i>bot.</i>) magnolia (-tree) (genus: Magnolia). &mdash;
+DEFIS
+
+<b dict-key="magra">magr-a:</b> lean, meager, lank, spare; (<i>of things</i>) poor, sorry, scant,
+meager; <b dict-key="magr">-(ul)o:</b> a lean person; <b dict-key="la magrajo">(la) -ajo:</b> the
+lean (of meat); <b dict-key="magrigar,magreskar">-igar, -eskar:</b> to make, become lean; <b
+dict-key="magrega,magracha">-ega, -acha:</b> emaciated. Ex.: Magra Homo, vizajo, bovo, karno.
+(<i>fig.</i>) Magra burso, repasto, sulo, amuzo. Ant.: <b dict-key="grasa">grasa. &mdash; </b>DEFIS
+
+<b dict-key="mahagono">mahagon-o:</b> (<i>wood</i>) mahogany; <b dict-key="mahagoniero">-iero:</b>
+m. tree; (Swietenia mahagoni); <b dict-key="mahagona litoframo">-a lito-framo:</b> m. bedstead.
+&mdash; DEI
+
+<b dict-key="maifloro">maiflor-o:</b> (<i>bot.</i>) lily of the valley (Convallaria majalis).
+&mdash; D
+
+<b dict-key="maizo">maiz-o:</b> maize: (U.S.) corn; (England) Indian corn; (Zea mays). &mdash; DEFRS
+
+<b dict-key="majesto">majest-o:</b> majesty, supreme grandeur, august dignity, stateliness; (cf. <b
+dict-key="Sinioro,la rejo">Sinioro, la rejo, </b>e.c.); <b dict-key="majestoza">-oza:</b> majestic;
+<b dict-key="majestolezo">-o-lezo:</b> l&egrave;se-majest&eacute;. &mdash; DEFIS
+
+<b dict-key="majora">major-a:</b> of full age; (<i>mus.</i>) major; <b
+dict-key="majoro,majorulo,majorino">-o, -ulo, -ino:</b> one who has attained his majority; (<i>mus.
+and logic</i>) major; <b dict-key="majoreso">-eso:</b> majority: legal age. Ant.:<b
+dict-key="minora"> minora. &mdash; </b>DEFIS
+
+<b dict-key="majorano">majoran-o:</b> (<i>bot.</i>) (sweet) marjoram (Origanum Majorana). &mdash;
+DEFIS
+
+<b dict-key="majorato">majorat-o:</b> majorat; (<i>in France</i>) landed property attached to a
+title and descending with it; entailed estate. &mdash; DEFIS
+
+<b dict-key="majordomo">majordom-o:</b> majordomo, head steward. &mdash; DEFIRS
+
+<b dict-key="majoritato">majoritat-o: </b>majority: more than half of a given number or group; (cf.
+<b dict-key="plumulto">plu-mult-o</b>). &mdash; DEFIS
+
+<b dict-key="makadamo">makadam-o:</b> macadam; <b dict-key="makadamizar">-izar:</b> to macadamize:
+cover a road with small broken stones. &mdash; DEFIRS
+
+<b dict-key="makako">makak-o:</b> (<i>zool.</i>) macaque: a genus (Macaca) of short-tailed monkeys.
+&mdash; DEFIS
+
+<b dict-key="makarono">makaron-o:</b> macaroon: a kind of cake. &mdash; DEFR
+
+<b dict-key="makaronio">makaroni-o:</b> macaroni. &mdash; DEFIRS
+
+<b dict-key="makaroniko">makaronik-o:</b> macaronic. Def.: Dicesas pri verki kompozita en Latino
+barbara e burleska; IV-394. &mdash; DEFIRS
+
+<b dict-key="makio">maki-o:</b> (<i>zool.</i>) maki (Lemur). &mdash; DEFIRS
+
+<b dict-key="Makiavelala,Makiavelatra,Makiavelismo">Makiavel-ala, -atra, -ismo:</b> machiavelli-an,
+-ism. &mdash; DEFIRS
+
+<b dict-key="maklo">makl-o:</b> (<i>min.</i>) macle, chiastolite. &mdash; EFIS
+
+<b dict-key="makrelo">makrel-o:</b> (<i>ichth.</i>) mackeral (genus: Scomber). &mdash; DEFR
+
+<b dict-key="makronukleo">makronukle-o:</b> (<i>biol.</i>) macronucleus.
+
+<b dict-key="makrosporo">makrospor-o:</b> (<i>bot.</i>) macrospore, megaspore. &mdash; DEF
+
+<b dict-key="makrosporangio">makrosporangi-o:</b> <i>(bot.)</i> macrosporangium. &mdash; DEF
+
+<b dict-key="makulo">makul-o:</b> (<i>also fig.</i>) macula: spot, blotch, stain; <b
+dict-key="makulizar">-izar:</b> to blot, stain, daub, smear; <b
+dict-key="makuloza,makulizita">-oza, -iz-ita:</b> spotted, speckled; <b
+dict-key="makuletizar">-et-izar:</b> to spot, speckle, fleck; <b dict-key="sen makula">sen- -a:</b>
+spotless; <b dict-key="makulole,fangomakulo">-ole, fango-mak-ulo:</b> oil-, mud-stain; <b
+dict-key="kavalo kun ronda makuli">kavalo kun ronda -i:</b> dappled horse; <b dict-key="makulo sur
+lua honoro,sur la bona reputo">-o sur lua honoro, sur la bona reputo:</b> stain, blot upon his
+hono(u)r, reputation. &mdash; DEFIS
+
+<b dict-key="makulaturo">makulatur-o:</b> (<i>print.</i>) maculature: waste or spoiled paper.
+&mdash; DEFIRS
+
+<b dict-key="mala">mal-a:</b> bad, evil, ill (quality, acts, writing, condition, weather, news,
+sense, etc.); <b dict-key="male">-e:</b> badly, wrongly, amiss, poorly; <b
+dict-key="malajo">-ajo:</b> (<i>gen. sense</i>) bad object, act, event; hardship, misfortune;
+mischief; <b dict-key="plu mala">plu -a:</b> worse; <b dict-key="plumaligar">plu-mal-igar:</b> to
+make worse; <b dict-key="la maxima malajo,lo maxim mala">la maxima malajo, lo maxim mala:</b> the
+worst (thing); <b dict-key="malagar,malfacar">mal-agar, -facar:</b> to act, do wrong, evil,
+mischief; <b dict-key="malfacema">mal-fac-ema:</b> malevolent, mischievous; <b
+dict-key="malauguroza">-augur-oza:</b> inauspicious, sinister, unlucky; <b dict-key="mala
+chanco">mala chanco:</b> ill-luck, mischance; <b dict-key="malchancoza">-chanc-oza:</b> unlucky,
+unfortunate; <b dict-key="malefikanta">-efik-anta:</b> malevolent, malignant; <b dict-key="male
+traktar">male traktar:</b> to maltreat, ill-use, abuse, bully; <b
+dict-key="malfamoza">mal-fam-oza:</b> ill-famed; <b dict-key="maledukita">mal-eduk-ita:</b> badly
+brought up, ill-bred, unmannerly; <b dict-key="malformacita">mal-formac-ita:</b> malformed, gawky,
+ill-shaped; <b dict-key="maldigesto">mal-digesto:</b> indigestion; <b
+dict-key="malhumoroza">mal-humor-oza:</b> bad homo(u)red, ill-tempered; <b
+dict-key="malintencanta,maloza">mal-intenc-anta, -oza:</b> evil-minded, badly-disposed; <b
+dict-key="malodoro">mal-odoro:</b> bad smell, stink; <b dict-key="mala morto">mala morto:</b>
+tragic death, bad end;<b dict-key="malpektita"> mal-pekt-ita:</b> unkempt; <b dict-key="mala
+pesto">mala pesto!:</b> egad! plague on it! <b dict-key="malvolanta">mal-vol-anta:</b> malevolent,
+ill-disposed, spiteful; <b dict-key="malvoleganta">mal-vol-eg-anta:</b> malignant. Ant.: <b
+dict-key="bona">bona. &mdash; </b>EFIS
+
+<b dict-key="malada">malad-a:</b> sick, ill (person); <b dict-key="maladeta,maladema">-eta,
+-ema:</b> poorly, sickly, somewhat unwell, ailing, indisposed; <b dict-key="malad">-(ul)o:</b> a
+sick person; <b dict-key="maladeso">-eso:</b> (condition) illness, sickness (cf. <b
+dict-key="morbo">morbo</b>); <b dict-key="maladeteso">-et-eso:</b> indisposition; <b dict-key="igar
+maladeta">igar malad-eta:</b> to indispose. V. exp.: vid. <b dict-key="morbo">morbo</b>. Ant.: <b
+dict-key="sana">sana.</b> &mdash; EFI
+
+<b dict-key="malakito">malakit-o:</b> (<i>min.</i>) malachite. &mdash; DEFIRS
+
+<b dict-key="malario">malari-o:</b> (<i>med.</i>) malaria. &mdash; DEFIRS
+
+<b dict-key="maldicensar">maldicens-ar:</b> (<i>intr., tr.</i>) to speak ill (<b dict-key="pri
+ulo">pri ulo</b>), to disparage, decry (<b dict-key="ulu,ulo">ulu, ulo</b>); (cf. <b
+dict-key="denigrar,difamar,kalumniar">denigrar, difamar, kalumniar</b>). Def.: Dicar malajo pri
+ulu, ulo, pro mala intenco. V. exp.: La civila lego punisas la <b dict-key="difamo">difamo</b>, na
+la <b dict-key="maldicenso">maldicenso</b>; ica resortisas nur a la etikal lego. &mdash; FIS
+
+<b dict-key="malear">male-ar:</b> (<i>tr.</i>) to cold-forge. Def.: Formizar per martelo (en kolda
+stando). V. exp.: <b dict-key="Forjar">Forjar</b> esas la sama ago, en varma stando. <b
+dict-key="Martelagar">Martel-agar</b> esas nejusta o nesuficanta, nam on povas martel-agar irga
+kozo, sen malear ol; la kozo povas rezistar, o ruptesar, o deformesar altramaniere; V-493. &mdash;
+EFIS
+
+<b dict-key="maledikar">maledik-ar:</b> (<i>tr.</i>) to curse, imprecate, damn (<b
+dict-key="ulu,ulo">ulu, ulo</b>); (cf. <b dict-key="blasfemar,imprekar">blasfemar, imprekar</b>);
+<b dict-key="malediko">-o:</b> malediction, curse. &mdash; DEFIS
+
+<b dict-key="maleolo">maleol-o:</b> (<i>anat.</i>) malleolus: ankle-bone, ankle. &mdash; EFIS
+
+<b dict-key="malgre">malgre:</b> (<i>prep.</i>) in spite of, despite, notwithstanding, against the
+will of; <b dict-key="malgreke">-ke:</b> (<i>conj.</i>) notwithstanding that (followed by verb; cf.
+<b dict-key="tamen">tamen</b>); <b dict-key="malgre sua volo">- sua volo:</b> against one&rsquo;s
+will; <b dict-key="malgreto">-to:</b> in spite of that, nevertheless; <b dict-key="ni iris malgre
+la pluvo">ni iris malgre la pluvo:</b> we went notwithstanding the rain; <b dict-key="ni iris
+malgre ke il interdiktis lo">ni iris malgre ke il interdiktis lo:</b> we went notwithstanding he
+forbade it; <b dict-key="el mariajis su kun il malgre sua matro">el mariajis su kun il malgre sua
+matro:</b> she married him contrary to her mother&rsquo;s wish. &mdash; FI
+
+<b dict-key="malio">mali-o:</b> a mallet or mall used in play; <b dict-key="malioludo">-o-ludo:</b>
+mall (a game); <b dict-key="malioplaco">-o-placo:</b> a place for playing mall. &mdash; EFIS
+
+<b dict-key="malico">malic-o:</b> malice, spite; mischievousness; smartness; <b
+dict-key="malicoza,malicema">-oza, -ema:</b> malicious, spiteful, mischievous; <b
+dict-key="malicajo">-ajo:</b> malicious or mischievous act. N.B. The sense of this word is by no
+means always &laquo;malice&raquo;. It is something between evil intention and keen wit with a tinge
+of each in it, sometimes having more of the one, sometimes more of the other. &mdash; EF
+
+<b dict-key="maligno">malign-o:</b> malicious, pernicious, evil, ill-disposed, malign, baleful.
+(N.B. <b dict-key="Maligna">Maligna</b> is used in a somewhat less strong sense than the E.
+&laquo;malignant&raquo;; and properly means: disposed to take pleasure in the misfortune or
+suffering of others; <b dict-key="malignega,malvoleganta">malign-ega, mal-vol-eg-anta</b>); <b
+dict-key="maligna muliero">-a muliero:</b> a malicious woman; <b dict-key="maligna spirito">-a
+spirito:</b> an evil spirit; <b dict-key="maligna tomoro">-a tomoro:</b> a malignant tumo(u)r.
+&mdash; EFIS
+
+<b dict-key="malto">malt-o:</b> malt. &mdash; DEFIS
+
+<b dict-key="Maltakruco">Malta-kruco:</b> Maltese cross.
+
+<b dict-key="malvo">malv-o:</b> (<i>bot.</i>) mallow (genus: Malva); <b dict-key="malvea">-ea:</b>
+mauve-colo(u)red. &mdash; DEFIRS
+
+<b dict-key="malvarozo">malvaroz-o:</b> (<i>bot.</i>) rose-mallow, hollyhock (Althaea rosea).
+&mdash; IS
+
+<b dict-key="malvavisko">malvavisk-o:</b> (<i>bot.</i>) marshmallow (Althaea officinalis). &mdash;
+IS
+
+<b dict-key="malyoto">malyot-o:</b> bathing-tights, -dress (tights as for acrobats, cf. <b
+dict-key="kalzego">kalz-ego</b>).
+
+<b dict-key="mamo">mam-o:</b> breast (of woman); udder (of animal); <b dict-key="mamoza">-oza:</b>
+full-breasted; <b dict-key="mamala">-ala:</b> mammary; <b dict-key="mamatra">-atra:</b> mammilary;
+<b dict-key="mampinto">-pinto:</b> nipple, teat, dug (of animals). &mdash; EFI
+
+<b dict-key="mamifero">mamifer-o:</b> mammal; (class) mammalia. &mdash; EFIS
+
+<b dict-key="mamilo">mamil-o:</b> (<i>anat.</i>) mammilla: nipple (cf. <b
+dict-key="mampinto">mam-pinto</b>).
+
+<b dict-key="mamuto">mamut-o:</b> mammoth. &mdash; DEFIRS
+
+<b dict-key="mani">man-i:</b> (<i>antiq.</i>) manes, ancestral spirits, shades. &mdash; DEFIRS
+
+<b dict-key="manao">mana-o:</b> manna. &mdash; DEFIRS
+
+<b dict-key="mancho">manch-o:</b> (long) handle, hilt, haft; neck (of musical instr.); <b
+dict-key="mancho di balayilo">-o di balay-ilo:</b> broom-stick; <b
+dict-key="guvernilo">guvern-il-o:</b> rudder, helm. &mdash; FIS
+
+<b dict-key="mandareno">mandaren-o:</b> mandarin. &mdash; DEFIRS
+
+<b dict-key="mandarino">mandarin-o:</b> mandarin orange; tangerine orange. &mdash; DEFIRS
+
+<b dict-key="mandato">mandat-o:</b> money order (as P.O.; cf. <b dict-key="cheko">cheko</b>).
+&mdash; DFIRS
+
+<b dict-key="mandelo">mandel-o:</b> almond; <b dict-key="mandeliero">-iero:</b> a. tree (Prunus
+Amygdalus); <b dict-key="mandellakto">-lakto:</b> milk of a.; <b dict-key="mandelatra okuli">-atra
+okuli:</b> a. eyed; <b dict-key="mandelsiropo">-siropo:</b> a. syrup, orgeat (cf. <b
+dict-key="orjato">orjato</b>). &mdash; DFIRS
+
+<b dict-key="mandibulo">mandibul-o:</b> mandible; (<i>zool.</i>) either the upper or lower, part of
+the beak of a bird; (<i>anat.</i>) lower jaw; (cf. <b dict-key="maxilo">maxilo</b>); <b
+dict-key="mandibulala">-ala:</b> mandibular. &mdash; DEFIS
+
+<b dict-key="mandolino">mandolin-o:</b> (<i>mus.</i>) mandolin. &mdash; DEFIRS
+
+<b dict-key="mandoro">mandor-o:</b> (<i>mus.</i>) mandore: a kind of stringed lute. &mdash; DEFI
+
+<b dict-key="mandragoro">mandragor-o:</b> (<i>bot.</i>) mandragora; European mandrake (Atropa
+mandragora). &mdash; EFIS
+
+<b dict-key="mandrelo">mandrel-o:</b> (<i>tech.</i>) mandril, mandrel. Def.: Utensilo por kurvigar
+plaki, dilatar tubi, e.c.; IV-336. &mdash; EFIS
+
+<b dict-key="mandrino">mandrin-o:</b> (<i>tech.</i>) drill-chuck. &mdash; FIS
+
+<b dict-key="manejo">manej-o:</b> manege: riding-school; -academy. &mdash; DEFIRS
+
+<b dict-key="manekino">manekin-o:</b> manikin, lay figure, dummy. Def.: Figuro imitanta la formo di
+homo o di animalo; ofte artikizita; III-327. &mdash; DEFRS
+
+<b dict-key="maneto">manet-o:</b> (<i>tech.</i>) hand-lever, movable handle or knob. &mdash; FI
+
+<b dict-key="mango">mang-o:</b> (<i>fruit</i>) mango; <b dict-key="mangiero">-iero:</b> mango tree
+(Mangifera). &mdash; DEFIS
+
+<b dict-key="mangano">mangan-o:</b> (<i>min.</i>) manganese. &mdash; DEFIRS
+
+<b dict-key="manglo">mangl-o:</b> (<i>fruit</i>) mangrove; <b dict-key="mangliero">-iero:</b>
+mangrove tree (Rhizophora Mangle). &mdash; DEFIS
+
+<b dict-key="mangusto">mangust-o:</b> (<i>zool.</i>) mongoose (Herpestes). &mdash; DEFIS
+
+<b dict-key="manio">mani-o:</b> mania, monomania: derangement of the mind especially upon a single
+subject; <b dict-key="manieto">-eto:</b> hobby, fancy; <b dict-key="maniika,manioza
+maniiko,maniozo">-ika, -oza; -iko, -ozo:</b> maniac(al); (cf. <b
+dict-key="monomaniiko">monomani-iko</b>). Ex.: Il havas mani(et)o skribar, kompozar. Mani(et)o pri
+kultivado di tulipi. &mdash; DEFIRS
+
+<b dict-key="maniero">manier-o:</b> manner, way of doing anything; or acting; method; mannerism;
+(<i>pl.</i>) behavio(u)r, deportment, (cf. <b dict-key="kustumo,modo">kustumo, modo</b>); <b
+dict-key="omna laboristo laboras segun sua maniero">omna laboristo laboras segun sua maniero:</b>
+every workman has his own way of doing a thing; <b dict-key="parol">parol-</b> (od, <b
+dict-key="maniermodo">-modo</b>) mode, manner of speech; <b dict-key="il havas tre agreabla
+manieri">il havas tre agreabla manieri:</b> he has very pleasing manners. &mdash; DEFIRS
+
+<b dict-key="manifestar">manifest-ar:</b> (<i>tr.</i>) to manifest, make to appear, make known; <b
+dict-key="manifesta">-a:</b> manifest, no longer concealed (cf. <b
+dict-key="evidenta,videbla,notora,publika">evidenta, vid-ebla, notora, publika</b>). Ex.: Deo
+manifestas su per sua laboruri. Manifesta eroro. &mdash; DEFIRS
+
+<b dict-key="maniko">manik-o:</b> sleeve (of a garment, or any sleeve-like object); <b
+dict-key="maniko bufanta">-o buf-anta:</b> puffed or bulging s.; <b dict-key="sur maniko">sur-
+-o:</b> over-s., s. guard. &mdash; FIS
+
+<b dict-key="manikeismo">manikeism-o*:</b> Manichaeism.
+
+<b dict-key="manikurar">manikur-ar:</b> (<i>tr.</i>) (2001) to manicure. &mdash; DEFIRS
+
+<b dict-key="manioko">maniok-o:</b> (<i>bot.</i>) manioc, manihot, cassava (genus: Manihot).
+&mdash; DEFIS
+
+<b dict-key="maniplo">manipl-o:</b> (<i>Rom. antiq., eccl.</i>) maniple. &mdash; DEFIRS
+
+<b dict-key="manipular">manipul-ar:</b> (<i>tr.</i>) to manipulate; to treat, work or operate with
+the hand. &mdash; DEFIRS
+
+<b dict-key="manipulatoro">manipulator-o:</b> sounding-key; apparatus used to send messages
+(telegraphic, etc.) by breaks in the current. &mdash; EFIRS
+
+<b dict-key="manivelo">manivel-o:</b> crooked handle, crank; <b dict-key="manivele plear ario">-e
+plear ario:</b> to grind out a tune (as on a hand organ); <b dict-key="manivelarboro">-arboro:</b>
+crank-shaft; <b dict-key="maniveldrilo">-drilo:</b> breast-drill. &mdash; FIS
+
+<b dict-key="manjar">manjar:</b> (<i>tr.</i>) to eat: chew and swallow; (<i>fig.</i>) to eat away;
+consume; <b dict-key="manjaretar">-etar: </b>to nibble, to eat little; <b
+dict-key="manjaro,manjarado">-o, -ado:</b> a meal, eating; <b dict-key="manjarajo">-ajo:</b>
+something eaten or to be eaten; food, victuals (cf. <b dict-key="nutriva,disho">nutr-iva,
+disho</b>); <b dict-key="manjarilaro">-il-aro:</b> eating utensils; <b
+dict-key="manjaregero">-eg-ero:</b> glutton; <b dict-key="manjarotrogo">-o-trogo:</b> manger, crib,
+eating tough; <b dict-key="manjareyo,manjarochambro">-eyo, -o-chambro:</b> eating place, dining
+chamber, refectory; <b dict-key="manjarosako">-o-sako:</b> nosebag (for horses). &mdash; FIS
+
+<b dict-key="mankar">mank-ar:</b> to be lacking, wanting, missing (cf. <b
+dict-key="indijar">indijar</b>); <b dict-key="manko">-o:</b> want, lack, absence, deficiency,
+shortcoming, need; <b dict-key="to mankas a me">to mankas a me:</b> I miss it (<i>lit.</i>) that is
+missing to me; <b dict-key="manko di respekto,di pekunio">manko di respekto, di pekunio:</b> lack
+of respect, of money; <b dict-key="mankas multa libri">mankas multa libri (</b>od, <b
+dict-key="multa libri mankas">multa libri mankas):</b> many books are missing. &mdash; FIS
+
+<b dict-key="manometro">manometr-o:</b> manometer: a pressure or vacuum gauge; steam gauge. &mdash;
+DEFIRS
+
+<b dict-key="manoto">manot-o:</b> handcuff; <b dict-key="manotizar,manotligar">-izar, -ligar:</b>
+to handcuff. &mdash; FIS
+
+<b dict-key="manovrar">manovr-ar:</b> (<i>tr., intr.</i>) to maneuver (man&oelig;uvre) (troops,
+ships); (<i>fig.</i>) to manage, or bring about, with skill (an affair, etc.). &mdash; DEFIRS
+
+<b dict-key="mansardo">mansard-o:</b> garret; story or room under a sloping roof (cf. <b
+dict-key="atiko">atiko</b>). &mdash; DFIR
+
+<b dict-key="mansheto">manshet-o:</b> cuff (detachable or not, of shirts, gowns); (cf. <b
+dict-key="ponyeto,paramento">ponyeto, paramento</b>). Def.: Parto (ordinare starchita) qua finis
+maniko di kamizo e cirkondas la karpo; VI-245. &mdash; DFIR
+
+<b dict-key="mantear">mante-ar:</b> (<i>tr.</i>) to toss (<b dict-key="ulu">ulu</b>) in a blanket.
+&mdash; S
+
+<b dict-key="mantelo">mantel-o:</b> (<i>garment</i>) mantle, cloak; (<i>arch.</i>) mantel (as over
+a fire-place); <b dict-key="manteleto">-eto:</b> short cloak; (<i>R.C. ch.</i>) mantelletta; <b
+dict-key="mantelsako">-sako:</b> portmanteau; clothes-bag; (cf. <b dict-key="valizo">valizo</b>).
+&mdash; DEFIRS
+
+<b dict-key="mantenar">manten-ar:</b> (<i>tr.</i>) to keep fast, hold fast, sustain (in a state of
+stability); <b dict-key="mantenar karpenturo per fero">-ar karpenturo per fero:</b> to uphold
+timberwork with iron; to maintain, preserve: keep in the same state; <b dict-key="mantenar
+ordino,familio">-ar ordino, familio:</b> to maintain order, a family; <b dict-key="la manteno di la
+legi">la -o di la legi:</b> the maintaining of the laws. Def.: Tenar en la sama pozeso o stando;
+VI-51. &mdash; EFIS
+
+<b dict-key="mantilio">mantili-o:</b> mantilla. &mdash; DEFIRS
+
+<b dict-key="mantiso">mantis-o:</b> the decimal part of a logarithm.
+
+<b dict-key="manuo">manu-o: </b>hand; <b dict-key="manuala">-ala:</b> manual; <b
+dict-key="manulaboro">-laboro:</b> hand (or, manual) labo(u)r; <b dict-key="manulibro">-libro:</b>
+hand-book, manual:<b dict-key="manuskribita"> -skrib-ita:</b> hand-written (cf. <b
+dict-key="manuskripto">manuskripto</b>); <b dict-key="manuagar">-agar:</b> (<i>tr.</i>) to handle,
+wield; (<i>fig.</i>) to manage; <b dict-key="manuagebla">-ag-ebla:</b> which can be handled,
+workable; (<i>fig.</i>) manageable; <b dict-key="manufabrikar">-fabrikar:</b> (<i>tr.</i>) to make
+(<b dict-key="ulo">ulo</b>) by hand; (cf. <b dict-key="fabrikar">fabrikar</b>); <b
+dict-key="manuedo">-edo:</b> handful; <b dict-key="manuedope">-edope:</b> by handfuls; <b
+dict-key="manufrapo">-frapo:</b> blow, cuff, thump; <b dict-key="manudorso">-dorso:</b> back of
+hand; <b dict-key="manupreso">-preso:</b> hand-pressure; handshake; <b
+dict-key="manuveturo">-veturo:</b> hand-truck, barrow; <b dict-key="manuvishilo">-vish-ilo:</b>
+hand-towel; <b dict-key="manuapogilo">-apog-ilo:</b> hand-rest; <b dict-key="manusako">-sako:</b>
+hand-bag, reticule. &mdash; EFIS
+
+<b dict-key="manufakturo">manufaktur-o:</b> (<i>establ.</i>) manufactory, factory (cf. <b
+dict-key="fabrikerio">fabrik-erio</b>); <b dict-key="manufakturala">-ala:</b> relating to
+factories; <b dict-key="manufakturisto,manufakturestro">-isto, -estro:</b> manufacturer; <b
+dict-key="oza">oza:</b> full of factories. &mdash; DEFRS
+
+<b dict-key="manuskripto">manuskript-o:</b> manuscript. &mdash; DEFIRS
+
+<b dict-key="manzanilo">manzanil-o:</b> (<i>bot.</i>) manchineel (-tree) (Hippomane mancinella.).
+&mdash; DEFIS
+
+<b dict-key="mapo">map-o:</b> map; <b dict-key="reliefa mapo">reliefa -o:</b> relief map. &mdash; E
+
+<b dict-key="maro">mar-o:</b> sea (cf. <b dict-key="oceano">oceano</b>); <b
+dict-key="mara,marala">-a, -ala:</b> of or relating to the sea, marine, maritime (cf. <b
+dict-key="navala">nav-ala</b>); <b dict-key="maristo">-isto:</b> seaman, sailor; <b dict-key="maro
+meza">-o meza (</b>od,<b dict-key="plena"> plena):</b> main sea, high sea; <b
+dict-key="marportuo">-portuo:</b> sea-port; <b dict-key="marala nauzeo">-ala nauzeo:</b>
+sea-sickness; <b dict-key="markolo,stretajo">-kolo, stret-ajo:</b> arm of the sea, strait; <b
+dict-key="marfisharo">-fish-aro:</b> sea-fish; <b dict-key="maroaglo">-o-aglo:</b> (<i>orni.</i>)
+white-tailed sea-eagle (Haliaetus albicilla); <b dict-key="marhundo">-hundo:</b> (<i>mam.</i>) seal
+(Phoca); <b dict-key="marospumo">-o-spumo:</b> sea-foam; (<i>fig.</i>) meerschaum; <b
+dict-key="marospuma pipo">-o-spuma pipo:</b> meerschaum pipe. &mdash; DEFIRS
+
+<b dict-key="marabuto">marabut-o:</b> Marabout. Def.: Mohamedista kleriko od ermito; VII-280.
+&mdash; DEFIRS
+
+<b dict-key="maraskino">maraskin-o:</b> maraschino: a kind of liquor. &mdash; DEFIRS
+
+<b dict-key="marasmo">marasm-o:</b> (<i>med.</i>) marasmus: progressive emaciation. &mdash; DEFIRS
+
+<b dict-key="maratono">maraton-o:</b> (2001) marathon. &mdash; DEFIRS
+
+<b dict-key="marchar">march-ar:</b> (<i>intr.</i>) to walk, step, tread; (<i>of soldiers</i>) to
+march; <b dict-key="march">-(ad)o:</b> walk(ing), march(ing); <b dict-key="marchar grandapaze">-ar
+granda-paze:</b> to stride; <b dict-key="marcho acelerata">-o aceler-ata:</b> forced-, quick-,
+hurried-march or walk; <b dict-key="marchomodo,marchmaniero">-o-modo, -maniero:</b> way of walking,
+gait (cf. <b dict-key="pazo">pazo</b>); <b dict-key="marchanto,marchero">-anto, -ero:</b>
+pedestrian, walker, marcher; <b dict-key="marchario">-ario:</b> march-music, -tune; <b
+dict-key="marchetar">-etar:</b> to trip along (of children). Def.: Facar pazi, pozar alterne la
+pedi sur la sulo, irge qua esas la direciono o la skopo di ta ago (ne rezervata a la militala
+marcho, o la militala komandi); IV-464. &mdash; DEFIRS
+
+<b dict-key="marchandar">marchand-ar:</b> (<i>tr.</i>) to bargain for, beat down the price of,
+haggle about; <b dict-key="marchand">-(ad)o:</b> bargaining; <b dict-key="il longatempe marchandis
+ta domo">il longa-tempe marchandis ta domo:</b> he was a long time bargaining for that house.
+&mdash; F
+
+<b dict-key="marcipano">marcipan-o:</b> marzipan, marchpane: a kind of sweetmeat. &mdash; DEFIRS
+
+<b dict-key="mardio">mardi-o:</b> Tuesday. &mdash; FIS
+
+<b dict-key="mareo">mare-o:</b> tide, ebb and flow (cf. <b dict-key="fluxo,refluxo">fluxo,
+refluxo</b>); <b dict-key="mareego">-ego:</b> bore, eagre: rush of water up an estuary; wave caused
+by meeting of two tides. &mdash; FIS
+
+<b dict-key="mareografo">mareograf-o:</b> marigraph: tide-gauge register.
+
+<b dict-key="mareometro">mareometr-o:</b> tide-gauge.
+
+<b dict-key="margarino">margarin-o:</b> (<i>chem.</i>) margarin; (<i>com.</i>) oleomargarine,
+artificial butter. &mdash; DEFIS
+
+<b dict-key="margravo">margrav-o:</b> (<i>title</i>) margrave. &mdash; DEFIS
+
+<b dict-key="margrito">margrit-o:</b> (<i>bot.</i>) marguerite, oxe-eye daisy (Chrysanthemum
+leucanthemum); <b dict-key="margriteto">-eto:</b> English daisy (Bellis perennis). &mdash; EF
+
+<b dict-key="mariabalno">maria-balno:</b> (<i>chem.</i>) water-bath; <i>(cook.)</i> double-boiler.
+&mdash; DFIS
+
+<b dict-key="mariajar">mariaj-ar:</b> (<i>tr.</i>) to marry; legally unite in wedlock (by an
+official, priest, minister); (cf. <b dict-key="spozigar,aliancar">spoz-igar, aliancar</b>); <b
+dict-key="la komonestro mariajis li">la komonestro mariajis li:</b> the mayor married them; <b
+dict-key="mariajar su">-ar su:</b> to get married (<b dict-key="kun ulu">kun ulu</b>); <b
+dict-key="mariajo,mariajeso">-o, -eso:</b> marriage, matrimony, wedlock; <b dict-key="mariajo
+legala">-o leg-ala:</b> civil marriage; <b dict-key="mariajanto,mariajero">-anto, -ero:</b> person
+officiating at a marriage, match-maker; <b dict-key="mariajebla">-ebla:</b> marriageable; <b
+dict-key="mariajatulo">-at-ulo:</b> married man, (<b dict-key="nova">nova</b>) bridegroom; <b
+dict-key="mariajfesto">-festo:</b> wedding, nuptials; <b
+dict-key="mariajfestanti,mariajgasti">-fest-anti, -gasti:</b> wedding-party, -guests; <b
+dict-key="mariajanunco">-anunco:</b> banns. V. exp.: L&rsquo;ago <b
+dict-key="mariajar">mariajar</b> implikas 3 personi; la homulo e la homino mariajata, e la legal (o
+religial) oficisto, qua <b dict-key="mariajas">mariajas</b> (unionas) li. Do, segun rigoro, la
+verbo <b dict-key="mariajar">mariajar</b> povas havar quale subjekto nur l&rsquo;oficisto. Per
+extenso, on povas dicar ke la homulo e la homino <b dict-key="mariajas">mariajas</b> su, pro ke lia
+volo esas ya la kauzo di la mariajo; II-726. La sacerdoto <b dict-key="mariajas">mariajas</b> Maria
+e me. La patro di Maria grantis Maria a me kom <b dict-key="spozino">spozino</b>. Maria <b
+dict-key="spozuligis">spozuligis</b> me. Me <b dict-key="spozinigis">spozinigis</b> Maria, od, me
+<b dict-key="mariajis">mariajis</b> me kun Maria. &mdash; EFI
+
+<b dict-key="marihuano">marihuan-o:</b> (2001) marijuana, marihuana (narcotic; ). &mdash; DEFIRS
+
+<b dict-key="marinar">marin-ar:</b> (<i>tr.</i>) to marinate: to salt or pickle, as fish, and then
+preserve in oil or vinegar; <b dict-key="marinajo">-ajo:</b> marinade; (cf. <b
+dict-key="salizar">sal-izar</b>). &mdash; DEFIRS
+
+<b dict-key="marioneto">marionet-o:</b> (<i>also fig.</i>) marionette, puppet; <b dict-key="filo
+marioneto">filo- -o:</b> dancing jack. &mdash; DEFIRS 
+
+<b dict-key="marjino">marjin-o:</b> margin (of book, of paper); (<i>fig.</i>) border, edge (of
+anything); <b dict-key="notizar en marjino">not-izar en -o:</b> to note or write in the margin.
+&mdash; DEFIS
+
+<b dict-key="mark">&laquo;mark&raquo;:</b> (<i>money</i>) mark; (<i>weight</i>) mark; an old
+weight: 8 oz. (ounces).
+
+<b dict-key="marko">mark-o:</b> mark: token by which anything is known; stamp; <b
+dict-key="markizar">-izar:</b> to mark; <b dict-key="markifar">-ifar:</b> to produce a mark, leave
+a trace; <b dict-key="markosigno">-o-signo:</b> distinctive mark or sign; (cf. <b
+dict-key="indiko,signo,atesto">indiko, signo, atesto</b>); <b dict-key="marko sur mutono,sur
+bokotuko">marko sur mutono, sur boko-tuko:</b> mark on a sheep, on a napkin; <b dict-key="doganala
+marko">doganala -o:</b> stamp of the Customs. &mdash; DEFIRS
+
+<b dict-key="markez">markez-(ul)o:</b> marquis, <b dict-key="markezino">-ino:</b> marchioness.
+&mdash; DEFIRS 
+
+<b dict-key="markotar">markot-ar:</b> (<i>tr., hort.</i>) to layer: bend a shoot or branch to the
+ground and cover with earth so as to take root; <b dict-key="markotajo">-ajo:</b> branch or shoot
+thus layered. &mdash; FI
+
+<b dict-key="marmelado">marmelad-o:</b> marmelade. &mdash; DEFIRS
+
+<b dict-key="marmito">marmit-o:</b> pot (for boiling); porridge-pot. &mdash; FIS
+
+<b dict-key="marmoro">marmor-o:</b> marble; <b dict-key="marmora">-a:</b> of marble (statuo, e.c.);
+<b dict-key="marmorala,marmoratra">-ala, -atra:</b> relating to marble; marble-like, marmoreal; <b
+dict-key="marmorumar">-umar:</b> to stain or vein like marble. &mdash; DEFIRS
+
+<b dict-key="marmoto">marmot-o:</b> (<i>zool.</i>) marmot (Arctomys Marmota); (U.S.) woodchuck,
+groundhog. &mdash; EFIS
+
+<b dict-key="marno">marn-o:</b> marl. &mdash; FI
+
+<b dict-key="marodar">marod-ar:</b> (<i>intr.</i>) to maraud: rove in quest of plunder;
+(<i>tr.</i>) to plunder. &mdash; DEFRS
+
+<b dict-key="marokina,marokino">marokin-a, -o:</b> morocco (leather). &mdash; DFIS
+
+<b dict-key="marono">maron-o:</b> (<i>fruit</i>) marron: horse-chestnut (Aesculus Hippocastanum);
+<b dict-key="maronea,maronbruna">-ea, -bruna:</b> chestnut-colo(u)red; (cf. <b
+dict-key="kastano">kastano</b>). &mdash; EF
+
+<b dict-key="marquizo">marquiz-o:</b> marquee: a large field tent; an ornamental veranda or
+penthouse overhanging a balcony, window or door. &mdash; DEFIS
+
+<b dict-key="Marso">Mars-o:</b> (<i>myth., astron.</i>) Mars.
+
+<b dict-key="marsho,marshlando">marsh-o, -lando:</b> marsh, morass, bog, fen, swamp. &mdash; E
+
+<b dict-key="marshalo">marshal-o:</b> marshal, field-marshal. &mdash; DEFIRS
+
+<b dict-key="marsuino">marsuin-o:</b> porpoise (Phocaena communis). &mdash; FIS
+
+<b dict-key="marsupialo">marsupial-o:</b> (<i>zool.</i>) marsupial. &mdash; EFIS
+
+<b dict-key="marto">mart-o:</b> (month of) March. &mdash; DEFIRS
+
+<b dict-key="martelo">martel-o:</b> hammer; <b dict-key="martelagar">-agar:</b> to hammer (cf. <b
+dict-key="malear">malear</b>); <b dict-key="martelag">-ag-(ad)o:</b> hammering; <b
+dict-key="martelagebla">-ag-ebla:</b> malleable; <b dict-key="ligno martelo">ligno- -o:</b> mallet,
+pestle, beetle; (cf. <b dict-key="malio">malio</b>); <b dict-key="vapor martelego">vapor- -ego:</b>
+steam-, forge-hammer. &mdash; FIS
+
+<b dict-key="martinpeskaro">martin-pesk-aro:</b> (<i>orni.</i>) kingfisher (Alceda hispida); (cf.
+<b dict-key="alcedo">alcedo</b>). 
+
+<b dict-key="Martinsomero">Martin-somero:</b> St. Martin&rsquo;s summer: warm, damp season in
+England and southern Europe from November to about Christmas.
+
+<b dict-key="martiro,martirulo,martirino">martir-o, -ulo, -ino:</b> (<i>also fig.</i>) martyr; <b
+dict-key="martirigar">-igar:</b> martyrize (<b dict-key="ulu">ulu</b>). &mdash; DEFIS
+
+<b dict-key="martro">martr-o:</b> (<i>zool.</i>) marten (Mustela Martes). &mdash; DEFIS
+
+<b dict-key="marvelo">marvel-o:</b> wonder, marvel, prodigy. Def.: Ulo qua efikas astoneso od
+admiro per aparta beleso, grandeso o stranjeso, mem per superhomeso o supernatureso; II-19. &mdash;
+EFIS
+
+<b dict-key="maso">mas-o:</b> mass: body of matter cohering in one body, usually of considerable
+size; (cf. <b dict-key="amaso,bloko,turbo">amaso, bloko, turbo</b>). &mdash; DEFIRS
+
+<b dict-key="masajar">masaj-ar:</b> (<i>tr.</i>) to massage (<b dict-key="ulu">ulu</b>). &mdash;
+DEFIRS
+
+<b dict-key="masakrar">masakr-ar:</b> (<i>tr.</i>) to massacre. Def.: Mortigar un (od, plu
+generale) plura personi kruele o senbezone; III-698. &mdash; DEFIS
+
+<b dict-key="masho">mash-o:</b> mesh, link (as in knitting, etc.); <b
+dict-key="mashkuraso,mashkuto,mashtuniko">-kuraso, -kuto, -tuniko:</b> coat of mail. &mdash; DE
+
+<b dict-key="mashino">mashin-o:</b> machine, engine; <b dict-key="mashini,mashinaro">-i, -aro:</b>
+engines, machinery; <b dict-key="mashinisto">-isto:</b> machinist: one who runs or constructs m.s;
+<b dict-key="mashinala">-ala:</b> mechanical; relating to machinery (cf. <b
+dict-key="makanikala">makanik-ala</b>); <b dict-key="mashinagar">-agar:</b> to use or operate a m.;
+<b dict-key="mashinizar">-izar:</b> to furnish m.s to; <b dict-key="mashinifar">-ifar:</b> to
+produce, make m.s; <b dict-key="exploz mashino">exploz -o:</b> infernal machine; <b dict-key="milit
+mashino">milit- -o:</b> engine of war; <b dict-key="sut mashino">sut- -o:</b> sewing m.; <b
+dict-key="vapor mashino">vapor- -o:</b> steam-engine; <b dict-key="mashinskribar">-skrib-ar:</b>
+(<i>tr.</i>) to write with a m., to typewrite (<b dict-key="ulo">ulo</b>); (cf. <b dict-key="skrib
+mashino,mashinisto,mashinero">skrib- -o, -isto, -ero:</b> typist). &mdash; DEFIRS
+
+<b dict-key="mashinacar">mashinac-ar:</b> (<i>tr.</i>) to machinate: plan or contrive in secret
+with evil purpose. &mdash; DEFIS
+
+<b dict-key="masiva">masiv-a:</b> massive, bulky; <b dict-key="masivo">-o:</b> a large solid mass
+(as of masonry); a block (of flowers, trees, etc.); bulk (of a mountain or hill). &mdash; DEFIRS
+
+<b dict-key="maskar">mask-ar:</b> (<i>tr.</i>) to mask (to cover the face with a mask, not <b
+dict-key="travestiar">travestiar</b>); <b dict-key="maskilo">-ilo:</b> a mask; <b
+dict-key="maskita,maskito">-ita, -ito:</b> masked (person); <b
+dict-key="maskofesto,maskitaro">-o-festo, -it-aro:</b> masquerade; <b
+dict-key="maskiteso">-it-eso:</b> (<i>fig.</i>) a disguise. &mdash; DEFIRS
+
+<b dict-key="maskarono">maskaron-o:</b> (<i>arch.</i>) carved or moulded face (or figure). V exp.:
+To ne esas masko, ma vizajo plu o min groteska, skultita; IV-336. &mdash; DFRS
+
+<b dict-key="maskula,maskulala,maskulatra">maskul-a, -ala, -atra:</b> male, masculine; <b
+dict-key="maskulo">-o:</b> a male; <b dict-key="maskula genro">-a genro:</b> gender; <b
+dict-key="maskuleso">-eso:</b> masculinity. &mdash; DEFIS
+
+<b dict-key="masokismo">masok-ism-o:</b> (2001) masochism; <b dict-key="masokisto">-isto:</b>
+masochist. &mdash; DEFIRS
+
+<b dict-key="masonar">mason-ar:</b> (<i>tr.</i>) to do mason&rsquo;s work on: to build (with stone,
+brick, etc.); to wall up, seal up (a door, etc.); <b dict-key="masonisto">-isto:</b> mason,
+bricklayer. &mdash; EF
+
+<b dict-key="masto">mast-o:</b> mast; <b dict-key="masteto">-eto:</b> small m., spar, pole; <b
+dict-key="ye mimasto">ye mi-masto:</b> at half-mast; <b dict-key="masti,mastaro">-i, -aro:</b>
+masts (of a ship, etc.); <b dict-key="mastizar">-izar:</b> to put m.s on, in (a ship, etc.); <b
+dict-key="mastizilo">-iz-ilo:</b> sheer legs. &mdash; DEFRS
+
+<b dict-key="mastektomio">mastektomi-o:</b> (2001) mastectomy. &mdash; DEFIRS
+
+<b dict-key="mastico">mastic-o:</b> mastic: a resin from the mastic tree; any of the pasty cements,
+esp. putty; <b dict-key="masticizar">-izar:</b> to putty. &mdash; DEFI
+
+<b dict-key="mastikar">mastik-ar:</b> (<i>tr.</i>) to chew, masticate; <b
+dict-key="mastikajo">-ajo:</b> something to chew; cud; <b dict-key="mastikendo">-endo:</b>
+(<i>med.</i>) masticatory; <b dict-key="mastikachar">-achar:</b> to munch. &mdash; EFIS
+
+<b dict-key="mastodonto">mastodont-o:</b> mastodon. &mdash; DEFIRS
+
+<b dict-key="mastro">mastr-o:</b> master:<b dict-key=""> </b>person having authority; <b
+dict-key="mastrino">-ino:</b> mistress; <b dict-key="mastreso">-eso:</b> mastery; <b dict-key="su
+mastreso">su- -eso:</b> self-mastery, self-control; <b dict-key="sub mastro">sub- -o:</b> foreman,
+overseer. &mdash; DEFIS
+
+<b dict-key="masturbar">masturb-ar:</b> (<i>intr.</i>) to masturbate.
+
+<b dict-key="mato">mat-o:</b> mat, matting (of straw or other materials). &mdash; DE
+
+<b dict-key="matadoro">matador-o:</b> matador. &mdash; DEFIRS
+
+<b dict-key="mateo">mate-o:</b> (2001) mate: a South American holly (Ilex paraguayensis) whose
+leaves and shoots are used for making mate; an aromatic beverage used chiefly in South America. .
+&mdash; DEFIRS
+
+<b dict-key="matematiko">matematik-o:</b> mathematics. &mdash; DEFIRS
+
+<b dict-key="materio">materi-o:</b> (<i>also fig. as of discourse, book, etc.</i>) material, matter
+(out of which something is made); <b dict-key="materiajo">-ajo:</b> material object, substance; <b
+dict-key="materiala">-ala:</b> material: relating to matter; <b dict-key="materioza">-oza:</b>
+substantial, not formal; <b dict-key="materiatra">-atra:</b> material (analogous to); <b
+dict-key="materialisto,materiista">-al-isto, -ista:</b> materialist(ic); <b
+dict-key="materialismo">-al-ismo:</b> materialism; <b dict-key="materialeso">-al-eso:</b>
+materiality; <b dict-key="materio prima,kruda">-o prima, kruda:</b> raw material; <b
+dict-key="materiigar">-igar:</b> to materialize: to make (a spirit) visible in or as a material
+form; <b dict-key="materialigar">-al-igar:</b> to invest with material characteristics, to
+substantialize. &mdash; DEFIRS
+
+<b dict-key="matida">matid-a:</b> dull, hollow (of sound); mat(t), dead, dull, not shiny, glossy
+(of colo(u)rs, etc.). Ant.: <b dict-key="sonora,brilanta">sonora, bril-anta. &mdash; </b>FS
+
+<b dict-key="matino">matin-o:</b> morning, forenoon: time from dawn to midday; <b
+dict-key="matinala">-ala:</b> m., f.; matutinal; <b dict-key="ca matine">ca- -e:</b> on (or in)
+this m., f.; <b dict-key="morga matino">morga -o:</b> tomorrow m., f.; <b dict-key="esas
+frumatine">(esas) fru-matine:</b> (it was) early in the m. &mdash; EFIS
+
+<b dict-key="matloto">matlot-o:</b> matelot: a kind of fish-stew; a kind of sailor&rsquo;s dance,
+hornpipe. &mdash; F
+
+<b dict-key="matro">matr-o:</b> (<i>formerly</i> <b dict-key="patrino">patrino</b>) mother; <b
+dict-key="matrala">-ala:</b> maternal; <b dict-key="matreto">-eto:</b> little mother; (<i>fig.</i>)
+mamma; <b dict-key="matreso">-eso:</b> maternity: motherliness; <b dict-key="matrala linguo">-ala
+linguo:</b> mother-tongue; <b dict-key="matraquo">-aquo:</b> (<i>chem.</i>) mother-liquor;
+(<i>archaic Ido</i>) v. exp.: <b dict-key="Matro">Matro</b> esas la sentimental equivalanto di
+patrino; VI-535. 
+
+<b dict-key="matraco">matrac-o:</b> mattress. &mdash; DEFIR
+
+<b dict-key="matraso">matras-o:</b> (<i>chem., instr.</i>) matrass. &mdash; EFIS
+
+<b dict-key="matriarko">matriark-o:</b> (<i>lit. and fig.</i>) matriarch; <b
+dict-key="matriarkeso"> -eso:</b> matriarchate.
+
+<b dict-key="matrico">matric-o:</b> (<i>tech.</i>) matrix. &mdash; DEFIRS
+
+<b dict-key="matrikulo">matrikul-o:</b> matricula: register in which names are entered
+consecutively, as for a hospital, prison, society, etc.; <b
+dict-key="matrikuleskar,matrikulizar">-eskar, -izar:</b> to matricula. &mdash; DEFIRS
+
+<b dict-key="matrono">matron-o:</b> matron. &mdash; DEFIRS
+
+<b dict-key="matura">matur-a:</b> (<i>also fig.</i>) ripe, mature: having become completely
+developed; <b dict-key="maturigar">-igar:</b> to cause to ripen or come to maturity; <b
+dict-key="matura frukti">-a frukti:</b> ripe fruits; <b dict-key="matura evo">-a evo:</b> mature
+age; <b dict-key="matura abceso">-a abceso:</b> ripe (suppurating) abcess; <b dict-key="matura
+delibero">-a delibero:</b> mature deliberation. &mdash; EFIS
+
+<b dict-key="matutino">matutin-o:</b> (<i>R.C. ch.</i>) matins. Def.: &laquo;Ofico&raquo; di la
+matino; V-340. &mdash; EFIS
+
+<b dict-key="mauzoleo">mauzole-o:</b> mausoleum. &mdash; DEFIRS
+
+<b dict-key="maxilo">maxil-o:</b> maxilla: upper jaw bone (cf. <b
+dict-key="mandibulo">mandibulo</b>); <b dict-key="maxilala">-ala:</b> maxillary. &mdash; EFI
+
+<b dict-key="maxim">maxim(e):</b> (<i>adv. of comparison</i>) most; <b dict-key="maxim">-a:</b>
+highest; <b dict-key="maxim">-o:</b> maximum; <b dict-key="maxim">-multo:</b> the generality,
+majority, the most; <b dict-key="maxim posible">-multe posible:</b> the most possible; <b
+dict-key="maxim posibla">-granda posibla:</b> the greatest possible; <b dict-key="maxim">-bona:</b>
+the best; <b dict-key="maxim sorgo">-a sorgo:</b> the greatest care; <b dict-key="lu laboris
+maxime">lu laboris maxime:</b> he works most; <b dict-key="la maxim granda asno ek la tri">la maxim
+granda asno ek la tri:</b> the biggest ass of the three; <b dict-key="maxim">-alta:</b> highest; <b
+dict-key="maxim valoro">-a valoro:</b> highest value; (<i>fig.</i>) highest price; <b
+dict-key="maxim">-ala:</b> relating to the maximum; <b dict-key="maxim posible">-klara posible:</b>
+as clear as possible, the clearest possible. Ant.: <b dict-key="minim">minim. &mdash; </b>DEFIRS
+
+<b dict-key="mayo">may-o:</b> (<i>month</i>) May. &mdash; DEFIRS
+
+<b dict-key="mayoliko">mayolik-o:</b> majolica. &mdash; DEFIRS
+
+<b dict-key="mayonezo">mayonez-o:</b> (<i>cook.</i>) mayonnaise (-sauce). &mdash; DEFIRS
+
+<b dict-key="mayoro">mayor-o:</b> (<i>milit. title</i>) major. &mdash; DEFIRS
+
+<b dict-key="mayuskulo">mayuskul-o:</b> capital or uncial letter, majuscule. Ant.: <b
+dict-key="minuskulo">minuskulo. &mdash; </b>DEFIS
+
+<b dict-key="mazo">maz-o:</b> mace. Def.: Baston(ego) plu grosa ye un extremajo kam ye
+l&rsquo;altra; ica servas kom mancho, e l&rsquo;enesma havas nodi, o klovi o saliaji; II-709. La
+mazo moderna esas uzata quale ceremoniala insigno, ex.: en parlamento. &mdash; EFIS
+
+<b dict-key="mazurko">mazurk-o:</b> mazurka (dance and music). &mdash; DEFIRS

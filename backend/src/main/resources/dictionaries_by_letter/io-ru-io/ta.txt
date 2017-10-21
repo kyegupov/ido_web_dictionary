@@ -1,0 +1,71 @@
+<b dict-key="ta,ita">(i)ta</b>: <span dict-key="тот">тот</span>
+
+<b dict-key="tabako">tabako</b>: <span dict-key="табак">табак</span>
+
+<b dict-key="tabelo">tabelo</b>: <span dict-key="тол">тол</span>
+
+<b dict-key="tablo">tablo</b>: <span dict-key="плита">плита</span>, <span
+dict-key="дощечка">дощечка</span>, <span dict-key="доска">доска</span>
+
+<b dict-key="tacar">tacar</b>: <span dict-key="умалчивать">умалчивать</span>, <span
+dict-key="игнорировать">игнорировать</span>
+
+<b dict-key="taktiko">taktiko</b>: <span dict-key="тактика">тактика</span>
+
+<b dict-key="takto">takto</b>: <span dict-key="такт">такт</span>
+
+<b dict-key="tala">tala</b>: <span dict-key="такой">такой</span>
+
+<b dict-key="talento">talento</b>: <span dict-key="талант">талант</span>
+
+<b dict-key="taliar">taliar</b>: <span dict-key="вырезать">вырезать</span>, <span dict-key="резать
+по дереву">резать по дереву</span>
+
+<b dict-key="talioro">talioro</b>: <span dict-key="портной">портной</span>
+
+<b dict-key="talono">talono</b>: <span dict-key="пятка">пятка</span>
+
+<b dict-key="talpo">talpo</b>: <span dict-key="родинка">родинка</span>, <span dict-key="родимое
+пятно">родимое пятно</span>
+
+<b dict-key="tam,,, kam">tam,,, kam</b>: <span dict-key="чем">чем</span>, <span
+dict-key="тем">тем</span>
+
+<b dict-key="tam">tam</b>: <span dict-key="как">как</span>, <span dict-key="так">так</span>
+
+<b dict-key="tamburo">tamburo</b>: <span dict-key="барабан">барабан</span>
+
+<b dict-key="tamen">tamen</b>: <span dict-key="однако">однако</span>
+
+<b dict-key="tanko">tanko</b>: <span dict-key="танк">танк</span>, <span
+dict-key="резервуар">резервуар</span>
+
+<b dict-key="tanta">tanta</b>: <span dict-key="так много">так много</span>
+
+<b dict-key="tante">tante</b>: <span dict-key="столько">столько</span>
+
+<b dict-key="tapiseto">tapiseto</b>: <span dict-key="коврик">коврик</span>
+
+<b dict-key="tapiso">tapiso</b>: <span dict-key="ковер">ковер</span>
+
+<b dict-key="tarda">tarda</b>: <span dict-key="поздний">поздний</span>
+
+<b dict-key="tarifo">tarifo</b>: <span dict-key="тариф">тариф</span>
+
+<b dict-key="tarto">tarto</b>: <span dict-key="пирог">пирог</span>
+
+<b dict-key="tasko">tasko</b>: <span dict-key="задача">задача</span>
+
+<b dict-key="taso">taso</b>: <span dict-key="чашка">чашка</span>, <span
+dict-key="кубок">кубок</span>
+
+<b dict-key="tauro">tauro</b>: <span dict-key="бык">бык</span>
+
+<b dict-key="tautologio">tautologio</b>: <span dict-key="тавтология">тавтология</span>
+
+<b dict-key="taverno">taverno</b>: <span dict-key="таверна">таверна</span>, <span
+dict-key="трактир">трактир</span>
+
+<b dict-key="taxar">taxar</b>: <span dict-key="облагать налогом">облагать налогом</span>
+
+<b dict-key="tayo">tayo</b>: <span dict-key="талия">талия</span>

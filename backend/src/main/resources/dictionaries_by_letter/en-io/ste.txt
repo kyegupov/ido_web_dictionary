@@ -1,0 +1,168 @@
+<b dict-key="stead">stead:</b> vice (ulu, ulo).
+
+<b dict-key="steadfast">steadfast:</b> ferma; (<i>constant</i>) konstanta.
+
+<b dict-key="steady">steady:</b> ferm-igar; cert-igar (ulo ad ulu, ulu pri ulo); (<i>nav.,
+straight</i>) rekt-igar; (<i>make sober</i>) <i>see</i> <b dict-key="sober">sober</b>.
+
+<b dict-key="steady">steady:</b> ferma; konstanta; sobra, ne-frivola; regul-oza; ne-vari-anta;
+fid-inda, certa; tranquila; asidua; persist-anta.
+
+<b dict-key="steak">steak:</b> (<i>beefsteak</i>)<b dict-key=""> </b>bifsteko; (<i>a cut</i>)
+loncho; tranch-ajo.
+
+<b dict-key="steal">steal:</b> (<i>rob</i>) furtar; (<i>by fraud</i>) sustraktar; (<i>abduct</i>)
+for-raptar; (<i>fig</i>.) seduktar, ganar (la kordio e.c.); <b dict-key="steal a march on">s. a
+march on: </b>devancar (l&rsquo;enemiko); <b dict-key="steal in">s. in: </b>en-irar furt-atre; <b
+dict-key="steal away">s. away: </b>for-irar cel-eme (<i>see</i> <b dict-key="scrawl">scrawl</b>);
+<b dict-key="steal oneself into">s. oneself into: </b>insinuar su.
+
+<b dict-key="stealth,by">stealth, by: </b>cele, furt-e, -atre, sekrete; ruz-oze.
+
+<b dict-key="stealthy">stealthy:</b> furt-ema, -atra, sekreta, cel-ita.
+
+<b dict-key="steam">steam:</b> vapor-o; <b dict-key="to steam">to s.: </b>(<i>vaporize</i>) -igar
+(ulo), (<i>intr</i>.) -ifar; (<i>cover with s</i>.) -izar; -agar; (<i>emit v</i>.) -ifar, emisar
+vaporo; <b dict-key="to steam away">to s. away: </b>for-irar (per vapor-navo); <b dict-key="to
+steam in">to s. in: </b>en-irar portuo (per vapor-povo); <b dict-key="with full steam">with full
+s.: </b>kun tota vaporo, rapid-ege; <b dict-key="to get up steam">to get up s.: </b>vapor-ifar,
+varm-igar la kaldiero; <b dict-key="to shut off steam">to shut off s.: </b>halt-igar la mashino;
+klozar la vapor-valvo; <b dict-key="steamboat">s.boat: </b>vapor-navo, -batelo; <b dict-key="steam
+engine">s. engine: </b>vapor-mashino; <b dict-key="steamer">s.er: </b>(<i>steamship</i>)
+vapor-navo; (<i>instrument for steaming</i>) vapor-ag-ilo; vapor-ig-ilo.
+
+<b dict-key="stearin">stearin:</b> stearino.
+
+<b dict-key="steatite">steatite:</b> steatito.
+
+<b dict-key="steed">steed:</b> (kur-)kavalo.
+
+<b dict-key="steel">steel:</b> stal-o,-a; (<i>fig</i>.) harda, vigor-oza; (<i>blade</i>) lamo;
+(<i>fig</i>.) bayoneto; (<i>sharpening instr.</i>) akut-ig-ilo; <b dict-key="to steel the heart">to
+s. the heart: </b>hard-igar la kordio; <b dict-key="steely">-ly: </b>-ala, -atra; <b
+dict-key="steel engraving">s. engraving: </b>grab-uro sur stalo; <b dict-key="steelworks">s.works:
+</b>stal-if-erio.
+
+<b dict-key="steelyard">steelyard:</b> Roman-a balanco.
+
+<b dict-key="steep">steep:</b> (<i>plants, drugs</i>) infuzar; (<i>soak</i>) trempar (<i>cf</i>.
+imbibar; plunkar).
+
+<b dict-key="steep">steep:</b> (<i>of slopes</i>) eskarpa, abrupta (<i>cf</i>. precipiso).
+
+<b dict-key="steeple">steeple-chase:</b> obstaklo-kuro.
+
+<b dict-key="steer">steer:</b> (<i>of boats, ships</i>) guvernar (navo, ad-weste, e.c.);
+(<i>fig</i>.) direktar, guidar, duktar.
+
+<b dict-key="steer">steer:</b> (yuna) bovo.
+
+<b dict-key="steerage">steerage:</b> (<i>third class</i>) tri-esma klaso; per maxim chipa bilieto.
+
+<b dict-key="steersman">steersman:</b> guvern-il-isto.
+
+<b dict-key="steering">steering-wheel:</b> guvern-roto.
+
+<b dict-key="stele">stele:</b> steleo.
+
+<b dict-key="stellar">stellar:</b> stel-ala.
+
+<b dict-key="stellionate">stellionate:</b> stelionato.
+
+<b dict-key="stem">stem: </b>irar <i>o</i> luktar kontre (ulo); repulsar, halt-igar (ulo, ulu).
+
+<b dict-key="stem">stem:</b> (<i>of a plant</i>)<b dict-key=""> </b>stipo (<i>cf</i>. pedunklo;
+(<i>handle</i>)<b dict-key=""> </b>mancho; (<i>of a pipe</i>) tubo; (<i>as of a tree, also
+geneal.</i>) trunko; (<i>of a ship</i>) avana parto; pruo; <b dict-key="from stem to stern">from s.
+to stern: </b>de l&rsquo;avano a la dopo; <b dict-key="stemless">s.less: </b>sen-tipa (<i>of
+plants</i>).
+
+<b dict-key="stench">stench:</b> mal-odoro, fetida odoro.
+
+<b dict-key="stencil">stencil:</b> puns-ar, -ilo, -plako; stencilo*.
+
+<b dict-key="stenographer">stenographer:</b> stenograf-isto; <b
+dict-key="stenographerphic">-phic:</b> -ala, <b dict-key="stenographerphy">-phy: </b>-ado, -arto,
+-uro; (<i>tr. v.</i> -ar).
+
+<b dict-key="stenotype">stenotype:</b> stenotipar.
+
+<b dict-key="stentor">stentor:</b> stentor-o; <b dict-key="stentorian">-ian: </b>-a.
+
+<b dict-key="step">step:</b> (<i>intr</i>.) pazar, (<i>one</i>) facar pazo (<i>cf</i>. marchar,
+irar, pasar, promenar, sequar); <b dict-key="to step back">to s. back: </b>ad-dope pazar, facar
+pazo ad-dope; <b dict-key="to step down">to s. down: </b>decensar; venar; <b dict-key="step down to
+my house">s. down to my house: </b>venez che me por un instanto; <b dict-key="to step forward">to
+s. forward: </b>avancar, pazar ad avan; <b dict-key="step in">s. in: </b>en-irez; <b dict-key="step
+over">s. over: </b>trans-, super-pazar; <b dict-key="step off">s. off: </b>mezurar per pazi; <b
+dict-key="make a mis">make a mis-s.: </b>mis-pazar.
+
+<b dict-key="step">step:</b> (<i>n</i>.) pazo; (<i>of a stair</i>) grado; (<i>footprint</i>)
+(pedo-)traco; (<i>way of walking</i>) aluro, pazo, marcho-maniero; (<i>a support</i>) ped-apog-ilo;
+apog-grado, -pazo (<i>cf</i>. skabelo); (<i>proceeding</i>) demarsho; (<i>progress</i>) progreso;
+(<i>threshold</i>) solio; (<i>of a ladder</i>) skalo-grado; <b dict-key="to take steps">to take
+s.s: </b>(<i>fig</i>.) (<i>intr</i>.) demarshar; <b dict-key="within a step">within a s.:
+</b>(<i>fig</i>.) kurta disto, ne-fora; <b dict-key="retrace one steps">retrace one&rsquo;s s.s:
+</b>retro-irar, -marchar.
+
+<b dict-key="step">step-:</b> (<i>of a relationship</i>) stifa-.
+
+<b dict-key="steppe">steppe:</b> stepo.
+
+<b dict-key="steps">steps:</b> (<i>stair</i>) eskalero; (<i>outside steps: doorstep</i>) peroneo;
+(<i>ladder</i>) skalo, (<i>round rung of a ladder</i>) slako-grado.
+
+<b dict-key="stere">stere: </b>stero.
+
+<b dict-key="stereography">stereography:</b> stereografio.
+
+<b dict-key="stereometry">stereometry:</b> stereometrio.
+
+<b dict-key="stereophony">stereophony:</b> stereofonio.
+
+<b dict-key="steriopticon">steriopticon:</b> stereokamero
+
+<b dict-key="stereoscope">stereoscope:</b> stereoskopo.
+
+<b dict-key="stereotomy">stereotomy:</b> stereotomio.
+
+<b dict-key="stereotrope">stereotrope:</b> stereokamero.
+
+<b dict-key="stereotype">stereotype:</b> stereotip-ar, -uro; klish-ar, -uro.
+
+<b dict-key="sterile">sterile:</b> (<i>all senses</i>) steril-a; <b dict-key="sterility">-lity:
+</b>-eso; <b dict-key="sterilize">-lize: </b>-igar; <b dict-key="sterilizer">-lizer:</b> -ig-ilo.
+
+<b dict-key="sterlet">sterlet:</b> sterleto.
+
+<b dict-key="sterling">sterling:</b> (<i>fig</i>.) pura; bon-aloya; vera; bon-ega; solida.
+
+<b dict-key="stern">stern:</b> (<i>poop</i>) pupo, dopa parto di navo.
+
+<b dict-key="stern">stern:</b> (<i>adj</i>.) severa (<i>cf. </i>austera).
+
+<b dict-key="sternum">sternum:</b> sternumo.
+
+<b dict-key="sternutation">sternutation:</b> sternut-ado (<i>cf</i>. ronk-ado) (<i>cf. intr. v.
+-</i>ar).
+
+<b dict-key="steroid">steroid:</b> steroido.
+
+<b dict-key="sterol">sterol:</b> sterolo.
+
+<b dict-key="stertorous">stertorous:</b> sternut-atra, ronk-anta, -ema.
+
+<b dict-key="stethoscope">stethoscope:</b> stetoskopo.
+
+<b dict-key="stevedore">stevedore:</b> stiv-isto.
+
+<b dict-key="stew">stew: </b>stufar (<i>cf</i>. boli-etar; kompot-igar; fars-izar).
+
+<b dict-key="stew">stew:</b> stuf-ajo (<i>cf</i>. raguto); (<i>of hare</i>) lepor-raguto; (<i>of
+rabbit</i>) kuniklo-raguto; (<i>a kind of fish stew</i>) matloto; (<i>stewed fruit</i>) kompoto;
+(<i>fig</i>.) embaras-o, -eso; pavoro; <b dict-key="stewpan">s.pan: </b>kasrolo.
+
+<b dict-key="steward">steward:</b> (<i>of an estate, etc.</i>) intendanto, administr-anto, -ero,
+-isto, jer-anto, -ero, -isto (<i>cf</i>. seneshalo); (<i>in a hotel</i>) tablo-chefo; (<i>on a
+ship</i>) nav-serv-isto; viktual-komisario; (<i>of a college, etc.</i>) ekonomo; (<i>fig</i>.)
+distribut-anto, -ero; <b dict-key="stewardess">-ess: </b>(<i>on ship</i>) nav-serv-ist-ino.

@@ -1,0 +1,103 @@
+<b dict-key="kick">kick:</b> (<i>intr</i>.) (<i>of beasts</i>) kikar; (<i>of persons</i>)
+pedo-frapar; (<i>of a gun</i>) retro-irar (<i>see</i> <b dict-key="grumble object">grumble;
+object</b>).
+
+<b dict-key="kickshaw">kickshaw:</b> bagatelo, frivol-ajo.
+
+<b dict-key="kid">kid:</b> (<i>young goat</i>) kapro-yun-o; <b dict-key="kid gloves">k. gloves:</b>
+kapro-yun-ala ganti; (<i>fig</i>.) puero; infanto; bubo.
+
+<b dict-key="kidnap">kidnap:</b> kidnapar (2001); furtar infanto, puero, e.c.; <b
+dict-key="kidnaper">-per:</b> kidnap-ero, -anto, furt-anto di infanto, e.c.; infant-furt-anto, -ero.
+
+<b dict-key="kidney">kidney:</b> reno.
+
+<b dict-key="kidney">kidney-bean:</b> fazeolo.
+
+<b dict-key="kill">kill:</b> (<i>kill with violence, murder, slay</i>) ocidar; (<i>cause to
+die</i>) mort-igar.
+
+<b dict-key="kiln">kiln:</b> forno.
+
+<b dict-key="kilobyte">kilobyte:</b> kilobaito*.
+
+<b dict-key="kilogram">kilogram</b>(<b dict-key="me">me</b>)<b dict-key="">:</b> kilogram-o; <b
+dict-key="kilogram meter">k. meter </b>(<b dict-key="metre">metre</b>)<b dict-key="">:</b> -metro.
+
+<b dict-key="kiloliter">kiloliter </b>(<b dict-key="litre">litre</b>)<b dict-key="">:</b> kilolitro.
+
+<b dict-key="kilometer">kilometer </b>(<b dict-key="metre">metre</b>)<b dict-key="">:</b> kilometro.
+
+<b dict-key="kilowatt">kilowatt:</b> &laquo;kilowatt&raquo;.
+
+<b dict-key="kilt">kilt:</b> (hom-ul-ala) kilto (2001); jupo.
+
+<b dict-key="kimono">kimono:</b> &laquo;kimono&raquo;.
+
+<b dict-key="kin">kin:</b> (<b dict-key="person">person</b>) parent-o; <b
+dict-key="kinship">-ship:</b> -eso; <b dict-key="kinsfolk">-sfolk:</b> -aro; <b dict-key="next of
+kin">next of k.:</b> la plu proxima parento (<i>cf</i>. alianc-ito; familio).
+
+<b dict-key="kinaesthesia,kinesthesia">kinaesthesia, kinesthesia:</b> kinestezio.
+
+<b dict-key="kinase">kinase:</b> kinazo.
+
+<b dict-key="kind">kind:</b> (<i>sort</i>) sorto (<i>of goods etc.; cf</i>. speco, genero,
+qual-eso); <b dict-key="human kind">human k.:</b> hom-ala speco, hom-aro.
+
+<b dict-key="kind">kind:</b> (<i>adj</i>.) bona; afabla; benigna; komplez-anta, -ema, serv-ema;
+indulg-anta; <b dict-key="will you be so kind as to">will you be so k. as to:</b> komplesez,
+voluntez; <b dict-key="kind">k.-hearted:</b> bon-kordia.
+
+<b dict-key="kindle">kindle:</b> (<i>also fig</i>.) acendar (<i>cf</i>. inflamar; ardor-igar;
+brul(ig)ar; vek-igar; ecitar).
+
+<b dict-key="kindliness">kindliness:</b> bon-vol(ad)o; bon-fac-(em)eso; bon-eso, benign-eso.
+
+<b dict-key="kindly">kindly: </b>afabla; bon-vol-anta, -oza; benigna, bon-kordia (<i>see</i> <b
+dict-key="kind">kind</b>).
+
+<b dict-key="kindness">kindness:</b> (<i>act</i>) bon-faco; bonvol-ala ago (<i>see</i> <b
+dict-key="kindliness">kindliness</b>).
+
+<b dict-key="kindred">kindred:</b> parent-aro, -a; (<i>fig</i>.) relato.
+
+<b dict-key="kinema">kinema:</b> <i>see</i> <b dict-key="cinema">cinema</b>.
+
+<b dict-key="king">king:</b> (<i>also cards and chess</i>) rej-(ul)o.
+
+<b dict-key="kingcup">kingcup:</b> ranunkulo.
+
+<b dict-key="kingdom">kingdom:</b> rej-lando,-io, -stato; imperio; (<i>natur. hist.</i>) regno.
+
+<b dict-key="kingfisher">kingfisher:</b> martin-pesk-ero.
+
+<b dict-key="kingly">kingly:</b> rej-ala.
+
+<b dict-key="kingship">kingship:</b> rej-eso.
+
+<b dict-key="kinsman">kinsman:</b> parent(ul)o.
+
+<b dict-key="kiosk">kiosk:</b> kiosko.
+
+<b dict-key="kippered">kippered-salmon:</b> salmono fum-iz-ita.
+
+<b dict-key="kirk">kirk:</b> (<i>building</i>) kirko (<i>cf</i>. eklezio).
+
+<b dict-key="kirschwasser">kirschwasser:</b> kirsho.
+
+<b dict-key="kismet">kismet:</b> &laquo;kismet&raquo;.
+
+<b dict-key="kiss">kiss:</b> kis-ar, -o.
+
+<b dict-key="kit">kit:</b> (<i>equipment</i>) equip-uro (<i>cf</i>. utensil-aro, pak-aro); <b
+dict-key="kit bag">k. bag:</b> voyaj-sako (<i>cf</i>. valizo).
+
+<b dict-key="kitchen">kitchen:</b> koqu-eyo; <b dict-key="kitchen sink">k. sink:</b> eviero; <b
+dict-key="kitchen garden">k. garden:</b> legum-gardeno.
+
+<b dict-key="kite">kite:</b> kaito; (<i>bird</i>) milano.
+
+<b dict-key="kitten">kitten:</b> kat-eto, -yuno.
+
+<b dict-key="kittenish">kittenish:</b> (<i>fig</i>.) fol-lud-ema; kat-et-atra.

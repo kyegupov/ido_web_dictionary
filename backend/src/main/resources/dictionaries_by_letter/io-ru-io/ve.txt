@@ -1,0 +1,80 @@
+<b dict-key="ve">ve</b>: <span dict-key="увы! (сожаление)">увы! (сожаление)</span>
+
+<b dict-key="vehar">vehar</b>: <span dict-key="путешествовать на транспорте">путешествовать на
+транспорте</span>
+
+<b dict-key="veino">veino</b>: <span dict-key="вена">вена</span>, <span dict-key="шов">шов</span>
+
+<b dict-key="vejetar">vejetar</b>: <span dict-key="прозябать">прозябать</span>
+
+<b dict-key="vejetarar">vejetarar</b>: <span dict-key="быть вегетарианцем">быть вегетарианцем</span>
+
+<b dict-key="vekar">vekar</b>: <span dict-key="пробудиться">пробудиться</span>
+
+<b dict-key="velo">velo</b>: <span dict-key="завеса">завеса</span>
+
+<b dict-key="veluro">veluro</b>: <span dict-key="бархат">бархат</span>
+
+<b dict-key="venar">venar</b>: <span dict-key="прибывать">прибывать</span>
+
+<b dict-key="vendar">vendar</b>: <span dict-key="продавать">продавать</span>
+
+<b dict-key="veneno">veneno</b>: <span dict-key="яд">яд</span>
+
+<b dict-key="venerdio">venerdio</b>: <span dict-key="пятница">пятница</span>
+
+<b dict-key="venezuela">venezuela</b>: <span dict-key="венесуэла">венесуэла</span>
+
+<b dict-key="venjar">venjar</b>: <span dict-key="мстить">мстить</span>
+
+<b dict-key="ventar">ventar</b>: <span dict-key="уносить ветром">уносить ветром</span>
+
+<b dict-key="ventilar">ventilar</b>: <span dict-key="проветривать">проветривать</span>
+
+<b dict-key="ventro">ventro</b>: <span dict-key="живот">живот</span>
+
+<b dict-key="vera">vera</b>: <span dict-key="истинный">истинный</span>
+
+<b dict-key="verbo">verbo</b>: <span dict-key="глагол">глагол</span>
+
+<b dict-key="verda">verda</b>: <span dict-key="зеленый">зеленый</span>
+
+<b dict-key="verdikto">verdikto</b>: <span dict-key="приговор">приговор</span>
+
+<b dict-key="verifikar">verifikar</b>: <span dict-key="проверять">проверять</span>
+
+<b dict-key="verko">verko</b>: <span dict-key="сочинение">сочинение</span>, <span
+dict-key="произведение">произведение</span>
+
+<b dict-key="vermo">vermo</b>: <span dict-key="червь">червь</span>
+
+<b dict-key="verniso">verniso</b>: <span dict-key="лак">лак</span>
+
+<b dict-key="vers">vers</b>: <span dict-key="по направлению к">по направлению к</span>
+
+<b dict-key="versiono">versiono</b>: <span dict-key="версия">версия</span>
+
+<b dict-key="verso">verso</b>: <span dict-key="стих">стих</span>
+
+<b dict-key="vertikala">vertikala</b>: <span dict-key="вертикальный">вертикальный</span>
+
+<b dict-key="vertuo">vertuo</b>: <span dict-key="достоинство">достоинство</span>
+
+<b dict-key="vervo">vervo</b>: <span dict-key="воодушевление">воодушевление</span>
+
+<b dict-key="vespero">vespero</b>: <span dict-key="вечер">вечер</span>
+
+<b dict-key="vespertilio">vespertilio</b>: <span dict-key="летучая мышь">летучая мышь</span>
+
+<b dict-key="vestibulo">vestibulo</b>: <span dict-key="прихожая">прихожая</span>, <span
+dict-key="вестибюль">вестибюль</span>
+
+<b dict-key="vesto">vesto</b>: <span dict-key="предмет одежды">предмет одежды</span>, <span
+dict-key="часть одежды">часть одежды</span>
+
+<b dict-key="vetero">vetero</b>: <span dict-key="погода">погода</span>
+
+<b dict-key="veturo">veturo</b>: <span dict-key="транспортное средство">транспортное средство</span>
+
+<b dict-key="vexar">vexar</b>: <span dict-key="досаждать">досаждать</span>, <span
+dict-key="раздражать">раздражать</span>

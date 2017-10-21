@@ -1,0 +1,389 @@
+<b dict-key="si">si:</b> (<i>mus</i>.) si (<i>cf</i>. B).
+
+<b dict-key="sibilant">sibilant: </b>sis-anta, sifl-anta (litero, sono).
+
+<b dict-key="sibyl">sibyl:</b> sibil-o; <b dict-key="sibyline">-line: </b>-ala, -atra.
+
+<b dict-key="siccative">siccative:</b> sik-iv-iva, -ivo.
+
+<b dict-key="sick">sick:</b> malada (<i>cf</i>. morb-oza); (<i>person</i>) malad-(ul)o; (<i>sick at
+stomach; disgusted</i>) nauze-anta; (<i>bored</i>) ted-ata, -ita; <b dict-key="to be sick">to be
+s.:</b><i> </i>(<i>vomit</i>) vomar (<i>cf</i>. nauzear, esar malada); <b dict-key="to fall
+sick">to fall s.:</b> malad-eskar; nauze-eskar; <b dict-key="the sick">the s.: </b>(<i>pl</i>.)
+maladi; <b dict-key="sickish">-ish: </b>malad-ema, -atra; <b dict-key="sea">sea-s.ness: </b>mar-ala
+nauzeo; <b dict-key="home">home-s.ness: </b>nostalgio; <b dict-key="sick">s.-nurse: </b>fleg-isto.
+
+<b dict-key="sicken">sicken:</b> malad-igar, -esk-ar; nauze-igar, (<i>intr</i>.) -ar;
+(<i>disgust</i>) tedar; nauzear, repugnar; (<i>satiate</i>) satur-ar su, -esar; (<i>pine away</i>)
+(<i>intr</i>.) angorar; <b dict-key="sickening">-ing: </b>nauze-ig-anta.
+
+<b dict-key="sickle">sickle:</b> siklo.
+
+<b dict-key="sick">sick-leave:</b> konvaleco-konjedo.
+
+<b dict-key="sickly">sickly:</b> (<i>person</i>) malad-ema, -atra (<i>cf</i>. infirma, ne-sana,
+febla); (<i>of places, things</i>) ne-salubra, noc-iva; (<i>plant</i>) etiol-ita; (<i>languid</i>)
+langor-anta, -ema; <b dict-key="sickly person">s. person: </b>malad-(em)(ulo)o.
+
+<b dict-key="sickness">sickness: </b>malad-eso; nauze-(ad)o.
+
+<b dict-key="sick">sick-ward:</b> malad-eyo, -chambro; fleg-eyo.
+
+<b dict-key="side">side:</b> (<i>geom., arch.</i>) latero; (<i>milit., of a body, of a ship</i>)
+flanko (<i>cf</i>. facio); (<i>edge, border</i>) bordo; (<i>of a mountain</i>) pento;
+(<i>party</i>) partiso; <b dict-key="along side">along s.:</b> bordo an bordo; flanko an flanko;
+alonge; apud; flanke di; <b dict-key="back side">back s.: </b>reverso: <b dict-key="to go
+sideways">to go sideways: </b>irar ad-latere; <b dict-key="on all sides">on all s.s: </b>omna
+flanke, -latere;<b dict-key="to pass on the side"> to pass on the s.: </b>preter-irar; <b
+dict-key="put to one side">put to one s.: </b>pozar aparte, for-pozar, eskartar; (<i>money</i>)
+sparar; <b dict-key="take side with someone">take s. with someone: </b>divenar partisano di;
+adherar a la partiso di ulu; deklarar su por ulu; <b dict-key="to chose sides">to chose s.s:
+</b>(<i>in sports</i>) selektar parteneri; <b dict-key="to hear both sides">to hear both s.s:
+</b>askoltar le por e le kontre.
+
+<b dict-key="side">side:</b> (<i>adj</i>.) flank-a, -ala; later-a, -ala; (<i>indirect</i>)
+ne-direta, obliqua; <b dict-key="sideboard">s.board: </b>plad-moblo (<i>cf</i>. bufeto); <b
+dict-key="one">one-sided: </b>un-latera; (<i>fig</i>.) partis-ana, -ema; <b
+dict-key="sideface">s.face: </b>profilo; <b dict-key="sidelong">s.long:</b> flank-ala, obliqua; <b
+dict-key="side">s.-saddle: </b>hom-in-ala selo; <b dict-key="sideways">s.ways:</b> flanke,
+later-ale, ad-latere.
+
+<b dict-key="sideral">sideral:</b> astr-ala.
+
+<b dict-key="sidewalk">sidewalk:</b> trotuaro.
+
+<b dict-key="siding">siding:</b> (<i>R.R.</i>) gar-voyo, -eyo.
+
+<b dict-key="sidle">sidle:</b> marchar, -irar, venar ad-latere <i>o</i> oblique.
+
+<b dict-key="siege">siege: </b>siejo; <b dict-key="siege piece">s. piece: </b>siej-kanono.
+
+<b dict-key="sienna">sienna:</b> Siena-tero.
+
+<b dict-key="siesta">siesta:</b> siest-o; <b dict-key="to take a siesta">to take a s.: </b>-ar.
+
+<b dict-key="sieve">sieve:</b> (<i>for flour, etc</i>.) sivo; (<i>coarse screen</i>) kriblo.
+
+<b dict-key="sift">sift:</b>&nbsp;siv-agar; kribl-agar; (<i>examine thoroughly</i>) par-examenar;
+<b dict-key="sifter">-er: </b><i>see</i> <b dict-key="sieve">sieve</b>.
+
+<b dict-key="sigh">sigh:</b> (<i>intr</i>.) sospir-ar, -o; <b dict-key="to sigh for">to s. for:
+</b>aspirar (<i>cf</i>. jemar, lamentar, plorar).
+
+<b dict-key="sight">sight:</b> (<i>notice</i>) remarkar; (<i>nav</i>.) vid-eskar, perceptar (ulo);
+venar en vido di; (<i>take aim</i>) vizar.
+
+<b dict-key="sight">sight:</b> (<i>faculty</i>) vid-(ad)o, -povo; (<i>act</i>) -o; (<i>thing
+seen</i>) -ajo; (<i>eyes</i>) okuli; (<i>of a gun</i>) viz-grano; (<i>back s. of gun</i>) viz-ilo;
+viz-skalo; viz-tru-eto; (<i>spectacle, theatrical, etc</i>.) spectaklo (<i>cf</i>. vid-ajo,
+spekt-ajo; peizajo); <b dict-key="at sight">at s.: </b>ye un-esma vido; (<i>payable at sight</i>)
+pag-ebla ye vido; <b dict-key="to be in sight">to be in s.: </b>esar vid-ebla; <b dict-key="to know
+by sight">to know by s.: </b>konocar (ulu, ulo) nur per vido; <b dict-key="out of sight out of
+mind">out of s. out of mind: </b>ne-vid-ebla, ne-memor-ebla; <b dict-key="to come into sight">to
+come into s.:</b> apar-eskar, venar aden vido di; <b dict-key="to lose sight of">to lose s. of:
+</b>ne plus vidar (ulo, ulu); <b dict-key="to take a sight">to take a s.: </b>(<i>aim</i>) vizar;
+(<i>look at</i>) remarkar, regardar (ulo, ulu); <b dict-key="I hate the sight of him">I hate the s.
+of him: </b>lua prezent-eso esas odi-oza a me; me odias la vido di lu; <b dict-key="at sight of
+him">at s. of him: </b>vid-ante lu; <b dict-key="to vanish out of sight">to vanish out of s.:
+</b>des-aparar; <b dict-key="sightless">s.less: </b>blinda; <b dict-key="short">short-s.edness:
+</b>miopa; <b dict-key="far">far-s.ed:</b> presbita; <b dict-key="sights">s.s: </b>(<i>things worth
+seeing</i>) vid-ind-aji; <b dict-key="sightly">s.ly: </b>bela, charm-anta, vid-inda; <b
+dict-key="sightseer">s.seer: </b>vid-anto, -ero di la vid-ind-aji, di la rar-ajo.
+
+<b dict-key="sigillaria">sigillaria:</b> sigilario.
+
+<b dict-key="sign">sign:</b> (<i>one&rsquo;s name</i>) signatar; (<i>put a s. on</i>) sign-izar;
+(<i>make mark of a cross</i>) kruco-sign-izar su; (<i>signal</i>) signal-ar, -ifar.
+
+<b dict-key="sign">sign:</b> (<i>n</i>.) signo (<i>cf</i>. signalo); (<i>on a shop, store</i>)
+insigno; <b dict-key="signpost">s.post: </b>indik-fosto; <b dict-key="sign of the times">s. of the
+times:</b> tempo-signo; <b dict-key="sign of the cross">s. of the cross:</b> kruco-signo; <b
+dict-key="to show signs of">to show s.s of: </b>montrar signi (<i>od</i>, indiki) di; <b
+dict-key="signboard">s.board: </b>(<i>for notices</i>) afisho-tabelo; <b dict-key="sign painter">s.
+painter: </b>insigno-pikt-isto.
+
+<b dict-key="signal">signal:</b> (<i>tr</i>.) signal-ar; (<i>intr</i>.) -ifar; (<i>n</i>.) signal-o
+(<i>act</i>), -ilo (<i>intr</i>.); <b dict-key="signal service">s. service: </b>servo
+extraordinara; <b dict-key="signal gun">s. gun: </b>kanon-paf-signalo; <b dict-key="signal flag">s.
+flag: </b>signal-flag-(et)o; <b dict-key="signal light">s. light: </b>lum-, fair-signalo; <b
+dict-key="signalman">s.man: </b>signal-isto.
+
+<b dict-key="signalize">signalize:</b> (<i>oneself</i>) distingar su.
+
+<b dict-key="signatory">signatory:</b> signat-inta, -anta.
+
+<b dict-key="signature">signature:</b> (<i>act</i>) signat-o, (<i>result</i>) -uro; autografo; <b
+dict-key="joint signature">joint s.: </b>kolekt-ala signat-uro.
+
+<b dict-key="signer">signer:</b> signat-anto, -into.
+
+<b dict-key="signet">signet:</b> sigl-ilo; <b dict-key="signet ring">s. ring: </b>siglo-ringo.
+
+<b dict-key="significance">significance:</b> (<i>meaning</i>) signifiko, senco; (<i>import</i>)
+importo; grav-eso.
+
+<b dict-key="significant">significant:</b> signifik-anta, -iva.
+
+<b dict-key="signification">signification: </b><i>see</i><b dict-key="significance">
+significance</b>. 
+
+<b dict-key="signify">signify:</b> (<i>mean</i>) signifikar; (<i>to make known</i>) konoc-igar (ulo
+da ulu); (<i>be of importance</i>) importar.
+
+<b dict-key="silence">silence:</b> (<i>a person</i>) tac-igar (ulu); (<i>a machine, things</i>)
+silenc-igar; (<i>n</i>.) taco; silence; <b dict-key="to keep silence">to keep s.: </b>tacar (pri
+ulo); <b dict-key="silence">silence! </b>(<i>make no noise</i>) silenc-ez! (<i>stop talking</i>)
+tac-ez! <b dict-key="to silence complaints">to s. complaints: </b>represar plendi; <b
+dict-key="silencer">silencer:</b> (<i>mechanical</i>) silenc-ig-ilo.
+
+<b dict-key="silent">silent:</b> (<i>of persons</i>) tac-anta, -ema; (<i>of things</i>)
+silenc-anta, oza, -ema; (<i>of letters</i>) muta.
+
+<b dict-key="silex">silex:</b> silexo.
+
+<b dict-key="silhouette">silhouette:</b> silueto.
+
+<b dict-key="silica">silica:</b> silico.
+
+<b dict-key="silicate">silicate:</b> silik-ato.
+
+<b dict-key="silicic acid">silicic acid:</b> silik-at-acido.
+
+<b dict-key="silicle">silicle:</b> siliqu-eto.
+
+<b dict-key="silicon">silicon:</b> siliko.
+
+<b dict-key="silicone">silicone:</b> silikono.
+
+<b dict-key="silique">silique:</b> siliquo.
+
+<b dict-key="silk">silk:</b> silk-o, (<i>of s</i>.) -a; <b dict-key="silk handkerchief">s.
+handkerchief:</b> fulardo; <b dict-key="silken">-en: </b>silk-a, -ala, -atra, (<i>of voice</i>)
+dolca; <b dict-key="silkworm">s.worm: </b>silko-raupo; <b dict-key="silk thread">s. thread:
+</b>silko-filo.
+
+<b dict-key="sill">sill:</b> solio (fenestro-, pordo-).
+
+<b dict-key="silly">silly:</b> stulta; ne-saja; idiota; (<i>witless</i>) des-, ne-espritoza.
+
+<b dict-key="silo">silo:</b> silo.
+
+<b dict-key="silt">silt:</b> slam-o; (<i>v</i>.) -izar.
+
+<b dict-key="Silurian">Silurian:</b> siluriana.
+
+<b dict-key="silvan">silvan:</b> forest-ala, -atra; bosk-ala, -atra, -oza (<i>see</i> <b
+dict-key="sylvan">sylvan</b>).
+
+<b dict-key="silver">silver:</b> arjent-o, (<i>of s</i>,) -a; (<i>v</i>.) -izar; (<i>a mirror</i>)
+merkuri-izar; (<i>colo(u)red</i>) arjent-ea; (<i>silvery</i>) -ala, -atra; (<i>money</i>)
+arjent-monet-o, -i; <b dict-key="German silver">German s.:</b> arjentano; alfenido; <b
+dict-key="silver">s.-plated: </b>arjent-iz-ita; <b dict-key="silver nitrate">s. nitrate:
+</b>arjento-nitrato; <b dict-key="silverware">s.ware: </b>arjent-ajo, -aji, -aj-aro; <b
+dict-key="silversmith">s.smith: </b>-isto; <b dict-key="silver">s.-haired: </b>arjent-atra-hara;
+kapo-blanka; <b dict-key="bar silver">bar s.: </b>lingota arjento.
+
+<b dict-key="simar">simar:</b> simaro.
+
+<b dict-key="simian">simian:</b> simio.
+
+<b dict-key="similar">similar:</b> simila, analoga; tala; egala; <b dict-key="similarity">-ity:
+</b>simil-eso, analog-eso, -ajo.
+
+<b dict-key="similitude">similitude:</b> (<i>likeness</i>) simil-eso, -ajo; (<i>rhet</i>.)
+kompar-o, -ajo.
+
+<b dict-key="simmer">simmer:</b> (<i>intr</i>.) boli-etar.
+
+<b dict-key="simony">simony:</b> simoni-o; <b dict-key="to practise simony">to practise s.:</b> -ar
+(<i>intr</i>.).
+
+<b dict-key="simper">simper:</b> rid-et-achar; (<i>n</i>.) afektac-ema <i>o</i> naiv-acha rid-eto.
+
+<b dict-key="simple">simple:</b> (<i>not complex or complicated</i>) simpla; (<i>opposed to
+double</i>) un-opla; (<i>only</i>) nura; (<i>naive</i>) naiva; (<i>a plant</i>) herboro; <b
+dict-key="pure and simple">pure and s.: </b>pura e nura; <b dict-key="simple hearted,simple
+minded">s. hearted, s. minded: </b>kandida, naiva, honesta.
+
+<b dict-key="simpleton">simpleton:</b> stult-(ul)o; naiv-eg-(ul)o.
+
+<b dict-key="simplicity">simplicity:</b> simpl-eso; un-opl-eso; (<i>naively</i>) naiv-eso.
+
+<b dict-key="simplify">simplify:</b> (plu-)simpl-igar (ulo), (<i>intr</i>.) -eskar; <b
+dict-key="simplification">-fication: </b>(<i>act</i>) -igo, (<i>result</i>) -ig-uro.
+
+<b dict-key="simply">simply:</b> (<i>without complication</i>) simple; (<i>merely</i>) nur;
+(<i>absolutely</i>) absolute.
+
+<b dict-key="simulate">simulate:</b> simular; (<i>sham</i>); fingar.
+
+<b dict-key="simultaneous">simultaneous:</b> sam-tempe, sam-instanta.
+
+<b dict-key="sin">sin:</b> (<i>intr</i>.) pek-ar; (<i>n</i>.) -o (<i>cf</i>. kulpo; vicio; krimino).
+
+<b dict-key="sinapism">sinapism:</b> sinapismo.
+
+<b dict-key="since">since:</b> (<i>because</i>) pro ke (<i>cf</i>. nam); (<i>from the time of</i>)
+de pos; de lore; (<i>from the time when</i>) de kande; (<i>ago</i>) ante; recente (<i>see</i> <b
+dict-key="ago">ago</b>); (<i>afterwards</i>) pose; <b dict-key="since you like it">s. you like it:
+</b>pro ke vu prizas ol; <b dict-key="since then">s. then: </b>de lore, de pose; <b dict-key="since
+I saw him">s. I saw him: </b>de kande me vidis il; <b dict-key="it happened since">it happened s.:
+</b>ol eventis (de) pose (<i>od,</i> de-pos da tempo); <b dict-key="since the death of his wife">s.
+the death of his wife: </b>de-pos la morto di sua spozino; <b dict-key="a short time since">a short
+time s.: </b>ante kurta tempo, recente; <b dict-key="since when">s. when?: </b>de kande?; <b
+dict-key="since the time that">s. the time that: </b>de kande, de lore.
+
+<b dict-key="sincere">sincere:</b> sincer-a; <b dict-key="sincerly">-ly: </b>-e; <b
+dict-key="sincerity">-rity: </b>-eso.
+
+<b dict-key="sinciput">sinciput:</b> vertico.
+
+<b dict-key="sine">sine:</b> sinuso.
+
+<b dict-key="sinecure">sinecure: </b>sinekuro.
+
+<b dict-key="sinew">sinew:</b> tendino (<i>cf</i>. ligamento; muskulo); (<i>fig</i>.) nervo; <b
+dict-key="the sinews of war">the s.s of war: </b>milit-kaso; <b dict-key="sinewy">-y:
+</b>(<i>fig</i>.) forta, vigor-oza.
+
+<b dict-key="sinful">sinful:</b> (<i>persons</i>) pek-anta, -oza, -inta; krimin-anta, -inta, -oza)
+(<i>cf.</i> kulp-oza).
+
+<b dict-key="sing">sing: </b>kantar; (<i>chirping of birds</i>) (<i>intr</i>.) gorgear; (<i>of
+wind, arrow, bullet</i>) siflar (<i>tr., intr.</i>); <b dict-key="to sing to a person">to s. to a
+person: </b>kantar kansono ad ulu; <b dict-key="my ears sing">my ears s.: </b>mea oreli tinklas.
+
+<b dict-key="singe">singe:</b> brul-etar, brular lejere <i>o</i> surfac-ale.
+
+<b dict-key="single">single:</b> (<i>each individual</i>) singla; (<i>sole</i>) unika, nura
+(<i>cf</i>. sola); (<i>one by one</i>) un-opa; (<i>of flowers</i>) simpla; (<i>unmaried</i>)
+celiba;<b dict-key="single"> s.-handed: </b>sola; <b dict-key="every single">every s.: </b>singla;
+<b dict-key="a single man">a s. man: </b>celib-ulo; <b dict-key="single life">s. life:
+</b>celib-eso; <b dict-key="a single gun">a s.-barrelled gun: </b>fusilo kun un tubo; <b
+dict-key="I did it single">I did it s.-handed: </b>me sola facis ol, me facis ol sole; ma facis ol
+sen helpo; <b dict-key="a single room">a s.-bedded room: </b>chambro kun un lito; <b dict-key="a
+single flower">a s. flower: </b>(<i>only one flower</i>) nur un floro, unika floro, nur floro;
+(<i>having only one row of petals</i>) simpla floro; <b dict-key="single">s.-hearted: </b>sincera;
+<b dict-key="single">s.-minded: </b>kandida; <b dict-key="single">s.-stick: </b>skermo-bastono; <b
+dict-key="single ticket">s. ticket: </b>bilieto por irar sole; <b dict-key="to single out">to s.
+out: </b>selektar; distingar (ulo, ulu, de); (<i>separate</i>) separar, apart-igar.
+
+<b dict-key="singly">singly:</b> single, un-ope, individu-ale; (<i>by one&rsquo;s self</i>) sole,
+aparte.
+
+<b dict-key="sing">sing-song:</b> kantado monotona, kantatra lektado <i>o</i> parolo;
+konson-kantado.
+
+<b dict-key="singular">singular:</b> (<i>pertaining to one</i>) singulara; (<i>only one of its
+kind</i>) unika; (<i>strange</i>) stranja; (<i>not compound</i>) simpla; <b
+dict-key="singularity">-ity: </b>(<i>quality</i>) singular-eso; stranj-eso; remark-ind-eso;
+barok-eso; (<i>for objects, acts</i>) -ajo.
+
+<b dict-key="sinister">sinister:</b> (<i>event</i>) mal-augur-oza, des-fortun-oza; (<i>look</i>)
+minac-anta; maligna; (<i>left</i>) sinistra.
+
+<b dict-key="sink">sink:</b> (<i>settle</i>) (<i>tr., intr.</i>) sinkar; (<i>to the bottom</i>)
+sinkar a fundo <i>o</i> profunde; dronar; (<i>of prices</i>) diminutar; bas-eskar; (<i>of the
+sick</i>) febl-eskar, (<i>be dying</i>) mort-ar, -eskar; (<i>to a lower level</i>) abasar; (<i>be
+overwhelmed</i>) sukombar; (<i>decline physically or morally</i>) dekadar; degenerar; (<i>of
+buildings</i>) sinkar; (<i>of ships</i>) sinkar (a fundo), dron-esar; (<i>of courage, spirits</i>)
+depresesar; (<i>to waste</i>) disipar; (<i>wells, shafts</i>) borar; exkavar; (<i>of sun</i>)
+deklinar, kushar su; <b dict-key="sink down">s. down: </b>depres-esar; sinkar, falar;
+sub-flex-esar; <b dict-key="sink in">s. in: </b>penetrar; (<i>absorb lit. and fig.</i>)
+absorb-eskar, -esar; <b dict-key="sink money into">s. money into: </b>(<i>invest in</i>) kolokar
+pekunio en; (<i>squander</i>) disipar pekunio en.
+
+<b dict-key="sink">sink: </b>(<i>a sewer</i>) kloako; <b dict-key="kitchen sink">kitchen s.:</b>
+eviero.
+
+<b dict-key="sinking feeling">sinking feeling:</b> depres-anta sento; (<i>swooning</i>) esvan-anta
+sento.
+
+<b dict-key="sinking">sinking-fund:</b> amortis-ajo, -pekunio.
+
+<b dict-key="sinless">sinless:</b> sen-peka, inocenta.
+
+<b dict-key="sinner">sinner:</b> pek-ero, -oz(ul)o, -anto.
+
+<b dict-key="sinuosity">sinuosity:</b> sinuo.
+
+<b dict-key="sinuous">sinuous:</b> sinu-oza, serpent-atra.
+
+<b dict-key="sinus">sinus:</b> sinuso.
+
+<b dict-key="sinusitis">sinusitis:</b> sinusito.
+
+<b dict-key="sinusoid">sinusoid:</b> (<i>geom.</i>) sinusoido.
+
+<b dict-key="sip">sip:</b> drink-etar, -eto.
+
+<b dict-key="siphon">siphon: </b>sifon-o, -agar.
+
+<b dict-key="sir">sir:</b> sior-(ul)o; (<i>before name of knight</i>) sinior-(ul)o.
+
+<b dict-key="sire">sire:</b> (<i>male parent</i>) patr-ulo; (<i>in addressing a king or high
+noble</i>) sinioro; <b dict-key="sirs">-s.: </b>pre-avi; ancestri; <b dict-key="grand sire">grand
+s.: </b>av-(ul)o.
+
+<b dict-key="siren">siren: </b>(<i>all senses</i>) siren-o; <b dict-key="voice of siren">voice of
+s.: </b>-ala voco.
+
+<b dict-key="sirloin">sirloin:</b> bov-lumbo.
+
+<b dict-key="sirocco">sirocco:</b> siroko.
+
+<b dict-key="sirup">sirup:</b> siropo.
+
+<b dict-key="sisal hemp">sisal hemp:</b> agav-fibro.
+
+<b dict-key="siskin">siskin:</b> tarino.
+
+<b dict-key="sister">sister:</b> frat-ino; (<i>of many religious orders</i>) regul-ier-ino,
+frat-ino, fili-ino; <b dict-key="sister of charity">s. of charity: </b>fili-ino dil karitato; <b
+dict-key="the fatal sisters">the fatal s.s:</b> Parci; <b dict-key="sisterhood">s.hood:
+</b>frat-in-aro; regul-ier-in-aro; <b dict-key="sister">s.-in-law: </b>bo frat-ino; <b
+dict-key="sisterly">s.ly: </b>frat-in-ala.
+
+<b dict-key="sistrum">sistrum:</b> sistro.
+
+<b dict-key="sit">sit:</b> (<i>be sitting</i>) (<i>intr</i>.) sid-ar; (<i>take one&rsquo;s
+seat</i>) -eskar; (<i>seat someone</i>) -igar (ulu); (<i>of assemblies, court, etc.</i>) sidar,
+kun-sidar, havar sid-eyo (en); (<i>of hens</i>) kovar; (<i>of birds</i>) perchar (<i>intr</i>.);
+(<i>of clothes</i>) esar justa, fitar; (<i>for one&rsquo;s portrait</i>) pozar su; <b dict-key="sit
+up">s. up: </b>(<i>watch</i>) (<i>intr</i>.) vigilar; (<i>remain out of bed</i>) ne kushar su; <b
+dict-key="sit in judgement on">s. in judgement on: </b>judiciar; <b dict-key="to sit in
+parliament">to s. in parliament: </b>sidar en parlamento; <b dict-key="parliament is now
+sitting">parliament is now s.ting: </b>parlamento (nun) kun-sidas; <b dict-key="sit heavy on">s.
+heavy on: </b>pezar sur (<i>mind</i>); <b dict-key="to sit out">to s. out: </b>restar til la fino;
+<b dict-key="please sit down">please s. down: </b>voluntez sid-eskar.
+
+<b dict-key="site">site:</b> situo (<i>cf</i>. loko).
+
+<b dict-key="sitting">sitting:</b> (<i>session</i>) kun-sido; (<i>period</i>) sesiono; (<i>nest of
+eggs</i>) kov-ajo; (<i>in a church</i>) plaso.
+
+<b dict-key="situate">situate</b>(<b dict-key="d">d</b>)<b dict-key="">:</b> situ-ita; <b
+dict-key="to be situate">to be s.: </b>-esar (en); esar lok-izita; (<i>in one seat, place</i>)
+plas-iz-ita (<i>cf</i>. jacar).
+
+<b dict-key="situation">situation: </b>(<i>state</i>) situ-eso; (<i>permanent condition</i>)
+stando; <b dict-key="what would you do in my situation">what would you do in my s.: </b>quon vu
+facus en mea situ-eso (<i>od</i>, vice me); <b dict-key="I am out of a situation">I am out of a s.:
+</b>me ne esas employ-ata <i>od</i>, me esas sen-employa <i>od</i> des engaj-ita; me chomas
+(<i>cf</i>. plaso).
+
+<b dict-key="six">six: </b>sis, (<i>a half-dozen</i>) sis-o; <b dict-key="sixfold">s.fold:
+</b>-opla; <b dict-key="sixteen">s.teen: </b>dek-e-sis; <b dict-key="sixth">-th:
+</b>(<i>fraction</i>) sis-ima, -imo; (<i>adj</i>.) -esma; (<i>mus</i>.) sexto; <b
+dict-key="sixty">s.ty-one: </b>sisa-dek e un.
+
+<b dict-key="size">size: </b>(<i>cover with size</i>) glu-izar, glutin-izar; <b dict-key="size
+up">s. up:</b> evaluar.
+
+<b dict-key="size">size:</b> (<i>bigness</i>) grand-eso; volumino; dimensiono; gros-eso; dik-eso;
+diametro; staturo; (<i>glue</i>) glutin-ajo; <b dict-key="what is your size">what is your s.?
+</b>(<i>of gloves, shoes</i>) qua esas vua numero? <b dict-key="of middle size">of middle s.:</b>
+meza-granda, -grosa; <b dict-key="persons of the same size">persons of the same s.: </b>personi di
+sama staturo, di sama grand-eso.
+
+<b dict-key="sizzle">sizzle:</b> (<i>intr</i>.) sisar.

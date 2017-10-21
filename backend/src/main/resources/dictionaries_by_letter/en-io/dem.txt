@@ -1,0 +1,85 @@
+<b dict-key="demagnetize">demagnetize: </b>des-magnet-igar.
+
+<b dict-key="demagogue">demagogue: </b>demagog(ul)o.
+
+<b dict-key="demagogy">demagogy: </b>demagogio.
+
+<b dict-key="demand">demand: </b>postular; (=<i> request, ask for</i>) demandar (<i>cf</i>.
+reklamacar; requizitar; revendikar); (<i>interrogate</i>) questionar; <b
+dict-key="demandable">-able: </b>postul-ebla; (<i>political economy: demand</i>) demand-o.
+
+<b dict-key="demarcation">demarcation: </b>limit-izo; <b dict-key="line of demarcation">line of d.:
+</b>separo-lineo (inter).
+
+<b dict-key="demean">demean: </b>(<i>intr</i>.) kondutar; (<i>degrade</i>) abasar, des-nobl-igar,
+-eskar.
+
+<b dict-key="demeanor">demeanor: </b>konduto(-maniero); su-teno; posturo.
+
+<b dict-key="demented">demented: </b>dementa, fola; frenzi-ika; <b dict-key="to become demented">to
+become d.: </b>dement-eskar.
+
+<b dict-key="dementia">dementia: </b>dement-eso.
+
+<b dict-key="demerit">demerit: </b>des-merito.
+
+<b dict-key="demigod">demigod: </b>mi-deo.
+
+<b dict-key="demijohn">demijohn: </b>damijano, korbo-botelo.
+
+<b dict-key="demi">demi-monde: </b>mi-mond-umo.
+
+<b dict-key="demise">demise: </b>(<i>death</i>) morto.
+
+<b dict-key="demission">demission: </b>demisiono.
+
+<b dict-key="demi">demi-tasse: </b>mi-tas(ed)o.
+
+<b dict-key="demiurge">demiurge: </b>demiurgo.
+
+<b dict-key="demobilize">demobilize: </b>des-mobilizar.
+
+<b dict-key="democracy">democracy: </b>demokratio.
+
+<b dict-key="democrat">democrat: </b>demokrat-(ul)o; <b dict-key="democratic">-ic: </b>-a, -ala.
+
+<b dict-key="democratize">democratize: </b>(<i>country</i>) demokrati-igar<b dict-key="">;
+</b>(<i>persons</i>) demokrat-igar.
+
+<b dict-key="demography">demography:</b> demografio.
+
+<b dict-key="demoiselle">demoiselle: </b>damzelo.
+
+<b dict-key="demolish">demolish: </b>demolisar (<i>cf</i>. destruktar, subversar, renversar).
+
+<b dict-key="demon">demon:</b> demono; <b dict-key="demoniac">-iac: </b>demon-ala, -atra,
+(<i>person</i>) -ozo, -iko; <b dict-key="demonism">-ism: </b>-ismo; <b
+dict-key="demonolatry">-olatry: </b>demon-kulto.
+
+<b dict-key="demonetize">demonetize: </b>des-monet-igar; sen-valor-igar.
+
+<b dict-key="demonstrate">demonstrate: </b>demonstrar; pruvar; (<i>manifest</i>) manifestar.
+
+<b dict-key="demonstration">demonstration: </b>(<i>log., milit., polit., naval</i>) demonstr-(ad)o,
+(<i>result</i>) -uro; (<i>of friendship</i>) amik-ala manifesti.
+
+<b dict-key="demonstrative">demonstrative: </b>(<i>gram</i>.) demonstrativ-a, -o.
+
+<b dict-key="demoralize">demoralize: </b>(<i>disorganize</i>) des-organ-izar; des-aranjar;
+(<i>morals</i>) korupt-ar; (<i>dishearten</i>) sen-kuraj-igar, -eskar.
+
+<b dict-key="demotic">demotic: </b>demotika.
+
+<b dict-key="demountable">demountable: </b>des-munt-ebla.
+
+<b dict-key="demulcent">demulcent: </b>dolc-ig-iv-a, -o; mol-ig-iva, -ivo.
+
+<b dict-key="demur">demur: </b>(<i>hesitate</i>) hezitar (<i>cf</i>. temporis-ar); <b dict-key="to
+demur to">to d. to: </b>objecionar.
+
+<b dict-key="demure">demure:</b> pudor-ema; modesta.
+
+<b dict-key="demurrer">demurrer: </b>ecepto-deklaro; (<i>person</i>) ecepto-deklar-anto,
+objecion-anto, -ero.
+
+<b dict-key="dema">&oelig;dema:</b> edemo.

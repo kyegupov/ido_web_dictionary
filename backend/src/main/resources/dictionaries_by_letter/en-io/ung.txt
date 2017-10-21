@@ -1,0 +1,30 @@
+<b dict-key="ungainly">ungainly:</b> des-, ne-graci-oza; (<i>of efforts</i>) des-, ne-habila.
+
+<b dict-key="ungenerous">ungenerous:</b> (<i>in giving</i>) ne-jener-oza; (<i>illiberal</i>)
+des-liber-ala; (<i>mean</i>) meskina.
+
+<b dict-key="ungentlemanly">ungentlemanly:</b> ne-polita, vulgar-acha; mal-manier-a; grosiera.
+
+<b dict-key="ungird">ungird:</b> des-zon-izar; (<i>of horses, etc</i>.) des-gurt-izar.
+
+<b dict-key="ungodly">ungodly:</b> des-pia.
+
+<b dict-key="ungovernable">ungovernable:</b> ne-guvern-ebla, sen-frena, violent-oza; ne-docila.
+
+<b dict-key="ungraceful">ungraceful:</b> ne-graci-oza, sen-gracia, ne-eleganta; ne-habila.
+
+<b dict-key="ungracious">ungracious:</b> ne-afabla, mal-humor-a.
+
+<b dict-key="ungrammatical">ungrammatical:</b> kontre-gramatika, ne-korekta.
+
+<b dict-key="ungrounded">ungrounded:</b> sen-baza, sen-motiva, ne-motiv-iz-ita.
+
+<b dict-key="ungrudging">ungrudging:</b> bon-kordia, sen-rankora, sen-envidia, volunt-anta.
+
+<b dict-key="unguarded">unguarded:</b> ne-gard-ita, -ata; sen-defensa; <b dict-key="in an unguarded
+moment">in an u. moment:</b> en instanto di ne-prudent-eso; <b dict-key="an unguarded
+expression">an u. expression:</b> ne-konsider-ita frazo.
+
+<b dict-key="unguent">unguent:</b> unguento.
+
+<b dict-key="ungulate">ungulate:</b> huf-oza, -ozo.

@@ -1,0 +1,463 @@
+<b dict-key="scab">scab: </b>(<i>on wound</i>) krust-o; (<i>scabies; mange</i>); skabi-o; <b
+dict-key="scab over">s. over: </b>-izar; <b dict-key="scabby">s.by: </b>krust-oza; skabi-oza, -ika.
+
+<b dict-key="scabbard">scabbard: </b>gain-o; <b dict-key="sword">sword-s.:</b> espado- -o; <b
+dict-key="to put in scabbard">to put in s.: </b>en-gain-igar.
+
+<b dict-key="scabious">scabious: </b>(<i>bot</i>.) skabioso.
+
+<b dict-key="scaffold">scaffold: </b>eshafodo.
+
+<b dict-key="scalar">scalar: </b>skalaro.
+
+<b dict-key="scald">scald: </b>eskald-ar; (<i>n</i>.) eskald-uro, brul-vund-uro; (<i>s.head,
+flavus</i>) tinio; <b dict-key="scalding">-ing: </b>eskald-anta; brul-anta.
+
+<b dict-key="scale">scale: </b>(<i>climb up</i>) (<i>tr., intr.</i>) klimar (sur) (<i>cf</i>.
+acensar); (<i>climb a ladder</i>) skal-acensar, asaltar; (<i>fish</i>) sen-squam-igar;
+(<i>metals</i>) dekapar (<i>cf</i>. skrapar).
+
+<b dict-key="scale">scale: </b>(<i>graduation, mus., math., geog.</i>) skalo (<i>cf</i>. grado);
+(<i>mus</i>.) gamo; (<i>fish</i>) squamo (<i>cf</i>. skalio); (<i>measuring instr.</i>) skalo,
+mezur-ilo; (<i>for weighing</i>) balanco, (-pleto, -platformo, -baseno); (<i>wood, metal</i>)
+splito; <b dict-key="on a great scale">on a great s.: </b>en granda dimensiono, ye granda skalo; <b
+dict-key="to weigh by scale">to weigh by s.: </b>ponderar per balanco; <b dict-key="to turn the
+scale">to turn the s.: </b>inklin-igar la balanco; <b dict-key="on a small scale">on a small s.:
+</b>mikra-skale.
+
+<b dict-key="scalene">scalene: </b>skalena.
+
+<b dict-key="scaling">scaling-ladder: </b>asalto-skalo.
+
+<b dict-key="scallion">scallion: </b>(<i>shallot</i>) shaloto; (<i>leek</i>) porelo; (<i>cibol</i>)
+cibolo.
+
+<b dict-key="scallop">scallop: </b>(<i>shellfish</i>) petonklo; (<i>notching</i>) dent-iz-uro;
+(<i>in needlework</i>) festono; <b dict-key="to scallop">to s.: </b>dent-(et)izar, krenel-izar,
+facar zigzagi; (<i>needlework</i>) feston-izar.
+
+<b dict-key="scalp">scalp: </b>skalp-ar; (<i>skin of the head</i>) kranio-pelo; <b dict-key="scalp
+lock">s. lock: </b>skalp-ajo.
+
+<b dict-key="scalpel">scalpel: </b>skalpelo.
+
+<b dict-key="scaly">scaly: </b>(<i>fish, etc</i>.) squam-oza, -atra (<i>cf</i>. skali-oza).
+
+<b dict-key="scammony">scammony: </b>skamoneo.
+
+<b dict-key="scamp">scamp: </b>(<i>work</i>) fushar.
+
+<b dict-key="scamp">scamp: </b>(<i>n</i>.) kanalio, raskalo; <b dict-key="young scamp">young s.:
+</b>bub-acho.
+
+<b dict-key="scamper">scamper: </b>(<i>away</i>) for-kurar; fugar hast-oze.
+
+<b dict-key="scan">scan: </b>examenar minuci-eme, explorar (okule); (<i>verses</i>) skandar.
+
+<b dict-key="scanner">scanner:</b> (<i>device to read or copy information or images into a
+computer; device that is used to see inside something</i>) skanoro*.
+
+<b dict-key="scandal">scandal: </b>skandal-o; (<i>shame</i>) shamo, des-honoro; <b
+dict-key="scandal">s.-monger: </b>maldicens-anto, -ero, -emo; <b dict-key="scandalous">s.ous:
+</b>skandal-anta, -iva, -oza; <b dict-key="scandalize">s.ize: </b>skandalar (ulu) (<i>cf</i>.
+shokar; maldicensar).
+
+<b dict-key="scandent">scandent: </b>klim-anta.
+
+<b dict-key="scansion">scansion: </b>skand-(ad)o.
+
+<b dict-key="scant">scant</b>(<b dict-key="y">y</b>)<b dict-key="">: </b>(<i>not plentiful</i>)
+skarsa; (<i>not frequent</i>) rara; (<i>of hair</i>) ne densa; (<i>poor, insufficient</i>) povra,
+mikra, meskina, ne-sufic-anta, magra, tro kurta, tro streta.
+
+<b dict-key="scantling">scantling: </b>trab-eto, lat-eto.
+
+<b dict-key="scapegoat">scapegoat: </b>(<i>prop. and fig</i>.) peko-kapro.
+
+<b dict-key="scapegrace">scapegrace: </b>raskalo, nul-valor-anto.
+
+<b dict-key="scapement">scapement: </b>eskapo.
+
+<b dict-key="scapula">scapula: </b>skapulo.
+
+<b dict-key="scapular">scapular</b>(<b dict-key="y">y</b>)<b dict-key="">:</b> skapulario.
+
+<b dict-key="scar">scar: </b>cikatr-o, -izar, -eskar.
+
+<b dict-key="scarab">scarab</b>(<b dict-key="ee">ee</b>)<b dict-key="">:</b> skarabeo.
+
+<b dict-key="scaramouch">scaramouch: </b>skaramucho.
+
+<b dict-key="scarce">scarce: </b>(<i>not frequent</i>) rara; (<i>not abundant</i>) skarsa; (<i>in
+space</i>) des-, ne-densa.
+
+<b dict-key="scarcely">scarcely: </b>(<i>adv</i>.) apene; preske ne; (<i>conj</i>.) quik pos ke,
+quik kande.
+
+<b dict-key="scare">scare: </b>pavor-igar, teror-igar; timid-igar; tim-igar; (<i>intr</i>.) -ekar
+(pri); (<i>n</i>.) paniko, pavoro (subita); <b dict-key="scarecrow">s.crow: </b>(ucel-)teror-ig-ilo.
+
+<b dict-key="scarf">scarf: </b>(<i>for shoulders, for ornament</i>) sharpo; (<i>necktie</i>)
+(longa) kravato (<i>cf</i>. kol-tuko); <b dict-key="scarf pin">s. pin:</b><i> </i>kravat-pinglo.
+
+<b dict-key="scarfskin">scarfskin: </b>epidermo.
+
+<b dict-key="scarify">scarify: </b>skarifik-ar; <b dict-key="scarification">-fication: </b>-(ad)o,
+-uro (<i>cf</i>. lacerar).
+
+<b dict-key="scarlatina">scarlatina: </b>skarlatino.
+
+<b dict-key="scarlet">scarlet: </b>skarlat-a, -o; <b dict-key="scarlet fever">s. fever:
+</b>skarlatino; <b dict-key="scarlet runner">s. runner: </b>fazeolo multaflora.
+
+<b dict-key="scarp">scarp: </b>eskarp-ajo.
+
+<b dict-key="scarred">scarred: </b>cikatr-iz-ita.
+
+<b dict-key="scatheless">scatheless: </b>sen-domaja.
+
+<b dict-key="scathing">scathing: </b>sever(eg)a, vund-anta, velk-ig-anta.
+
+<b dict-key="scatter">scatter: </b>(<i>seeds, etc</i>.) dis-semar; (<i>clouds, shots, crowds</i>)
+dispersar (<i>cf</i>.difuzar); <b dict-key="scattering">-ing: </b>dispersita, dis-sem-ita; <b
+dict-key="scatterings">-ings: </b>-aji; <b dict-key="scatter">s.-brained: </b>sen-reflekt-a,
+(<i>person</i>) -(ul)o; ne-pens-ema.
+
+<b dict-key="scavenger">scavenger: </b>fango-kolekt-isto, strado-balay-isto.
+
+<b dict-key="scenario">scenario: </b>cen-aro.
+
+<b dict-key="scene">scene: </b>(<i>theat. and gen</i>.) ceno; (<i>view</i>) ceno, vid-ajo, peizajo;
+(<i>exhibition of passion</i>) atakar ulu parole, cen-acho; <b dict-key="behind the scenes">behind
+the s.s: </b>la kuliso, dop la kurteno; <b dict-key="scene painter">s. painter: </b>cen-ar-ala
+pikt-isto.
+
+<b dict-key="scenery">scenery: </b>(<i>theat</i>.) ceno, cen-aro; (<i>natural landscape</i>)
+peizajo.
+
+<b dict-key="scenic">scenic: </b>cen-ala.
+
+<b dict-key="scent">scent: </b>(<i>perfume with</i>) parfum-izar; (<i>smell an odo(u)r</i>) flarar
+(ulu, ulo).
+
+<b dict-key="scent">scent: </b>(<i>odo(u)r good or bad</i>) odoro; (<i>artificial perfume</i>)
+parfum-o,-ajo; (<i>in hunting</i>) flaro; traco-voyo; <b dict-key="to have a scent">to have a s.:
+</b>(<i>intr</i>.) odorar; <b dict-key="to follow by scent">to follow by s.: </b>sequar (ulu) per
+flar-(ad)o, per la traci; <b dict-key="scentbag">s.bag: </b>parfum-sak-eto; <b dict-key="scent
+bottle">s. bottle: </b>parfum-flakono; <b dict-key="scented">s.ed: </b>(<i>perfumed</i>)
+parfum-iz-ita; (<i>having a smell</i>) odor-anta, -oza; <b dict-key="scentless">s.less:
+</b>sen-odora.
+
+<b dict-key="sceptic">sceptic: </b>skeptik-(ul)o; -a, -ala (<i>cf</i>. ne-kred-ema); <b
+dict-key="scepticalness">-alness: </b>skeptik-eso; <b dict-key="scepticism">-ism:
+</b>(<i>doctrinal</i>) -ismo.
+
+<b dict-key="scepter,sceptre">scepter, sceptre: </b>ceptro.
+
+<b dict-key="schedule">schedule: </b>(<i>table</i>) tabelo, listo, horario* (<i>cf</i>.
+inventario); (<i>plan</i>) skemo.
+
+<b dict-key="schema">schema: </b>(<i>systematic plan</i>) skem-o (<i>cf</i>. projeto); <b
+dict-key="schemtize">-tize: </b>-izar, -ifar.
+
+<b dict-key="scheme">scheme: </b>projetar; (<i>bad sense</i>) intrigar, ruzar (<i>intr</i>.).
+
+<b dict-key="scheme">scheme: </b>(<i>project</i>) projeto (<i>cf</i>. programo, skiso, skemo,
+sistemo, aranjo).
+
+<b dict-key="scheming">scheming: </b>(<i>adj</i>.) intrig-anta, -ema, -oza; ruz-oza, -ema.
+
+<b dict-key="scherzo">scherzo: </b>skerco.
+
+<b dict-key="schism">schism: </b>skism-o; <b dict-key="schismatic">-atic: </b>-ana, -ano.
+
+<b dict-key="schist">schist: </b>skisto.
+
+<b dict-key="scholar">scholar: </b>(<i>pupil</i>) skol-ano, lern-anto, instrukt-ato; (<i>learned
+person</i>) erudito, cienc-isto; (<i>having a scholarship</i>) stipend-iero, -ulo; <b dict-key="day
+scholar">day s.: </b>extern(ul)o; <b dict-key="good Latin scholar">good Latin s.: </b>bona
+Latin-isto ; <b dict-key="scholarlike,scholarly">-like, -ly: </b>erud-ita, cienc-oza; <b
+dict-key="scholarship">-ship: </b>erud-it-eso, sav-ado; (<i>money award</i>) stipendio.
+
+<b dict-key="scholastic">scholastic: </b>skolastik-a, -(ul)o; <b dict-key="scholasticism">-ism:
+</b>-ismo (<i>cf</i>. skol-ala, doc-ala).
+
+<b dict-key="scholiast">scholiast: </b>skoliasto.
+
+<b dict-key="scholium">scholium: </b>skolio.
+
+<b dict-key="school">school: </b>(<i>gen. sense</i>) skolo (<i>cf</i>. eduk-erio); <b
+dict-key="private school">private s.: </b>privata skolo <i>o</i> eduk-erio; <b dict-key="day
+school">day s.: </b>extern-erio; <b dict-key="free school">free s.: </b>gratuita skolo; <b
+dict-key="evening school">evening s.: </b>vesper-ala klaso <i>o</i> skolo; <b
+dict-key="schoolroom">s.room:</b> skol-chambro;<b dict-key="to school"> to s.:</b> (<i>teach</i>)
+instruktar; (<i>oneself in</i>) lernar, suportar <i>o</i> tolerar; domtar, kustum-igar su;
+(<i>admonish</i>) reprimandar.
+
+<b dict-key="school">school-board: </b>skol-komitato, -konsil-ant-aro.
+
+<b dict-key="school">school-child: </b>skol-ano, lern-anto.
+
+<b dict-key="school">school-fellow: </b>kun-lern-anto, skol-kamarado, skol-kompano.
+
+<b dict-key="school">school-house: </b>eduk-eyo, skolo, skol-domo.
+
+<b dict-key="schooling">schooling: </b>instrukt-ado; (<i>something taught</i>) doc-ajo.
+
+<b dict-key="schoolman">schoolman: </b>(<i>of middle ages</i>) skolastic-o; (<i>collect</i>.) -aro.
+
+<b dict-key="schoolmaster">schoolmaster: </b>skol-mastro, -estro; (<i>teacher</i>) instrukt-isto;
+doc-ero, -anto.
+
+<b dict-key="schooner">schooner: </b>skunero.
+
+<b dict-key="schottish">schottish: </b>skotisho.
+
+<b dict-key="sciatic">sciatic: </b>ciatik-a; <b dict-key="sciatica">-a: </b>nevralgio.
+
+<b dict-key="science">science: </b>cienco (<i>cf</i>. savo, konoc-(ad)o).
+
+<b dict-key="scientific">scientific: </b>cienc-ala.
+
+<b dict-key="scilla">scilla: </b>squilo.
+
+<b dict-key="scimitar">scimitar: </b>cimitaro.
+
+<b dict-key="scintillate">scintillate: </b>cintil-ifar; <b dict-key="scintillating">-ting:
+</b>cintil-if-anta; <b dict-key="scintillation">-tion: </b>-if-ado.
+
+<b dict-key="scion">scion: </b>sproso.
+
+<b dict-key="scirrhus">scirrhus: </b>skiro.
+
+<b dict-key="scissors">scissors: </b>(<i>a pair of</i>) cizo.
+
+<b dict-key="sclerotic">sclerotic: </b>sklerotiko.
+
+<b dict-key="scoff">scoff: </b>mok-ar; <b dict-key="scoffer">-er: </b>-anto, -ero, -emo; <b
+dict-key="scoffing">-ing: </b>-anta, -era, -ema.
+
+<b dict-key="scold">scold: </b>(<i>reprimand</i>) reprimand(ach)ar; reproch-adar; (<i>woman</i>)
+megero, harpio.
+
+<b dict-key="scolopendra">scolopendra: </b>skolopendro.
+
+<b dict-key="sconce">sconce: </b>(<i>candle-bracket</i>) (mur-)kandel-iro (<i>cf</i>. kandelabro).
+
+<b dict-key="scoop">scoop: </b>(<i>bail out</i>) eskupar; (<i>evacuate</i>) evakuar; (<i>empty a
+vessel</i>) vaku-igar; (<i>make concave</i>) konkav-igar; (<i>shovel</i>) shovel-agar.
+
+<b dict-key="scoop">scoop: </b>kulier-ego, shovelo.
+
+<b dict-key="scope">scope: </b>(<i>aim</i>) skopo; (<i>range of action</i>) ago-spaco, ago-feldo,
+ago-sfero; liber-eso; <b dict-key="to give free scope">to give free s.: </b>akordar (plena)
+liber-eso (ad ulu).
+
+<b dict-key="scorbutic">scorbutic: </b>skorbut-ala, -atra, (<i>person</i>) -ika, -iko.
+
+<b dict-key="scorch">scorch: </b>(tro-)brular (la surfaco); tro-grilar; <b
+dict-key="scorching">-ing: </b>brul-anta; (<i>hot</i>) varm-ega.
+
+<b dict-key="score">score: </b>(<i>by notches</i>) noch-izar; (<i>by marks</i>) mark-izar;
+(<i>record</i>) en-registr-agar, en-skribar; (<i>groove</i>) kanel-izar; <b dict-key="score
+over">s. over: </b>vinkar, super-esar, dominacar; ganar; <b dict-key="score out">s. out:
+</b>efacar; <b dict-key="score up">s. up: </b>mark-izar, not-izar (<i>libro</i>); (<i>mus</i>.)
+instrument-izar.
+
+<b dict-key="score">score: </b>(<i>notch</i>) nocho, en-tali-uro; (<i>games</i>) nombro de punti;
+(<i>mus</i>.) particiono; (<i>account</i>) konto; (<i>twenty</i>) dua-dek; <b dict-key="on that
+score">on that s.: </b>pri to; <b dict-key="scoreer">s.er: </b>mark-iz-anta, -ero.
+
+<b dict-key="scoria">scoria: </b>skorio.
+
+<b dict-key="scorify">scorify: </b>skori-igar.
+
+<b dict-key="scorn">scorn: </b>des-estimar, des-prizar (<i>not to condescend</i>) ne-degnar; <b
+dict-key="scorn a danger">s. a danger: </b>ne timar <i>o</i> egardar danjero.
+
+<b dict-key="scorn">scorn: </b>(<i>n</i>.) des-estimo, des-priz-(ad)o; <b dict-key="scornful">-ful:
+</b>des-estim-anta, -ema; des-priz-anta, ema.
+
+<b dict-key="scorpion">scorpion: </b>skorpiono.
+
+<b dict-key="scot">scot-free: </b>sen-page; sen-punise; sen irga spens-ajo.
+
+<b dict-key="scotch">scotch: </b>(<i>wound slightly</i>) vund-etar; (<i>scrape</i>) skrapar.
+
+<b dict-key="scoundrel">scoundrel: </b>kanali-(ul)o; krimin-anto, -into, -ozo; (<i>fam</i>.)
+raskalo.
+
+<b dict-key="scour">scour: </b>(<i>by rubbing</i>) skurar (<i>cf</i>. skrapar); (<i>rub, shine
+up</i>) frotar; (<i>the country</i>) tra-irar, -kurar, explorar, 
+
+<b dict-key="scourge">scourge: </b>flog-ar (<i>cf</i>. verg-agar, -batar); (<i>fig</i>.) devastar;
+afliktar.
+
+<b dict-key="scourge">scourge: </b>(<i>n</i>.) (<i>whip</i>) flog-ilo; (<i>fig</i>.) plago, pesto.
+
+<b dict-key="scout">scout: </b>(<i>milit</i>.) explorar; (<i>spurn</i>) repulsar (indign-oze
+<i>o</i> des-estim-oze).
+
+<b dict-key="scout">scout: </b>explor-anto, -ero; vedeto.
+
+<b dict-key="scowl">scowl: </b>frunsar, kontraktar la brovi; <b dict-key="scowl at">s. at:
+</b>regardar des-afable <i>o</i> severe <i>o</i> irac-oze <i>o</i> des-am-ante; (<i>n</i>.)
+brovo-frunso; minac-anta <i>o</i> des-afabla regardo; <b dict-key="scowling">-ing: </b>minac-anta;
+brovo-fruns-anta.
+
+<b dict-key="scraggy">scraggy: </b>(<i>surface</i>) aspera; (<i>person</i>) magr-(eg)a , -acha.
+
+<b dict-key="scramble">scramble: </b>(<i>clamber</i>) klimar (sur, super); (<i>struggle</i>)
+luktar, baraktar (per manui e pedi); <b dict-key="scramble for">s. for: </b>probar sizar <i>o</i>
+kaptar.
+
+<b dict-key="scrap">scrap: </b>pec-eto, fragment-eto; (<i>of paper</i>) (papera) shifono;
+(<i>remains</i>) rest-aj-o, -i; <b dict-key="scrap book">s. book:</b> albumo; <b dict-key="scrap
+heap">s. heap: </b>rezidu-acha amaso; <b dict-key="scrap iron">s. iron: </b>anciena fer-peci.
+
+<b dict-key="scrape">scrape: </b>(<i>with a tool, scale off</i>) skrapar; (<i>to graze,
+scratch</i>) skrachar; (<i>to grate</i>) gratar; (<i>rasp</i>) raspar; <b dict-key="scrape off
+dirt">s. off dirt: </b>sen-fang-igar, des-fang-izar (ulo, ulu); <b dict-key="scrape a fiddle">s. a
+fiddle: </b>ple-, frot-achar violino; violin-ple-achar; <b dict-key="scrape an aquaintance with
+someone">s. an aquaintance with someone: </b>konoc-eskar (ulu); <b dict-key="scrape together">s.
+together: </b>amas-igar; (<i>by small savings</i>) amas-igar (ulo) mikr-ope <i>o</i> pok-ope; <b
+dict-key="to bow and scrape">to bow and s.: </b>facar salut-egi; facar ceremonii; <b
+dict-key="scrape along">s. along: </b>(<i>fig</i>.) viv-achar.
+
+<b dict-key="scrape">scrape: </b>(<i>n</i>.) (<i>difficulty</i>) embaras-anta afero;<b dict-key="to
+get someone into a scrape"> to get someone into a s.: </b>intrikar ulu en mala <i>od</i>
+embaras-anta afero.
+
+<b dict-key="scraper">scraper: </b>(<i>for instr. add -</i>ilo) (<i>for person add </i>-anto, -ero).
+
+<b dict-key="scratch">scratch: </b>(<i>so as to allay itching</i>) gratar; (<i>wound slightly with
+the nails, etc.</i>) skrachar (<i>cf</i>. exkoriar); <b dict-key="to scratch one head">to s.
+one&rsquo;s head: </b>gratar la kapo; <b dict-key="the pin scratched me">the pin s.ed me: </b>la
+pinglo skrachis me; <b dict-key="to scratch out">to s. out: </b>efacar, sur-strek-izar; <b
+dict-key="to make scratchs">to make s.s </b>(<i>streaks, stripes</i>) <b dict-key="upon">upon:
+</b>stri-izar; <b dict-key="she scratched out his eyes">she s.ed out his eyes: </b>el arachis lua
+okuli.
+
+<b dict-key="scratch">scratch: </b>(<i>n</i>.) skrach-uro; (<i>as on a rock</i>) strio; <b
+dict-key="to come to the scratch">to come to the s.:</b> esar pronta por la lukto.
+
+<b dict-key="scrawl">scrawl: </b>skrib-achar, -ach-uro, (<i>act</i>) -ach-(ad)o.
+
+<b dict-key="scrawny">scrawny: </b>magr-acha.
+
+<b dict-key="scream">scream: </b>(<i>inarticulate</i>) kri-(eg)ar (<i>intr</i>.); (<i>shout
+words</i>) klam-(ac)ar (ulo, ad ulu) (<i>of animals, cf</i>. bramar).
+
+<b dict-key="screech">screech: </b>(<i>n</i>.) kri-o (akuta), -ego, -acho; (<i>words</i>)
+klam-(ad)o, -ach-ego; (<i>as of an owl</i>) bram-(ad)o.
+
+<b dict-key="screech">screech-owl: </b>strigo.
+
+<b dict-key="screen">screen: </b>(<i>shelter</i>) shirmar (ulu, ulo, kontre); (<i>sift</i>)
+kribl-agar; siv-agar; <b dict-key="screened from the wind">s.ed from the wind: </b>shirm-ata kontre
+la vento.
+
+<b dict-key="screen">screen: </b>(<i>shield</i>) (fairo-, lumo-) skreno, shirm-ilo (<i>cf</i>.
+<i>prefix</i> para-, <i>as in:</i> para-vento, para-fairo, e.c.); (<i>of movie theatre, television,
+monitor, etc.</i>) ekrano*; (<i>curtain</i>) kurteno; (<i>of an altar</i>) retablo; (<i>hurdle for
+sheep, etc</i>.) hurdo; (<i>fig</i>.) defens-ilo; (<i>for sifting</i>) (<i>large</i>) kriblo
+(<i>small, as for flour</i>) sivo; (<i>grating</i>) greto; <b dict-key="folding screen">folding s.:
+</b>fald-ebla skreno.
+
+<b dict-key="screw">screw: </b>(<i>s. a screw</i>) visar; (<i>s. up a box, etc</i>.) skrub-agar
+(ulo); <b dict-key="screw up one courage">s. up one&rsquo;s courage: </b>kuraj-eskar, facar granda
+esforco; <b dict-key="screw up one face">s. up one&rsquo;s face: </b>grimasar; <b dict-key="screw
+up one lips">s. up one&rsquo;s lips: </b>klema la labii; <b dict-key="to screw one workmen">to
+screw one&rsquo;s workmen: </b>opresar la labor-isti; <b dict-key="screw money out of">s. money out
+of: </b>igar pagar; koaktar pagar.
+
+<b dict-key="screw">screw: </b>(<i>n</i>.) skrubo; (<i>person</i>) avar-(ul)o, -ach-(ul)o;
+(<i>propeller</i>) helico; <b dict-key="screwdriver">s.driver: </b>skrub-turn-ilo; <b
+dict-key="screw">s.-jack: </b>kriko.
+
+<b dict-key="scribble">scribble: </b>skrib-achar, -ach-uro (<i>cf</i>. klado).
+
+<b dict-key="scribe">scribe: </b>(<i>writer</i>) skrib-isto; (<i>fig</i>.) literatur-isto.
+
+<b dict-key="scrimmage">scrimmage: </b>(inter-) barakto.
+
+<b dict-key="script">script: </b>(<i>a writing</i>) skrib-ajo; (<i>print</i>.) skrib-atra <i>o</i>
+kursiva tipi.
+
+<b dict-key="Scripture">Scripture: </b>la santa skrib-uro; biblo; <b
+dict-key="Scriptural">-ral:</b> bibl-ala, di la santa skrib-uro.
+
+<b dict-key="scrivener">scrivener: </b>(publika) skrib-isto; notario.
+
+<b dict-key="scrofula">scrofula: </b>skroful-o; antirino; <b dict-key="scrofulous">-ous: </b>-ala,
+-atra; (<i>person</i>) -ika, -iko.
+
+<b dict-key="scrofulosis">scrofulosis:</b> (<i>path.</i>) skrofuloso.
+
+<b dict-key="scroll">scroll: </b>paper-volv-ajo; (<i>parchment</i>) pergamem-volv-ajo;
+(<i>spiral</i>) spiral-o (ornament-ala).
+
+<b dict-key="scrotum">scrotum: </b>skroto; (<i>slang</i>) kolyonuyo*.
+
+<b dict-key="scrub">scrub: </b>(<i>floors, etc</i>.) frot-(eg)ar; (<i>scour</i>) skurar (<i>cf</i>.
+lavar, brosar).
+
+<b dict-key="scrub">scrub: </b>(<i>person</i>) nul-valor-anto; (<i>inexpert</i>) ne-experta,
+sen-experienca; (<i>tree</i>) stunt-ita arbor-(et)o.
+
+<b dict-key="scrubbing">scrubbing-brush: </b>frot-bros-ilo, skur-bros-ilo.
+
+<b dict-key="scrubby">scrubby: </b>(<i>stunted</i>) stunt-ita; (<i>bristly</i>) pil-oza; heris-ita.
+
+<b dict-key="scruple">scruple: </b>havar skrupulo pri ulo, dubitar (pri ulo), hezitar (pri).
+
+<b dict-key="scruple">scruple: </b>(<i>moral</i>) skrupul-o; <b dict-key="scruplous">-lous:
+</b>-oza, -ema. 
+
+<b dict-key="scrutinize">scrutinize: </b>explorar (okule) , explorar rigor-ozem par-regardar.
+
+<b dict-key="scrutiny">scrutiny: </b>(<i>of persons</i>) exameno (rigor-oza), (<i>of things</i>)
+par-exploro; (<i>of votes</i>) konto (di voti).
+
+<b dict-key="scud">scud: </b>kurar rapide.
+
+<b dict-key="scud">scud: </b>(<i>clouds</i>)<b dict-key=""> </b>nubo-fragmenti, (lejera) nubi
+puls-ata da vento.
+
+<b dict-key="scuffle">scuffle: </b>inter-luktar; luktar kun; disput-bat-eto; (<i>with feet</i>)
+pedo-skrapar; (<i>n</i>.) inter-lukto.
+
+<b dict-key="scull">scull: </b>dop-remar (batelo) (<i>oar:</i> -ilo).
+
+<b dict-key="scullery">scullery: </b>dop-koqu-eyo, koqu-ey-ala lav-eyo; <b dict-key="scullery
+maid">s. maid: </b>vaz-lav-ist-ino.
+
+<b dict-key="sculpture">sculpture: </b>skult-ar (ulo, en, ek) (<i>cf</i>. cizelar); (<i>work</i>)
+-uro, (<i>act</i>) -(ad)o; (<i>art</i>) -arto; <b dict-key="sculpturural">-ural: </b>-ala;
+plastik-a; <b dict-key="sculpturtor">-tor: </b>-isto, -ero.
+
+<b dict-key="scum">scum: </b>(<i>froth</i>) spumo; (<i>metal</i>) skorio; (<i>layer of dirt</i>)
+kraso; (<i>refuse</i>) reziduo; <b dict-key="the scum of the people">the s. of the people:
+</b>la-lizo di la populo, la kanali-aro.
+
+<b dict-key="scurf">scurf: </b>har-kraso, kapo-kraso; (<i>of skin</i>) pelo-squamo, extera epidermo
+(<i>cf</i>. tinio).
+
+<b dict-key="scurrility">scurrility: </b>grosier-eso, -ajo; ne-dec-o, -ant-eso di parol-ado; <b
+dict-key="scurrilitlous">-lous: </b>grosiera, ofens-anta, -ema.
+
+<b dict-key="scurry">scurry: </b>(<i>intr</i>.) kur-egar, haste-ad-kurar.
+
+<b dict-key="scurvy">scurvy: </b>(<i>n</i>.) skorbut-o; (<i>adj.: scorbutic</i>) -ala, -atra; -ika;
+(<i>treatment</i>) mala, kanali-ema, des-nobla.
+
+<b dict-key="scutcheon">scutcheon: </b>skudo.
+
+<b dict-key="scutiform">scutiform: </b>skudo-forma.
+
+<b dict-key="scuttle">scuttle: </b>fugar precipit-oze (<i>see</i> <b dict-key="scurry">scurry</b>);
+(<i>a ship</i>) dron-igar (navo per tru-igo).
+
+<b dict-key="scuttle">scuttle: </b>(<i>hatchway</i>) luko; (<i>coal s</i>.) karbon-sitelo.
+
+<b dict-key="scythe">scythe: </b>falch-ilo.

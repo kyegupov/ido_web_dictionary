@@ -1,0 +1,158 @@
+<b dict-key="su">su</b>: <span dict-key="себя (рефлексивное местоимение)">себя (рефлексивное
+местоимение)</span>
+
+<b dict-key="sub">sub</b>: <span dict-key="под">под</span>
+
+<b dict-key="subisar">subisar</b>: <span dict-key="подвергнуться">подвергнуться</span>
+
+<b dict-key="subita">subita</b>: <span dict-key="внезапный">внезапный</span>
+
+<b dict-key="subjekto">subjekto</b>: <span dict-key="предмет">предмет</span>
+
+<b dict-key="subjuntivo">subjuntivo</b>: <span dict-key="сослагательное наклонение">сослагательное
+наклонение</span>
+
+<b dict-key="submersar">submersar</b>: <span dict-key="погружаться">погружаться</span>
+
+<b dict-key="submisar">submisar</b>: <span dict-key="подчиняться">подчиняться</span>
+
+<b dict-key="subsidiar">subsidiar</b>: <span dict-key="субсидировать">субсидировать</span>
+
+<b dict-key="substanco">substanco</b>: <span dict-key="вещество (сущность)">вещество
+(сущность)</span>
+
+<b dict-key="substantivo">substantivo</b>: <span dict-key="имя существительное">имя
+существительное</span>
+
+<b dict-key="substitucar">substitucar</b>: <span dict-key="занимать место">занимать место</span>
+
+<b dict-key="subtila">subtila</b>: <span dict-key="тонкий">тонкий</span>
+
+<b dict-key="sucedar">sucedar</b>: <span dict-key="следовать за чем-л.">следовать за чем-л.</span>
+
+<b dict-key="sucesar">sucesar</b>: <span dict-key="быть успешным">быть успешным</span>
+
+<b dict-key="suciar">suciar</b>: <span dict-key="волноваться">волноваться</span>
+
+<b dict-key="sudan">sudan</b>: <span dict-key="судан">судан</span>
+
+<b dict-key="sudo">sudo</b>: <span dict-key="юг">юг</span>
+
+<b dict-key="sudoro">sudoro</b>: <span dict-key="пот">пот</span>
+
+<b dict-key="suedia">suedia</b>: <span dict-key="швеция">швеция</span>, <span dict-key="sueda
+шведский">sueda шведский</span>
+
+<b dict-key="suficar">suficar</b>: <span dict-key="удовлетворять">удовлетворять</span>
+
+<b dict-key="sufice">sufice</b>: <span dict-key="достаточно">достаточно</span>
+
+<b dict-key="sufixo">sufixo</b>: <span dict-key="суффикс">суффикс</span>
+
+<b dict-key="suflar">suflar</b>: <span dict-key="дуть">дуть</span>
+
+<b dict-key="sufokar">sufokar</b>: <span dict-key="задохнуться">задохнуться</span>
+
+<b dict-key="sufrar">sufrar</b>: <span dict-key="страдать">страдать</span>
+
+<b dict-key="sugar">sugar</b>: <span dict-key="сосать">сосать</span>
+
+<b dict-key="sugestar">sugestar</b>: <span dict-key="предлагать">предлагать</span>
+
+<b dict-key="suisia">suisia</b>: <span dict-key="швейцария">швейцария</span>, <span dict-key="suisa
+швейцарец">suisa швейцарец</span>
+
+<b dict-key="suko">suko</b>: <span dict-key="сок">сок</span>
+
+<b dict-key="sukombar">sukombar</b>: <span dict-key="уступать">уступать</span>
+
+<b dict-key="sukro">sukro</b>: <span dict-key="сахар">сахар</span>
+
+<b dict-key="sukusar">sukusar</b>: <span dict-key="причинять сильные колебания">причинять сильные
+колебания</span>
+
+<b dict-key="sulko">sulko</b>: <span dict-key="борозда">борозда</span>
+
+<b dict-key="sulo">sulo</b>: <span dict-key="почва">почва</span>
+
+<b dict-key="sumnar">sumnar</b>: <span dict-key="вызвать">вызвать</span>
+
+<b dict-key="sumo">sumo</b>: <span dict-key="сумма">сумма</span>, <span
+dict-key="количество">количество</span>
+
+<b dict-key="sundio">sundio</b>: <span dict-key="воскресенье">воскресенье</span>
+
+<b dict-key="suno">suno</b>: <span dict-key="солнце">солнце</span>
+
+<b dict-key="suocidar">suocidar</b>: <span dict-key="совершить самоубийство">совершить
+самоубийство</span>
+
+<b dict-key="suolo">suolo</b>: <span dict-key="подошва (обуви)">подошва (обуви)</span>
+
+<b dict-key="supear">supear</b>: <span dict-key="брать ужин">брать ужин</span>
+
+<b dict-key="super">super</b>: <span dict-key="над">над</span>, <span dict-key="выше (указывает на
+движение или нахождение над чем-либо)">выше (указывает на движение или нахождение над
+чем-либо)</span>
+
+<b dict-key="superba">superba</b>: <span dict-key="тщеславный">тщеславный</span>, <span
+dict-key="надменный">надменный</span>
+
+<b dict-key="superflua">superflua</b>: <span dict-key="лишний">лишний</span>
+
+<b dict-key="superiora">superiora</b>: <span dict-key="лучший">лучший</span>, <span
+dict-key="превосходный">превосходный</span>
+
+<b dict-key="suplantar">suplantar</b>: <span dict-key="вытеснять">вытеснять</span>
+
+<b dict-key="suplear">suplear</b>: <span dict-key="пополнять">пополнять</span>, <span
+dict-key="возмещать">возмещать</span>, <span dict-key="компенсировать">компенсировать</span>
+
+<b dict-key="suplemento">suplemento</b>: <span dict-key="приложение">приложение</span>
+
+<b dict-key="supo">supo</b>: <span dict-key="суп">суп</span>
+
+<b dict-key="suportar">suportar</b>: <span dict-key="поддерживать">поддерживать</span>, <span
+dict-key="переносить вес">переносить вес</span>
+
+<b dict-key="supozar">supozar</b>: <span dict-key="предположить">предположить</span>
+
+<b dict-key="supre">supre</b>: <span dict-key="вверху">вверху</span>, <span dict-key="на
+вершине">на вершине</span>, <span dict-key="выше">выше</span>
+
+<b dict-key="supresar">supresar</b>: <span dict-key="подавлять">подавлять</span>
+
+<b dict-key="sur">sur</b>: <span dict-key="на (чем-либо)">на (чем-либо)</span>
+
+<b dict-key="surda">surda</b>: <span dict-key="глухой">глухой</span>
+
+<b dict-key="surfaco">surfaco</b>: <span dict-key="поверхность">поверхность</span>
+
+<b dict-key="surnomo">surnomo</b>: <span dict-key="фамилия">фамилия</span>
+
+<b dict-key="surprizar">surprizar</b>: <span dict-key="удивлять">удивлять</span>
+
+<b dict-key="surveyar">surveyar</b>: <span dict-key="наблюдать">наблюдать</span>
+
+<b dict-key="sus">sus</b>: <span dict-key="атас! (побуждение к защите)">атас! (побуждение к
+защите)</span>
+
+<b dict-key="suskriptar">suskriptar</b>: <span dict-key="подписаться">подписаться</span>, <span
+dict-key="вносить определенную сумму">вносить определенную сумму</span>
+
+<b dict-key="suspektar">suspektar</b>: <span dict-key="подозревать">подозревать</span>
+
+<b dict-key="suspendar">suspendar</b>: <span dict-key="приостановить">приостановить</span>
+
+<b dict-key="sustenar">sustenar</b>: <span dict-key="выдержать">выдержать</span>
+
+<b dict-key="sustracionar">sustracionar</b>: <span dict-key="вычитать">вычитать</span>
+
+<b dict-key="susurar">susurar</b>: <span dict-key="шептать">шептать</span>
+
+<b dict-key="sutar">sutar</b>: <span dict-key="шить">шить</span>
+
+<b dict-key="suveniro">suveniro</b>: <span dict-key="подарок">подарок</span>
+
+<b dict-key="suverena">suverena</b>: <span dict-key="суверенный (независимый)">суверенный
+(независимый)</span>

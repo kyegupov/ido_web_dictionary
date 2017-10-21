@@ -1,0 +1,163 @@
+<b dict-key="guaiacol">guaiacol:</b> (<i>chem.</i>) guayakolo.
+
+<b dict-key="guaicum">guaicum </b>(<b dict-key="wood">wood</b>)<b dict-key="">:</b> gayako.
+
+<b dict-key="guanine">guanine:</b> (<i>chem.</i>) guanino.
+
+<b dict-key="guano">guano:</b> guano.
+
+<b dict-key="guarantee">guarantee:</b> garantiar (<i>cf</i>. cert-igar; aval-izar; kaucion-izar).
+
+<b dict-key="guard">guard:</b> (<i>persons, beasts</i>) gardar; (<i>screen</i>) shirmar (<i>cf</i>.
+protektar; prezervar; defensar; sorgar; suciar).
+
+<b dict-key="guard">guard:</b> (<i>act</i>) gard-(ad)o; (<i>body of troops</i>) guardo; <b
+dict-key="member of a guard">member of a g.:</b> (<i>soldier</i>) gard-ano; gard-isto, -ero;
+(<i>bodyg</i>.) korpo-gardo; (<i>escort</i>) eskorto; (<i>on trains, trams, etc</i>.) konduktoro;
+<b dict-key="to mount guard">to mount g.:</b> facionar (<i>intr</i>.); (<i>screen</i>) shirm-ilo
+(<i>cf</i>. para-); (<i>care</i>) sorgo; (<i>trigger</i>) pont-eto; <b dict-key="put on guard">put
+on g.:</b> avertar ulu des-fidar (<i>o</i> sorgar pri) ulo; <b dict-key="relieve the guard">relieve
+the g.:</b> chanjar la faciono; <b dict-key="fall in guard">fall in g.:</b> prenar posturo di
+skermo <i>o</i> defenso; <b dict-key="to be guarded by">to be g.ed by:</b> esar gard-ata da ulu; <b
+dict-key="guard oneself">g. oneself:</b> gardar su; <b dict-key="guard of sword">g. of sword:</b>
+espado-konko; <b dict-key="to catch anyone off his guard">to catch anyone off his g.:</b> surprizar
+ulu sen defenso (<i>od</i>, trovar ulu neglij-anta, -ema).
+
+<b dict-key="guarded">guarded:</b> (<i>cautious</i>) prudenta, cirkonspekta; reserv-ema.
+
+<b dict-key="guardian">guardian:</b> (<i>one who guards</i>) gard-isto,-ero; (<i>of a minor
+etc</i>.) tutel-anto, -ero; kurat-anto, -ero, -isto; (<i>joint g</i>.) kun-, <b
+dict-key="guardianship">-ship:</b> kurato; (<i>nav</i>.) gard-navo.
+
+<b dict-key="guava">guava:</b> guyav-o, -iero.
+
+<b dict-key="gudgeon">gudgeon:</b> (<i>fish</i>) gobio; (<i>peg</i>) stifto.
+
+<b dict-key="Guelph">Guelph:</b> guelf-a, -o.
+
+<b dict-key="guerilla band">guerilla band:</b> libera trupo.
+
+<b dict-key="guess">guess:</b> konjektar, pre-dicar; (<i>discover by g.ing</i>) divenar; <b
+dict-key="at a rough guess">at a rough g.:</b> proxime, cirkume; <b
+dict-key="guesswork">g.work:</b> konjektado.
+
+<b dict-key="guest">guest:</b> gast-o; <b dict-key="to be a guest">to be a g.:</b> -esar; <b
+dict-key="to receive a s guest">to receive a s g.:</b> -igar (ulu).
+
+<b dict-key="guffaw">guffaw:</b> rid-egar, -eg-achar; (<i>n</i>.) lauta rid-o, -acho.
+
+<b dict-key="guide">guide:</b> guidar (<i>cf</i>. duktar; direktar; indikar); (<i>person</i>)
+guid-dukt-anta, -ero, -isto; (<i>mechan</i>.) -ilo; <b dict-key="guide book">g. book:</b>
+guid-libro; <b dict-key="guide post">g. post:</b> indik-fosto.
+
+<b dict-key="guild">guild:</b> gildo.
+
+<b dict-key="guile">guile:</b> ruzo, artifico, tromp-(ad)o; <b dict-key="guiless">-less:</b>
+inocenta, sincera, sen-artifica.
+
+<b dict-key="guillemot">guillemot:</b> (<i>ornit., type of auk</i>) gilimoto.
+
+<b dict-key="guilloche">guilloche: </b>giloch-uro, (<i>verb</i>) -ar.
+
+<b dict-key="guillotine">guillotine:</b> gilotin-o, -agar (ulu).
+
+<b dict-key="guilt">guilt:</b> kulp-oz-eso, krimin-oz-eso; <b dict-key="guiltless">-less:</b>
+sen-kulpa, inocenta; <b dict-key="to find guiltty">to find g.ty:</b> deklarar (ulu) kulp-anta,
+-into, -oza; <b dict-key="guilty person">g.y person:</b> kulp-anto, -into, -ozo (pri).
+
+<b dict-key="guinea,hen">guinea-fowl, hen:</b> pintado.
+
+<b dict-key="guinea">guinea-pig:</b> kobayo.
+
+<b dict-key="guipure">guipure:</b> (<i>lace</i>) gipuro.
+
+<b dict-key="guise">guise:</b> (<i>appearance</i>) aspekto; maniero; (<i>costume</i>) kostumo;
+mask-it-eso; <b dict-key="in the guise of">in the g. of:</b> quale, quaze; segun sua maniero
+<i>o</i> kustumo; vice.
+
+<b dict-key="guitar">guitar:</b> gitaro.
+
+<b dict-key="gulf">gulf:</b> (<i>arm of sea</i>) gulfo (2001); (<i>abyss</i>) abismo.
+
+<b dict-key="gulfweed">gulfweed:</b> sargaso.
+
+<b dict-key="gull">gull:</b> (<i>bird</i>) muevo; (<i>dupe</i>) dup-(ul)o (<i>cf</i>. naivo,
+stulto); (<i>v</i>.) dup-igar; trompar.
+
+<b dict-key="gullet">gullet:</b> (<i>interior</i>) guturo; (<i>anat</i>.) ezofago;
+(<i>exterior</i>) fauco (<i>cf</i>. faringo; laringo).
+
+<b dict-key="gullible">gullible:</b> kred-ema; facile dup-ig-abla.
+
+<b dict-key="gully">gully:</b> ravin-(et)o;<b dict-key="to gully out"> to g. out:</b> -izar.
+
+<b dict-key="gulp">gulp:</b> (<i>also fig</i>.) glutar, -ajo, -edo; (<i>cf</i>. devorar).
+
+<b dict-key="gum">gum:</b> (<i>adhesive</i>) gumo; (<i>of teeth</i>) jenjivo; <b
+dict-key="gumminess">g.miness:</b> viskoz-eso; ; <b dict-key="gummy">g.my:</b> gum-oza, -atra; <b
+dict-key="to cover with gum">to cover with g.:</b> gum-izar; <b dict-key="gum gumarabic">g.
+-arabic:</b> (Araba) gumo; <b dict-key="gum ammoniac">g. ammoniac:</b> amoniako-gumo; <b
+dict-key="gum">g.-boil:</b> jenjiv-ala furunklo; <b dict-key="gum tragacanth">g. tragacanth:</b>
+adraganto; <b dict-key="gum tree">g. tree: </b>gum-arboro; <b dict-key="gumlac">g.lac:</b>
+gum-lako; <b dict-key="gum elastic">g. elastic:</b> (<i>tape</i>) kauchuka rubando, elastiko; <b
+dict-key="gumshoe">g.shoe:</b> kauchuka sur-shuo; kauchuka boto.
+
+<b dict-key="gun">gun:</b> (<i>of any kind</i>) paf-ilo; (<i>rifle</i>) fusilo; (<i>cannon</i>)
+kanono; <b dict-key="smooth gun">smooth-bore g.:</b> glata-pafilo; <b dict-key="shot">shot-g.:</b>
+glata-fusilo; <b dict-key="rifled">rifled-g.: </b>stri-iz-ita paf-ilo;<b dict-key="hunting gun">
+hunting g.:</b> chas-fusilo; <b dict-key="double gun">double-barreled g.:</b> du-opa fusilo; <b
+dict-key="repeating gun">repeating g.:</b> iter-anta fusilo; revolver-kanono; <b dict-key="to shoot
+a gun">to shoot a g.:</b> (fusil-)pafar (ad).
+
+<b dict-key="gunboat">gunboat: </b>kanon-nav-eto (<i>od</i>, -batelo).
+
+<b dict-key="gun">gun-carriage:</b> afusto.
+
+<b dict-key="gun">gun-cotton:</b> pulvero-, nitro-kotono, piroxilo.
+
+<b dict-key="gun">gun-deck:</b> baterio-ferdeko.
+
+<b dict-key="gunmaker">gunmaker:</b> fusil-isto; arm-if-isto.
+
+<b dict-key="gunner">gunner:</b> kanon-ero, -isto; artilri-ano, -isto.
+
+<b dict-key="gunnery">gunnery:</b> kanon-arto; paf-cienco, -arto.
+
+<b dict-key="gunport">gunport:</b> sabordo.
+
+<b dict-key="gunpowder">gunpowder:</b> (fusil-, kanon-) pulvero; <b dict-key="gunpowder plot">g.
+plot:</b> pulvero-konspiro.
+
+<b dict-key="gun">gun-rack:</b> fusil-rasteliero.
+
+<b dict-key="gunshot">gunshot:</b> (<i>act or noise of shooting</i>) pafo; <b dict-key="at">at
+</b>(<b dict-key="within">within</b>) <b dict-key="gunshot">g.:</b> ye fusil-atingo; ye paf-disto.
+
+<b dict-key="gunwale">gunwale:</b> batelo-bordo.
+
+<b dict-key="gurgle">gurgle:</b> glugl-o; (<i>intr</i>.) -ar (<i>cf</i>. gorgolar).
+
+<b dict-key="guru">guru:</b> (spiritual teacher, esp. Hindu) guruo*.
+
+<b dict-key="gush">gush </b>(<b dict-key="forth">forth</b>)<b dict-key="">:</b> (<i>intr</i>.)
+spricar; (<i>from eyes</i>) gut-ifar (de); <b dict-key="gushing">g.ing:</b> (<i>sentimental</i>)
+sentiment-oza; fervor-ega; extravag-ema.
+
+<b dict-key="gust">gust:</b> (<i>wind</i>) vento-frapo, -stroko; sufl-eto, -ego, -ajo; (<i>of
+passion</i>) aceso di iraco; <b dict-key="gusty">-y:</b> vent-oza.
+
+<b dict-key="gustatory">gustatory:</b> gust-ala.
+
+<b dict-key="gut">gut:</b> (<i>fish, etc</i>.) vaku-igar, sen-intestin-igar; (<i>intestine</i>)
+intestino; (<i>catgut</i>) katguto.
+
+<b dict-key="guttapercha">guttapercha:</b> gutaperk-a, -o.
+
+<b dict-key="gutter">gutter:</b> pluv-kanal-eto; (<i>of eaves</i>) tekto-kanal-eto; (<i>spout</i>)
+pluv-tubo.
+
+<b dict-key="gutteral">gutteral:</b> guter-ala; (<i>gram</i>.) -alo.
+
+<b dict-key="guy">guy:</b> figur-acho.
+
+<b dict-key="guzzle">guzzle:</b> (en)glut-achar; (<i>food</i>) manj-eg-(ach)ar.

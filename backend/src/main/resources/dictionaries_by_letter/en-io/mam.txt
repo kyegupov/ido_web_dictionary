@@ -1,0 +1,5 @@
+<b dict-key="mamma">mamma:</b> matr-eto, patr-in-eto.
+
+<b dict-key="mammal">mammal:</b> mamifero.
+
+<b dict-key="mammoth">mammoth:</b> mamuto.

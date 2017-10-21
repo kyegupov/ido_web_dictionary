@@ -1,0 +1,9 @@
+<b dict-key="ptarmigan">ptarmigan: </b>(<i>grouse</i>) tetraso.
+
+<b dict-key="pterodactyl">pterodactyl:</b> pterodaktilo.
+
+<b dict-key="pterygoid">pterygoid: </b>pterigoida.
+
+<b dict-key="pteropod">pteropod: </b>pteropodo.
+
+<b dict-key="ptomaine">ptomaine: </b>ptomaino.

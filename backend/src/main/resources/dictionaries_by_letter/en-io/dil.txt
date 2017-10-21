@@ -1,0 +1,33 @@
+<b dict-key="dilate">dilate: </b>(<i>expand, swell</i>) dilatar; expansar; (<i>d. on a subject</i>)
+ampl-igar temo; plu-traktar emo, plu-multe parolar pri.
+
+<b dict-key="dilator">dilator: </b>dilat-ilo.
+
+<b dict-key="dilatory">dilatory: </b>ajorn-anta, -ema; neglij-ema, -anta; lenta.
+
+<b dict-key="dilatoriness">dilatoriness: </b>ajorn-em-eso.
+
+<b dict-key="dildo">dildo:</b> dildo*.
+
+<b dict-key="dilemma">dilemma: </b>dilemo.
+
+<b dict-key="dilettante">dilettante: </b>dilet-anta, -anto (<i>cf</i>. bizanc-ala, -atra, -ana).
+
+<b dict-key="diligence">diligence: </b>diligent-eso, asidu-eso, labor-em-eso; (<i>stagecoach</i>)
+dilijenco.
+
+<b dict-key="diligent">diligent: </b>diligenta, labor-ema.
+
+<b dict-key="dill">dill: </b>(<i>anet</i>) aneto.
+
+<b dict-key="dilly">dilly-dally: </b>tard-eskar; flanar; perd-ar tempo per bagateli (<i>cf</i>. <b
+dict-key="dilatory">dilatory</b>).
+
+<b dict-key="dilute">dilute: </b>dilutar (<i>cf</i>. des-fort-igar, mixar; febl-igar);
+(<i>adj.</i>) dilut-ita.
+
+<b dict-key="dilution">dilution: </b>dilut-o, -eso, -uro.
+
+<b dict-key="diluvial">diluvial: </b>diluvi-ala.
+
+<b dict-key="diluvium">diluvium: </b>(<i>geol</i>.) diluvi-alo, -ala formac-uro.

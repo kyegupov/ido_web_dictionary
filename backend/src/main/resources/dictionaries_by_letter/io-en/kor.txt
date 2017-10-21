@@ -1,0 +1,189 @@
+<b dict-key="koro,korkantaro">kor-o, -kant-aro:</b> choir, quire, chorus (the singers); <b
+dict-key="korala">-ala:</b> choral; <b dict-key="korkanto">-kanto:</b> chorus (song); <b
+dict-key="korano,kor">-ano, -(kant)isto:</b> chorister; <b dict-key="korista puero">-ista
+puero:</b> choir boy; <b dict-key="korestro">-estro:</b> choir leader; <b dict-key="kantar
+kore,koratre">kantar kor-e, -atre:</b> to sing in chorus. &mdash; DEFIRS
+
+<b dict-key="koralio">korali-o:</b> coral; <b dict-key="koraliala,koraliatra">-ala, -atra:</b>
+coralline, coralline-like. &mdash; DEFIRS
+
+<b dict-key="koram">koram:</b> (<i>prep.</i>) in the presence of; <b dict-key="koram me">- me:</b>
+in my presence; <b dict-key="koram la rejo">- la rejo:</b> in the presence of the king. &mdash; L
+
+<b dict-key="korano">koran-o:</b> Koran. &mdash; DEFIRS
+
+<b dict-key="korbo">korb-o:</b> basket; <b dict-key="korbobotelo">-o-botelo:</b> demi-john, carboy
+(cf. <b dict-key="damijano">damijano</b>). &mdash; DF
+
+<b dict-key="korbelo">korbel-o:</b> (<i>arch.</i>) corbel. &mdash; EF
+
+<b dict-key="kordo">kord-o:</b> line, cord, rope; (<i>geom.</i>) chord; (<i>of an arch.</i>) span,
+chord; <b dict-key="kordego">-ego: </b>large rope, hawser (cf. <b dict-key="kablo">kablo</b>); <b
+dict-key="kordaro">-aro:</b> cordage; <b dict-key="kordeto">-eto:</b> small rope, string, twine; <b
+dict-key="kordigar">-igar:</b> to twist, twine (like a rope); <b dict-key="kordifar">-ifar:</b> to
+make ropes; <b dict-key="kordifeyo,korderio">-if-eyo, -erio:</b> rope-walk; <b dict-key="kord
+izar,kordligar">-(et) izar, -ligar:</b> to cord, bind; <b
+dict-key="kordodansisto">-o-dans-isto:</b> rope-dancer; <b dict-key="kordoskalo">-o-skalo:</b>
+rope-ladder. &mdash; EFIS
+
+<b dict-key="kordio">kordi-o:</b> (<i>anat., fig. of affections and cards</i>) heart; <b
+dict-key="kordiala">-ala:</b> cardiac; (<i>fig.</i>) cordial; <b dict-key="kordialeso">-al-eso:</b>
+cordiality; <b dict-key="kordiika,kordiiko">-ika, -iko:</b> heart-diseased (person); <b
+dict-key="kordiolaceranta">-o-lacer-anta:</b> poignant; heart-rending, harrowing. &mdash; DEFIS
+
+<b dict-key="kordito">kordit-o:</b> (2001) cordite. &mdash; DEFIRS
+
+<b dict-key="kordono">kordon-o:</b> a short cord or ribbon; as: <b dict-key="klosh
+kordono">klosh-(et)- -o:</b> bell-cord, -pull; <b dict-key="tir kordono">tir- -o:</b> check-string
+for doors, carriages, etc.); <b dict-key="zon kordono">zon- -o:</b> girdle (as of monks); <b
+dict-key="shu kordono">shu- -o:</b> shoe-string, lachet; <b dict-key="chapel kordono">chapel-
+-o:</b> hat-band, -string; <b dict-key="umbilikala kordono">umbilik-ala -o:</b> umbilical cord,
+navel string; <b dict-key="honor kordono">(honor-) -o:</b> cord or ribbon worn as a decoration; <b
+dict-key="militala,epidemiala kordono">milit-ala, epidemi-ala -o:</b> (<i>fig.) </i>military,
+sanitary cordon: a line of sentinels, guards. &mdash; EFIRS
+
+<b dict-key="koreo">kore-o*:</b> (<i>med.</i>) chorea, St. Vitus&rsquo;s dance. &mdash; DEFS
+
+<b dict-key="koregono">koregon-o:</b> (<i>zool.</i>) whitefish (coregonus).
+
+<b dict-key="korekta">korekt-a:</b> correct: conforming to the rules or the conventional standard,
+accurate, exact, right, faultless; <b dict-key="korektigar">-igar:</b> to correct (cf. <b
+dict-key="emendar,punisar">emendar, punisar</b>); <b dict-key="korektiguro">-ig-uro:</b> (result)
+correction; <b dict-key="korektigebla">-ig-ebla:</b> corrigible. Ex. Korekta frazo, konduto.
+Korektigar la mori di ula naciono. V.exp.: vid. <b dict-key="emendar">emendar.</b> &mdash; DEFIRS
+
+<b dict-key="korelatar">korelat-ar:</b> (<i>intr.</i>) to be in correlation; <b
+dict-key="korelatanta,korelativa korelativo">-anta, -iva: -ivo:</b> correlative: standing in
+reciprocal relation; <b dict-key="korelativa termini">-iva termini:</b> correlative terms. &mdash;
+DEFIRS
+
+<b dict-key="korespondar">korespond-ar:</b> (<i>intr.</i>) to correspond: to hold communication by
+letters, (<b dict-key="kun">kun</b> <b dict-key="ulu">ulu</b>); to answer in character, function,
+etc., be adequate (<b dict-key="ad ulo">ad ulo</b>); (cf. <b
+dict-key="konformesar,konkordar">konform-esar, konkordar</b>). &mdash; DEFIRS
+
+<b dict-key="koriandro">koriandr-o:</b> (<i>bot.</i>) coriander (Coriandrum sativum). &mdash; DEFIS
+
+<b dict-key="koribanto">koribant-o:</b> (<i>antiq.</i>) Corybant: a priest of Cybele. &mdash; DEFIRS
+
+<b dict-key="koridoro">koridor-o:</b> corridor, passage-way. &mdash; DEFIRS
+
+<b dict-key="korifeo">korife-o: </b>(<i>antiq.</i>) coryph&aelig;us (ballet) coryphee;
+(<i>fig.</i>) one distinguished in his profession or in a society. &mdash; DEFIRS
+
+<b dict-key="korimbo">korimb-o:</b> (<i>bot.</i>) corymb. &mdash; EFIS
+
+<b dict-key="korinto,korinti">korint-o, -i:</b> (dried or shop) currant(s). &mdash; DFRS
+
+<b dict-key="koriono">korion-o:</b> chorion, the outside membrane of the foetus. &mdash; DEFIS
+
+<b dict-key="korizo">koriz-o:</b> (<i>biol.</i>) chorisis.
+
+<b dict-key="korko">kork-o:</b> cork(-bark); <b dict-key="korkoquerko">-o-querko:</b> c. tree; <b
+dict-key="korkizar">-izar:</b> to cork (a bottle), to lay c. on (a floor, etc.); <b
+dict-key="korkoflotacero">-o-flotac-ero:</b> c. float; c. belt; <b
+dict-key="korkotirilo">-o-tir-ilo:</b> corkscrew. &mdash; DE
+
+<b dict-key="kormorano">kormoran-o:</b> (<i>orni.</i>) cormorant (genus: Phalacrocorax). &mdash;
+DEFI
+
+<b dict-key="korno">korn-o:</b> horn (of animals, as material or as used in wind instrument); <b
+dict-key="korna,kornoza,kornatra">-a, -oza, -atra:</b> corneous, horned, horny; <b
+dict-key="kornizar">-izar:</b> to put horns on; <b dict-key="kornagar">-agar:</b> to horn, gore; <b
+dict-key="korneskar">-eskar:</b> to become h.; <b dict-key="kornisto,kornero">-isto, -ero:</b>
+horn-blower; <b dict-key="korne anuncar,proklamar">-e anuncar, proklamar:</b> to blare out,
+trumpet; <b dict-key="kornoplear">-o-plear:</b> to blow or wind the h.; <b
+dict-key="kornobrancho">-o-brancho:</b> antler; <b dict-key="abundo korno">abundo- -o:</b> horn of
+plenty, cornucopia; <b dict-key="trikorna chapelo">tri-korna chapelo:</b> three-cornered hat; <b
+dict-key="kornokofio">-o-kofio:</b> cornet: head-dress worn by sisters of charity. &mdash; EFIS
+
+<b dict-key="kornajar">kornaj-ar:</b> (<i>med.</i>) to be short of breath. &mdash; DEFIRS
+
+<b dict-key="kornalino">kornalin-o:</b> (<i>min.</i>) cornelian, carnelian. &mdash; DEFIS
+
+<b dict-key="kornako">kornak-o:</b> cornac: elephant driver, mahout. &mdash; DEFIS
+
+<b dict-key="kornamuzo">kornamuz-o:</b> bagpipe; <b dict-key="kornamuzoplear">-o-plear:</b>
+(<i>intr.</i>) to play the bagpipe. &mdash; FIS
+
+<b dict-key="korneo">korne-o:</b> (<i>anat.</i>) cornea. &mdash; DEFIS
+
+<b dict-key="kornelo">kornel-o:</b> (<i>bot.</i>) cornel-berry, dog-berry; <b
+dict-key="korneliero">-iero:</b> cornel (genus:Cornus). &mdash; DEFIRS
+
+<b dict-key="korneto">kornet-o:</b> (<i>instr.</i>) horn, kind of trumpet; <b dict-key="papera
+korneto">papera -o:</b> paper cone (as for holding candy); <b dict-key="valvo korneto">valvo-
+-o:</b> cornet: cornet-a-pistons; <b dict-key="valvo kornetisto">(valvo-) -isto:</b> cornetist.
+&mdash; DEFIS
+
+<b dict-key="kornico">kornic-o:</b> (<i>arch.</i>) cornice. &mdash; EFIRS
+
+<b dict-key="korniko">kornik-o:</b> (<i>orni.</i>) crow (cf. <b dict-key="korvo,frugilego">korvo,
+frugilego</b>). &mdash; FIS
+
+<b dict-key="korodar">korod-ar:</b> (<i>tr.</i>) to corrode; <b
+dict-key="korodanta,korodiva">-anta, -iva:</b> corrosive. Ex.: La rusto korodas la fero. &mdash;
+DEFIS
+
+<b dict-key="koroido">koroid-o:</b> (<i>anat.</i>) choroid coat of the eye.
+
+<b dict-key="korolo">korol-o:</b> (<i>bot.</i>) corolla. &mdash; DEFIS
+
+<b dict-key="korolario">korolari-o:</b> (<i>log., math.</i>) corollary. &mdash; DEFIRS
+
+<b dict-key="koronala">koronal-a:</b> (<i>anat.</i>) coronal.
+
+<b dict-key="koronero">koroner-o:</b> coroner.
+
+<b dict-key="korpo">korp-o:</b> body: total organised substance of a person, animal or plant; the
+principal part of anything; (<i>milit.</i>) corps; <b dict-key="korpala">-ala:</b> corporal,
+corporeal, bodily; <b dict-key="korpeskar">-eskar:</b> to become body, materialize; <b
+dict-key="korpexerc">-exerc-(ad)o:</b> bodily exercise; <b
+dict-key="korpogardisto">-o-gard-isto:</b> bodyguard. &mdash; DEFIRS
+
+<b dict-key="korporaciono">korporacion-o:</b> corporation (cf. <b dict-key="gildo">gildo</b>).
+&mdash; DEFIRS
+
+<b dict-key="korporalo">korporal-o:</b> (<i>Cath. lit.) </i>corporal: communion cloth. &mdash; DEFIS
+
+<b dict-key="korpulenta">korpulent-a: </b>corpulent, stout (cf. <b dict-key="obeza,repleta">obeza,
+repleta</b>). Def.: Ta qua havas la tota korpo (anke la membri) grosa, dika; lu esas muskuloza, do
+generale forta e sana; VI-601. &mdash; DEFIS
+
+<b dict-key="korpuskulo">korpuskul-o:</b> corpuscle. &mdash; DEFIS
+
+<b dict-key="korso">kors-o:</b> public-drive, -walk. Def.: Speco di promeneyo en urbo; III-203.
+&mdash; DFI
+
+<b dict-key="korsajo">korsaj-o:</b> corsage, bodice. &mdash; EF
+
+<b dict-key="korsar">korsar(ul)o:</b> corsair: privateer; (<i>fig.</i>) pirate; (cf. <b
+dict-key="pirato">pirato</b>); <b dict-key="korsar">-navo:</b> privateer. &mdash; DEFIRS
+
+<b dict-key="korseto">korset-o:</b> corset, stays; <b dict-key="korsetizar">-izar:</b> to corset
+(<b dict-key="ulu">ulu</b>); <b dict-key="korsetkovrilo">-kovr-ilo:</b> corset cover. &mdash; DEFRS
+
+<b dict-key="korto">kort-o:</b> (<i>of justice, of sovereign</i>) court: (<i>of a house</i>)
+court(-yard); <b dict-key="kortana">-ana:</b> courtly (<i>person</i>); <b
+dict-key="kortano">-ano:</b> courtier, member of a court; <b dict-key="kortaneso">-an-eso:</b>
+courtliness; <b dict-key="korto supera,eceptala">-o supera, eceptala:</b> highest court, court of
+appeals. &mdash; EFIS
+
+<b dict-key="kortico">kortic-o:</b> (<i>also anat.</i>) cortex: bark (of trees); <b
+dict-key="senkorticigar">sen-kortic-igar:</b> to strip trees of bark. &mdash; EFIS
+
+<b dict-key="kortizono">kortizon-o:</b> (2001) cortizone. &mdash; DEFIRS
+
+<b dict-key="korundo">korund-o:</b> (<i>min.</i>) corundum. &mdash; DEFIRS
+
+<b dict-key="koruptar">korupt-ar:</b> (<i>tr., phys., moral</i>) to corrupt: taint, spoil; deprave,
+demoralize. Ex.: La kaloro balde koruptas karno en la somero. Koruptar linguo, texto, judiciisto,
+la mori di ulu. &mdash; DEFIRS
+
+<b dict-key="korvo">korv-o:</b> (<i>orni.</i>) raven (Corvus corax); (<i>astron.</i>) Corvus.
+&mdash; L
+
+<b dict-key="korvear">korve-ar:</b> (<i>intr.</i>) to do corvee; to do compulsory (or, statute-)
+labo(u)r (on highways, etc.); (<i>milit.</i>) to do fatigue duty. &mdash; EF
+
+<b dict-key="korveto">korvet-o:</b> (<i>nav.</i>) corvette; sloop of war. &mdash; DEFIRS

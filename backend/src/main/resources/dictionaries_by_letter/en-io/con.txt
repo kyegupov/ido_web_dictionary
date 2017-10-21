@@ -1,0 +1,936 @@
+<b dict-key="con">con: </b>(<i>tr., intr.</i>) (par-)studiar; <b dict-key="pro and con">pro and
+con: </b>por e kontre.
+
+<b dict-key="concatenation">concatenation: </b>(kun-)katen-igo, -esko, -ajo.
+
+<b dict-key="concave">concave: </b>konkav-a, (<i>to make</i>) -igar.
+
+<b dict-key="conceal">conceal: </b>celar; (<i>dissemble</i>) disimular.
+
+<b dict-key="concede">concede: </b>koncesar; grantar; cedar.
+
+<b dict-key="conceit">conceit: </b>(<i>over self-esteem</i>) superb-eso; fier-ach-eso; vanitato;
+fatu-eso; (<i>quaint, fancy</i>) baroka ideo; rev-o, -acho.
+
+<b dict-key="conceive">conceive: </b>(<i>physiol. and psych.</i>) konceptar; (<i>imagine</i>)
+imaginar; (<i>believe</i>) kredar; (<i>become pregnant, c. a child</i>) gravid-eskar; <b
+dict-key="conceivable">-able: </b>koncept-ebla, intelekt-ebla, kompren-ebla.
+
+<b dict-key="concentrate">concentrate: </b>(<i>also chem.</i>) koncentr-ar, (<i>to be</i>) -esar;
+(<i>liquid</i>) plu-dens-igar, (<i>become</i>) -eskar.
+
+<b dict-key="concentric">concentric: </b>sam-centra; (<i>make concentric</i>) sam-centr-igar.
+
+<b dict-key="conceptacle">conceptacle:</b> konceptaklo.
+
+<b dict-key="conception">conception: </b>(<i>phys., mental</i>) koncepto; ideo; imajo;
+(<i>plan</i>) nociono; projeto; (<i>of pregnancy</i>) gravid-esko, -eso, -igo.
+
+<b dict-key="concern">concern: </b>(<i>relate to</i>) koncernar (ulu, ulo); (<i>interest</i>)
+interesar; (<i>care about, be solicitous about</i>) suciar; (<i>anxiety</i>) des-quiet-esar, -eskar
+(pri, por); <b dict-key="to be concerned about">to be c.ed about</b> (<b
+dict-key="something">something</b>)<b dict-key="">: </b>interesar (pri); esar des-quieta pri;
+importar ad ulu; suciar (ulo); <b dict-key="to be concerned in">to be c.ed in </b>(<b
+dict-key="something">something</b>)<b dict-key="">:</b> parto-prenar ulo; havar intereso pri ulo;
+<b dict-key="that is no concern of yours">that is no c. of yours: </b>to ne koncernas vu; <b
+dict-key="concerned">-ed: </b>des-quieta, des-tranquila. 
+
+<b dict-key="concern">concern: </b>(<i>n.</i>) (<i>affair</i>) afero; koncerno; (<i>importance</i>)
+importo; intereso; (<i>physical care</i>) sorgo; (<i>anxiety</i>) des-quiet-eso; (<i>com.</i>)
+entraprezo; firmo.
+
+<b dict-key="concerning">concerning: </b>koncern-(ant)e; (<i>prep.</i>) pri.
+
+<b dict-key="concert">concert: </b>(<i>mus.</i>) koncerto; (<i>agreement</i>) inter-konsento;
+konkordo; <b dict-key="to give a concert">to give a c.: </b>(<i>intr.</i>) koncertar; <b
+dict-key="in concert with">in c. with: </b>konsente kun; <b dict-key="concerted">c.ed:
+</b>kombin-ita; komuna.
+
+<b dict-key="concertina">concertina: </b>akordeon-eto.
+
+<b dict-key="concerto">concerto: </b>koncerto-peco.
+
+<b dict-key="concession">concession: </b>(<i>conceding</i>) konces-o, -ajo; grant-o, -ajo, ced-o,
+-ajo; (<i>public</i>) koncesiono; (<i>abatement</i>) rabato; (<i>acquiescence</i>) konsento; <b
+dict-key="to make a concession">to make a c.: </b>koncesar (ulo, ad ulu); <b dict-key="to grant a
+public concession">to grant a public c.: </b>(<i>tr., intr.</i>) koncesionar (ulu.).
+
+<b dict-key="conch">conch: </b>(<i>sea shell</i>) konko.
+
+<b dict-key="conchoid">conchoid: </b>(<i>math.</i>) konkoido.
+
+<b dict-key="conchology">conchology: </b>konkologio.
+
+<b dict-key="concierge">concierge:</b> pord-ist-o, -ulo, -ino; <b dict-key="conciergrie">-rie:
+</b>pord-ist-eyo.
+
+<b dict-key="concilliate">concilliate: </b>konciliar (ulu, kun ulu; ulo kun ulo); pac-igar, -ifar.
+
+<b dict-key="concilliatory">concilliatory: </b>koncili-anta, -ema, -iva; ced-ema.
+
+<b dict-key="conclave">conclave: </b>konklavo.
+
+<b dict-key="conclude">conclude: </b>(<i>settle</i>) konkluzar; (<i>infer</i>) inferar;
+(<i>terminate</i>) konkluzar; finar; (<i>decide</i>) decidar, konkluzar (<i>fig.</i>).
+
+<b dict-key="conclusion">conclusion: </b>(<i>end</i>) konkluzo; fin-ala rezolvo; (<i>inference</i>)
+infero; <b dict-key="try conclusions with">try c.s with: </b>kombatar (kontre) ulu; <b dict-key="in
+conclusion">in c.: </b>konkluze.
+
+<b dict-key="conclusive">conclusive: </b>konkluz-anta, -iva; pruv-iva; decid-iganta, -iva.
+
+<b dict-key="concoct">concoct: </b>(<i>mix; plot</i>) brasar; (<i>a story</i>) inventar.
+
+<b dict-key="concoction">concoction: </b>mix-acho-ajo; mix-uro.
+
+<b dict-key="concomitant">concomitant: </b>akompan-anta; sam-tempa; (<i>n</i>.) akompan-o, -ajo;
+sam-temp-eso; cirkonstanco (akompan-anta).
+
+<b dict-key="concord">concord: </b>(<i>agreement, harmony</i>) konkordo; harmonio; (<i>mus.</i>)
+akordo; konsonanco; (<i>gram.</i>) inter-akordo; korespondo.
+
+<b dict-key="concordance">concordance: </b>(<i>agreement</i>) konkordo; korespondo;
+(<i>Biblical</i>) indexo.
+
+<b dict-key="concordant">concordant: </b>konkord-anta; inter-akord-anta; (<i>sound</i>) konsonanca;
+(<i>time</i>) sam-tempa; akompan-anta.
+
+<b dict-key="concordat">concordat: </b>(<i>com., rel.</i>) konkordato.
+
+<b dict-key="concourse">concourse: </b>asembl-o, -uro, -ajo; turbo; kun-veno, -kuro.
+
+<b dict-key="concrete">concrete: </b>(<i>cement</i>) beton-izar; (<i>not abstract</i>)
+konkret-igar, -eskar.
+
+<b dict-key="concrete">concrete: </b>(<i>number, term</i>) konkreta; (<i>n.</i>) (<i>cement</i>)
+betono; <b dict-key="concrete masonry">c. masonry: </b>betona mason-uro; <b dict-key="reinforced
+concrete">reinforced c.: </b>beton-fer-iz-ita.
+
+<b dict-key="concreting">concreting: </b>(<i>act</i>) beton-izo; (<i>result</i>) beton-(iz)ajo.
+
+<b dict-key="concretion">concretion: </b>(<i>med.</i>) konkreciono.
+
+<b dict-key="concubine">concubine: </b>konkub-ino.
+
+<b dict-key="concubinage">concubinage: </b>konkub-eso; (<i>jur.</i>) konkubinato.
+
+<b dict-key="concupiscence">concupiscence: </b>konkupicenco.
+
+<b dict-key="concur">concur: </b>(<i>intr.</i>) (<i>opinion</i>) konkordar; (<i>mutual</i>)
+inter-konsentar.
+
+<b dict-key="concurrence">concurrence: </b>(<i>agreement</i>) inter-konsento; (<i>coincidence</i>)
+koincido; (<i>of events</i>) konjunturo; (<i>co-operation</i>) helpo; kun-laboro; parto-preno.
+
+<b dict-key="concurrent">concurrent: </b>(<i>acting together</i>) kun-ag-anta; (<i>concomitant</i>)
+akompan-anta; sam-tempa; kun-kur-anta.
+
+<b dict-key="concussion">concussion: </b>(<i>shaking</i>) sukus-eg-(ad)o; shancel-ego;
+(<i>shock</i>) shoko; (<i>noise</i>) bruis-ego, tondro; krak-ego; <b dict-key="concussion of
+guns">c. of guns: </b>shoko di la kanoni.
+
+<b dict-key="condemn">condemn: </b>(<i>sentence</i>; <i>judge unfit</i>) kondamnar; (<i>cf.</i>
+des-aprobar; denuncar; damnar; blamar); <b dict-key="condemned">-ed: </b>komdamn-ita,
+(<i>person</i>) -ito.
+
+<b dict-key="condemnation">condemnation: </b>kondamno.
+
+<b dict-key="condemnable">condemnable: </b>kondamn-ebla, -inda.
+
+<b dict-key="condense">condense: </b>kondensar; (plu-) dens-igar; (<i>summarize</i>) rezumar;
+(<i>food</i>) koncentrar; kompresar; <b dict-key="condensation">-sation: </b>kondens-(ad)o,<b
+dict-key=""> </b>-eso; (<i>product</i>) -uro, -ajo.
+
+<b dict-key="condenser">condenser: </b>kondens-ilo; (<i>elec.</i>) kondensatoro.
+
+<b dict-key="condescend">condescend: </b>(<i>intr.</i>) degnar; (<i>intr.</i>) komplezar (ad ulu);
+<b dict-key="condescending">-ing: </b>komplez-ema, -oza; indilg-ema.
+
+<b dict-key="condign">condign: </b>merit-ita; yusta.
+
+<b dict-key="condyloma">condyloma:</b> kondilomo.
+
+<b dict-key="condiment">condiment: </b>kondimento.
+
+<b dict-key="condition">condition: </b>(<i>v.</i>) (<i>to make c.s about; stipulate</i>)
+kondicionar, stipular; (<i>to place c.s on</i>) kondicion-izar; limit-izar; (<i>to make
+healthy</i>) san-igar; fort-igar; (<i>in studies</i>) faliar en ula studio; postular ri-exameno;
+(<i>to be in a certain relative c.</i>) (<i>intr</i>.) standar.
+
+<b dict-key="condition">condition: </b>(<i>n</i>.) (<i>state</i>) stando; (<i>situation</i>)
+situ-o, -eso; (<i>social status</i>) rango (soci-ala); (<i>stipulation</i>) kondiciono, stipulo; <b
+dict-key="in good condition">in good c.: </b>sen-domaja; en bona stando; <b dict-key="the existing
+condition">the existing c.: </b>nuna stando; <b dict-key="on condition that">on c. that:
+</b>kondicione ke.
+
+<b dict-key="conditional">conditional: </b>kondicion-ala; (<i>gram.: c. mood</i>) kondicion-alo.
+
+<b dict-key="conditioned">conditioned: </b>(<i>subject to c.s:</i>) kondicion-ata, -ita; dependanta
+de.
+
+<b dict-key="condole">condole: </b>(<i>with</i>) kondolar (ulu). 
+
+<b dict-key="condolence">condolence: </b>kondol-o; <b dict-key="letter of condolence">letter of c.:
+</b>kondolo-letro.
+
+<b dict-key="condom">condom:</b> kondomo*.
+
+<b dict-key="condominium">condominium: </b>kondominio.
+
+<b dict-key="condone">condone: </b>pardonar (ad ulu, ulo).
+
+<b dict-key="condor">condor: </b>kondoro.
+
+<b dict-key="conduce">conduce: </b>(<i>tr., intr</i>.) kontributar; util-esar (ad); helpar, favorar.
+
+<b dict-key="conducive">conducive: </b>utila (ad); kontribut-ema, -iva; avantaj-oza.
+
+<b dict-key="conduct">conduct: </b>(<i>lead</i>) duktar; (<i>guide</i>) guidar; (<i>manage</i>)
+direktar; administrar; jerar; (<i>behave</i>) kondutar (su) (<i>intr</i>.); (<i>by tubes, wires, as
+elec., gas</i>) konduktar; <b dict-key="conductability">-ability: </b>kondukt-iv-eso.
+
+<b dict-key="conductor">conductor: </b>(<i>person</i>) dukt-anto; guid-anto, -isto;
+(<i>manager</i>) direkt-isto; (<i>of omnibus, train, etc.</i>) konduktoro; (<i>conduit, of heat,
+etc.</i>) kondukt-ivo, -ilo; -iva.
+
+<b dict-key="conduit">conduit: </b>(aquo-, gas<i>-</i>) kondukt-ilo, -tubo.
+
+<b dict-key="condyloma">condyloma: </b>fiko.
+
+<b dict-key="cone">cone: </b>kono; <b dict-key="frustum of a cone">frustum of a c.: </b>konotrunko.
+
+<b dict-key="confection">confection: </b>konfekto (<i>cf</i>. konfit-ajo, sukr-ajo, bonbono).
+
+<b dict-key="confectioner">confectioner: </b>konfit-isto; sukr-aj-isto; konfekt-if-isto;
+(<i>establ</i>.) konfit-aj-erio.
+
+<b dict-key="confederacy">confederacy: </b>(inter-, kun-) feder-uro.
+
+<b dict-key="confederate">confederate: </b>(<i>tr., intr.</i>) federar; (<i>reflex</i>.)
+inter-federar; (<i>n</i>.) feder-ito, kun-feder-ito; lig-ano; asoci-ito; komplico.
+
+<b dict-key="confer">confer: </b>(<i>consult</i>) (<i>intr.</i>) konferar (kun ulu); (<i>grant</i>)
+grantar; (<i>do</i>) facar; <b dict-key="confer a diploma on">c. a diploma on: </b>diplom-izar. 
+
+<b dict-key="conference">conference: </b>&nbsp;konfero.
+
+<b dict-key="conferva">conferva: </b>konfervo.
+
+<b dict-key="confess">confess: </b>konfesar; <b dict-key="confessed">-ed: </b>(su-) konfes-inta;
+agnosk-ita (kom); <b dict-key="confessedly">-edly: </b>per konfeso; ne-disput-eble; ne-kontest-ive.
+
+<b dict-key="confession">confession:</b> (<i>all senses</i>) konfeso; (<i>articles of creed</i>)
+konfesiono; kredo; (<i>church</i>) eklezio; <b dict-key="to receive the confession of">to receive
+the c. of: </b>konfes-igar (ulu); <b dict-key="to go to confession">to go to c.: </b>irar por
+konfesar su; <b dict-key="to extort a confession">to extort a c.: </b>arachar konfeso.
+
+<b dict-key="confessional">confessional: </b>(<i>of creed</i>) konfesion-ala; (<i>cabinet</i>)
+konfes-eyo.
+
+<b dict-key="confessor">confessor: </b>(<i>one who confesses</i>) konfes-anto; (<i>the priest</i>)
+konfes-ig-anto, -ero.
+
+<b dict-key="confetti">confetti: </b>konfet-o, -i (2001).
+
+<b dict-key="confidant">confidant: </b>konfidenc-ario.
+
+<b dict-key="confide">confide: </b>(<i>tell in confidence</i>) konfidencar (ulo, ad ulu);
+(<i>trust</i>) (<i>intr</i>.) fidar (ad ulu); (<i>in trust, commit to the care of</i>) konfidar
+(ulo, ad ulu).
+
+<b dict-key="confidence">confidence: </b>(<i>trusting in</i>) konfido; (<i>a secret</i>)
+konfidenc-ajo; (<i>self-reliance</i>) su-fido; (<i>fig</i>.) aplombo; espero; (<i>undue</i>)
+prezunto; kurajo.
+
+<b dict-key="confident">confident: </b>(<i>trustful</i>); (<i>certain</i>) certa; (<i>bold</i>)
+sen-tima; (<i>self-assured</i>) aplomb-oza; su-fid-eg-anta; prezunt-ema, -oza.
+
+<b dict-key="confidential">confidential: </b>(<i>trustworthy</i>) fid-inda; (<i>secret</i>)
+konfidenc-a, -ala, privata; (<i>disposed to confide</i>) konfidenc-ema; (<i>trusted</i>) intima.
+
+<b dict-key="confiding">confiding: </b>fid-ema; ne-suspek-ema; (<i>the act of c.</i>) konfido.
+
+<b dict-key="configuration">configuration: </b>figur-o, -aro, -iza; formo.
+
+<b dict-key="confine">confine:</b> (<i>enclose, shut in</i>) inkluzar; enternar; (<i>to
+barracks</i>) kloz-punisar; (<i>imprison</i>) en-karcer-igar; (<i>limit</i>) restriktar,
+limit-izar; <b dict-key="to be confineed">to be c.ed: </b>esar partur-anta, -onta; <b
+dict-key="confineed air">c.ed air: </b>ne-pura aero; <b dict-key="in close confinement">in close
+c.ment:</b> en-karcer-igo solitara; <b dict-key="confines">c.s: </b>limiti; extrem-aji.
+
+<b dict-key="confirm">confirm: </b>(<i>all senses</i>) konfirmar (ulo, ulu) (<i>cf</i>. verifikar;
+pruvar; konstatar; ratifikar; sancionar); <b dict-key="confirmative">-ative: </b>konfirmanta, -iva;
+<b dict-key="confirmed">-ed: </b>konfirm-ita; certa; kronika; konstanta.
+
+<b dict-key="confiscate">confiscate: </b>konfiskar (ulo, de ulu).
+
+<b dict-key="confiture">confiture: </b>konfit-ajo.
+
+<b dict-key="conflagration">conflagration: </b>(granda) flagr-ado; incendi-ego.
+
+<b dict-key="conflict">conflict: </b>(<i>intr.</i>) konfliktar (<i>cf.</i> (inter-) shokar,
+kolizionar; luktar; kontre-dicar).
+
+<b dict-key="conflict">conflict: </b>konflikto; (<i>fight</i>) kombato; (<i>battle</i>) batalio;
+(<i>contradiction</i>) kontre-dic-em-eso; (<i>collision</i>) koliziono; intr-shoko.
+
+<b dict-key="confluent">confluent: </b>kon-flu-anta; -eyo; (<i>to be</i>) (<i>intr.</i>) kon-fluar.
+
+<b dict-key="conform">conform: </b>(<i>make comfortable</i>) konform-igar (ulo, ad ulo);
+(<i>reflex.</i>) konform-igar su; konform-eskar; (<i>to be</i>) konform-esar; <b
+dict-key="conformability">-ability: </b>konform-eso; <b dict-key="conformable">-able:</b> konforma
+(ad); (<i>prep</i>.) segun.
+
+<b dict-key="conformation">conformation: </b>formo; konform-eso; struktur-o (gener-ala).
+
+<b dict-key="conformity">conformity: </b>konform-eso; konkordo; <b dict-key="in conformity">in c.:
+</b>segun, sequ-ante, konforme.
+
+<b dict-key="confound">confound: </b>(<i>one thing with another</i>) konfundar (ulo, ad, kun)
+(<i>for use of prepositions see Ido-E</i>); (<i>confuse</i>) konfuz-igar; (<i>fig.</i>) aston-egar,
+stupor-igar; <b dict-key="confound him">c. him: </b>la diablo kaptez il! <b dict-key="confound
+it">c. it: </b>diable!
+
+<b dict-key="confraternity">confraternity: </b>kun-frat-aro, -eso.
+
+<b dict-key="confr">confr&egrave;re: </b>kun-frat-(ul)o; kolego.
+
+<b dict-key="confront">confront: </b>konfrontar (ulu, ad ulu); <b dict-key="to be confronted">to be
+c.ed: </b>konfront-esar, esar konfront-ata.
+
+<b dict-key="confuse">confuse: </b>(<i>one thing with another</i>) konfundar; (<i>intermix</i>)
+inter-mixar; (<i>make c.ed</i>) konfuz-igar; (<i>disorder</i>) des-ordinar; -<b dict-key="ed">ed:
+</b>(<i>physical and mental</i>) konfuza (= <i>jumbled together; indistinct</i>).
+
+<b dict-key="confusion">confusion: </b>(<i>act</i>) konfuz-igo; sham-igo; (<i>state</i>)
+konfuz-eso; inter-mix-eso; des-ordino; (<i>through mistake</i>) konfundo.
+
+<b dict-key="confute">confute: </b>refutar.
+
+<b dict-key="congeal">congeal: </b>konjelar (<i>tr., intr.</i>); (<i>reflex.</i>) -esar;
+solid-igar, -eskar.
+
+<b dict-key="congeneric">congeneric: </b>sam-genera, sam-speca.
+
+<b dict-key="congenial">congenial: </b>(<i>agreeable</i>) agreabla; (<i>sympathetic</i>)
+simpati-oza; (<i>having affinity</i>) afina; (<i>climate</i>) san-ig-iva.
+
+<b dict-key="congenital">congenital: </b>nask-ala, kun-nask-inta.
+
+<b dict-key="conger">conger-eel: </b>kongro.
+
+<b dict-key="congeries">congeries: </b>amaso (sen-forma); agreg-uro, -eso.
+
+<b dict-key="congest">congest: </b>tro-plen-igar; amas-igar; obstruktar; (<i>med</i>.) konjestionar.
+
+<b dict-key="conglomerate">conglomerate: </b>aglomerar; (<i>pudding stone</i>) konglomerato,
+pudongo; <b dict-key="conglomeration">-tion: </b>aglomer-ajo.
+
+<b dict-key="conglutinate">conglutinate: </b>kun-glutinar.
+
+<b dict-key="congratulate">congratulate: </b>gratular (ulu, pro ulo); <b
+dict-key="congratulatory">-tory: </b>-oza, -ema.
+
+<b dict-key="congregate">congregate: </b>(<i>persons</i>) (ri-)asemblar; (<i>things</i>) kolektar;
+amas-igar.
+
+<b dict-key="congregation">congregation: </b>kun-ven-int-aro, asemblo, -ajo; askolt-ant-aro;
+aud-ant-aro; asis-ant-aro; (<i>rel</i>.) kongregacion-o, (<i>member</i>) -ano.
+
+<b dict-key="congress">congress: </b>kongres-o, (<i>to meet in or hold a c.</i>) (<i>intr.</i>)
+-ar; <b dict-key="congressional">-ional:</b>-a, -ala; <b dict-key="congressman">-man: </b>-ano,
+-anto, -ero.
+
+<b dict-key="congruence">congruence: </b>kongru-o; konveno; deco.
+
+<b dict-key="congruent">congruent: </b>kongru-anta; konven-anta; <b dict-key="to be congruent">to
+be c.: </b>kongruar; (<i>coincide</i>) koincidar (kun).
+
+<b dict-key="conic">conic</b>(<b dict-key="al">al</b>)<b dict-key="">: </b>kon-a, -ala, -atra; <b
+dict-key="conic section">c. section: </b>koniko.
+
+<b dict-key="conidia">conidia:</b> konidio.
+
+<b dict-key="conifer">conifer</b>(<b dict-key="ous">ous</b>)<b dict-key="">: </b>konifer-o, -a.
+
+<b dict-key="conjecture">conjecture: </b>konjekt-ar, -o; <b dict-key="conjectural">-ral: </b>-ala.
+
+<b dict-key="conjoin">conjoin: </b>kun-juntar; (<i>immaterial sense</i>) unionar.
+
+<b dict-key="conjoint">conjoint: </b>kun-jun-ita; union-ita; <b dict-key="conjointly">-ly: </b>kune.
+
+<b dict-key="conjugal">conjugal: </b>spoz-ala, mariaj-ala.
+
+<b dict-key="conjugate">conjugate: </b>konjugar (verbo) <b dict-key="to be conjugateed">to be c.ed:
+</b>-esar; <b dict-key="conjugation">-tion: </b>-o.
+
+<b dict-key="conjunction">conjunction: </b>kun-junto; uniono; (<i>gram</i>.) konjunciono; <b
+dict-key="in conjunction with">in c. with: </b>kune.
+
+<b dict-key="conjunctiva">conjunctiva: </b>konjuntivo.
+
+<b dict-key="conjunctive">conjunctive: </b>(<i>uniting</i>) kun-junt-anta; <b dict-key="conjunctive
+mood">c. mood: </b>subjuntivo; <b dict-key="conjunctive phrase">c. phrase: </b>konjunciona
+expres-uro.
+
+<b dict-key="conjunctivitis">conjunctivitis: </b>konjuntivito.
+
+<b dict-key="conjuncture">conjuncture: </b>(<i>of events</i>) konjunturo.
+
+<b dict-key="conjure">conjure: </b>(<i>c. up spirits</i>) konjurar; (<i>adjure</i>) adjurar;
+(<i>supplicate</i>) suplikar; (<i>practise sorcery</i>) (<i>tr., intr.</i>) sorcar; (<i>sleight of
+hand</i>) eskamotar; <b dict-key="conjure away">c. away: </b>exorcisar (ulu).
+
+<b dict-key="conjurer">conjurer: </b>(<i>of spirits</i>) konjur-anto, -ero; (<i>legerdemain</i>)
+eskamot-ero, -isto.
+
+<b dict-key="connate">connate: </b>(<i>congenital</i>) kun-nask-inta, nask-ala; (<i>cognate</i>)
+sam-familia, sam-speca; analoga.
+
+<b dict-key="connect">connect: </b>(<i>mechan.</i>) konektar, kun-ligar, kun-juntar; unionar;
+(<i>business</i>) asociar; (<i>be related to</i>) relatar; (<i>by marriage</i>) aliancar;
+(<i>tech.: making juncture for transmission of energy</i>) konektar; (<i>of buildings: to be
+c.ed</i>) komunikar; (<i>algebraic equation</i>) konexa.
+
+<b dict-key="connection">connection: </b>(kun-)junto-o, -uro; lig-uro; konekt-ajo; (<i>kinsman</i>)
+parento; (<i>sexual</i>) kopulaco; (<i>affinity</i>) afin-eso, (<i>relation</i>) relato,
+parent-eso; (<i>com.</i>) klient-o, -aro; (<i>joining piece</i>) konekt-ilo; kun-junt-ilo; <b
+dict-key="in this connection">in this c.: </b>pri ica afero; relate ad ico; <b dict-key="in
+connection with">in c. with: </b>kun(e).
+
+<b dict-key="connecting rod">connecting rod: </b>bielo.
+
+<b dict-key="connective">connective: </b>konekt-iva.
+
+<b dict-key="connive">connive: </b>(<i>intr.</i>) konivencar.
+
+<b dict-key="connoisseur">connoisseur: </b>experto (pri vini, arto, e.c.); gust-experto.
+
+<b dict-key="connubial">connubial: </b>spoz-ala, mariaj-ala.
+
+<b dict-key="conoid">conoid:</b> konoido.
+
+<b dict-key="conquer">conquer: </b>(<i>gen</i>.) vinkar; (<i>by force of arms</i>) konquestar.
+
+<b dict-key="conquest">conquest: </b>(<i>act</i>) vink-o; konquest-o; (<i>thing acquired</i>) -ajo,
+(<i>result</i>) -uro. <b dict-key="conquistador">conquistador: </b>&laquo;conquistador&raquo;.
+
+<b dict-key="consanguineous">consanguineous:</b> konsanguina; sam-patr-(ul)-a, sam-parenta.
+
+<b dict-key="consanguinity">consanguinity: </b>konsanguineso; sam-patr-(ul)eso.
+
+<b dict-key="conscience">conscience: </b>koncienco; <b dict-key="liberty of conscience">liberty of
+c.: </b>liber-eso di kredo.
+
+<b dict-key="conscientious">conscientious: </b>koncienc-oza; <b dict-key="conscientiously">-ly:
+</b>-e; havar skrupulo pri.
+
+<b dict-key="conscious">conscious: </b>konci-anta; <b dict-key="to be conscious of">to be c. of:
+</b>konciar (ulo); <b dict-key="consciously">-ly: </b>-e.
+
+<b dict-key="consciousness">consciousness: </b>koncio; (<i>through senses</i>) precept-(ad)o;
+(<i>knowledge</i>) konoc-(ad)o.
+
+<b dict-key="conscript">conscript: </b>konskript-ar (ulu); (<i>a c</i>.) konskript-ito; <b
+dict-key="conscript father">c. father: </b>(<i>Roman</i>) senat-ano.
+
+<b dict-key="consecrate">consecrate: </b>(<i>a church, one&rsquo;s life, etc.</i>) konsakrar (ulo,
+ad) (<i>cf.</i> dedikar; sakr-igar; benedikar); (<i>in the eucharist</i>) konsekracar.
+
+<b dict-key="consecration">consecration: </b>(<i>gen</i>.) konsakro; (<i>eucharistic</i>)
+konsekraco; (<i>canonisation</i>) kononizo; (<i>of bishop, king</i>) sakr-igo.
+
+<b dict-key="consecutive">consecutive: </b>(inter-)sequanta; (<i>consequent</i>) konsequ-anta; <b
+dict-key="consecutivly">-ly: </b>(inter-)seque, suced-ante.
+
+<b dict-key="consensus">consensus: </b>konsento (<i>od</i>, opiniono) gener-ala.
+
+<b dict-key="consent">consent: </b>(<i>intr.</i>) (<i>give</i>) konsentar (ad); (<i>assent; of
+opinions</i>) asentar; (<i>tr</i>.) koncesar, grantar; (<i>be willing</i>) voluntar.
+
+<b dict-key="consequence">consequence: </b>(<i>relation</i>) konsequo; (<i>event, issue, thing</i>)
+rezulto, konsequ-ant(aj)o; (<i>importance</i>) importo, graveso; <b dict-key="be the consequence
+of">be the c. of: </b>konsequar de, rezultar de; <b dict-key="in consequence">in c.: </b>konseque;
+<b dict-key="in consequence of">in c. of: </b>konseque de (ulo); por; <b dict-key="to be of
+consequence">to be of c.: </b>importar; <b dict-key="man of consequence">man of c.: </b>import-anta
+hom-ulo; <b dict-key="this is of no consequence">this is of no c.: </b>to nule importas.
+
+<b dict-key="consequent">consequent: </b>konsequ-ant-a, -o; logik-ala; sequ-ant-a, -o; <b
+dict-key="consequently">-ly: </b>konseque; do.
+
+<b dict-key="consequential">consequential: </b>(<i>self-important</i>) serioz-(ach)a; superba.
+
+<b dict-key="conservation">conservation: </b>konserv-(ad)o.
+
+<b dict-key="conservatism">conservatism: </b>konserv-em-eso.
+
+<b dict-key="conservative">conservative: </b>konserv-ema, -emo.
+
+<b dict-key="conservatory">conservatory: </b>(<i>arts, music</i>) konservatorio;
+(<i>green-house</i>) teplico.
+
+<b dict-key="conserve">conserve: </b>konservar (ulu,ulo); (<i>jam</i>) konfit-ajo.
+
+<b dict-key="consider">consider: </b>konsiderar (ulu, ulo) (<i>cf.</i> egardar; estimar; atencar;
+reflektar; judikar; deliberar; kontemplar; opinionar).
+
+<b dict-key="considerable">considerable: </b>(<i>worth considering</i>) konsider-inda;
+(<i>fig</i>.) import-anta; multa; kelka; granda; sufic-anta. 
+
+<b dict-key="considerably">considerably: </b>multe, grande, extreme.
+
+<b dict-key="considerate">considerate: </b>afabla, jentila; moder-ema; atenc-ema.
+
+<b dict-key="consideration">consideration: </b>konsidero; egardo; reflekto; (<i>importance</i>)
+importo; estimo; (<i>remuneration</i>) kompenso; pag-ajo; <b dict-key="in consideration of">in c.
+of: </b>konsider-ante; rekompense, egarde; <b dict-key="upon further consideration">upon further
+c.: </b>pos reflektir; <b dict-key="out of consideration for">out of c. for: </b>pro estimo por; <b
+dict-key="under no consideration">under no c.: </b>en nula circonstanci; <b dict-key="take into
+consideration">take into c.: </b>egardar (ulu, ulo); <b dict-key="take under consideration">take
+under c.: </b>subisar (<i>od</i>, facar)exameno; explorar.
+
+<b dict-key="considering">considering: </b>konsider-ante; egard-ante.
+
+<b dict-key="consign">consign: </b>(<i>goods</i>) konsignar; (<i>despatch</i>) expediar;
+(<i>confide</i>) konfidar; (<i>hand over</i>) trans-donar; (<i>shut up</i>) relegar.
+
+<b dict-key="consignee">consignee: </b>konsign-ario.
+
+<b dict-key="consignment">consignment: </b>(<i>act</i>) konsign-o, (<i>article</i>) -ajo; send-ajo.
+
+<b dict-key="consignor">consignor: </b>konsign-anto; expedi-anto.
+
+<b dict-key="consist">consist: </b>konsistar (en, ek).
+
+<b dict-key="consistent">consistent: </b>koncili-ebla; koher-anta, -ema; logik-ala; (<i>person</i>)
+konsequ-ema; (<i>solid</i>) solida; <b dict-key="to make consistent">to make c.: </b>konciliar; <b
+dict-key="consistently">-ly: </b>konseque.
+
+<b dict-key="consistory">consistory: </b>konsistorio.
+
+<b dict-key="consol">consol:</b> konsolid-ito (guvern-ala).
+
+<b dict-key="console">console: </b>konsolacar (ulu, pri ulo);<b dict-key="to be consoleed">to be
+c.ed: </b>-esar; <b dict-key="consoling">-ling: </b>konsolac-anta, -iva.
+
+<b dict-key="console">console: </b>(<i>arch., furniture</i>) konsolo.
+
+<b dict-key="consolidate">consolidate: </b>plu-solid-igar; (<i>finan</i>.) konsolidar.
+
+<b dict-key="consols">consols: </b>konsolid-iti (guvern-ala).
+
+<b dict-key="consomme">consomme: </b>konsomeo.
+
+<b dict-key="consonant">consonant: </b>konsonanc-o; (<i>intr., v.</i>) -ar; (<i>gram.</i>)
+konsonanto.
+
+<b dict-key="consort">consort: </b>(<i>become a c.</i>) konsort-eskar; asociar (su kun);
+(<i>n</i>.) konsort-o; <b dict-key="Prince consort">Prince c.: </b>princ-o spoz-ulo.
+
+<b dict-key="conspectus">conspectus: </b>rezumo.
+
+<b dict-key="conspicuous">conspicuous: </b>klare vid-ebla; evident-ega; sali-ema; eminenta; <b
+dict-key="conspicuousness">-ness: </b>vid-ebl-eso; eminent-eso; fam-o, -oz-eso.
+
+<b dict-key="conspire">conspire: </b>(<i>gen.</i>) komplotar; (<i>against govt.</i>) konspirar
+(kontre); (<i>jur. in a fraud</i>) koluzionar (<i>intr.</i>).
+
+<b dict-key="constable">constable: </b>polic-isto; (<i>historical</i>) konestablo; <b
+dict-key="chief constable">chief c.: </b>polic-estro.
+
+<b dict-key="constabulary">constabulary: </b>(<i>administration</i>) polic-o; (<i>collect.</i>)
+polic-ist-aro.
+
+<b dict-key="constancy">constancy: </b>konstant-eso (<i>cf</i>. permano; persist-em-eso;
+persever-(ad)o).
+
+<b dict-key="constant">constant: </b>konstanta; asidua; sen-cesa; perman-anta; (<i>math.,
+phys.</i>) konstanto; <b dict-key="constellation">constellation: </b>stel-aro.<b
+dict-key="consternation">consternation: </b>konstern-o, -eso; <b dict-key="strike with
+constant">strike with c.: </b>-ar (ulu).
+
+<b dict-key="constellation">constellation:</b> (<i>astron.</i>) konstelaciono*.
+
+<b dict-key="constipate">constipate: </b>konstip-ar; <b dict-key="constipation">-tion: </b>-eso.
+
+<b dict-key="constituency">constituency: </b>elekt-ant-aro; elekt-ala distrikto.
+
+<b dict-key="constituent">constituent: </b>(<i>adj</i>.) konstituc-anta, -iva; (<i>n</i>.) parto,
+ingrediento, elemento; elekt-anto, -ero; kliento.
+
+<b dict-key="constitute">constitute: </b>konstitucar (ulo).
+
+<b dict-key="constitution">constitution: </b>(<i>gen. and polit.</i>) konstituc-o, -uro, -eso;
+(<i>physiol.</i>) konstituciono, komplexiono.
+
+<b dict-key="constitutional">constitutional: </b>konstituc-ala; yur-iz-ita; (<i>med.</i>)
+konstitution-ala; (<i>walk</i>) promeno.
+
+<b dict-key="constitutionality">constitutionality: </b>konstituc-al-eso.
+
+<b dict-key="constrain">constrain: </b>koaktar, obligar; (<i>hinder</i>) jenar; (<i>embarrass</i>)
+embarasar.
+
+<b dict-key="constraint,under">constraint, under: </b>des-libera.
+
+<b dict-key="constrict">constrict: </b>konstriktar.
+
+<b dict-key="constringent">constringent: </b>konstrikt-iva.
+
+<b dict-key="construct">construct: </b>konstruktar (ulo).
+
+<b dict-key="construction">construction: </b>konstrukt-(ad)o, -uro; konstrukturo;
+(<i>interpretation</i>) interpreto; senco.
+
+<b dict-key="constructive">constructive: </b>konstrukt-ala, -ema, -iva.
+
+<b dict-key="construe">construe: </b>(<i>translate</i>) tradukar; (<i>explain</i>) explikar;
+interpretar (<i>what is obscure</i>).
+
+<b dict-key="consubstantial">consubstantial: </b>sam-substanc-a; <b
+dict-key="consubstantiality">-ity: </b>-eso.
+
+<b dict-key="consul">consul: </b>(<i>Roman, modern</i>) konsul-o; <b dict-key="consular">-ar:
+</b>-ala; <b dict-key="consulate">-ate: </b>(<i>function, time</i>) -eso; (<i>place</i>) -eyo.
+
+<b dict-key="consult">consult: </b>konsultar (ulu, pri ulo); (<i>intr</i>.) deliberar (pri),
+konferar (kun).
+
+<b dict-key="consultation">consultation: </b>(<i>also physicians, etc.</i>) (inter-) konsult-(ad)o;
+<b dict-key="hours for consultation">hours for c.: </b>konsult-horo; hori di audienco.
+
+<b dict-key="consume">consume: </b>konsumar; (<i>fig</i>.) manjar; (<i>by fire</i>) kombustar;
+(<i>pine away</i>) (<i>intr.</i>) deperisar (pro); <b dict-key="to be consumeed">to be c.ed:
+</b>konsum-esar.
+
+<b dict-key="consumer">consumer: </b>konsum-anto, -ero; <b dict-key="ultimate consumer">ultimate
+c.: </b>lasta (<i>od</i>, fin-ala) kompr-anto.
+
+<b dict-key="consummate">consummate: </b>par-finar, komplet-igar, perfekt-igar.
+
+<b dict-key="consummate">consummate: </b>ecel-anta; kompleta; perfekta.
+
+<b dict-key="consummation">consummation: </b>kolmo, par-fino; par-komplet-igo.
+
+<b dict-key="consumption">consumption: </b>(<i>act of consuming</i>) konsum-(ad)o;
+(<i>phthisis</i>) ftizio, tuberklose; (<i>wasting disease</i>) deperiso; <b dict-key="galloping
+consumption">galloping c.: </b>galop-anta ftizio.
+
+<b dict-key="consumptive">consumptive: </b>tuberklos-ika, -iko; (<i>of disease</i>) -ala;
+(<i>person</i>) ftizi-ika, -iko; <b dict-key="to become consumptive">to become c.:
+</b>ftizi-ik-eskar.
+
+<b dict-key="contact">contact: </b>kontakto; (<i>relation</i>) relato; <b dict-key="contact
+point">c. point: </b>kontakto-punto; <b dict-key="direct contact">direct c.: </b>ne-mediata
+kontakto; <b dict-key="to have or be in contact">to have or be in c.: </b>(inter-) kontaktar (kun);
+<b dict-key="to come in contact">to come in c. </b>(<b dict-key="with">with</b>)<b dict-key="">:
+</b>kontakt-eskar; relatar (kun) ulo, ulu; renkontrar (ulu); <b dict-key="to place in contact">to
+place in c.: </b>kontaktigar (ulo, kun ulo).
+
+<b dict-key="contagion">contagion: </b>(<i>lit. and fig.</i>) kontagio; (<i>infect</i>) kontagiar
+(ulu), infektar.
+
+<b dict-key="contagious">contagious: </b>kontagi-a, -ala, -ema; pest-iz-anta.
+
+<b dict-key="contagiousness">contagiousness: </b>kontagi-em-eso.
+
+<b dict-key="contain">contain: </b>kontenar; (<i>retain</i>) retenar; (<i>restrain</i>) restriktar;
+represar; (<i>enclose</i>) inkluzar; <b dict-key="to be contained in">to be c.ed in: </b>esar
+en-ten-ata (<i>od</i>, inkluz-ita) (en); <b dict-key="containable">-able: </b>konten-ebla; <b
+dict-key="container">-er: </b>konten-ant-(aj)o, -ilo.
+
+<b dict-key="contaminate">contaminate: </b>kontaminar (<i>cf</i>. polutar, vici-izar, des-net-igar,
+koruptar); <b dict-key="contamination">-tion: </b>kontamin-o (<i>act</i>); -ajo (<i>thing</i>).
+
+<b dict-key="contango">contango: </b>report-o; <b dict-key="to allow a contango">to allow a c.:
+</b>(<i>intr</i>.) -ar.
+
+<b dict-key="contemn">contemn: </b>des-estimar; des-prizar.
+
+<b dict-key="contemplate">contemplate: </b>kontemplar; (<i>plan</i>) projetar; (<i>foresee</i>)
+pre-vidar.
+
+<b dict-key="contemplation">contemplation: </b>kontempl-(ad)o; pens-ado, medit-(ad)o; <b
+dict-key="to have in contemplation">to have in c.: </b>expektar (facar); projetar.
+
+<b dict-key="contemplative">contemplative: </b>kontempl-ema.
+
+<b dict-key="contemporaneous">contemporaneous:</b> sam-tempa; (<i>historically</i>) nun-tempa.
+
+<b dict-key="contemporary">contemporary: </b>sam-tempano.
+
+<b dict-key="contempt">contempt: </b>des-estimo; des-prizo; (<i>public</i>) konsputo; <b
+dict-key="look of contempt">look of c.: </b>des-estim-ala mieno; regardar des-estime.
+
+<b dict-key="contemptible">contemptible: </b>des-estim-inda.
+
+<b dict-key="contemptuous">contemptuous: </b>des-estim-anta, -ema, oza; <b dict-key="to treat
+contemptuously">to treat c.ly: </b>konsputar (ulu).
+
+<b dict-key="contend">contend: </b>(inter-)luktar (kontre); (<i>tr., intr.</i>) kombatar;
+(<i>intr.</i>) bataliar; (<i>call into question</i>) kontestar; asertar; (<i>prizes</i>)
+(<i>intr.</i>) konkursar; <b dict-key="contender">-er: </b>kontest-anto; inter-milit-anto;
+konkursar-anto; kun-kandidato.
+
+<b dict-key="content">content: </b>kontent-igar, -eskar; (<i>to put up with</i>) saci-esar; <b
+dict-key="contented">-ed: </b>kontenta (pri); <b dict-key="to be contented">to be c.ed: </b>(<i>put
+up with</i>) <b dict-key="with little">with little: </b>saci-esar da poko; <b
+dict-key="contentment">-ment: </b>kontent-eso; felic-eso.
+
+<b dict-key="content">content: </b>(<i>capacity</i>) kapac-eso; (<i>logical</i>) konteno;
+(<i>satisfaction</i>) kontent-eso; (<i>contents</i>) konten-ajo.
+
+<b dict-key="contention">contention: </b>(<i>dispute</i>) disputo, kontesto (<i>point in
+question</i>) afirm-ajo; sub-ten-ajo; (<i>struggle</i>) lukto; (<i>discord</i>) des-, ne-konkordo.
+
+<b dict-key="contentious">contentious: </b>disput-ema; (<i>legal</i>) litij-oza, -ema.
+
+<b dict-key="conterminous">conterminous:</b> komun-limita, kontigua.
+
+<b dict-key="contest">contest: </b>(<i>dispute</i>) kontest-ar, -o; (<i>quarrel</i>) (<i>intr.</i>)
+disput-ar, -o; (<i>legal</i>) litijo; (<i>for prizes</i>) (<i>intr.</i>) konkurs-ar, -o; (<i>cf.
+</i><b dict-key="contend">contend</b>). <b dict-key="context">context: </b>kun-texto.
+
+<b dict-key="contiguous">contiguous: </b>kontigua (ad), apuda; vicina; <b dict-key="to be
+contiguous">to be c.: </b>vicin-esar.
+
+<b dict-key="contiguity">contiguity: </b>kontigu-eso.
+
+<b dict-key="continence">continence: </b>kontinenc-o; chast-eso; <b dict-key="to practise
+continence">to practise c.: </b>(<i>intr</i>.) kontinenc-ar.
+
+<b dict-key="continent">continent: </b>kontinenc-anta, -oza; (sexuala) abstinenc-anta;
+(<i>geog</i>.) kontinento.
+
+<b dict-key="continental">continental: </b>kontinent-ala.
+
+<b dict-key="contingency">contingency: </b>kontingent-eso, -o; eventual-ajo; posibl-eso, -ajo;
+kazual-ajo.
+
+<b dict-key="contingent">contingent: </b>kontingenta; eventual-a; esar dependanta (de); kazual-a;
+(<i>n.</i>) (<i>milit., finan.</i>) kontingento.
+
+<b dict-key="continual">continual: </b>(<i>without interruption</i>) kontinua; (<i>with
+interruptions</i>) sen-cesa; (<i>lasting</i>) dur-anta; (<i>frequent</i>) oft-ega.
+
+<b dict-key="continue">continue: </b>(<i>last</i>) (<i>intr.</i>) dur-ar, (<i>tr.</i>) -igar;
+(<i>prolong in time</i>) prolong-igar, (<i>prolong in space</i>) prolong-ar, -esar; (<i>legal</i>)
+ajornar; (<i>lit., story etc.</i>) <b dict-key="to be continueed">to be c.ed: </b>dur-onta, pluso
+sequos; fino sequos; <b dict-key="continue on one way">c. on one&rsquo;s way: </b>dur-igar sua
+voyajo.
+
+<b dict-key="continuity">continuity: </b>kontinu-o, -eso; dur-(ad)o; <b dict-key="the">the</b> <b
+dict-key="law of continuity">law of c.: </b>la lego di kontinu-eso.
+
+<b dict-key="contort">contort: </b>tordar (ulu, ulo, su); (<i>deform</i>) deform-ar, -esar.
+
+<b dict-key="contortion">contortion: </b>tord(ig)o; (<i>gesture</i>) gesto (<i>od</i>, posturo)
+tord-ita.
+
+<b dict-key="contour">contour: </b>konturo.
+
+<b dict-key="contraband">contraband: </b>kontraband-a, -ala; (<i>v. tr.: to smuggle</i>) -ar;
+(<i>article</i>) -ajo.
+
+<b dict-key="contrabasso">contrabasso: </b>(<i>instr</i>.) kontrabaso.
+
+<b dict-key="contract">contract: </b>(<i>conclude an agreement</i>) (<i>tr., intr.</i>) kontratar,
+prenar, koncesionar; (<i>undertake</i>) entraprezar; (<i>covenant</i>) paktar; (<i>shorten</i>)
+kurt-igar; (<i>shrink</i>) kun-tir-ar, -eskar; kontraktar; (<i>habit, sickness</i>) aquirar;
+(<i>debt</i>) facar, asumar; (<i>n.</i>) (<i>tender</i>) forfeto; (<i>of sale</i>) vend-kontrato;
+<b dict-key="by contract">by c.: </b>forfet-ale;<b dict-key="to enter into a public contract"> to
+enter into a public c. </b>(<b dict-key="with">with</b>)<b dict-key="">:</b> (<i>tr., intr.</i>)
+koncesionar; <b dict-key="bid or make tender a contract">bid or make tender a c.:
+</b>(<i>intr</i>.) submisionar (por, pri); <b dict-key="engage to do on contract">engage to do on
+c.: </b>kontratar per forfeto.
+
+<b dict-key="contracted">contracted: </b>kontrakt-ita; streta.
+
+<b dict-key="contractibility">contractibility: </b>kontrakt-ebl-eso.
+
+<b dict-key="contraction">contraction: </b>see <b dict-key="contract">contract.</b>
+
+<b dict-key="contractor"> contractor: </b>(<i>party to a contract</i>) kontrat-anto, -ero;
+(<i>manager</i>) entraprez-isto; (<i>as for an army</i>) furnis-anto, -ero.
+
+<b dict-key="contradance">contradance: </b>kontradanso.
+
+<b dict-key="contradict">contradict: </b>kontre-dicar; (<i>mutual</i>) inter-kontre-dicar; (<i>to
+deny flatly; give the lie to</i>) dementi-ar (ulu, pri ulo).
+
+<b dict-key="contradiction">contradiction: </b>kontre-dic-o, -ajo; (<i>log.: in idea, terms</i>)
+antilogio; (<i>flat denial</i>) dementio; <b dict-key="spirit of contradiction">spirit of c.:
+</b>kontre-dic-em-eso.
+
+<b dict-key="contradictory">contradictory: </b>kontre-dic-anta, -iva, -oza; <b dict-key="self
+contradictory">self c.: </b>su-kontre-dic-anta; (<i>mutual</i>) inter-kontre-dic-anta.
+
+<b dict-key="contradistinction">contradistinction: </b>kontrasto.
+
+<b dict-key="contralto">contralto: </b>(<i>voice, singer</i>) kontralto.
+
+<b dict-key="contrapose">contrapose: </b>(<i>log</i>.) kontrapoz-ar; <b
+dict-key="contraposition">-sition: </b>-o.
+
+<b dict-key="contrariness">contrariness: </b>kontre-ag-em-eso; kontre-dic-em-eso; des-agreabl-aji.
+
+<b dict-key="contrary">contrary: </b>kontre-a (ad); (<i>n.</i>) -ajo; (<i>in spite of</i>) malgre;
+(<i>reverse</i>) inversa; (<i>obstinate</i>) obstin-anta, -ema, -era; <b dict-key="on the
+contrary">on the c.: </b>kontre-e; kontraste; <b dict-key="in the contrary direction">in the c.
+direction: </b>en kontre-a sinso, kontre-e; <b dict-key="to act contrary">to act c.:
+</b>kontre-agar (ulo, ulu).
+
+<b dict-key="contrast">contrast: </b>(<i>intr.</i>) kontrast-ar (kun), (<i>tr.</i>) -igar,
+(<i>mutual</i>) inter-; (<i>n.</i>) -o (<i>cf.</i> komparar; opozar; distingar).
+
+<b dict-key="contravene">contravene: </b>kontravencar (<i>tr., intr.</i>).
+
+<b dict-key="contre">contre-temps: </b>des-oportun-ajo, des-fortunoza evento (<i>od</i>, incidento).
+
+<b dict-key="contribute">contribute: </b>(<i>tr., intr.</i>) kontributar (ulo, ad ulo);
+(<i>subscribe</i>) (<i>tr., intr.</i>) suskriptar; (<i>aid</i>) helpar; kun-laborar.
+
+<b dict-key="contribution">contribution: </b>(<i>act</i>) kontribut-o, (<i>thing</i>) -ajo;
+suskript-o, -ajo; quoto; don-ajo; artiklo (en jurnalo); help-o, -ajo.
+
+<b dict-key="contributive">contributive: </b>kontribut-ala, -iva.
+
+<b dict-key="contributor">contributor: </b>kontribut-anto, -ero; kun-redakt-ero; korespond-ero.
+
+<b dict-key="contrite">contrite: </b>kontric-anta, repent-anta.
+
+<b dict-key="contrition,to feel">contrition, to feel: </b>(<i>intr.</i>) kontricar; (<i>tr.,
+intr.</i>) repentar.
+
+<b dict-key="contrive">contrive: </b>(<i>think out</i>) inventar; (<i>succeed</i>) (<i>intr.</i>)
+sucesar; (<i>tax one&rsquo;s ingenuity</i>) injeniar; (<i>scheme</i>) (<i>intr.</i>) intrigar;
+brasar; (<i>with evil purpose</i>) mashinacar; (<i>find means to do</i>) trovar moyeni facar; <b
+dict-key="contrivance">-vance: </b>invent-uro; mashino; (<i>plot</i>) mashinac-o, -ajo;
+(<i>artifice</i>) artifico; ruzo.
+
+<b dict-key="control">control: </b>(<i>by check verification</i>) kontrolar; (<i>govern</i>)
+dominacar, guvernar; direktar; (<i>regulate a machine</i>) regular; (<i>impose regulations on</i>)
+regul-izar; (<i>repress</i>) represar.
+
+<b dict-key="control">control: </b>(<i>n.</i>) (<i>management</i>) direkt-(ad)o; (<i>rule</i>)
+impero; regno; dominac-(ad)o; (<i>instrument</i>) regul-ilo.
+
+<b dict-key="controllable">controllable: </b>submis-ita (<i>od,</i> obediema) ad autoritato;
+guvern-ebla; direkt-ebla; docila.
+
+<b dict-key="controller">controller: </b>(<i>comptroller</i>) kontrol-isto.
+
+<b dict-key="controversy">controversy: </b>kontroverso; polemiko; (<i>quarrel</i>) disputo;
+(<i>legal</i>) litijo. <b dict-key="controvert">controvert: </b>kontroversar; (<i>intr.</i>)
+disputar; debatar, diskutar; (<i>oppose</i>) kombatar; (<i>confute</i>) refutar.
+
+<b dict-key="contumacy">contumacy: </b>obstin-eg-em-eso; (<i>jur.</i>) kontumac-eso; refraktar-eso.
+
+<b dict-key="contumely">contumely:</b> insulto; des-estimo.
+
+<b dict-key="contuse">contuse: </b>kontuz-ar (ulu); <b dict-key="contusion">-sion:</b> -o, -uro; <b
+dict-key="contused">-sed:</b> -ita.
+
+<b dict-key="conundrum">conundrum: </b>(jok-)enigmato.
+
+<b dict-key="convalesce">convalesce: </b>(<i>intr</i>.) konvalecar; <b
+dict-key="convalescence">-cence: </b>-o; <b dict-key="convalescent">-cent: </b>-anta, -anto;
+ri-san-ig-anta,
+
+<b dict-key="convection">convection: </b>konvekto.
+
+<b dict-key="convene">convene: </b>(<i>convoke</i>) kun-vokar; (<i>assemble</i>) asemblar,
+kun-venar.
+
+<b dict-key="convenience">convenience: </b>konveno, komod-eso, -aj-o; komforto; <b dict-key="at
+your earliest convenience">at your earliest c.: </b>tam balde kam vu; <b dict-key="at your
+convenience">at your c.: </b>segun vua arbitrio (<i>od, </i>konveno).
+
+<b dict-key="convenient">convenient: </b>komoda, konven-anta, oportuna.
+
+<b dict-key="convent">convent: </b>kuvento; monak-eyo.
+
+<b dict-key="conventicle">conventicle: </b>konvento.
+
+<b dict-key="convention">convention: </b>(<i>agreement</i>) konvenciono; (<i>assembly</i>)
+konvento, asembl-(ad)o.
+
+<b dict-key="conventional">conventional: </b>(<i>stipulated</i>) konvencion-ala; (<i>usual</i>)
+ordinara.
+
+<b dict-key="conventual">conventual: </b>kuvent-ala.
+
+<b dict-key="converge">converge: </b>(<i>intr</i>.) konvergar (ad, vers); <b
+dict-key="convergent">-gent: </b>-anta, -ema.
+
+<b dict-key="conversant">conversant: </b>familiara; instrukt-ita, exerc-ita (ad); experta; erudita
+(pri); konoc-ita; <b dict-key="to be conversant in">to be c. in: </b>konocar; havar experience pri.
+
+<b dict-key="conversation">conversation: </b>konvers-ado; inter-parol-ado.
+
+<b dict-key="conversational">conversational: </b>konvers-ema, -ala.
+
+<b dict-key="conversazione">conversazione: </b>(literatur-ala od societ-ala) asemblo.
+
+<b dict-key="converse">converse: </b>(<i>intr.</i>) konversar (kun); inter-parolar.
+
+<b dict-key="converse">converse: </b>(<i>speech</i>) konvers-(ad)o; (<i>log.</i>) invers-a, -o;
+reciprok-a, -o.
+
+<b dict-key="conversion">conversion: </b>(<i>rel., finan.</i>) konvert-(ad)o, -eso;
+(<i>transformation</i>) transform-(ad)o; (<i>log.</i>) invers-igo; (<i>exchange</i>) kambi-(ad)o.
+
+<b dict-key="convert">convert: </b>(<i>rel., finan.</i>) konvertar; (<i>exchange</i>) kambiar;
+(<i>transform</i>) transformar; (<i>log.</i>) invers-igar; (<i>n.</i>) (<i>rel.</i>) konvert-ito.
+
+<b dict-key="convertor">convertor:</b> konvertoro.
+
+<b dict-key="convex">convex: </b>konvex-a; <b dict-key="convexity">-ity:</b> -eso.
+
+<b dict-key="convey">convey: </b>portar; transportar; transmisar; (<i>by vehicle</i>) veh-igar,
+vetur-agar; (<i>gas, elec. by tubes, wires</i>) konduktar; (<i>property</i>) transferar; (<i>c.
+away</i>) for-portar; (<i>meanings</i>) expresar la ideo di; (<i>escort</i>) akompanar.
+
+<b dict-key="convict">convict: </b>kondamnar (ulu, ad ulo); pruvar (ulu), esar kulp-oza (pri);
+(<i>relig.</i>) konci-ig-esar (pri sua peki).
+
+<b dict-key="convict">convict: </b>(<i>n.</i>) kondamn-ito; krimin-anto, -ero; bagn-ano; (<i>at
+hard labour</i>) forcato; (<i>guilty person</i>) kulp-oz(ul)o; <b dict-key="convict prison">c.
+prison: </b>bagno; karcero.
+
+<b dict-key="conviction">conviction: </b>konvink-o, -eso; persuad-o, -eso; (<i>convicting</i>)
+kondamno.
+
+<b dict-key="convince">convince: </b>konvinkar.
+
+<b dict-key="convincing">convincing: </b>konvink-anta, -iva, oza; pruv-anta, -iva.
+
+<b dict-key="convincingness">convincingness: </b>konvink-iv-eso; povo; fort-eso.
+
+<b dict-key="convivial">convivial: </b>fest-ala; soci-ema; joy-ema; gaya; bon-humora.
+
+<b dict-key="conviviality">conviviality: </b>soci-emeso; gay-eso; festal-eso.
+
+<b dict-key="convoke">convoke: </b>kun-vokar, konvokar*.
+
+<b dict-key="convoluted">convoluted: </b>volut-atra.
+
+<b dict-key="convolution">convolution: </b>cirkonvoluciono; en-volv-ajo, -eso.
+
+<b dict-key="convolvulus">convolvulus:</b> konvolvulo.
+
+<b dict-key="convoy">convoy: </b>(<i>transport of troops, etc.</i>) konvoyar; (<i>accompany</i>)
+akompanar; (<i>to be</i>) eskort-esar; <b dict-key="escort ship in a convoy">escort ship in a c.:
+</b>konvoy-ala eskort-navo; <b dict-key="convoy ship">c. ship: </b>(<i>transport</i>) konvoy-navo.
+
+<b dict-key="convoy">convoy: </b>(<i>nav., milit.</i>) konvoyo, eskorto.
+
+<b dict-key="convulse">convulse: </b>(<i>intr</i>.) konvulsar, (tr.) -igar; (<i>fig</i>.) agitar,
+ecit-esar.
+
+<b dict-key="convulsion">convulsion: </b>konvulso (<i>cf. </i>spasmo, krampo); (<i>commotion</i>)
+tumulto, sukuso.
+
+<b dict-key="convulsive">convulsive: </b>konvuls-ala, -atra.
+
+<b dict-key="cony">cony: </b>kuniklo.

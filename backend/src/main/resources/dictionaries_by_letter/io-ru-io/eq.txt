@@ -1,0 +1,12 @@
+<b dict-key="equaciono">equaciono</b>: <span dict-key="уравнение">уравнение</span>
+
+<b dict-key="equador">equador</b>: <span dict-key="эквадор">эквадор</span>
+
+<b dict-key="equatoro">equatoro</b>: <span dict-key="экватор">экватор</span>
+
+<b dict-key="equilibrar">equilibrar</b>: <span dict-key="быть в равновесии">быть в
+равновесии</span>, <span dict-key="в балансе">в балансе</span>
+
+<b dict-key="equipar">equipar</b>: <span dict-key="оборудовать">оборудовать</span>
+
+<b dict-key="equivalar">equivalar</b>: <span dict-key="быть эквивалентным">быть эквивалентным</span>

@@ -1,0 +1,73 @@
+<b dict-key="fraciono">fraciono</b>: <span dict-key="фракция (доля)">фракция (доля)</span>
+
+<b dict-key="fragmento">fragmento</b>: <span dict-key="фрагмент">фрагмент</span>
+
+<b dict-key="frago">frago</b>: <span dict-key="земляника">земляника</span>
+
+<b dict-key="frajila">frajila</b>: <span dict-key="хрупкий">хрупкий</span>
+
+<b dict-key="frakasar">frakasar</b>: <span dict-key="разбить на кусочки">разбить на кусочки</span>,
+<span dict-key="разрушить">разрушить</span>, <span dict-key="разбиваться">разбиваться</span>
+
+<b dict-key="frambo">frambo</b>: <span dict-key="малина">малина</span>
+
+<b dict-key="franca">franca</b>: <span dict-key="французский язык">французский язык</span>
+
+<b dict-key="francia">francia</b>: <span dict-key="франция">франция</span>
+
+<b dict-key="frapar">frapar</b>: <span dict-key="пробить (поразить)">пробить (поразить)</span>,
+<span dict-key="ударять">ударять</span>, <span dict-key="поражать">поражать</span>
+
+<b dict-key="fratino">fratino</b>: <span dict-key="сестра">сестра</span>
+
+<b dict-key="frato">frato</b>: <span dict-key="брат">брат</span>, <span dict-key="сестра (ср.
+род)">сестра (ср. род)</span>
+
+<b dict-key="fratulo">fratulo</b>: <span dict-key="брат">брат</span>
+
+<b dict-key="fraudar">fraudar</b>: <span dict-key="обманывать">обманывать</span>, <span
+dict-key="обманывать">обманывать</span>
+
+<b dict-key="frazo">frazo</b>: <span dict-key="предложение">предложение</span>, <span
+dict-key="фраза">фраза</span>
+
+<b dict-key="frenezio">frenezio</b>: <span dict-key="безумие">безумие</span>
+
+<b dict-key="freno">freno</b>: <span dict-key="тормоз">тормоз</span>
+
+<b dict-key="frequa">frequa</b>: <span dict-key="частый">частый</span>
+
+<b dict-key="frequentar">frequentar</b>: <span dict-key="к частому">к частому</span>
+
+<b dict-key="fresha">fresha</b>: <span dict-key="новый (свежий)">новый (свежий)</span>
+
+<b dict-key="fricionar">fricionar</b>: <span dict-key="тереться">тереться</span>
+
+<b dict-key="fripona">fripona</b>: <span dict-key="плутоватый">плутоватый</span>, <span
+dict-key="мошеннический">мошеннический</span>
+
+<b dict-key="fritar">fritar</b>: <span dict-key="жарить">жарить</span>
+
+<b dict-key="frivola">frivola</b>: <span dict-key="фривольный">фривольный</span>
+
+<b dict-key="fromajo">fromajo</b>: <span dict-key="сыр">сыр</span>
+
+<b dict-key="frontiero">frontiero</b>: <span dict-key="граница">граница</span>
+
+<b dict-key="fronto">fronto</b>: <span dict-key="фронт">фронт</span>, <span
+dict-key="лоб">лоб</span>
+
+<b dict-key="frostar">frostar</b>: <span dict-key="замораживать (ся)">замораживать (ся)</span>
+
+<b dict-key="frotar">frotar</b>: <span dict-key="тереть">тереть</span>, <span
+dict-key="протирать">протирать</span>, <span dict-key="вычищать">вычищать</span>
+
+<b dict-key="frua">frua</b>: <span dict-key="рано">рано</span>
+
+<b dict-key="frue">frue</b>: <span dict-key="рано">рано</span>
+
+<b dict-key="frukto">frukto</b>: <span dict-key="плод">плод</span>
+
+<b dict-key="frumento">frumento</b>: <span dict-key="пшеница">пшеница</span>
+
+<b dict-key="frustrar">frustrar</b>: <span dict-key="разбить">разбить</span>

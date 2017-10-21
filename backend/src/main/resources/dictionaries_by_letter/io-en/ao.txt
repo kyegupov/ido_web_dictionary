@@ -1,0 +1,5 @@
+<b dict-key="aoristo">aorist-o:</b> (<i>gram.</i>) aorist. &mdash; DEFIRS
+
+<b dict-key="aorto">aort-o:</b> (<i>anat.</i>) aorta. &mdash; DEFIRS
+
+<b dict-key="aortito">aortit-o:</b> (<i>med</i>) aortitis. &mdash; DEFIRS

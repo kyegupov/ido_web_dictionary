@@ -1,0 +1,111 @@
+<b dict-key="giant">giant:</b>&nbsp;gigant-a; -o, -ulo, -ino.
+
+<b dict-key="gib">gib:</b> (<i>peg</i>) kelo.
+
+<b dict-key="gibberish">gibberish:</b> jargono, lingu-acho, galimatiaso; <b dict-key="to talk
+gibberish">to talk g.:</b> (<i>intr</i>.) jargonar.
+
+<b dict-key="gibbet">gibbet:</b> jibeto (<i>cf</i>. patibulo).
+
+<b dict-key="gibbon">gibbon:</b> &laquo;gibbon&raquo;.
+
+<b dict-key="gibbosity">gibbosity:</b> gibo.
+
+<b dict-key="gibbous">gibbous:</b> gib-oza.
+
+<b dict-key="gibe">gibe:</b> mok-ar; (<i>n</i>.) -ajo, sarkasmo.
+
+<b dict-key="giblets">giblets:</b> abatiso.
+
+<b dict-key="giddy">giddy:</b> (<i>to be</i>) vertij-ar, (<i>become</i>) -eskar, (<i>cause</i>)
+-igar; (<i>adj</i>.) vertij-anta; (<i>fig</i>.) sen-reflekta; kap-lejera; ne-pens-ema;
+ne-atenc-ema, frivola.
+
+<b dict-key="gift">gift:</b> donac-o; (<i>thing</i>) -ajo; (<i>talent</i>) dot-o, -uro; talento; <b
+dict-key="the gift of languages">the g. of languages:</b> la doto di lingui; <b
+dict-key="gifted">-ed:</b> dot-ita; talent-oza.
+
+<b dict-key="gig">gig:</b> &laquo;tilburi&raquo;, kabrioleto; (<i>boat</i>) shalupo; yolo.
+
+<b dict-key="giga">giga-:</b> (<i>prefix, thousand million</i>) giga-.
+
+<b dict-key="gigantic">gigantic:</b> gigant-a, -atra.
+
+<b dict-key="giggle">giggle:</b> rid-et-achar; stulte ridar.
+
+<b dict-key="gigolo">gigolo:</b> jigolo*.
+
+<b dict-key="gild">gild:</b> or-izar; (<i>association</i>) gildo.
+
+<b dict-key="gill">gill:</b> brankio.
+
+<b dict-key="gillyflower">gillyflower:</b> jilfloro.
+
+<b dict-key="gilt">gilt: </b>or-atra, -iz-ita.
+
+<b dict-key="gilthead">gilthead:</b> (<i>fish</i>) dorado.
+
+<b dict-key="gimbals">gimbals:</b> (<i>of compass</i>) (busulo-)balanciero.
+
+<b dict-key="gimcrack">gimcrack:</b> lud-(et)ilo; bagatelo; orn-iv-acho.
+
+<b dict-key="gimlet">gimlet:</b> bor-il-eto.
+
+<b dict-key="gimp">gimp:</b> pasmento; gipuro.
+
+<b dict-key="gin">gin:</b> (<i>spirits</i>) jino; (<i>trap</i>) kapt-ilo; <b dict-key="lifting
+gin">lifting g.:</b> argano.
+
+<b dict-key="ginger">ginger:</b> jinjer-o; <b dict-key="ginger">g.-coloured:</b> -ea, rufa; <b
+dict-key="gingerbread">g.bread:</b> miel-kuko.
+
+<b dict-key="gingerly">gingerly:</b> delikate.
+
+<b dict-key="gingivitis">gingivitis:</b> jenjivito.
+
+<b dict-key="gingle">gingle:</b> (<i>as of glasses</i>) (<i>intr</i>.) klikt-et-ar.
+
+<b dict-key="gipsy">gipsy:</b> cigan-(ul)o.
+
+<b dict-key="giraffe">giraffe:</b> jirafo.
+
+<b dict-key="girder">girder:</b> (metal-, ligno-) trabo, traverso.
+
+<b dict-key="gird">gird:</b> zon-izar.
+
+<b dict-key="girdle">girdle:</b> zon-o, -kordono; -izar.
+
+<b dict-key="girl">girl:</b> (<i>as to sex</i>) puer-ino; infant-ino; yun-ino; (<i>as relatives to
+parents</i>) fili-ino; <b dict-key="old girl">old g.:</b> olda celib-ino; (<i>servant</i>) yun-ino;
+(<i>as relates to parents</i>) fili-serv-ist-ino; <b dict-key="girlish">-ish:</b> puer-in-ala,
+-atra;<b dict-key="girlhood"> -hood:</b> puer-in-eso.
+
+<b dict-key="girth">girth:</b> (<i>as of a horse</i>) gurt-o; ventro-zono; <b dict-key="to put
+girth on">to put g. on:</b> gurt-izar, -ligar, -agar; (<i>circumference</i>) cirkum-mezur-o;
+cirklo-kurvo.
+
+<b dict-key="gist">gist:</b> kerno, esenco, substanco.
+
+<b dict-key="give">give:</b> (<i>in gen.</i>) donar (<i>food, a gift, in marriage, a sign, a
+hand</i>); (<i>make a donation of</i>) donacar; (<i>promiscuously</i>) dis-donar; (<i>one&rsquo;s
+respects</i>) prizentar; (<i>description</i>) deskriptar; (<i>alms</i>) almonar (ad); <b
+dict-key="give a start">g. a start:</b> (<i>intr</i>.) tresayar; <b dict-key="give birth to">g.
+birth to:</b> parturar; <b dict-key="give the lie to">g. the lie to:</b> dementiar; <b
+dict-key="give a guess">g. a guess:</b> divinar, konjektar; <b dict-key="give a look">g. a
+look:</b> regardar; <b dict-key="give a shriek">g. a shriek:</b> kri-eskar (pro teroro); <b
+dict-key="give battle">g. battle:</b> (<i>intr</i>.) bataliar;&nbsp;<b dict-key="give ear to">g.
+ear to:</b> askoltar; <b dict-key="give ground">g. ground:</b> (<i>intr</i>.) regresar; retro-irar;
+<b dict-key="give heed">g. heed:</b> atencar (ulo), esar sorg-ema; <b dict-key="give in charge">g.
+in charge:</b> arestar; <b dict-key="give place">g. place:</b> cedar; <b dict-key="give oneself,one
+mind">g. oneself, one&rsquo;s mind:</b> donar su, konsakrar su, dedikar su; <b dict-key="give suck
+to">g. suck to:</b> alaktar; <b dict-key="give the slip">g. the slip:</b> evitar; eskapar; fugar;
+<b dict-key="give trouble">g. trouble: </b>jenar; tedar; molestar; trublar; des-komod-igar; <b
+dict-key="give way">g. way:</b> cedar; <b dict-key="give out">g. out:</b> anuncar, proklamar;
+(<i>become exhausted</i>) exhaust-esar; (<i>distribute</i>) (dis-)donar; <b dict-key="give rise
+to">g. rise to:</b> efekt-igar, produktar; <b dict-key="give up">g. up:</b> renuncar, abandonar;
+livrar; ne plu expektar; cedar; <b dict-key="give way">g. way:</b> (<i>yield</i>) cedar;
+(<i>collapse</i>) (<i>med</i>.) prostrac-(esk)ar; (<i>phys</i>.) falar, krular; (<i>as a
+fencer</i>) garar; <b dict-key="given to">g.n to:</b> (<i>inclined</i>) (<i>intr</i>.) tendencar,
+inklinar; kustumar.
+
+<b dict-key="gizzard">gizzard:</b> gizardo.

@@ -1,0 +1,17 @@
+<b dict-key="coefficient">coefficient: </b>koeficiento.
+
+<b dict-key="coequal">coequal: </b>egala, sam-valora.
+
+<b dict-key="coerce">coerce: </b>koaktar (ulu ad ulo); obligar; represar; <b
+dict-key="coercive">-cive: </b>repres-anta, -iva; koakt-anta, -iva.
+
+<b dict-key="coercitive">coercitive:</b> (<i>elec.</i>) koercitiva.
+
+<b dict-key="coessential">coessential: </b>(<i>theol</i>.) sam-esenca.
+
+<b dict-key="coeternal">coeternal: </b>kun-eterna.
+
+<b dict-key="coeval">coeval: </b>sam-epoka, sam-tempa.
+
+<b dict-key="coexist">coexist: </b>kun-existar (<i>intr</i>.); <b dict-key="coexistent">-tent:
+</b>kun-exist-anta.

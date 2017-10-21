@@ -1,0 +1,82 @@
+<b dict-key="pan">pan: </b>(<i>stewpan</i>) kasrolo; (<i>frying pan</i>) padelo; (<i>baking
+pan</i>) tort-uyo; (<i>dish</i>) (fer-)plado; baseno; <b dict-key="a flash on the pan">a flash on
+the p.: </b>mis-pafo.
+
+<b dict-key="panacea">panacea: </b>panaceo.
+
+<b dict-key="panache">panache: </b>penacho.
+
+<b dict-key="panaris">panaris: </b>panariso.
+
+<b dict-key="pancake">pancake: </b>krespo.
+
+<b dict-key="pancratium">pancratium: </b>pankraco.
+
+<b dict-key="pancreas">pancreas: </b>pankreato.
+
+<b dict-key="panda">panda: </b>(<i>animal</i>) pando.
+
+<b dict-key="pandemonium">pandemonium: </b>(<i>fig</i>.) bruis-ego; tumult-ego.
+
+<b dict-key="pander to,to">pander to, to: </b>esar komplez-(ach)-anta, -ema (ad); favor-achar (ulu,
+ulo).
+
+<b dict-key="panderer">panderer: </b>proxeneto.
+
+<b dict-key="pandour">pandour: </b>panduro.
+
+<b dict-key="pane">pane: </b>karelo; <b dict-key="pane of glass">p. of glass: </b>vitro-karelo.
+
+<b dict-key="panegyric">panegyric: </b>panegiro; (<i>fig</i>.) laudo-diskurso.
+
+<b dict-key="panel">panel: </b>(<i>arch</i>.) panelo; juri-listo, listo di juri-ani; (<i>v</i>.)
+panel-izar; <b dict-key="paneling">-ling: </b>panel-i, -aro; -iz-uro.
+
+<b dict-key="pang">pang: </b>kordio-preso, -doloro; angor-(esk)o, -stroko, -aceso.
+
+<b dict-key="pangene">pangene:</b> pangeno.
+
+<b dict-key="pangenesis">pangenesis:</b> pangenezo.
+
+<b dict-key="pangolin">pangolin: </b>pangolino.
+
+<b dict-key="panic">panic: </b>panik-a, -o; <b dict-key="to panic">to panic:</b> panikar
+(<i>intr.</i>).
+
+<b dict-key="panicle">panicle: </b>paniklo.
+
+<b dict-key="panniculus">panniculus: </b>paniklo.
+
+<b dict-key="panmixia">panmixia: </b>panmixio.
+
+<b dict-key="pannier">pannier: </b>(flanko-) korbo.
+
+<b dict-key="panoply">panoply: </b>arm-aro; plene-vest-iz-ita.
+
+<b dict-key="panorama">panorama: </b>panoramo.
+
+<b dict-key="pansy">pansy: </b>panseo.
+
+<b dict-key="pant">pant: </b>(<i>gasp for breath</i>) (<i>intr</i>.) anhelar.
+
+<b dict-key="pantaloons">pantaloons: </b>(<i>long trousers</i>) pantalono (<i>cf</i>. bracho).
+
+<b dict-key="pantheism">pantheism: </b>panteismo.
+
+<b dict-key="pantheist">pantheist</b>(<b dict-key="ic">ic</b>)<b dict-key="">:</b> panteist-o, -a,
+-ala.
+
+<b dict-key="Pantheon">Pantheon: </b>templo di de-aro; (<i>collect</i>.) de-aro.
+
+<b dict-key="panther">panther: </b>pantero.
+
+<b dict-key="pantograph">pantograph: </b>pantografo.
+
+<b dict-key="pantometer">pantometer: </b>pantometro.
+
+<b dict-key="pantomime">pantomime: </b>pantomim(ad)o.
+
+<b dict-key="pantry">pantry: </b>nutr-iv-armoro; manj-ajo-kajo.
+
+<b dict-key="pants">pants: </b>(<i>long trousers</i>) pantalono; (<i>knickerbockers</i>) bracho;
+(<i>drawers</i>) kalsono.

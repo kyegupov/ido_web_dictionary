@@ -1,0 +1,74 @@
+<b dict-key="malachite">malachite:</b> malakito.
+
+<b dict-key="maladministration">maladministration:</b> mala administr-ado.
+
+<b dict-key="malady">malady:</b> malad-eso (<i>cf</i>. morbo; manio; des-san-eso).
+
+<b dict-key="malapropos">malapropos:</b> ne-oportun-a, -e.
+
+<b dict-key="malaria">malaria:</b> malario.
+
+<b dict-key="malcontent">malcontent:</b> ne-kontent-a, -(ul)o.
+
+<b dict-key="male">male:</b> maskul-a, -o; (<i>grown man</i>) viro (<i>cf</i>. hom-ulo) (<i>in
+composition see suffix</i> -ulo).
+
+<b dict-key="malediction">malediction:</b> malediko.
+
+<b dict-key="malefactor">malefactor:</b> krimin-anto, delikt-anto, -into, -ero.
+
+<b dict-key="maleficence">maleficence:</b> mal-fac-ado, -em-eso.
+
+<b dict-key="maleficent">maleficent:</b> mal-fac-ema, maligna; (<i>thing</i>) noc-iva.
+
+<b dict-key="malevolence">malevolence:</b> mal-vol-(ad)o.
+
+<b dict-key="malevolent">malevolent:</b> mal-vol-anta, maligna.
+
+<b dict-key="malfeasance">malfeasance:</b> mal-fac-ado (<i>cf</i>. fraudo; delikto, krimino).
+
+<b dict-key="malformation">malformation:</b> mis-formac-o, -uro.
+
+<b dict-key="malice">malice:</b> malico; mal-volo; (<i>in high degree</i>) malign-eso, (<i>act</i>)
+-ajo; (<i>jur</i>.) krimin-ala intenco; <b dict-key="with malice aforethought">with m.
+aforethought:</b> kun pre-intenco, pre-medito.
+
+<b dict-key="malicious">malicious:</b> (<i>mischievous, spiteful</i>) malic-oza, -ema; (<i>man,
+woman, spirit</i>) maligna (hom-ulo, -ino, spirito).
+
+<b dict-key="malign">malign:</b> difamar (ulu); (<i>adj</i>.) malign-(eg)a.
+
+<b dict-key="malignancy">malignancy:</b> malign-(eg)eso.
+
+<b dict-key="malignant">malignant:</b> malign-(eg)a; mal-vol-anta; mal-intenc-anta, -oza.
+
+<b dict-key="malinger">malinger:</b> fingar malad-eso.
+
+<b dict-key="mall">mall:</b> ligna martel-ego; (<i>as used in play</i>) malio; (<i>place</i>)
+malio-placo.
+
+<b dict-key="mallard">mallard:</b> sovaja anado.
+
+<b dict-key="malleable">malleable:</b> male-ebla.
+
+<b dict-key="malleolus">malleolus:</b> maleolo. 
+
+<b dict-key="mallet">mallet:</b> ligna-martelo; (<i>for play</i>) malio.
+
+<b dict-key="mallow">mallow:</b> (<i>bot</i>.) malvo; <b dict-key="marsh">marsh-m.:</b>
+(<i>bot</i>.) malvavisko.
+
+<b dict-key="malnutrition">malnutrition:</b> nutr-ado, -eso ne-perfekta.
+
+<b dict-key="malodorous">malodorous:</b> mal-odor-anta, -oza; fetida.
+
+<b dict-key="malpractice">malpractice:</b> krimin-oza ag(ad)o; (<i>extorsion, graft</i>)
+konkusion-(ad)o.
+
+<b dict-key="malt">malt:</b> malto.
+
+<b dict-key="Maltese cross">Maltese cross:</b> Malta-kruco.
+
+<b dict-key="maltreat">maltreat:</b> male traktar (<i>cf</i>. molestar, violentar).
+
+<b dict-key="malversation">malversation:</b> konkusiono.

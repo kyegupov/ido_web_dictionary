@@ -1,0 +1,249 @@
+<b dict-key="inata">inata</b>: <span dict-key="врожденный">врожденный</span>
+
+<b dict-key="inaugurar">inaugurar</b>: <span dict-key="открывать">открывать</span>
+
+<b dict-key="incendiar">incendiar</b>: <span dict-key="поджигать">поджигать</span>, <span
+dict-key="сгореть дотла">сгореть дотла</span>
+
+<b dict-key="incidar">incidar</b>: <span dict-key="посягать на">посягать на</span>, <span
+dict-key="нападать на">нападать на</span>, <span dict-key="затронуть">затронуть</span>
+
+<b dict-key="incidenta">incidenta</b>: <span dict-key="непредвиденный">непредвиденный</span>
+
+<b dict-key="incitar">incitar</b>: <span dict-key="подстрекать">подстрекать</span>
+
+<b dict-key="incizar">incizar</b>: <span dict-key="сокращать в">сокращать в</span>
+
+<b dict-key="indemno">indemno</b>: <span dict-key="компенсация">компенсация</span>
+
+<b dict-key="indexo">indexo</b>: <span dict-key="индекс">индекс</span>
+
+<b dict-key="india">india</b>: <span dict-key="индия">индия</span>
+
+<b dict-key="indiano">indiano</b>: <span dict-key="индус (индеец)">индус (индеец)</span>
+
+<b dict-key="indiferenta">indiferenta</b>: <span dict-key="безразличный">безразличный</span>
+
+<b dict-key="indignar">indignar</b>: <span dict-key="быть возмущенным">быть возмущенным</span>
+
+<b dict-key="indijar">indijar</b>: <span dict-key="быть в потребности">быть в потребности</span>
+
+<b dict-key="indijena">indijena</b>: <span dict-key="местный">местный</span>
+
+<b dict-key="indikar">indikar</b>: <span dict-key="указывать">указывать</span>
+
+<b dict-key="indikativo">indikativo</b>: <span dict-key="изъявительное наклонение
+(грамматика)">изъявительное наклонение (грамматика)</span>
+
+<b dict-key="indikatoro">indikatoro</b>: <span dict-key="индикатор">индикатор</span>
+
+<b dict-key="individuo">individuo</b>: <span dict-key="индивидуум">индивидуум</span>
+
+<b dict-key="indolenta">indolenta</b>: <span dict-key="пассивный">пассивный</span>, <span
+dict-key="ленивый">ленивый</span>
+
+<b dict-key="induktar">induktar</b>: <span dict-key="стимулировать">стимулировать</span>, <span
+dict-key="индуктировать">индуктировать</span>
+
+<b dict-key="indulgar">indulgar</b>: <span dict-key="быть снисходительным">быть
+снисходительным</span>, <span dict-key="быть терпимым (к)">быть терпимым (к)</span>
+
+<b dict-key="industrio">industrio</b>: <span dict-key="промышленность">промышленность</span>
+
+<b dict-key="indutar">indutar</b>: <span dict-key="покрывать">покрывать</span>, <span
+dict-key="красить">красить</span>
+
+<b dict-key="inerta">inerta</b>: <span dict-key="инертный">инертный</span>
+
+<b dict-key="infalibla">infalibla</b>: <span dict-key="безошибочный">безошибочный</span>, <span
+dict-key="надежный">надежный</span>
+
+<b dict-key="infama">infama</b>: <span dict-key="позорный">позорный</span>
+
+<b dict-key="infanto">infanto</b>: <span dict-key="младенец">младенец</span>, <span
+dict-key="маленький ребенок">маленький ребенок</span>
+
+<b dict-key="infektar">infektar</b>: <span dict-key="инфицировать">инфицировать</span>
+
+<b dict-key="inferno">inferno</b>: <span dict-key="ад">ад</span>
+
+<b dict-key="inflexar">inflexar</b>: <span dict-key="склонять">склонять</span>
+
+<b dict-key="influar">influar</b>: <span dict-key="влиять">влиять</span>
+
+<b dict-key="influenzo">influenzo</b>: <span dict-key="грипп">грипп</span>
+
+<b dict-key="informar">informar</b>: <span dict-key="сообщать">сообщать</span>
+
+<b dict-key="infre">infre</b>: <span dict-key="вниз">вниз</span>, <span dict-key="ниже">ниже</span>
+
+<b dict-key="infuzar">infuzar</b>: <span dict-key="вселять">вселять</span>
+
+<b dict-key="ingestar">ingestar</b>: <span dict-key="глотать">глотать</span>
+
+<b dict-key="ingrediento">ingrediento</b>: <span dict-key="компонент">компонент</span>
+
+<b dict-key="inhalar">inhalar</b>: <span dict-key="вдыхать">вдыхать</span>
+
+<b dict-key="inherar">inherar</b>: <span dict-key="быть свойственным">быть свойственным</span>
+
+<b dict-key="inhibar">inhibar</b>: <span dict-key="запрещать">запрещать</span>
+
+<b dict-key="iniciar">iniciar</b>: <span dict-key="начать">начать</span>, <span
+dict-key="инициировать">инициировать</span>
+
+<b dict-key="injektar">injektar</b>: <span dict-key="вводить">вводить</span>
+
+<b dict-key="injeniar">injeniar</b>: <span dict-key="острить (умом)">острить (умом)</span>
+
+<b dict-key="injenioro">injenioro</b>: <span dict-key="инженер">инженер</span>
+
+<b dict-key="inklinar">inklinar</b>: <span dict-key="склонять">склонять</span>, <span
+dict-key="наклоняться">наклоняться</span>, <span dict-key="клониться">клониться</span>, <span
+dict-key="наклоняться к">наклоняться к</span>
+
+<b dict-key="inkluzar">inkluzar</b>: <span dict-key="включать">включать</span>
+
+<b dict-key="inko">inko</b>: <span dict-key="чернила">чернила</span>
+
+<b dict-key="inkombrar">inkombrar</b>: <span dict-key="обременять">обременять</span>, <span
+dict-key="затруднять">затруднять</span>
+
+<b dict-key="inkubo">inkubo</b>: <span dict-key="кошмар">кошмар</span>
+
+<b dict-key="inocenta">inocenta</b>: <span dict-key="невинный">невинный</span>
+
+<b dict-key="inquestar">inquestar</b>: <span dict-key="делать расследование">делать
+расследование</span>, <span dict-key="исследовать">исследовать</span>
+
+<b dict-key="insekto">insekto</b>: <span dict-key="насекомое">насекомое</span>
+
+<b dict-key="insertar">insertar</b>: <span dict-key="вставить">вставить</span>
+
+<b dict-key="insigno">insigno</b>: <span dict-key="значок">значок</span>, <span dict-key="признак
+(подпись)">признак (подпись)</span>, <span dict-key="знаки отличия">знаки отличия</span>
+
+<b dict-key="insinuar">insinuar</b>: <span dict-key="инсинуировать">инсинуировать</span>
+
+<b dict-key="insistar">insistar</b>: <span dict-key="настаивать">настаивать</span>
+
+<b dict-key="inspektar">inspektar</b>: <span dict-key="осматривать">осматривать</span>
+
+<b dict-key="inspirar">inspirar</b>: <span dict-key="вдохновлять">вдохновлять</span>
+
+<b dict-key="instanto">instanto</b>: <span dict-key="мгновение">мгновение</span>, <span
+dict-key="миг">миг</span>, <span dict-key="момен">момен</span>
+
+<b dict-key="instigar">instigar</b>: <span dict-key="подстрекать">подстрекать</span>
+
+<b dict-key="instinto">instinto</b>: <span dict-key="инстинкт">инстинкт</span>
+
+<b dict-key="institucar">institucar</b>: <span dict-key="возбуждать">возбуждать</span>
+
+<b dict-key="instituto">instituto</b>: <span dict-key="институт">институт</span>
+
+<b dict-key="instrucioni">instrucioni</b>: <span dict-key="инструкции">инструкции</span>
+
+<b dict-key="instruktar">instruktar</b>: <span dict-key="инструктировать">инструктировать</span>
+
+<b dict-key="instrumento">instrumento</b>: <span dict-key="инструмент">инструмент</span>
+
+<b dict-key="insulo">insulo</b>: <span dict-key="остров">остров</span>
+
+<b dict-key="insultar">insultar</b>: <span dict-key="оскорблять">оскорблять</span>
+
+<b dict-key="integra">integra</b>: <span dict-key="составной">составной</span>, <span
+dict-key="целый">целый</span>, <span dict-key="полный">полный</span>
+
+<b dict-key="intelektar">intelektar</b>: <span dict-key="понимать">понимать</span>, <span
+dict-key="постигать">постигать</span>, <span dict-key="знать интеллектом">знать интеллектом</span>
+
+<b dict-key="inteligenta">inteligenta</b>: <span dict-key="интеллектуальный">интеллектуальный</span>
+
+<b dict-key="intencar">intencar</b>: <span dict-key="намереваться (делать что-л.) планировать
+(что-л.)">намереваться (делать что-л.) планировать (что-л.)</span>
+
+<b dict-key="intensa">intensa</b>: <span dict-key="интенсивный">интенсивный</span>
+
+<b dict-key="inter">inter</b>: <span dict-key="между (в пространстве и времени)">между (в
+пространстве и времени)</span>
+
+<b dict-key="interakto">interakto</b>: <span dict-key="перерыв">перерыв</span>, <span
+dict-key="интервал между действиями">интервал между действиями</span>
+
+<b dict-key="interceptar">interceptar</b>: <span dict-key="перехватывать">перехватывать</span>
+
+<b dict-key="interdiktar">interdiktar</b>: <span dict-key="запрещать">запрещать</span>
+
+<b dict-key="interesar">interesar</b>: <span dict-key="интересовать">интересовать</span>
+
+<b dict-key="interesto">interesto</b>: <span dict-key="интерес (процент) (финансовый и
+т.д.)">интерес (процент) (финансовый и т.д.)</span>
+
+<b dict-key="interferar">interferar</b>: <span dict-key="вмешиваться">вмешиваться</span>
+
+<b dict-key="interimo">interimo</b>: <span dict-key="промежуток времени">промежуток времени</span>
+
+<b dict-key="interjeciono">interjeciono</b>: <span dict-key="междометие (возглас)">междометие
+(возглас)</span>
+
+<b dict-key="interkonsento">interkonsento</b>: <span dict-key="взаимное соглашение">взаимное
+соглашение</span>, <span dict-key="понимание">понимание</span>
+
+<b dict-key="interna">interna</b>: <span dict-key="внутренний">внутренний</span>
+
+<b dict-key="internaciona">internaciona</b>: <span dict-key="международный">международный</span>
+
+<b dict-key="interne">interne</b>: <span dict-key="внутри">внутри</span>
+
+<b dict-key="interogativa">interogativa</b>: <span dict-key="вопросительное
+местоимение">вопросительное местоимение</span>
+
+<b dict-key="interpretar">interpretar</b>: <span dict-key="интерпретировать">интерпретировать</span>
+
+<b dict-key="interruptar">interruptar</b>: <span dict-key="прерывать">прерывать</span>
+
+<b dict-key="intersekar">intersekar</b>: <span dict-key="пересекаться">пересекаться</span>
+
+<b dict-key="intertempe">intertempe</b>: <span dict-key="тем временем; между тем">тем временем;
+между тем</span>
+
+<b dict-key="intertempo">intertempo</b>: <span dict-key="интервал">интервал</span>
+
+<b dict-key="intervenar">intervenar</b>: <span dict-key="вмешаться">вмешаться</span>
+
+<b dict-key="interviuvo">interviuvo</b>: <span dict-key="интервью">интервью</span>
+
+<b dict-key="intestino">intestino</b>: <span dict-key="внутренний">внутренний</span>
+
+<b dict-key="intima">intima</b>: <span dict-key="близкий">близкий</span>
+
+<b dict-key="intrigar">intrigar</b>: <span dict-key="интриговать">интриговать</span>, <span
+dict-key="строить козни">строить козни</span>
+
+<b dict-key="intrinseka">intrinseka</b>: <span dict-key="свойственный">свойственный</span>
+
+<b dict-key="introduktar">introduktar</b>: <span dict-key="представлять">представлять</span>
+
+<b dict-key="introverto">introverto</b>: <span dict-key="интроверт">интроверт</span>
+
+<b dict-key="intruzar">intruzar</b>: <span dict-key="вторгаться">вторгаться</span>
+
+<b dict-key="inundar">inundar</b>: <span dict-key="наводнять">наводнять</span>
+
+<b dict-key="invadar">invadar</b>: <span dict-key="вторгнуться">вторгнуться</span>
+
+<b dict-key="invalida">invalida</b>: <span dict-key="лабый">лабый</span>, <span
+dict-key="поврежденный">поврежденный</span>
+
+<b dict-key="invalido">invalido</b>: <span dict-key="инвалид">инвалид</span>
+
+<b dict-key="inventar">inventar</b>: <span dict-key="изобретать">изобретать</span>
+
+<b dict-key="inversa">inversa</b>: <span dict-key="инвертивный">инвертивный</span>
+
+<b dict-key="inversigar">inversigar</b>: <span dict-key="инвертировать">инвертировать</span>
+
+<b dict-key="inverso">inverso</b>: <span dict-key="инверсия">инверсия</span>
+
+<b dict-key="invitar">invitar</b>: <span dict-key="приглашать">приглашать</span>

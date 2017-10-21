@@ -1,0 +1,62 @@
+<b dict-key="ocarina">ocarina: </b>okarino.
+
+<b dict-key="occasion">occasion: </b>efekt-igar, produktar, determinar.
+
+<b dict-key="occasion">occasion: </b>(<i>opportunity</i>) okaziono; (<i>cause</i>) kauzo;
+(<i>need</i>) bezono; (<i>necessity</i>) neces-eso; <b dict-key="occasional">-al: </b>kelka-foya,
+intermit-anta; okazion-ala; <b dict-key="occasionally">-ally: </b>kelka-foye, ul-foye, de tempo a
+tempo, okazione.
+
+<b dict-key="occident">occident:</b> westo; ocidento; <b dict-key="occidental">-al:
+</b>ocident-ala, west-ala; (<i>person</i>) ocident-ano.
+
+<b dict-key="occiput">occiput:</b> ocipito.
+
+<b dict-key="occult">occult:</b> okulta (<i>cf</i>. arkana); <b dict-key="occultism">-ism:
+</b>-ismo.
+
+<b dict-key="occultation">occultation:</b> eklipso.
+
+<b dict-key="occupant">occupant: </b>okup-anto, -ero.
+
+<b dict-key="occupation">occupation:</b> (<i>act</i>) okup(ad)o, (<i>fact of being occupied</i>)
+okup-eso; (<i>that which occupies</i>) okup-antajo, -ivo; labor(ad)o, tasko, mestiero, ofico.
+
+<b dict-key="occupy">occupy: </b>okupar.
+
+<b dict-key="occur">occur: </b>(<i>happen</i>) (<i>intr</i>.) eventar; (<i>to the mind</i>) venar
+en mento, en pensado.
+
+<b dict-key="occurrence">occurrence: </b>event-o, -ajo (<i>cf</i>. renkontro, hazardo,
+cirkonstanco).
+
+<b dict-key="ocean">ocean: </b>(<i>also fig</i>.) ocean-o (<i>cf</i>. maro); <b
+dict-key="oceanic">-ic:</b> -ala; <b dict-key="oceanography">oceanography:</b> oceanografio.
+
+<b dict-key="ocelot">ocelot: </b>oceloto.
+
+<b dict-key="ochre">ochre: </b>okro.
+
+<b dict-key="octagon">octagon:</b> oktogon-o; <b dict-key="octagonal">-al:</b> -a, -ala, -atra.
+
+<b dict-key="octahedron">octahedron:</b> oktaedro.
+
+<b dict-key="octant">octant:</b> oktanto.
+
+<b dict-key="octave">octave:</b> oktavo.
+
+<b dict-key="octillion">octillion:</b> oktiliono.
+
+<b dict-key="October">October: </b>oktobro.
+
+<b dict-key="octogenerian">octogenerian:</b> oka-dek-yar-a, -o.
+
+<b dict-key="octopod">octopod</b>(<b dict-key="a">a</b>)<b dict-key="">: </b>oktopodo.
+
+<b dict-key="octopus">octopus: </b>polpo.
+
+<b dict-key="octuple">octuple:</b> ok-oplo, -opla.
+
+<b dict-key="ocular">ocular: </b>okul-ala.
+
+<b dict-key="oculist">oculist: </b>okul-isto.

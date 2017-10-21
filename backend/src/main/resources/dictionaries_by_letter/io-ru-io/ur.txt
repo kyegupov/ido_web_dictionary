@@ -1,0 +1,12 @@
+<b dict-key="urbala">urbala</b>: <span dict-key="городской">городской</span>
+
+<b dict-key="urbo">urbo</b>: <span dict-key="город">город</span>
+
+<b dict-key="urino">urino</b>: <span dict-key="моча">моча</span>
+
+<b dict-key="urjar">urjar</b>: <span dict-key="торопить">торопить</span>, <span dict-key="быть
+срочным">быть срочным</span>
+
+<b dict-key="urso">urso</b>: <span dict-key="медведь">медведь</span>
+
+<b dict-key="uruguay">uruguay</b>: <span dict-key="уругвай">уругвай</span>

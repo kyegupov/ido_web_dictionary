@@ -1,0 +1,21 @@
+<b dict-key="ja">ja</b>: <span dict-key="уже">уже</span>
+
+<b dict-key="jacar">jacar</b>: <span dict-key="лежать">лежать</span>
+
+<b dict-key="jaketo">jaketo</b>: <span dict-key="жакет">жакет</span>
+
+<b dict-key="jaluza">jaluza</b>: <span dict-key="ревнивый">ревнивый</span>
+
+<b dict-key="jamaika">jamaika</b>: <span dict-key="ямайка">ямайка</span>
+
+<b dict-key="januaro">januaro</b>: <span dict-key="январь">январь</span>
+
+<b dict-key="japoniana">japoniana</b>: <span dict-key="японский">японский</span>
+
+<b dict-key="japonio">japonio</b>: <span dict-key="япония">япония</span>
+
+<b dict-key="jargonar">jargonar</b>: <span dict-key="жаргон">жаргон</span>
+
+<b dict-key="jaro">jaro</b>: <span dict-key="фляга">фляга</span>
+
+<b dict-key="javelino">javelino</b>: <span dict-key="копье">копье</span>

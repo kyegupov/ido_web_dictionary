@@ -1,0 +1,30 @@
+<b dict-key="yodel">yodel:</b> (<i>tr., intr.</i>) yodlar.
+
+<b dict-key="yoga">yoga:</b> yogo.
+
+<b dict-key="yogurt,yoghurt">yogurt, yoghurt:</b> yogurto.
+
+<b dict-key="yoke">yoke:</b> jungar; (<i>n.</i>) yugo; (<i>couple, pair</i>) paro.
+
+<b dict-key="yolk">yolk:</b> vitelo.
+
+<b dict-key="yonder">yonder:</b> fore; ad-fore, ibe fore; (<i>there</i>) ibe; (<i>above</i>) ibe
+supre; (<i>down y.</i>) ibe infre; (<i>adj.</i>) fora.
+
+<b dict-key="yore">yore:</b> longe, longa-tempe (ante nun); (<i>formerly</i>) olim; <b dict-key="in
+days of yore">in days of y.:</b> olim; en olima tempo.
+
+<b dict-key="you">you:</b> vu, vi; (<i>indefinite</i>) on; (<b dict-key="familiar">familiar</b>) tu.
+
+<b dict-key="young">young:</b> yun-a; <b dict-key="the young">the y.:</b> la yuni, yun-aro
+(<i>see</i> <b dict-key="offspring">offspring</b>); <b dict-key="with young">with y.:</b>
+(<i>pregnant</i>) gravida; <b dict-key="youngster">-ster:</b> yun-ulo (<i>cf.</i> bub-ulo; novico).
+
+<b dict-key="your">your:</b> vua, via; (<i>thine</i>) tua; <b dict-key="yourself">y.self:</b> vu
+<i>o</i> vi ipsa.
+
+<b dict-key="youth">youth:</b> (<i>quality</i>) yun-eso; (<i>young man</i>) yun-ulo, adolec-anto;
+puer-ulo; (<i>collect.</i>) yun-aro; <b dict-key="youthful">-ful:</b> yuna; yun-es-ala; <b
+dict-key="youthfulness">-fulness:</b> yun-eso; yun-es-ala aspekto.
+
+<b dict-key="yo">yo-yo:</b> yoyo.

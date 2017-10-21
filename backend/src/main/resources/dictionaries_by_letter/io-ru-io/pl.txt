@@ -1,0 +1,85 @@
+<b dict-key="placo">placo</b>: <span dict-key="площадь">площадь</span>, <span
+dict-key="место">место</span>
+
+<b dict-key="plado">plado</b>: <span dict-key="пластина">пластина</span>
+
+<b dict-key="plafono">plafono</b>: <span dict-key="потолок">потолок</span>
+
+<b dict-key="plajo">plajo</b>: <span dict-key="пляж">пляж</span>
+
+<b dict-key="plana">plana</b>: <span dict-key="плоский">плоский</span>, <span dict-key="ровный (не
+наклонный)">ровный (не наклонный)</span>, <span dict-key="горизонтальный">горизонтальный</span>
+
+<b dict-key="planeto">planeto</b>: <span dict-key="планета">планета</span>
+
+<b dict-key="plantacar">plantacar</b>: <span dict-key="сажать">сажать</span>, <span
+dict-key="сеять">сеять</span>, <span dict-key="засаживать">засаживать</span>
+
+<b dict-key="planto">planto</b>: <span dict-key="растение">растение</span>
+
+<b dict-key="plaso">plaso</b>: <span dict-key="место (для кое-чего или кого - то)">место (для
+кое-чего или кого - то)</span>
+
+<b dict-key="plastika">plastika</b>: <span dict-key="пластмасса">пластмасса</span>
+
+<b dict-key="plastro">plastro</b>: <span dict-key="пластырь">пластырь</span>
+
+<b dict-key="plata">plata</b>: <span dict-key="плоский">плоский</span>, <span
+dict-key="ровный">ровный</span>
+
+<b dict-key="platformo">platformo</b>: <span dict-key="платформа">платформа</span>
+
+<b dict-key="platino">platino</b>: <span dict-key="платина">платина</span>
+
+<b dict-key="plear">plear</b>: <span dict-key="играть (на музыкальном инструменте, роль)">играть
+(на музыкальном инструменте, роль)</span>
+
+<b dict-key="pledar">pledar</b>: <span dict-key="выступать в суде">выступать в суде</span>
+
+<b dict-key="plektar">plektar</b>: <span dict-key="переплетать (например косу)">переплетать
+(например косу)</span>
+
+<b dict-key="plena">plena</b>: <span dict-key="полный">полный</span>
+
+<b dict-key="plendar">plendar</b>: <span dict-key="жаловаться">жаловаться</span>
+
+<b dict-key="pleto">pleto</b>: <span dict-key="поднос">поднос</span>
+
+<b dict-key="plezar">plezar</b>: <span dict-key="радовать">радовать</span>, <span
+dict-key="доставлять удовольствие">доставлять удовольствие</span>
+
+<b dict-key="plezuro">plezuro</b>: <span dict-key="удовольствие">удовольствие</span>
+
+<b dict-key="plombo">plombo</b>: <span dict-key="лидерство">лидерство</span>
+
+<b dict-key="plorar">plorar</b>: <span dict-key="кричать">кричать</span>, <span
+dict-key="плакать">плакать</span>
+
+<b dict-key="plu">plu</b>: <span dict-key="более (сравнительная степень)">более (сравнительная
+степень)</span>
+
+<b dict-key="plubonigar">plubonigar</b>: <span dict-key="улучшать">улучшать</span>
+
+<b dict-key="plugar">plugar</b>: <span dict-key="пахать">пахать</span>
+
+<b dict-key="plumo">plumo</b>: <span dict-key="перо">перо</span>
+
+<b dict-key="plump">plump</b>: <span dict-key="звук от падения">звук от падения</span>, <span
+dict-key="взрыва">взрыва</span>
+
+<b dict-key="plunjar">plunjar</b>: <span dict-key="погружаться">погружаться</span>, <span
+dict-key="нырять">нырять</span>
+
+<b dict-key="plura">plura</b>: <span dict-key="несколько">несколько</span>
+
+<b dict-key="plure">plure</b>: <span dict-key="несколько">несколько</span>
+
+<b dict-key="plus">plus</b>: <span dict-key="плюс">плюс</span>
+
+<b dict-key="pluse">pluse</b>: <span dict-key="далее (больше)">далее (больше)</span>, <span
+dict-key="кроме того">кроме того</span>
+
+<b dict-key="plusquamperfekto">plusquamperfekto</b>: <span dict-key="давнопрошедшее
+время">давнопрошедшее время</span>
+
+<b dict-key="pluvar">pluvar</b>: <span dict-key="идти дождю">идти дождю</span>

@@ -1,0 +1,1 @@
+<b dict-key="ikono">ikono</b>: <span dict-key="изображение">изображение</span>

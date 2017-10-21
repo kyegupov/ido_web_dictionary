@@ -1,0 +1,33 @@
+<b dict-key="maid">maid:</b> yun-ino (<i>see</i> <b dict-key="girl">girl</b>); (<i>servant</i>)
+serv-ist-ino; (<i>young lady</i>) damzelo; <b dict-key="maid of hono">m. of hono</b>(<b
+dict-key="u">u</b>)<b dict-key="r">r:</b> honor-damzelo: <b dict-key="maid">m.-of-all-work:</b>
+generala serv-ist-ino; <b dict-key="maiden">-en:</b> (<i>virginal</i>) virg-in-ala, virg-ala; <b
+dict-key="maiden lady">m.en lady:</b> damzelo; <b dict-key="maid name">m. name:</b> damzelo-nomo;
+<b dict-key="maidhood">m.hood:</b> yun-in-eso; virg-(in)eso; <b dict-key="maidenly">-enly:</b>
+virg-in-ala, pudor-oza.
+
+<b dict-key="maidenhair fern">maidenhair fern:</b> kapilario.
+
+<b dict-key="mail">mail:</b> (<i>letters, etc</i>.) expediar (<i>od</i>, sendar) per posto
+(<i>od</i>, poste).
+
+<b dict-key="mail">mail:</b> (<i>postal service</i>) posto; (<i>letters</i>) letri; post-ajo; <b
+dict-key="mail">m.-train:</b> posto-treno; <b dict-key="mail coach">m. coach:</b> posto-veturo
+(<i>cf</i>. kuriero); <b dict-key="by mail">by m.:</b> poste; <b dict-key="coat of mail">coat of
+m.:</b> masho-kuraso, -kuto; <b dict-key="mailed">-ed:</b> (<i>armoured</i>) kuras-iz-ita; <b
+dict-key="mail packet,mailsteamer">m. packet, -steamer:</b> paket-boto.
+
+<b dict-key="maim">maim:</b> kripl-igar, -eskar.
+
+<b dict-key="mainly">mainly:</b> precipue, chefe.
+
+<b dict-key="mainspring">mainspring:</b> granda resorto; (<i>fig</i>.) fonto (chefa); motivo.
+
+<b dict-key="maintain">maintain:</b> (<i>keep in the same state</i>) mantenar (<i>cf</i>.
+konservar); (<i>sustain</i>) sustenar (<i>cf</i>. sub-tenar, suportar); (<i>keep in the needs of
+life</i>) entratenar; (<i>assert</i>) asertar, afirmar, alegar.
+
+<b dict-key="maintenance">maintenance:</b> manteno, konservo; susteno, helpo; entraten-ado,
+nutr-ado (<i>cf</i>. aliment-ado).
+
+<b dict-key="maize">maize:</b> maizo.

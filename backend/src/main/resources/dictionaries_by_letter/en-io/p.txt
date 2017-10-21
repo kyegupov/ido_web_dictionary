@@ -1,0 +1,3 @@
+<b dict-key="p">p&aelig;an: </b>peano.
+
+<b dict-key="p">p.m.:</b> pos-dimez-o, -e.

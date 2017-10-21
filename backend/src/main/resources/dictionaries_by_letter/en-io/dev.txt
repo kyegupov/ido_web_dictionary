@@ -1,0 +1,68 @@
+<b dict-key="devaluate">devaluate:</b> (<i>money system</i>) devalorar; (<i>pieces of money</i>)
+devaluar.
+
+<b dict-key="devastate">devastate: </b>devastar.
+
+<b dict-key="develop">develop: </b>developar (<i>cf</i>. evolucionar; kreskar; des-faldar;
+extensar; aparar); (<i>to be</i>) develop-esar; (<i>photog</i>.) revelar; <b
+dict-key="developer">-er: </b>(<i>photog</i>.) revel-ilo; <b dict-key="develop theory">d.-ment
+theory: </b>teorio di evoluciono (<i>od,</i> transform-ismo).
+
+<b dict-key="deviate">deviate: </b>(<i>tr., intr</i>.) deviacar (<i>cf</i>. de-flexar, divergar;
+de-turnar).
+
+<b dict-key="device">device: </b>(<i>emblem</i>) devizo; (<i>epigram</i>) moto;
+(<i>contrivance</i>) aparato; invent-ajo, -uro; (<i>means</i>) moyeno; (<i>plot</i>) artifico, ruzo.
+
+<b dict-key="devil">devil: </b>diablo (<i>cf</i>. demono, Satano); <b dict-key="how">how
+</b><i>or</i> <b dict-key="what the devil">what the d.:</b> per la diablo!; <b dict-key="the devil
+is in him">the d. is in him: </b>esas vera diablo; <b dict-key="poor devil">poor d.:
+</b>kompat-inda (<i>od,</i> mizer-oza) kerlo; <b dict-key="to cast out devils">to cast out d.s:
+</b>exorcisar demon-o, -i; <b dict-key="printer devil">printer&rsquo;s d.: </b>imprim-aprentiso; <b
+dict-key="devil fish">d. fish: </b>polpo.
+
+<b dict-key="devilish">devilish: </b>diabl-ala, -atra; maledik-ita; Satan-ala; (<i>fig</i>.)
+extraordinare; extreme.
+
+<b dict-key="devil">devil</b>(<b dict-key="t">t</b>)<b dict-key="ry">ry: </b>diabl-ajo, -eso;
+sorc-ajo; mal-ajo, malic-ajo.
+
+<b dict-key="devious">devious: </b>deviac-anta; des-rekta, vag-anta.
+
+<b dict-key="devise">devise: </b>inventar (<i>cf</i>, des-kovrar; injeniar; projetar);
+(<i>plan</i>) projetar; (<i>bequeath</i>) legacar; (<i>clause in will</i>) testament-ala preskripto.
+
+<b dict-key="devitalize">devitalize: </b>sen-viv-igar, des-anm-izar, privacar de viv-oz-eso.
+
+<b dict-key="devoid">devoid: </b>(tote) sen; privac-ita (de); libera (de); indij-anta, mank-anta,
+des-proviz-ita (kun).
+
+<b dict-key="devoirs">devoirs: </b>homajo.
+
+<b dict-key="devolution">devolution: </b>des-evoluciono; degenero; transmiso (di hered-ajo).
+
+<b dict-key="Devonian strata">Devonian strata: </b>devono.
+
+<b dict-key="devolve">devolve: </b>apartenar (ad); (<i>fig</i>.) falar sur (<i>cf</i>. transmisar);
+<b dict-key="it devolves on me">it d.s on me: </b>apartenas a me, esas mea devo (facar).
+
+<b dict-key="devote">devote: </b>donar, donacar; (<i>oneself</i>) devot-esar, -igar su;
+(<i>vow</i>) vovar, konsakr-ar su.
+
+<b dict-key="devoted">devoted: </b>(<i>fond of</i>) devota (ad ulu, ulo); konsakr-ita;
+(<i>devout</i>) pia, devoc-oza; (<i>ardent</i>) ardor-oza, fervor-oza.
+
+<b dict-key="devotee">devotee: </b>devot-(ul)o; konsakr-ito; (<i>admirer</i>) admir-anto;
+(<i>religion</i>) devoc-oz-(ul)o; (<i>affected</i>) bigot-(ul)o.
+
+<b dict-key="devotion">devotion: </b>(<i>religious</i>) devoc-o, -ajo; pi-eso; adoro;
+(<i>non-religious</i>) devot-eso; (<i>act of devoting</i>) dono; devot-igo, vovo, konsakro; <b
+dict-key="to make devotions">to make d.s: </b>facar devoc-aji, pregar; <b
+dict-key="devotional">-al: </b>devoc-ala, -oza, -ema.
+
+<b dict-key="devour">devour: </b>devorar; (<i>consume</i>) konsumar, disipar; (<i>to look at
+eagerly</i>) regardar ardor-oze.
+
+<b dict-key="devout">devout: </b>devoc-oz-a, -o; pi-a, -(ul)o; fervor-oza, sincera;
+(<i>affected</i>) pi-ach-a, -o; bigot-a, -o; <b dict-key="devoutness">-ness: </b>devoc-em-eso,
+-oz-eso; pi-eso.

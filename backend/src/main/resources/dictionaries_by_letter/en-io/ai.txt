@@ -1,0 +1,44 @@
+<b dict-key="aid">aid:</b> helpar (<i>cf.</i> sokursar).
+
+<b dict-key="aide">aide-de-camp:</b> adjuntanto (di generalo).
+
+<b dict-key="aigrette">aigrette:</b> (plum-)penach-eto.
+
+<b dict-key="aigulet">aigulet:</b> tago-kordono.
+
+<b dict-key="ail">ail:</b> (<i>mental suffering</i>) (<i>intr.</i>) chagrenar; (<i>physical</i>)
+(<i>intr.</i>) dolorar; <b dict-key="what ails you">what ails you?:</b> quo chagren-igas o
+dolor-igars vu?
+
+<b dict-key="ailanthus">ailanthus:</b> ailanto.
+
+<b dict-key="aileron">aileron:</b> alerono (2001), alo.
+
+<b dict-key="ailment">ailment:</b> malad-eso, dolor(et)eso; (<i>disease</i>) morbo.
+
+<b dict-key="aim">aim:</b> (<i>tr., intr.</i>) vizar (<i>a projectile</i>); apuntar (<i>a gun</i>);
+lansar, direktar (<i>a blow</i>); (<i>fig.</i>) aspirar, ambicionar.
+
+<b dict-key="aim">aim:</b> (<i>n.</i>) emo, vizo, apunto; skop-o, -punto, -plako; intenco, projeto;
+<b dict-key="line of aim">line of a.:</b> viz-lineo; <b dict-key="to miss one aim">to miss one's
+a.:</b> faliar la skopo; <b dict-key="aimless">aimless:</b> sen-skopa.
+
+<b dict-key="air">air:</b> (<i>ventilate</i>) aer-izar, ventilar; pozar en aero; (<i>one's
+views</i>) expozar.
+
+<b dict-key="air">air:</b> (<i>n.</i>) aero; (<i>tune</i>) melodio, ario; (<i>appearance</i>)
+aspeketo, mieno, maniero; <b dict-key="to put on airs">to put on a.s:</b> afektacar la gracii;
+facar mieni o mien-achi; <b dict-key="in the open air">in the open a.:</b> en la libera aero; <b
+dict-key="to take the air">to take the a.:</b> promenar; <b dict-key="downcast air">downcast a.
+:</b> depres-ita mieno; <b dict-key="air balloon">a. balloon:</b> balon(eg)o (aerostata); <b
+dict-key="air brake">a. brake:</b> aero-freno; <b dict-key="air bubble">a. bubble:</b>
+aero-bul(et)-o; <b dict-key="air castle">a. castle:</b> kastelo en aero, kimera kastelo; <b
+dict-key="air blast nozzle">a. blast nozzle:</b> tuyero; <b dict-key="air cane">a. cane:</b> (gun)
+serbatano; <b dict-key="aired">aired :</b> aer-iz-ita, ventil-ita; <b dict-key="draught of
+air">draught of a.:</b> aer-flu-ato; <b dict-key="airily">airily:</b> lejere, frivole, des-serioze;
+<b dict-key="air hole">a. hole:</b> aer-fenestr-(et)o, -tru(et)o; <b dict-key="air thread">a.
+thread:</b> (gossamer) filandro; <b dict-key="airship">a.ship:</b> aer-navo direkt-ebla; <b
+dict-key="air therapeutics">a. therapeutics:</b> aero-terapio; <b dict-key="airtight">a.tight:</b>
+aer-espruva.
+
+<b dict-key="aisle">aisle:</b> pas-voy-eto; (<i>side wing</i>) later-ala navo.

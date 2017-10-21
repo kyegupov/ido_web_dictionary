@@ -1,0 +1,121 @@
+<b dict-key="avo">av-o:</b> grand-parent; <b dict-key="avulo">-ulo:</b> grandfather; <b
+dict-key="avino">-ino:</b> grandmother; <b dict-key="ge avi">ge- -i:</b> grand-parents (both
+sexes); <b dict-key="pre avo">pre- -o:</b> great grandparent; forefather; <b dict-key="triesma
+avulo">tri-esma -ulo:</b> great-great-grandfather; <b dict-key="prim avo">prim- -o:</b> (our) first
+parent; <b dict-key="avala nomo">-ala nomo</b> patronymic. &mdash; ILS
+
+<b dict-key="avalo">aval-o:</b> (<i>fin.</i>) aval: guaranty, surety: a signature at bottom of a
+bill to guarantee payment; <b dict-key="avalizar">-izar:</b> to guarantee (a bill by endorsement).
+&mdash; DeFIS
+
+<b dict-key="avalanchar">avalanch-ar:</b> (<i>intr.</i>) to fall in an avalanch; <b
+dict-key="avalancho">-o:</b> avalanch. &mdash; EFIS
+
+<b dict-key="avan">avan:</b> (<i>prep.</i>) in front of, ahead of; before (in space; for time, cf.
+<b dict-key="ante">ante</b>); <b dict-key="avane">-e:</b> (<i>adv.</i>) in front; <b
+dict-key="avana">-a:</b> advance, forward, front; <b dict-key="avano">-o:</b> the front; <b
+dict-key="avanajo">-ajo:</b> thing, object in front, forepart; (<i>fig.</i>) forequarters (as of a
+horse); <b dict-key="avanirar">-irar:</b> (<i>intr.</i>) to advance, go forward; <b dict-key="kun
+la avano dope">kun la avano dope:</b> with the front behind, or hindpart foremost; <b dict-key="la
+akuzato sidas avan la jurio">la akuzato sidas avan la jurio:</b> the defendant sits before the
+jury; <b dict-key="avanbrakio">-brakio:</b> fore-arm; <b dict-key="avanceno">-ceno:</b> front of
+the stage, proscenium; <b dict-key="avanchambro">-chambro:</b> front-room, anteroom; <b
+dict-key="avanguardo">-guardo:</b> vanguard; <b dict-key="avanholdo">-holdo:</b> forward hold (of a
+ship); <b dict-key="avankastelo">-kastelo:</b> (<i>nav.</i>) fore-castle, <b
+dict-key="avankorpo,avanparto">-korpo, -parto:</b> forepart; <b dict-key="avanpedo">-pedo:</b>
+front foot (of an animal); <b dict-key="avanportuo">-portuo:</b> outer harbor; <b
+dict-key="avanposteno">-posteno:</b> (<i>milit.</i>) outpost; <b dict-key="avantekto">-tekto:</b>
+fore-roof, projecting roof, eaves; <b dict-key="avanviro">-viro:</b> front man; (<i>milit.</i>)
+chief of file. Ant.: <b dict-key="dop">dop.</b> &mdash; DeFIRS
+
+<b dict-key="avancar">avanc-ar:</b> (<i>tr., intr.</i>) to advance: to go forward, move, put
+forward, (in space and time); <b dict-key="avancinta frukti,flori">-inta frukti, flori:</b> forward
+fruits, flowers; <b dict-key="avancinta posteno">-inta posteno:</b> (<i>milit.</i>) advanced post;
+<b dict-key="avance">-e:</b> forward, onward, in advance; <b dict-key="avancez">-ez:</b> forward!
+Ex.: Avancar la manuo, la pedo. La armeo avancas en la lando. Avancar sua departo. Avancigar la
+laboro. Ant.: <b dict-key="retro avancirar regresar,tardigar">retro -irar; regresar, tard-igar.</b>
+&mdash; DEFIS
+
+<b dict-key="avantajo">avantaj-o:</b> advantage; <b dict-key="avantajoza">-oza:</b> advantageous;
+<b dict-key="avantajizar">-izar:</b> to advantage, bestow an a. on, to favor; <b
+dict-key="publika,statala avantajo">publika, statala- -o:</b> public, state utility. Ex.: Ula
+persono povas havar avantajo relate altra. La avantaji dil paco. Ant.: <b
+dict-key="desavantajo">des-avantajo.</b> &mdash; DEFIS
+
+<b dict-key="avantalo">avantal-o:</b> apron (for persons or vehicles), pinafore. &mdash; SP
+
+<b dict-key="avara,avaracha">avar-a, -acha:</b> avaricious, miserly, greedy, covetous; <b
+dict-key="avareso">-eso:</b> avarice; <b dict-key="avaracho">-acho:</b> sordid miser, skinflint; <b
+dict-key="avaregeso,avaracheso">-eg-eso, -ach-eso:</b> niggardliness, stinginess. Ant.: <b
+dict-key="prodiganta,spensema,disipanta">prodig-anta, spens-ema, disipanta.</b> &mdash; EFIS
+
+<b dict-key="avariar">avari-ar:</b> (<i>tr.</i>) to damage (in conveying goods); <b
+dict-key="avario">-o:</b> damage, loss; (<i>com.</i>) average. Def.: Avario indikas omna domajo, ne
+nur di navo, ma di kozi transportita per navo, fervoyo, veturo; II-138. &mdash; DeFIRS
+
+<b dict-key="avelano">avelan-o:</b> filbert, hazel-nut; <b dict-key="avelaniero">-iero:</b>
+filbert-tree (Corylus Avellana); <b dict-key="avelanea">-ea:</b> hazel colored. &mdash; FISL
+
+<b dict-key="aveno">aven-o:</b> oats; <b dict-key="avenala,avenatra">-ala, -atra:</b> avenaceous;
+<b dict-key="avengrani">-grani</b>: oat-grains; <b dict-key="avenporciono">-porciono:</b> a feed of
+oats; <b dict-key="avengruelo">-gruelo:</b> porridge. &mdash; eFISL
+
+<b dict-key="aventurar">aventur-ar:</b> (<i>intr.</i>) to seek adventures, go on adventures, lead
+an adventurous (or roving) life; <b dict-key="aventuro">-o:</b> adventure; <b
+dict-key="aventurema,aventuroza">-ema, -oza:</b> adventurous, venturesome (cf. <b
+dict-key="riskar">riskar</b>). &mdash; DEFIRS
+
+<b dict-key="avenuo">avenu-o:</b> avenue. Def.: Larja voyo arborizita, duktanta ad ula loko,
+kastelo, monumento (forsan placo); III-16. &mdash; DEFRS
+
+<b dict-key="averajo">averaj-o:</b> (2001) average.
+
+<b dict-key="averso">avers-o:</b> front-, right-side (of cloth, medals, etc.); first page (of a
+book); <b dict-key="averse">-e:</b> front side to (cf. <b dict-key="facio">facio</b>). Ant.: <b
+dict-key="reverso">reverso.</b> &mdash; DF
+
+<b dict-key="avertar">avert-ar:</b> (<i>tr.</i>) to give notice, apprise, caution, advertise, warn
+(N.B. not necessarily to warn of danger); <b dict-key="averto">-o:</b> warning, hint; <b
+dict-key="avertanto,avertero">-anto, -ero:</b> cautioner; <b dict-key="avertanta">-anta:</b>
+admonitory, premonitory; <b dict-key="avertilo">-ilo:</b> warning instrument; <b dict-key="avertar
+ulu pri ulo">-ar ulu pri ulo:</b> to inform or apprise a person of something; <b dict-key="avertar
+la patro pri la konduto di lua filiulo">-ar la patro pri la konduto di lua filiulo:</b> to apprise
+the father of his son's conduct; <b dict-key="mea infirmeso avertas me pensar pri morto">mea
+infirmeso avertas me pensar pri morto:</b> my infirmities warn me to think of death; <b
+dict-key="avertilo di incendio">-ilo di incendio:</b> fire alarm. Def.: Informar ulu pri ulo
+futura, bona o mala. &mdash; DEFIS
+
+<b dict-key="aviacar">aviac-ar:</b> (<i>intr.</i>) to practice aviation, to fly; <b
+dict-key="aviac">-(ad)o:</b> aviation; <b dict-key="aviacisto,aviacero">-isto, -ero:</b> aviator;
+<b dict-key="aviacilo">-ilo:</b> flying machine (heavier than air). Note: for technical terms see
+IV-330-333. &mdash; DEFIRS
+
+<b dict-key="avida">avid-a:</b> avid, greedy, rapacious, craving, eager; <b dict-key="venj
+avida">venj- -a:</b> vindictive; <b dict-key="pekuni avideso">pekuni- -eso:</b> cupidity; <b
+dict-key="avide askoltar ulu">-e askoltar ulu:</b> to drink in the words of someone. Ant. <b
+dict-key="jeneroza">jeneroza.</b> &mdash; DEFIS
+
+<b dict-key="aviono">avion-o:</b> (1951) aeroplane.
+
+<b dict-key="avioniko">avionik-o:</b> (2001) avionics. &mdash; EFIR
+
+<b dict-key="avizar">aviz-ar:</b> (<i>tr.</i>) to apprise, advise, give notice of (<b dict-key="pri
+ulo">pri ulo</b>); <b dict-key="avizo">-o:</b> notice, notification (generally an order or
+prohibition); <b dict-key="avizonavo">-o-navo:</b> advice-, dispatch-boat. Def.: donar ula
+praktikal informo, konsilo od impero; II-646. V. exp.: <b dict-key="Avizo,notico Avizo">Avizo,
+notico: Avizo</b> koncernas generale preskripto od interdikto; III-204. <b
+dict-key="Notico">Notico</b> esas texto instruktiva teoriale, sive en etiketo, sive en mikra libro
+o broshuro. Exemple, se on eniras muzeo, on trovas ye la pordo tala <b dict-key="avizi">avizi:</b>
+&laquo;La muzeo esas apertita de 10 til 16 kloki; ol esas klozita omna lundio; on ne darfas enirar
+kun parapluvi, bastoni, hundi&raquo; e.c. Ma enirinte, on vidas <b dict-key="notici">notici</b> sub
+la objekti expozata, qui indikas lia autoro, tempo, origino, e.c.; on povas komprar libreti
+titulizita <b dict-key="notico">notico</b> pri ula objekto or serio di objekti (N.B.: ne <b
+dict-key="katalogo">katalogo,</b> qua implikas numeral ordino); V-32, 33. &mdash; DFIRS
+
+<b dict-key="avoceto">avocet-o:</b> (2001) avocet, any of several rather large long-legged
+shorebirds (genus <i> Recurvirostra</i>) with webbed feert and slender upward-curving bill. &mdash;
+DEFIRS
+
+<b dict-key="avokado">avokad-o:</b> (2001) avocado. &mdash; DEFIRS
+
+<b dict-key="avou">&laquo;avou&eacute;&raquo;:</b> (French) attorney-at-law. &mdash; F

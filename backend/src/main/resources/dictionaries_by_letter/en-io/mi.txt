@@ -1,0 +1,494 @@
+<b dict-key="miasma">miasma:</b> miasmo.
+
+<b dict-key="mica">mica:</b> mikao.
+
+<b dict-key="micelle">micelle:</b> micelo.
+
+<b dict-key="microbe">microbe:</b> mikrobo.
+
+<b dict-key="microcircuit">microcircuit:</b> mikrocirkuito*.
+
+<b dict-key="microcosm">microcosm:</b> mikro-kosmo.
+
+<b dict-key="microfilm">microfilm:</b> mikrofilmo.
+
+<b dict-key="microgamete">microgamete:</b> mikrogameto.
+
+<b dict-key="micrographer">micrographer:</b> mikrografo.
+
+<b dict-key="micrography">micrography:</b> mikrografio.
+
+<b dict-key="micrometer">micrometer:</b> mikrometro.
+
+<b dict-key="micron">micron:</b> mikrono.
+
+<b dict-key="micronucleus">micronucleus:</b> mikronukleo.
+
+<b dict-key="microphone">microphone:</b> mikrofono.
+
+<b dict-key="microprocessor">microprocessor:</b> mikroprocesoro*.
+
+<b dict-key="microscope">microscope:</b> mikroskop-o; <b dict-key="microscopic">-pic:</b> -ala.
+
+<b dict-key="microsome">microsome:</b> mikrosomo.
+
+<b dict-key="microsporangium">microsporangium:</b> mikrosporangio.
+
+<b dict-key="microspore">microspore:</b> mikrosporo.
+
+<b dict-key="microzoa">microzoa:</b> mikrozoi.
+
+<b dict-key="mid">mid:</b> mez-; meze di; <b dict-key="midday">m.day:</b> di-mezo, jorno-mezo; <b
+dict-key="midnight">m.night:</b> nokto-mezo; <b dict-key="at midnight">at m.night:</b> ye la
+nokto-mezo, nokto-meze; <b dict-key="mid">m.-lent:</b> karesmo-mezo; <b
+dict-key="mid">m.-August:</b> agosto-mezo.
+
+<b dict-key="middle">middle:</b> meza; <b dict-key="in the middle of">in the m. of:</b> meza di;<b
+dict-key="M Ages"> M. Ages:</b> mez-epoko; <b dict-key="middle">m.-aged:</b> mez-eva.
+
+<b dict-key="middleman">middleman:</b> mediac-anto, -ero.
+
+<b dict-key="middling">middling:</b> mez-valora, pasabla, ordinara.
+
+<b dict-key="midland">midland:</b> mez-land-a; <b dict-key="midlands">-s:</b> -o.
+
+<b dict-key="midrib">midrib:</b> (<i>bot</i>.) mediana nervaturo.
+
+<b dict-key="midriff">midriff:</b> diafragmo.
+
+<b dict-key="midship">midship:</b> mez-nava.
+
+<b dict-key="midst">midst: </b><i>see</i> <b dict-key="middle">middle.</b>
+
+<b dict-key="midway">midway:</b> ye mi-voyo; (<i>between</i>) inter.
+
+<b dict-key="midwife">midwife:</b> akush-ist-ino.
+
+<b dict-key="midsifery">midsifery:</b> akush-arto.
+
+<b dict-key="mien">mien:</b> mieno (<i>cf</i>. aspekto).
+
+<b dict-key="might">might:</b> (<i>for verb see</i> <b dict-key="may">may</b>) povo, potent-eso;
+(<i>mechan</i>.) forco; (<i>vigor</i>) vigoro, fort-eso.
+
+<b dict-key="mighty">mighty:</b> vigor-oza, forta, potenta; brava.
+
+<b dict-key="mignonette">mignonette:</b> rezedo.
+
+<b dict-key="migrate">migrate:</b> (ek-)migrar.
+
+<b dict-key="migratory">migratory:</b> migr-anta, nomada.
+
+<b dict-key="milch">milch-cow:</b> lakto-bovino.
+
+<b dict-key="mild">mild:</b> dolca, milda; (<i>fig</i>.) febla, lejera.
+
+<b dict-key="mildew">mildew:</b> (<i>of grain</i>) golpo, rusto; (<i>havar</i>) humida makuli.
+
+<b dict-key="mile">mile:</b> milio.
+
+<b dict-key="mileage">mileage:</b> (<i>allowance</i>) pasajo-indemno (po milio); (<i>cost</i>)
+mili-ala) pasajo-taxo, -pago; (<i>length</i>) tota long-eso (<i>od</i>, disto); milio-mezuro.
+
+<b dict-key="milestone,milepost">milestone, milepost:</b> termino mili-ala.
+
+<b dict-key="milfoil">milfoil:</b> (<i>bot.</i>) (yarrow) akileo*.
+
+<b dict-key="miliary">miliary:</b> miliaro.
+
+<b dict-key="milibar">milibar:</b> milibaro.
+
+<b dict-key="milimicron">milimicron:</b> milimikrono.
+
+<b dict-key="militant">militant:</b> milit-anta, -ema.
+
+<b dict-key="militarism">militarism:</b> militar-ismo.
+
+<b dict-key="militarist">militarist:</b> militar-isto; (<i>actual combatant</i>) milit-isto; <b
+dict-key="militaristic">-ic:</b> militar-ista.
+
+<b dict-key="militerize">militerize:</b> militar-igar, -eskar.
+
+<b dict-key="military">military:</b> (<i>relating to war</i>) milit-ala; (<i>relating to
+warriors</i>) milit-ist-ala; (<i>relating to militarism</i>) militar-ala, -ism-ala; (<i>armed
+force</i>) milit-ist-aro; armeo; soldat-aro.
+
+<b dict-key="militate">militate:</b> militar (<i>kontre</i>), kombatar; opozar su (ad).
+
+<b dict-key="militia">militia:</b> milic-o; <b dict-key="militiman">-man:</b> -ano.
+
+<b dict-key="milk">milk:</b> melkar (animalo); (<i>n</i>.) lakt-o; <b
+dict-key="milk">m.-producing:</b> -if-anta; <b dict-key="milky">m.y:</b> (<i>containing m</i>.)
+-oza; (<i>like m</i>.) -atra, -ea; (<i>m. trade, etc</i>.) -ala; <b dict-key="milk can">m. can:</b>
+lakto-poto; <b dict-key="milk">m.-fever:</b> alakt-febro; <b dict-key="milkmaid">m.maid:</b>
+melk-ist-ino; <b dict-key="milkman">m.man:</b> lakto-port-isto, -vend-isto; <b dict-key="milk
+teeth">m. teeth:</b> un-esma (<i>od</i>, infant-ala) dent-aro; <b dict-key="milk wagon">m.
+wagon:</b> lakto-vagono; <b dict-key="Milky">Milky-Way:</b> lakto-voyo.
+
+<b dict-key="milksop">milksop:</b> puer-in-atr-ulo.
+
+<b dict-key="mill">mill:</b> (<i>grind</i>) muelar; (<i>coins</i>) estampar la bordo.
+
+<b dict-key="mill">mill:</b> (<i>machine</i>) muel-ilo; (<i>house</i>) muel-eyo, -domo, -erio;
+(<i>factory</i>)<b dict-key=""> </b>fil-if-erio; fabrik-erio; <b dict-key="wind">wind-m.:</b>
+vento-muel-eyo; <b dict-key="water">water-m.:</b> aquo-muel-eyo; <b
+dict-key="millstone">m.stone:</b> muel-disko, -petro; <b dict-key="miller">-er:</b> muel-isto.
+
+<b dict-key="milliped">milliped:</b> miriapodo.
+
+<b dict-key="millet">millet:</b> milyeto.
+
+<b dict-key="milliard">milliard:</b> (<i>billion</i>) miliardo.
+
+<b dict-key="milligram">milligram:</b> miligramo.
+
+<b dict-key="millimeter">millimeter:</b> milimetro.
+
+<b dict-key="milliner">milliner:</b> chapel-ist-ino.
+
+<b dict-key="millinery">millinery:</b> chapel-aji, chapel-mod-aji.
+
+<b dict-key="million">million:</b> milion-o; <b dict-key="millionaire">-aire:</b> -ozo, -iero; <b
+dict-key="millionth">-th:</b> -esma; (<i>fraction</i>) -imo.
+
+<b dict-key="milord">milord:</b> &laquo;mylord&raquo;.
+
+<b dict-key="milt">milt:</b> (<i>of fish</i>) lakt-umo.
+
+<b dict-key="mimic">mimic:</b> mim-ar; -anto, -ero, -isto; -ala (<i>cf</i>. imitar).
+
+<b dict-key="mimosa">mimosa: </b>mimozo.
+
+<b dict-key="minaret">minaret:</b> minareto.
+
+<b dict-key="mince">mince:</b> hachar, dine taliar, pec-et-igar, -eskar; (<i>walk</i>) marchar
+afektace; <b dict-key="mincemeat">m.meat:</b> hach-ita karno; <b dict-key="mince pie">m. pie:</b>
+pasteto de frukti e de karno hach-ita.
+
+<b dict-key="mincing">mincing:</b> (<i>affected</i>) afektac-ema.
+
+<b dict-key="mind">mind:</b> (<i>to attend to</i>) atencar; gardar; sorgar; (<i>obey</i>) obediar
+(ulu), obedi-esar; (<i>nurse</i>) sorgar; flegar; (<i>care about</i>) des-quiet-igar, -eskar, -esar
+(pri, pro); koncernar; <b dict-key="never mind">never m.:</b> ne importas.
+
+<b dict-key="mind">mind:</b> (<i>understanding</i>) mento, intelekto, inteligent-eso;
+(<i>intention</i>) intenco; rezolvo; decido; (<i>inclination</i>) inklino; gusto; deziro; volo;
+(<i>memory</i>) memoro; (<i>opinion</i>) opiniono, ideo; judiko; sentimento; <b dict-key="of sound
+mind">of sound m.:</b> mente sana; <b dict-key="to call to mind">to call to m.:</b> (ri-)memor-igar
+(ulo da ulu); <b dict-key="I will bear that in mind">I will bear that in m.:</b> me merkos to,
+memoros to; <b dict-key="presence of mind">presence of m.:</b> spirito-pront-eso; <b dict-key="make
+up one mind">make up one&rsquo;s m.:</b> decidar; rezignar (pri); <b dict-key="to in my mind">to
+(in) my m.:</b> segun mea opiniono, judiko; <b dict-key="to go out of one mind">to go out of
+one&rsquo;s m.:</b> perdar la raciono; <b dict-key="to know one mind">to know one&rsquo;s m.:</b>
+savar to quon on volas facar;<b dict-key="I have a good mind to"> I have a good m. to:</b> me
+(forte) inklinas, me tendencas; <b dict-key="a partisan mind">a partisan m.:</b> ment-eso
+partis-ala, -ema; <b dict-key="mind doctor">m. doctor:</b> mento-mediko; <b dict-key="public
+mind">public m.:</b> publika menteso; <b dict-key="high">high-m.ed:</b> grand-anma; <b
+dict-key="low minded">low m.ed:</b> spirito, anmo, ment-eso des nobla <i>o</i> des-estim-inda; <b
+dict-key="mindful">m.ful:</b> atenc-ema, sorg-ema.
+
+<b dict-key="mine">mine:</b> (<i>belonging to me</i>) mea.
+
+<b dict-key="mine">mine:</b> (<i>ores, etc.</i>) min-ar; (<i>place of minerals, explosives</i>)
+-eyo; <b dict-key="shaft,pit of a mine">shaft, pit of a m.:</b> shakto; min-truo; <b
+dict-key="school of mines">school of m.s:</b> skolo di min-tekniko.
+
+<b dict-key="miner">miner:</b> min-isto.
+
+<b dict-key="mineral">mineral:</b> mineral-o; <b dict-key="mineralize">-ize:</b> -igar, -izar.
+
+<b dict-key="mineralog">mineralog-ical:</b> mineralogi-ala; <b dict-key="mineralogist">-ist:</b>
+-isto; <b dict-key="mineralogy">-y:</b> -o.
+
+<b dict-key="mingle">mingle:</b> mixar; inter-mixar (<i>cf</i>. insinuar).
+
+<b dict-key="miniature">miniature:</b> miniatur-o; <b dict-key="miniature painter">m. painter:</b>
+-isto, -o-pikt-isto, -ero.
+
+<b dict-key="minimum">minimum:</b> minim-o, -a.
+
+<b dict-key="mining">mining:</b> min-ado.
+
+<b dict-key="minion">minion:</b> (<i>a darling</i>) minion-(in)o; (<i>servile dependant</i>)
+serv-ist-acho.
+
+<b dict-key="minister">minister:</b> servar; sorgar; favorar; kontributar.
+
+<b dict-key="ministar">ministar:</b> (<i>of state</i>) ministro; (<i>pastor</i>) pastoro; <b
+dict-key="prime ministar">prime m.:</b> chefa ministro.
+
+<b dict-key="ministerial">ministerial:</b> (<i>of state</i>) ministr-ala, -ana; (<i>of
+department</i>) ministeri-ala; (<i>of clergy</i>) pastor-ala; (<i>of priests</i>) parok-ala;
+sacerdot-ala.
+
+<b dict-key="ministration">ministration:</b> serv-ado; (<i>office</i>) ofico; (<i>function of a
+minister of state</i>) ministr-eso; (<i>of divine service</i>) oficio.
+
+<b dict-key="ministry">ministry:</b> (<i>government department</i>) ministerio; (<i>function of a
+minister of state</i>) ministr-eso; (<i>cabinet, collect.</i>) ministr-aro; (<i>of a protestant
+pastor</i>) pastor-eso; (<i>ministration</i>) serv-ado.
+
+<b dict-key="minium">minium: </b>miniumo.
+
+<b dict-key="minnow">minnow:</b> (<i>small freshwater fish</i>) foxeno*.
+
+<b dict-key="minor">minor:</b> (<i>of age, logic, music., eccl.</i>) minor-a, -o; (<i>less</i>) min
+(granda, grava, e.c.).
+
+<b dict-key="minority">minority:</b> (<i>of age</i>) minor-eso; (<i>lesser number</i>) minoritato.
+
+<b dict-key="minotaur">minotaur:</b> minotauro.
+
+<b dict-key="minster">minster:</b> chefa kirko (<i>cf</i>. katedralo).
+
+<b dict-key="minstrel">minstrel:</b> minstrel-o; <b dict-key="minstrelsy">-sy:</b> -arto.
+
+<b dict-key="mint">mint:</b> monet-if-eyo; <b dict-key="to mint">to m.:</b> monet-igar;
+(<i>bot</i>.) minto.
+
+<b dict-key="minuet">minuet:</b> minueto.
+
+<b dict-key="minus">minus:</b> minus; (<i>without</i>) sen.
+
+<b dict-key="minuscule">minuscule:</b> (<i>lower-case letter</i>) minuskulo.
+
+<b dict-key="minute">minute:</b> (<i>of time, of degree</i>) minuto; (<i>moment</i>) instanto;
+(<i>note</i>) noto; <b dict-key="minutes">m.s:</b> (<i>of a meeting</i>) protokolo; <b
+dict-key="minute">m.-hand:</b> minuto-agulo.
+
+<b dict-key="minute">minute:</b> (<i>very small</i>) mikr-ega (<i>cf</i>. infinitezima);
+(<i>detailed</i>) detal-oza; minuci-oza; <b dict-key="minutly">-ly:</b> minuci-oze; <b
+dict-key="minutness">-ness:</b> mikr-eg-eso, minuci-oz-eso.
+
+<b dict-key="minutiae">minutiae:</b> minucii, detal(et)i.
+
+<b dict-key="minx">minx:</b> puer-in-acho.
+
+<b dict-key="mirabelle">mirabelle:</b> mirabelo.
+
+<b dict-key="miracle">miracle:</b> miraklo.
+
+<b dict-key="miraculous">miraculous:</b> (<i>truly m</i>.) mirakl-a; (<i>like a m</i>.) -atra;
+(<i>m. producing</i>) -if-anta (<i>cf</i>. super-natura; marvel-oza, -atra).
+
+<b dict-key="mirage">mirage:</b> mirajo.
+
+<b dict-key="mire">mire:</b> (<i>watery dirt</i>) fango (<i>cf</i>. slamo, marsh-eto); <b
+dict-key="to sink in the mire">to sink in the m.:</b> en-fang-igar (ulu, su, ulo) sinkar en slamo
+<i>o</i> marsh(et)o.
+
+<b dict-key="mirror">mirror:</b> reflekt(et)ar (<i>intr</i>.); regardar su en spegulo.
+
+<b dict-key="miror">miror:</b> (<i>looking glass</i>) spegulo.
+
+<b dict-key="mirth">mirth:</b> rid-ado, gay-eso, joy-ego; <b dict-key="mirthful">-ful:</b> gaya,
+joy-oza; -<b dict-key="less">less:</b> ne-gaya.
+
+<b dict-key="miry">miry:</b> fang-oza, slam-oza, marsh-et-oza.
+
+<b dict-key="misadventure">misadventure:</b> mala aventuro, regret-inda acidento, mis-evento; <b
+dict-key="homicide by misadventure">homicide by m.:</b> hom-ocido acident-ala <i>o</i> ne-vol-ita.
+
+<b dict-key="misalliance">misalliance:</b> mis-alianco.
+
+<b dict-key="misanthrop">misanthrop-e:</b> mizantrop-(ul)o; <b dict-key="misanthropic">-ic:</b> -a,
+-ala; <b dict-key="misanthropy">-y:</b> -eso.
+
+<b dict-key="misapply">misapply:</b> mis-aplikar, mis-uzar.
+
+<b dict-key="misapprehend">misapprehend:</b> mis-komprenar, mis-judikar.
+
+<b dict-key="misbegotten">misbegotten:</b> bastarda.
+
+<b dict-key="misbehave">misbehave:</b> male kondutar, mis-kondut-ar.
+
+<b dict-key="miscalculate">miscalculate:</b> mis-kalkul-ar; <b dict-key="miscalculation">-tion:</b>
+mis-kalkul(ad)o, kalkul-eroro.
+
+<b dict-key="miscall">miscall:</b> mis-nom-ar, -izar; erore <i>o</i> ne-juste nom-ar, -izar.
+
+<b dict-key="miscarriage">miscarriage:</b> (<i>failure</i>) ne-suceso, falio; eroro; (<i>of
+women</i>) mis-parturo, aborto.
+
+<b dict-key="miscellaneous">miscellaneous:</b> mult-speca, diversa, mix-ita.
+
+<b dict-key="miscellany">miscellany:</b> mix-uro.
+
+<b dict-key="mischance">mischance:</b> des-fortuno, mala chanco.
+
+<b dict-key="mischief">mischief:</b> mal-ajo; domajo; <b dict-key="to do mischief">to do m.:</b>
+facar la mal-ajo; <b dict-key="mischief">m.-maker:</b> des-konkord-ig-anto, -ero.
+
+<b dict-key="mischievous">mischievous:</b> (<i>harmful</i>) des-utila, noc-iva; (<i>of
+children</i>) malic-oza, -ema; (<i>unruly</i>) petul-anta, -ema.
+
+<b dict-key="miscible">miscible:</b> mix-ebla.
+
+<b dict-key="misconceive">misconceive:</b> mis-konceptar, mis-komprenar.
+
+<b dict-key="misconduct">misconduct:</b> (<i>of persons</i>) mala konduto; (<i>mismanagement</i>)
+mala <i>o</i> mis-jer-ado.
+
+<b dict-key="misconstrue">misconstrue:</b> mis-, erore interpretar; (<i>mistranslate</i>)
+mis-tradukar.
+
+<b dict-key="miscount">miscount:</b> mis-kontar.
+
+<b dict-key="miscreant">miscreant:</b> mal-fac-anto, -ero; raskalo.
+
+<b dict-key="misdeal">misdeal:</b> (<i>cards</i>) mis-dis-donar, mis-donar.
+
+<b dict-key="misdeed">misdeed:</b> delikto, krimino, kulpo, mala ago.
+
+<b dict-key="misdemean">misdemean:</b> mis-, male kondutar (su).
+
+<b dict-key="misdemeanant">misdemeanant:</b> delikt-anto; -into, -ero.
+
+<b dict-key="misdirect">misdirect:</b> (<i>letters, etc</i>.) erore, mis-adres-izar; mis-sendar;
+(<i>persons</i>) mis-informar; mis-direktar; (<i>misapply</i>) mis-aplikar, mis-uzar.
+
+<b dict-key="miser">miser:</b> avar-(ul)o.
+
+<b dict-key="miserable">miserable:</b> mizer-oza; kompat-inda; des-estim-inda; meskina.
+
+<b dict-key="miserly">miserly:</b> avara; gan-ema.
+
+<b dict-key="misery">misery:</b> mizero.
+
+<b dict-key="misfit">misfit:</b> mis-fito.
+
+<b dict-key="misfortune">misfortune:</b> des-fortuno, des-felic-eso, -ajo; mala chanco.
+
+<b dict-key="misgive">misgive:</b> dubitar, timar (pri ulo).
+
+<b dict-key="misgiving">misgiving:</b> dubito, timo, pre-sento di mal-ajo; suspekto.
+
+<b dict-key="misgovern">misgovern:</b> mis-, male guvernar <i>o</i> administrar.
+
+<b dict-key="misguide">misguide:</b> mis-guidar, eror-igar, mis-duktar.
+
+<b dict-key="mishap">mishap:</b> acidento (mala, des-fortuna); des-felic-ajo, des-fortun-ajo.
+
+<b dict-key="misinform">misinform:</b> mis-informar.
+
+<b dict-key="misinterpret">misinterpret:</b> mis-interpretar; (<i>mistranslate</i>) mis-tradukar.
+
+<b dict-key="misjudge">misjudge:</b> mis-judikar; mis-kalkular.
+
+<b dict-key="mislay">mislay:</b> egarar (ulo).
+
+<b dict-key="mislead">mislead:</b> mis-duktar; eror-igar; mis-irar.
+
+<b dict-key="misleading">misleading:</b> eror-iganta; tromp-anta, -iva, -ema.
+
+<b dict-key="mismanagement">mismanagement:</b> mala jer-ado <i>o</i> administr-ado.
+
+<b dict-key="misname">misname:</b> mis-, ne-juste nom-ar; -izar.
+
+<b dict-key="misnomer">misnomer:</b> ne-justa, ne-preciza-nomo, nom-iz-o, -uro.
+
+<b dict-key="misogamist">misogamist:</b> mariaj-odianto.
+
+<b dict-key="misogynist">misogynist:</b> hom-in-odi-anta, -anto.
+
+<b dict-key="misplace">misplace:</b> diplasar, des-plas-izar (<i>cf</i>. egarar).
+
+<b dict-key="misprint">misprint: </b>mis-imprim-ar, -uro; imprim-eroro.
+
+<b dict-key="mispronounce">mispronounce:</b> mis-pronuncar.
+
+<b dict-key="misquote">misquote:</b> mis-citar.
+
+<b dict-key="misrepresent">misrepresent:</b> mis-prezentar, mis-deskriptar; false reprezentar;
+erore raportar.
+
+<b dict-key="misrule">misrule:</b> mis-guvernar.
+
+<b dict-key="miss">miss:</b> (<i>one&rsquo;s aim</i>) faliar (la skopo); (<i>to be lacking,
+missing</i>) indijar (<i>cf</i>. bezonar); (<i>intr</i>.) mankar; esar absenta; (<i>feel the need
+of</i>) sentar la manko (di); (<i>pass by</i>) preter-irar, pasar; ne-mis-tusho; ne-frapar; <b
+dict-key="missfire">m.fire:</b> mis-pafar; <b dict-key="many books are missing">many books are
+m.ing:</b> multa libri mankas; <b dict-key="I shall not miss a word">I shall not m. a word:</b> me
+ne omisos mem un vorto; <b dict-key="I miss you">I m. you:</b> vu mankas a me; me regretas vua
+absent-eso; <b dict-key="miss a train">m. a train:</b> faliar treno.
+
+<b dict-key="miss">miss:</b> eroro, falio, ne-tusho; (<i>young lady, maiden</i>) damzelo; yun-ino.
+
+<b dict-key="missal">missal:</b> mes-libro.
+
+<b dict-key="misshapened">misshapened:</b> mis-formac-ita, deform-ita.
+
+<b dict-key="missile">missile:</b> jet-ajo, lans-ajo, -armo; projektilo; (<i>bullet</i>) kuglo.
+
+<b dict-key="missing">missing:</b> mank-anta, absenta; des-apar-inta, peris-inta; perd-ita,
+egar-ita; <b dict-key="killed,wounded or missing">killed, wounded or m.:</b> mort-ig-ita, vund-ita,
+o des-apar-inti.
+
+<b dict-key="mission">mission:</b> (<i>relig., scientific, etc.</i>) misiono; (<i>commission</i>)
+komis-it-aro, send-at-aro.
+
+<b dict-key="missionary">missionary:</b> mision-isto, -ero; (<i>adj</i>.) mision-ala, -ista, -era.
+
+<b dict-key="missive">missive:</b> latro, epistolo.
+
+<b dict-key="misspell">misspell:</b> mis-espelar, ne-juste espelar; <b
+dict-key="misspelling">-ling:</b> mis-espel-ajo.
+
+<b dict-key="misstatement">misstatement:</b> ne-exakta raporto, naraco <i>o</i> dic-ajo eror-a,
+-oza.
+
+<b dict-key="mist">mist:</b> nebul(et)o (<i>cf</i>. nubo); <b dict-key="misty">-y:</b> -oza, -atra
+(<i>cf</i>. obskura).
+
+<b dict-key="mistake">mistake:</b> (<i>misunderstand</i>) mis-konocar, mis-komprenar, ne (<i>od</i>
+erore) komprenar; (<i>take something or someone for another</i>) konfundar (ulo ad, kun);
+(<i>err</i>) erorar, mis-judikar; (<i>n</i>.) eroro, mis-judiko; <b dict-key="to make a mistake">to
+make a m.:</b> erorar (pri); <b dict-key="mistaken">-en:</b> (<i>of things</i>) erore kompren-ita;
+(<i>of persons</i>) erora, (<i>be mistaken</i>) erorar (pri).
+
+<b dict-key="mistletoe">mistletoe:</b> mistelo.
+
+<b dict-key="mistranslate">mistranslate:</b> mis-traduk-ar; <b dict-key="mistranslation">-tion:</b>
+-(ad)o, -uro.
+
+<b dict-key="mistress">mistress:</b> (<i>of a house</i>) mastr-ino (<i>cf</i>. mea damo); (<i>one
+eminent in art, science</i>) maestr-ino; (<i>school</i>) skol-estr-ino, (chefa) instrukt-ist-ino;
+(<i>ruler</i>) mastr-ino, imper-ant-ino; (<i>sweetheart</i>) amor-at-ino; (<i>paramour</i>)
+amor-at-ino entraten-ata; <b dict-key="the mistress is not at home">the m. is not at home:</b> mea
+damo ne esas heme (<i>od</i>, che me).
+
+<b dict-key="mistrust">mistrust:</b> des-fidar, suspektar; (<i>n</i>.) suspekt-(ad)o, des-fido,
+des-fid-em-eso; <b dict-key="mistrustful">-ful:</b> des-fid-anta, -ema; suspekt-oza.
+
+<b dict-key="misunderstand">misunderstand:</b> mis-komprenar, -intelektar, male <i>o</i> erore
+audar; mis-judikar; <b dict-key="misunderstanding">-ing:</b> erora koncepto, mis-kompreno;
+(<i>quarrel</i>) ne-paco, ne-, des-konkordo.
+
+<b dict-key="misusage">misusage: </b>mala trakt-ado;<b dict-key=""> </b>mis-uzo.
+
+<b dict-key="misuse">misuse:</b> mis-uzar, tro-uzar; male traktar; violentar.
+
+<b dict-key="mite">mite:</b> (<i>tick</i>) akaro; (<i>particle</i>) mikr-et-ajo, atomo; <b
+dict-key="widow mite">widow&rsquo;s m.:</b> obolo di la vidv-ino.
+
+<b dict-key="miter,mitre">miter, mitre:</b> mitro.
+
+<b dict-key="mitigate">mitigate:</b> dolc-igar, moderar, temperar (<i>see</i> <b
+dict-key="extenuate">extenuate</b>).
+
+<b dict-key="mitochondrion">mitochondrion:</b> mitokondrio.
+
+<b dict-key="mitosis">mitosis:</b> mitoso.
+
+<b dict-key="mitrailleuse">mitrailleuse:</b> mitralioso.
+
+<b dict-key="mitred">mitred:</b> mitr-iz-ita.
+
+<b dict-key="mitten">mitten:</b> miteno.
+
+<b dict-key="mix">mix:</b> (inter-) mixar (ulo, kun ulu).
+
+<b dict-key="mixture">mixture:</b> mix-(ad)o, -uro; <b dict-key="without mixture">without m.:</b>
+pura (<i>cf</i>. konfuz-eso, konfundo).
+
+<b dict-key="mizzen">mizzen-mast:</b> dopa masto.

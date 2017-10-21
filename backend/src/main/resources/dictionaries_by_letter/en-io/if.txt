@@ -1,0 +1,3 @@
+<b dict-key="if">if:</b> se; <b dict-key="if not">if not:</b> se ne; <b dict-key="if only">if
+only:</b> se nur; <b dict-key="if I only could">if I only could:</b> se me povus! <b dict-key="even
+if">even if:</b> mem se; malgre (to), malgre omno.
