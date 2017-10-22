@@ -6,16 +6,19 @@ extern crate urlencoded;
 extern crate serde;
 extern crate staticfile;
 extern crate mount;
+extern crate regex;
 
 use std::collections::BTreeMap;
 use std::ops::Range;
 
+use regex::Regex;
 use iron::prelude::*;
 use iron::Handler;
 use iron::status;
 use staticfile::Static;
 use mount::Mount;
 use std::path::Path;
+use std::sync::Arc;
 
 use urlencoded::UrlEncodedQuery;
 
@@ -45,6 +48,13 @@ impl Handler for Router {
             None => Ok(Response::with(status::NotFound))
         }
     }
+}
+
+// Translatable word or untranslatable segment of a phase
+#[derive(Serialize, Debug)]
+struct PhraseWord <'a> {
+    originalWord: &'a str,
+    normalizedWord: Option<String> // empty if non-translatable
 }
 
 const DIRECTIONS: [&str; 3] = ["io-en", "en-io", "io-ru-io"];
@@ -80,23 +90,33 @@ struct PerLanguageSearchResponse<'a> {
     articlesHtml: Vec<&'a str>
 }
 
+struct Context {
+    dictionaries: BTreeMap<String, dictionary::DictionaryOfStringArticles>
+} 
+
+fn load_dictionaries() -> BTreeMap<String, dictionary::DictionaryOfStringArticles>{
+    let mut result = btreemap!{};
+    for &dir in DIRECTIONS.iter() {
+        let path = "backend/src/main/resources/dictionaries_by_letter/".to_owned() + dir;
+        result.insert(dir.to_owned(), dictionary::load_dictionary(path));
+    }
+    result
+}
+
 fn main() {
 
     // let DIRECTIONS: Vec<&str> = vec!["io-en", "en-io", "io-ru-io"];
 
-    let mut dictionaries: BTreeMap<String, dictionary::DictionaryOfStringArticles> = BTreeMap::new();
+    let context = Arc::new(Context{dictionaries: load_dictionaries()});
 
     let language_to_directions: BTreeMap<&str, Vec<&str>> = btreemap!{
         "en" => vec!["en-io", "io-en"],
         "ru" => vec!["io-ru-io"]
     };
 
-    for &dir in DIRECTIONS.iter() {
-        let path = "backend/src/main/resources/dictionaries_by_letter/".to_owned() + dir;
-        dictionaries.insert(dir.to_owned(), dictionary::load_dictionary(path));
-    }
-
     let mut router = Router::new();
+
+    let c1 = Arc::clone(&context);
 
     router.add_route("search", move |req: &mut Request| {
         let params = req.get_ref::<UrlEncodedQuery>().unwrap();
@@ -105,7 +125,7 @@ fn main() {
         let language = &params["lang"][0];
         for direction in &language_to_directions[&language as &str] {
             println!("{}", direction);
-            let dic = &dictionaries[&direction as &str];
+            let dic = &c1.dictionaries[&direction as &str];
             let words_prefixed_by_query : Range<String> = query.to_owned()..(query.to_owned() + "\u{ffff}");
             let mut suggested_words: Vec<&str> = dic.compactIndex.range(words_prefixed_by_query)
                 .map(|(k,_v)|k as &str).collect();
@@ -139,12 +159,29 @@ fn main() {
         Ok(resp)
     });
 
-    router.add_route("hello/again", |_: &mut Request| {
-       Ok(Response::with((status::Ok, "Hello again !")))
-    });
 
-    router.add_route("error", |_: &mut Request| {
-       Ok(Response::with(status::BadRequest))
+
+    let c2 = Arc::clone(&context);
+    router.add_route("phrase", move |req: &mut Request| {
+        let NON_WORD_CHARS: Regex = Regex::new("\\b").unwrap();
+
+        // TODO: support multiple non-Ido languages, get language from client
+        let params = req.get_ref::<UrlEncodedQuery>().unwrap();
+        let query: String = params["query"][0].to_owned();
+
+        let mut phrase_result = vec![];
+        let dic = &c2.dictionaries["io-en"];
+        for word0 in NON_WORD_CHARS.split(&query) {
+            let word = normalize_ido_word(&word0.to_lowercase());
+            if dic.compactIndex.contains_key(&word) {
+                phrase_result.push(PhraseWord{originalWord: &word0, normalizedWord: Some(word)})
+            } else {
+                phrase_result.push(PhraseWord{originalWord: &word0, normalizedWord: None})
+            }
+        }
+        let mut resp = Response::new();
+        resp.set_mut(JsonResponse::json(phrase_result)).set_mut(status::Ok);
+        Ok(resp)
     });
 
     let mut chain = Chain::new(router);
