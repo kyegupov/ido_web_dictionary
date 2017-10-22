@@ -63,7 +63,7 @@ fn build_index(articles: &Vec<String>) -> BTreeMap<String, Vec<usize>> {
     }
     let mut compact_index: BTreeMap<String, Vec<usize>> = BTreeMap::new();
     for (key, weighted_entry_indices) in index_with_weights.iter_mut() {
-        weighted_entry_indices.sort_by(|a,b|a.partial_cmp(b).unwrap());
+        weighted_entry_indices.sort_by(|a,b|b.partial_cmp(a).unwrap());
         compact_index.insert(key.to_lowercase(), weighted_entry_indices.iter().map(|x|x.0).collect());
     }
 
