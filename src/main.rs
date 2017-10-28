@@ -57,23 +57,23 @@ struct PhraseWord <'a> {
     normalizedWord: Option<String> // empty if non-translatable
 }
 
-const DIRECTIONS: [&str; 3] = ["io-en", "en-io", "io-ru-io"];
+const DIRECTIONS: &[&str] = &["io-en", "en-io", "io-ru-io"];
+
+const ENDING_NORMALIZATION: &[(&[&str], &str)] = &[
+        (&["i", "on", "in"], "o"),
+        (&[
+                "as", "is", "os",
+                "us", "ez",
+                "ir", "or",
+                "anta", "inta", "onta",
+                "ata", "ita", "ota"],
+            "ar")
+];
 
 // TODO: handle adjectives without -a
 fn normalize_ido_word(word: &str) -> String {
 
-    let ENDING_NORMALIZATION = vec![
-            (vec!["i", "on", "in"], "o"),
-            (vec![
-                    "as", "is", "os",
-                    "us", "ez",
-                    "ir", "or",
-                    "anta", "inta", "onta",
-                    "ata", "ita", "ota"],
-                "ar")
-    ];
-        
-    for (endings, normalized) in ENDING_NORMALIZATION {
+    for &(endings, normalized) in ENDING_NORMALIZATION.iter() {
         for ending_inflected in endings {
             if word.ends_with(ending_inflected) {
                 return word.trim_right_matches(ending_inflected).to_owned() + normalized;
@@ -124,7 +124,6 @@ fn main() {
         let mut result: BTreeMap<&str, PerLanguageSearchResponse> = BTreeMap::new();
         let language = &params["lang"][0];
         for direction in &language_to_directions[&language as &str] {
-            println!("{}", direction);
             let dic = &c1.dictionaries[&direction as &str];
             let words_prefixed_by_query : Range<String> = query.to_owned()..(query.to_owned() + "\u{ffff}");
             let mut suggested_words: Vec<&str> = dic.compactIndex.range(words_prefixed_by_query)
