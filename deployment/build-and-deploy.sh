@@ -9,8 +9,8 @@ git pull
 cargo build --release
 mkdir -p /opt/ido_web_dictionary/
 cp target/release/ido_web_dictionary /opt/ido_web_dictionary/
-mkdir -p /opt/ido_web_dictionary/backend/src/main/resources/dictionaries_by_letter/
-cp -r backend/src/main/resources/dictionaries_by_letter/* /opt/ido_web_dictionary/backend/src/main/resources/dictionaries_by_letter/*
+mkdir -p /opt/ido_web_dictionary/backend/src/main/resources/
+cp -r backend/src/main/resources/* /opt/ido_web_dictionary/backend/src/main/resources/*
 chmod go+rx -R /opt/ido_web_dictionary/
 systemctl restart ido_dictionary
 
