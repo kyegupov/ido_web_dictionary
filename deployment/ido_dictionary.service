@@ -15,7 +15,8 @@ Description=Ido web dictionary, https://github.com/kyegupov/ido_web_dictionary
 After=network.target
 
 [Service]
-ExecStart=java -jar /opt/ido_web_dictionary/ido_web_dictionary-jar-with-dependencies.jar
+ExecStart=/opt/ido_web_dictionary/ido_web_dictionary
+WorkingDirectory=/opt/ido_web_dictionary/
 
 [Install]
 WantedBy=multi-user.target

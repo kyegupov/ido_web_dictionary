@@ -1,13 +1,14 @@
-# Requires Java 8, Gradle 3+
-# Also, install ido_dictionary.service via systemd
+# Builds and deploys the current version of the service.
+#
+# Before running this, install ido_dictionary.service via systemd
 # and configure your nginx as per excerpt
 
 # Run this from root of the repository
 
 git pull
-gradle shadowJar
+cargo build --release
 mkdir -p /opt/ido_web_dictionary/
-cp backend/build/libs/backend-all.jar /opt/ido_web_dictionary/ido_web_dictionary-jar-with-dependencies.jar
+cp target/release/ido_web_dictionary /opt/ido_web_dictionary/
 chmod go+rx -R /opt/ido_web_dictionary/
 systemctl restart ido_dictionary
 
