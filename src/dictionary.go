@@ -21,9 +21,13 @@ type IndexEntry struct {
 
 func (d DictionaryOfStringArticles) FindCeiling(word string) int {
 	return sort.Search(len(d.CompactIndex), func(i int) bool {
-		fmt.Println(d.CompactIndex[i].word, word, d.CompactIndex[i].word >= word)
 		return d.CompactIndex[i].word >= word
 	})
+}
+
+func (d DictionaryOfStringArticles) HasWord(word string) bool {
+	idx := d.FindCeiling(word)
+	return idx < len(d.CompactIndex) && d.CompactIndex[idx].word == word
 }
 
 func LoadDictionary(path string) DictionaryOfStringArticles {

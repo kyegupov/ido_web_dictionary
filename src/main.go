@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
+	"regexp"
 	"strings"
 )
 
@@ -21,6 +22,12 @@ func loadDictionaries() map[string]DictionaryOfStringArticles {
 		result[dir] = LoadDictionary(path)
 	}
 	return result
+}
+
+// Translatable word or untranslatable segment of a phase
+type PhraseWord struct {
+	OriginalWord   string  `json:"originalWord"`
+	NormalizedWord *string `json:"normalizedWord"` // nil if non-translatable
 }
 
 type PerLanguageSearchResponse struct {
@@ -46,6 +53,8 @@ var ENDING_NORMALIZATION = []Normalization{
 		},
 		"ar"},
 }
+
+var NON_WORD_CHARS = regexp.MustCompile("\\b")
 
 func normalizeIdoWord(word string) string {
 	for _, pair := range ENDING_NORMALIZATION {
@@ -113,7 +122,29 @@ func main() {
 			http.Error(w, err.Error(), http.StatusInternalServerError)
 			return
 		}
+		w.Header().Set("Content-Type", "application/json")
+		w.Write(js)
+	})
 
+	http.HandleFunc("/api/phrase", func(w http.ResponseWriter, r *http.Request) {
+		// TODO: support multiple non-Ido languages, get language from client
+		query := r.URL.Query().Get("query")
+		phraseResult := []PhraseWord{}
+		dic := dictionaries["io-en"]
+		for _, word0 := range NON_WORD_CHARS.Split(query, -1) {
+			word := normalizeIdoWord(strings.ToLower(word0))
+			if dic.HasWord(word) {
+				phraseResult = append(phraseResult, PhraseWord{word0, &word})
+			} else {
+				phraseResult = append(phraseResult, PhraseWord{word0, nil})
+			}
+		}
+
+		js, err := json.Marshal(phraseResult)
+		if err != nil {
+			http.Error(w, err.Error(), http.StatusInternalServerError)
+			return
+		}
 		w.Header().Set("Content-Type", "application/json")
 		w.Write(js)
 	})
