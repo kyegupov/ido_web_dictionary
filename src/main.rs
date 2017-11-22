@@ -188,5 +188,5 @@ fn main() {
     let mut mount = Mount::new();    
     mount.mount("/", Static::new(Path::new("backend/src/main/resources/frontend")));
     mount.mount("/api", chain);
-    Iron::new(mount).http("localhost:3000").unwrap();
+    Iron::new(mount).http("127.0.0.1:3000").unwrap();
 }
