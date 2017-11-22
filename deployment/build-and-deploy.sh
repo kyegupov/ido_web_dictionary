@@ -1,7 +1,12 @@
 # Builds and deploys the current version of the service.
 #
-# Before running this, install ido_dictionary.service via " "
-# and configure your nginx as per excerpt
+# This assumes writable /opt/
+#
+# Before running this, install ido_dictionary.service:
+#
+#   sudo cp deployment/ido_dictionary.service /etc/systemd/system/
+#
+# and configure your nginx as per nginx.conf.excerpt
 
 # Run this from root of the repository
 
