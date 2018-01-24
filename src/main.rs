@@ -97,7 +97,7 @@ struct Context {
 fn load_dictionaries() -> BTreeMap<String, dictionary::DictionaryOfStringArticles>{
     let mut result = btreemap!{};
     for &dir in DIRECTIONS.iter() {
-        let path = "backend/src/main/resources/dictionaries_by_letter/".to_owned() + dir;
+        let path = "service_data/dictionaries_by_letter/".to_owned() + dir;
         result.insert(dir.to_owned(), dictionary::load_dictionary(path));
     }
     result
@@ -186,7 +186,7 @@ fn main() {
     let mut chain = Chain::new(router);
     chain.link_after(JsonResponseMiddleware::new());
     let mut mount = Mount::new();    
-    mount.mount("/", Static::new(Path::new("backend/src/main/resources/frontend")));
+    mount.mount("/", Static::new(Path::new("frontend")));
     mount.mount("/api", chain);
     Iron::new(mount).http("127.0.0.1:3000").unwrap();
 }
