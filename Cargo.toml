@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Konstantin Yegupov <kyegupov4@gmail.com>"]
 
 [dependencies]
+byteorder = "1.2.1"
 iron = "0.6.0"
 iron-json-response = "0.6.0"
 select = "0.4.2"
@@ -18,3 +19,7 @@ regex = "*"
 [[bin]]
 name = "ido_web_dictionary"
 path = "src/main.rs"
+
+[[bin]]
+name = "generate_stardict_dictionary"
+path = "src/generate_stardict_dictionary.rs"

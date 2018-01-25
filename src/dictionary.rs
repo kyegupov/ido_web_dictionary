@@ -16,7 +16,8 @@ pub struct DictionaryOfStringArticles {
 }
 
 pub fn load_dictionary(path: String) -> DictionaryOfStringArticles {
-    let shards: Vec<PathBuf> = fs::read_dir(&path).unwrap().map(|x|x.unwrap().path()).collect();
+    let mut shards: Vec<PathBuf> = fs::read_dir(&path).unwrap().map(|x|x.unwrap().path()).collect();
+    shards.sort();
     println!("Loading data for dictionary {}, {} shards", path, shards.len());
 
     let mut articles: Vec<String> = vec![];
