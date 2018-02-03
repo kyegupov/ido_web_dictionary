@@ -1,5 +1,7 @@
 extern crate select;
 
+extern crate serde;
+
 use std::collections::BTreeMap;
 use std::fs;
 use std::fs::File;
@@ -12,7 +14,7 @@ use self::select::predicate::Attr;
 
 pub struct DictionaryOfStringArticles {
     pub entries: Vec<String>,
-    pub compactIndex: BTreeMap<String, Vec<usize>>
+    pub compact_index: BTreeMap<String, Vec<usize>>
 }
 
 pub fn load_dictionary(path: String) -> DictionaryOfStringArticles {
@@ -42,7 +44,7 @@ pub fn load_dictionary(path: String) -> DictionaryOfStringArticles {
         }
     }
     let index = build_index(&articles);
-    return DictionaryOfStringArticles{entries: articles, compactIndex: index}
+    return DictionaryOfStringArticles{entries: articles, compact_index: index}
 }
 
 fn position_to_weight(index: usize, size: usize) -> f64 {

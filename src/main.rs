@@ -7,6 +7,7 @@ extern crate serde;
 extern crate staticfile;
 extern crate mount;
 extern crate regex;
+#[macro_use] extern crate lazy_static;
 
 use std::collections::BTreeMap;
 use std::ops::Range;
@@ -53,8 +54,10 @@ impl Handler for Router {
 // Translatable word or untranslatable segment of a phase
 #[derive(Serialize, Debug)]
 struct PhraseWord <'a> {
-    originalWord: &'a str,
-    normalizedWord: Option<String> // empty if non-translatable
+    #[serde(rename="originalWord")]
+    original_word: &'a str,
+    #[serde(rename="normalizedWord")]
+    normalized_word: Option<String> // empty if non-translatable
 }
 
 const DIRECTIONS: &[&str] = &["io-en", "en-io", "io-ru-io"];
@@ -86,8 +89,10 @@ fn normalize_ido_word(word: &str) -> String {
 #[derive(Serialize, Debug)]
 struct PerLanguageSearchResponse<'a> {
     suggestions: Vec<&'a str>,
-    totalSuggestions: usize,
-    articlesHtml: Vec<&'a str>
+    #[serde(rename="totalSuggestions")]
+    total_suggestions: usize,
+    #[serde(rename="articlesHtml")]
+    articles_html: Vec<&'a str>
 }
 
 struct Context {
@@ -101,6 +106,10 @@ fn load_dictionaries() -> BTreeMap<String, dictionary::DictionaryOfStringArticle
         result.insert(dir.to_owned(), dictionary::load_dictionary(path));
     }
     result
+}
+
+lazy_static! {
+    static ref NON_WORD_CHARS: Regex = Regex::new("\\b").unwrap();
 }
 
 fn main() {
@@ -126,17 +135,17 @@ fn main() {
         for direction in &language_to_directions[&language as &str] {
             let dic = &c1.dictionaries[&direction as &str];
             let words_prefixed_by_query : Range<String> = query.to_owned()..(query.to_owned() + "\u{ffff}");
-            let mut suggested_words: Vec<&str> = dic.compactIndex.range(words_prefixed_by_query)
+            let mut suggested_words: Vec<&str> = dic.compact_index.range(words_prefixed_by_query)
                 .map(|(k,_v)|k as &str).collect();
             if direction.contains("io-") {
                 let normalized = normalize_ido_word(&query);
-                suggested_words.extend(dic.compactIndex.range(normalized.clone()..normalized + "\u{ffff}")
+                suggested_words.extend(dic.compact_index.range(normalized.clone()..normalized + "\u{ffff}")
                     .map(|(k,_v)|k as &str));
             }
             let no_article_ids: Vec<usize> = vec![];
-            let precise_article_ids = dic.compactIndex.get(query).unwrap_or_else(||
+            let precise_article_ids = dic.compact_index.get(query).unwrap_or_else(||
                 if suggested_words.len() == 1 {
-                    dic.compactIndex.get(suggested_words[0]).unwrap()
+                    dic.compact_index.get(suggested_words[0]).unwrap()
                  } else {
                     &no_article_ids
                 }
@@ -147,8 +156,8 @@ fn main() {
                     } else {
                         vec![]
                     },
-                    totalSuggestions: suggested_words.len(),
-                    articlesHtml: precise_article_ids.iter().map(|&it| &dic.entries[it] as &str).collect()
+                    total_suggestions: suggested_words.len(),
+                    articles_html: precise_article_ids.iter().map(|&it| &dic.entries[it] as &str).collect()
             };
             result.insert(direction, lang_result);
         }
@@ -162,7 +171,6 @@ fn main() {
 
     let c2 = Arc::clone(&context);
     router.add_route("phrase", move |req: &mut Request| {
-        let NON_WORD_CHARS: Regex = Regex::new("\\b").unwrap();
 
         // TODO: support multiple non-Ido languages, get language from client
         let params = req.get_ref::<UrlEncodedQuery>().unwrap();
@@ -172,10 +180,10 @@ fn main() {
         let dic = &c2.dictionaries["io-en"];
         for word0 in NON_WORD_CHARS.split(&query) {
             let word = normalize_ido_word(&word0.to_lowercase());
-            if dic.compactIndex.contains_key(&word) {
-                phrase_result.push(PhraseWord{originalWord: &word0, normalizedWord: Some(word)})
+            if dic.compact_index.contains_key(&word) {
+                phrase_result.push(PhraseWord{original_word: &word0, normalized_word: Some(word)})
             } else {
-                phrase_result.push(PhraseWord{originalWord: &word0, normalizedWord: None})
+                phrase_result.push(PhraseWord{original_word: &word0, normalized_word: None})
             }
         }
         let mut resp = Response::new();
