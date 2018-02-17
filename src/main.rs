@@ -196,5 +196,6 @@ fn main() {
     let mut mount = Mount::new();    
     mount.mount("/", Static::new(Path::new("frontend")));
     mount.mount("/api", chain);
+    println!("Service running at 127.0.0.1:3000");
     Iron::new(mount).http("127.0.0.1:3000").unwrap();
 }

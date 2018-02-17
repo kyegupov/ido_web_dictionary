@@ -1,6 +1,7 @@
 extern crate select;
 
 extern crate serde;
+extern crate serde_cbor;
 
 use std::collections::BTreeMap;
 use std::fs;
@@ -8,19 +9,46 @@ use std::fs::File;
 use std::io::BufReader;
 use std::io::BufRead;
 use std::path::PathBuf;
+use std::time::SystemTime;
 
 use self::select::document::Document;
 use self::select::predicate::Attr;
 
+#[derive(Serialize, Deserialize, Debug)]
 pub struct DictionaryOfStringArticles {
     pub entries: Vec<String>,
     pub compact_index: BTreeMap<String, Vec<usize>>
 }
 
+fn shards(path: &str) -> Vec<PathBuf> {
+    fs::read_dir(path).unwrap().map(|x|x.unwrap().path()).filter(|x|x.extension().unwrap().to_str() == Some("txt")).collect()
+}
+
+fn shards_latest_timestamp(path: &str) -> SystemTime {
+    shards(path).iter().map(|x|fs::metadata(x).unwrap().modified().unwrap()).max().unwrap()
+}
+
 pub fn load_dictionary(path: String) -> DictionaryOfStringArticles {
-    let mut shards: Vec<PathBuf> = fs::read_dir(&path).unwrap().map(|x|x.unwrap().path()).collect();
+    let all_cbor = path.clone() + ".cached.cbor";
+    let maybe_metadata = fs::metadata(&all_cbor);
+    let needs_update = match maybe_metadata {
+        Ok(meta) => meta.modified().unwrap() < shards_latest_timestamp(&path),
+        Err(_) => true
+    };
+    if needs_update {
+        let parsed = parse_from_txt(path);
+        serde_cbor::to_writer(&mut File::create(all_cbor).unwrap(), &parsed).unwrap();
+        return parsed;
+    } else {
+        println!("Loading data for dictionary {}, from pre-parsed CBOR", path);
+        return serde_cbor::from_reader(File::open(all_cbor).unwrap()).unwrap();
+    }
+}
+
+pub fn parse_from_txt(path: String) -> DictionaryOfStringArticles {
+    let mut shards: Vec<PathBuf> = shards(&path);
     shards.sort();
-    println!("Loading data for dictionary {}, {} shards", path, shards.len());
+    println!("Loading data for dictionary {}, from {} text shards", path, shards.len());
 
     let mut articles: Vec<String> = vec![];
 
