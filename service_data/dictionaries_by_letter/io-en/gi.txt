@@ -1,7 +1,7 @@
-<b dict-key="gib ozeso">gib-o; -ozeso:</b> rounded protuberance: bump, hump, knob, hunch, boss,
-gibbosity; <b dict-key="oza">-oza:</b> gibbous, hunched, humpbacked: <b dict-key="ier,in">-ier(-ul,
--in)o:</b> hunch-back; <b dict-key="izar">-izar:</b> to put a bump, boss on <b
-dict-key="sulu,ulo">(sulu, ulo).</b> &mdash; EFS
+<b dict-key="gibo,gibozeso">gib-o, -ozeso:</b> rounded protuberance: bump, hump, knob, hunch, boss,
+gibbosity; <b dict-key="giboza">-oza:</b> gibbous, hunched, humpbacked: <b dict-key="gibier,gibin">-ier(-ul,
+-in)o:</b> hunch-back; <b dict-key="gibizar">-izar:</b> to put a bump, boss on <b
+dict-key="ulu,ulo">(ulu, ulo).</b> &mdash; EFS
 
 <b dict-key="gibono">gibon-o:</b> gibbon, ape. &mdash; DEF
 
