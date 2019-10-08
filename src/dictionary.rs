@@ -6,8 +6,8 @@ extern crate serde_cbor;
 use std::collections::BTreeMap;
 use std::fs;
 use std::fs::File;
-use std::io::BufReader;
 use std::io::BufRead;
+use std::io::BufReader;
 use std::path::PathBuf;
 use std::time::SystemTime;
 
@@ -65,7 +65,7 @@ pub fn parse_from_txt(path: String) -> DictionaryOfStringArticles {
     let mut articles: Vec<String> = vec![];
 
     for shard in shards {
-        let mut f = BufReader::new(File::open(shard).unwrap());
+        let f = BufReader::new(File::open(shard).unwrap());
         let mut accumulator = String::new();
         for line_res in f.lines() {
             let line = line_res.unwrap();
@@ -99,7 +99,8 @@ fn build_index(articles: &Vec<String>) -> BTreeMap<String, Vec<usize>> {
 
     for (article_index, entry) in articles.iter().enumerate() {
         let html = Document::from(&entry as &str);
-        let keywords: Vec<&str> = html.find(Attr("dict-key", ()))
+        let keywords: Vec<&str> = html
+            .find(Attr("dict-key", ()))
             .flat_map(|node| node.attr("dict-key").unwrap().split(','))
             .collect();
 

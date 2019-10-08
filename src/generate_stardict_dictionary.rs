@@ -75,7 +75,8 @@ sametypesequence=h
                     dir,
                     all_words.len(),
                     idx_size
-                ).as_bytes(),
+                )
+                .as_bytes(),
             )
             .unwrap();
     }

@@ -15,12 +15,12 @@ extern crate urlencoded;
 use std::collections::BTreeMap;
 use std::ops::Range;
 
-use regex::Regex;
 use iron::prelude::*;
-use iron::Handler;
 use iron::status;
-use staticfile::Static;
+use iron::Handler;
 use mount::Mount;
+use regex::Regex;
+use staticfile::Static;
 use std::path::Path;
 use std::sync::Arc;
 
@@ -32,7 +32,7 @@ mod dictionary;
 
 struct Router {
     // Routes here are simply matched with the url path.
-    routes: BTreeMap<String, Box<Handler>>,
+    routes: BTreeMap<String, Box<dyn Handler>>,
 }
 
 impl Router {
@@ -62,8 +62,10 @@ impl Handler for Router {
 // Translatable word or untranslatable segment of a phase
 #[derive(Serialize, Debug)]
 struct PhraseWord<'a> {
-    #[serde(rename = "originalWord")] original_word: &'a str,
-    #[serde(rename = "normalizedWord")] normalized_word: Option<String>, // empty if non-translatable
+    #[serde(rename = "originalWord")]
+    original_word: &'a str,
+    #[serde(rename = "normalizedWord")]
+    normalized_word: Option<String>, // empty if non-translatable
 }
 
 const DIRECTIONS: &[&str] = &["io-en", "en-io", "io-ru-io"];
@@ -72,7 +74,7 @@ const ENDING_NORMALIZATION: &[(&[&str], &str)] = &[
     (&["i", "on", "in"], "o"),
     (
         &[
-            "as", "is", "os", "us", "ez", "ir", "or", "anta", "inta", "onta", "ata", "ita", "ota"
+            "as", "is", "os", "us", "ez", "ir", "or", "anta", "inta", "onta", "ata", "ita", "ota",
         ],
         "ar",
     ),
@@ -83,7 +85,7 @@ fn normalize_ido_word(word: &str) -> String {
     for &(endings, normalized) in ENDING_NORMALIZATION.iter() {
         for ending_inflected in endings {
             if word.ends_with(ending_inflected) {
-                return word.trim_right_matches(ending_inflected).to_owned() + normalized;
+                return word.trim_end_matches(ending_inflected).to_owned() + normalized;
             }
         }
     }
@@ -93,8 +95,10 @@ fn normalize_ido_word(word: &str) -> String {
 #[derive(Serialize, Debug)]
 struct PerLanguageSearchResponse<'a> {
     suggestions: Vec<&'a str>,
-    #[serde(rename = "totalSuggestions")] total_suggestions: usize,
-    #[serde(rename = "articlesHtml")] articles_html: Vec<&'a str>,
+    #[serde(rename = "totalSuggestions")]
+    total_suggestions: usize,
+    #[serde(rename = "articlesHtml")]
+    articles_html: Vec<&'a str>,
 }
 
 struct Context {
@@ -102,7 +106,7 @@ struct Context {
 }
 
 fn load_dictionaries() -> BTreeMap<String, dictionary::DictionaryOfStringArticles> {
-    let mut result = btreemap!{};
+    let mut result = btreemap! {};
     for &dir in DIRECTIONS.iter() {
         let path = "service_data/dictionaries_by_letter/".to_owned() + dir;
         result.insert(dir.to_owned(), dictionary::load_dictionary(path));
@@ -121,7 +125,7 @@ fn main() {
         dictionaries: load_dictionaries(),
     });
 
-    let language_to_directions: BTreeMap<&str, Vec<&str>> = btreemap!{
+    let language_to_directions: BTreeMap<&str, Vec<&str>> = btreemap! {
         "en" => vec!["en-io", "io-en"],
         "ru" => vec!["io-ru-io"]
     };
@@ -139,7 +143,8 @@ fn main() {
             let dic = &c1.dictionaries[&direction as &str];
             let words_prefixed_by_query: Range<String> =
                 query.to_owned()..(query.to_owned() + "\u{ffff}");
-            let mut suggested_words: Vec<&str> = dic.compact_index
+            let mut suggested_words: Vec<&str> = dic
+                .compact_index
                 .range(words_prefixed_by_query)
                 .map(|(k, _v)| k as &str)
                 .collect();
@@ -183,11 +188,11 @@ fn main() {
     router.add_route("phrase", move |req: &mut Request| {
         // TODO: support multiple non-Ido languages, get language from client
         let params = req.get_ref::<UrlEncodedQuery>().unwrap();
-        let query: String = params["query"][0].to_owned();
+        let query = &params["query"][0];
 
         let mut phrase_result = vec![];
         let dic = &c2.dictionaries["io-en"];
-        for word0 in NON_WORD_CHARS.split(&query) {
+        for word0 in NON_WORD_CHARS.split(query) {
             let word = normalize_ido_word(&word0.to_lowercase());
             if dic.compact_index.contains_key(&word) {
                 phrase_result.push(PhraseWord {
